@@ -1,0 +1,3519 @@
+{
+  "Section 1": [
+    {
+      "Number": 1,
+      "Question": "Fresh water carrying pipelines in chemical industries are coloured with __________ color.",
+      "A": "sea green",
+      "B": "brown",
+      "C": "yellow",
+      "D": "red",
+      "Answer": "A"
+    },
+    {
+      "Number": 2,
+      "Question": "Which of the following material is seldom used for pressure vessel construction?",
+      "A": "Rimmed steel",
+      "B": "Mild steel",
+      "C": "Killed steel",
+      "D": "Semi-killed steel",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "The ratio of shear stress to shear strain is called",
+      "A": "bulk modulus",
+      "B": "shear modulus",
+      "C": "modulus of rigidity",
+      "D": "modulus of elasticity",
+      "Answer": "B"
+    },
+    {
+      "Number": 4,
+      "Question": "25 per cent cut segmental baffle means that the baffle",
+      "A": "height is 75% of the I.D. of the shell.",
+      "B": "height is 25% of the I.D. of the shell.",
+      "C": "spacing is 75% of its height.",
+      "D": "width is 25% of its height.",
+      "Answer": "A"
+    },
+    {
+      "Number": 5,
+      "Question": "Liquid/petroleum fuel storage tanks are built underground (as in case of petrol pumps), when the storage capacity is less than __________ kilolitres.",
+      "A": 20,
+      "B": 30,
+      "C": 45,
+      "D": 85,
+      "Answer": "C"
+    },
+    {
+      "Number": 6,
+      "Question": "Le/D for fully open globe value may be around",
+      "A": 10,
+      "B": 25,
+      "C": 75,
+      "D": 300,
+      "Answer": "D"
+    },
+    {
+      "Number": 7,
+      "Question": "Lug support is",
+      "A": "the most suitable for thick vertical vessel.",
+      "B": "same as bracket support.",
+      "C": "provided usually for vessels of much smaller height than skirt supported vessels.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 8,
+      "Question": "Pick out the wrong statement pertaining to the use of valve tray, seive tray and bubble cap trays in continuous distillation column.",
+      "A": "Bubble cap trays though most expensive are the best in situations, where low vapour rates is to be handled and a positive liquid seal is essential at all flow rates.",
+      "B": "Murphree efficiency of all the three trays are nearly equal, however the peak efficiency is generally higher for seive and valve trays than the bubble cap.",
+      "C": "Maintenance cost for valve and seive trays are comparatively more than bubble cap tray due to their relatively complicated construction features.",
+      "D": "Valve trays have the highest turn down ratio (i.e. the ratio of the highest to the lowest vapour flow rates) and thus provides the maximum flexible operating range.",
+      "Answer": "C"
+    },
+    {
+      "Number": 9,
+      "Question": "With increase in the number of shell passes, the value of FT",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains same",
+      "D": "remains same, only if the number of tube passes does not change.",
+      "Answer": "A"
+    },
+    {
+      "Number": 10,
+      "Question": "Holes of a sieve tray are arranged in triangular pitch of __________ times the hole diameter.",
+      "A": "1.5 to 2",
+      "B": "2.5 to 5",
+      "C": "5 to 10",
+      "D": "10 to 15",
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "In case of a shell and tube heat exchanger, the minimum shell thickness for carbon steel (inclusive of corrosion allowance) depends on shell diameter and is in the range of __________ mm.",
+      "A": 45356,
+      "B": 45423,
+      "C": 45519,
+      "D": 45644,
+      "Answer": "B"
+    },
+    {
+      "Number": 12,
+      "Question": "The stress developed in a material without any permanent set is called the",
+      "A": "ultimate stress",
+      "B": "yield stress",
+      "C": "elastic limit",
+      "D": "breaking stress",
+      "Answer": "C"
+    },
+    {
+      "Number": 13,
+      "Question": "In a shell and tube heat exchanger, the 'tube pitch' is defined as the",
+      "A": "O.D. of the tube for square pitch.",
+      "B": "shortest distance between two adj acent tube holes.",
+      "C": "shortest centre to centre distance between adjacent tubes.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 14,
+      "Question": "Which of the following is not a valid assumption in continuous binary distillation for calculating the number of equilibrium stages by Mc-Cabe-Thiele's method?",
+      "A": "Sensible heat changes for vapour & liquid are negligibly small.",
+      "B": "Reflux is not a saturated liquid.",
+      "C": "Molar latent heat of the two components are equal.",
+      "D": "Heat of mixing of normal liquid is assumed to be zero.",
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "Overall distillation column efficiency for most of the refinery columns can be given by (for μ = 0.07 - 1.4 cp and relative volatility < 4) (where η = overall column efficiency, % μ = molal average viscosity of feed at average column temperature and pressure, cp Δp = pressure drop per tray, psi)",
+      "A": "η = 17 - 61.1 log μ",
+      "B": "η = 24.6 (delta)p/μ",
+      "C": "η = 1.66 - 0.25 log μ",
+      "D": "η = 0.25 log μ - 1.67",
+      "Answer": "A"
+    },
+    {
+      "Number": 16,
+      "Question": "The value of fouling factor depends upon the",
+      "A": "characteristic of process fluid.",
+      "B": "velocity of process fluid containing suspended solids.",
+      "C": "suspended solids in the fluid.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 17,
+      "Question": "In case of bubble cap distillation column of diameter greater than 1.2 metres, the cap diameter is roughly about __________ cms.",
+      "A": 10,
+      "B": 20,
+      "C": 20,
+      "D": 35,
+      "Answer": "A"
+    },
+    {
+      "Number": 18,
+      "Question": "Tube side pressure drop in a 1-2 heat exchanger (for turbulent flow of fluids through the tubes) is about __________ times, that in a 1-1 heat exchanger having the same size & number of tubes and operated at the same liquid flow rate.",
+      "A": 2,
+      "B": 45293,
+      "C": 4,
+      "D": 8,
+      "Answer": "D"
+    },
+    {
+      "Number": 19,
+      "Question": "To keep the power input constant for a stirred vessel operating under fully developed turbulent flow conditions (constant power number), if the impeller diameter is increased by 20%, the impeller speed should be decreased by a factor of",
+      "A": "(1.2)^3/2",
+      "B": "(1.2)^3/5",
+      "C": "(1.2)^2/3",
+      "D": "(1.2)^5/3",
+      "Answer": "D"
+    },
+    {
+      "Number": 20,
+      "Question": "In a heat exchanger, shell side fluid velocity can be changed by changing the tube",
+      "A": "layout",
+      "B": "pitch",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "Where does the maximum tensile strength occur in a thick cylindrical vessel subjected to internal pressure?",
+      "A": "At the inner surface.",
+      "B": "At the mid thickness of the cylindrical wall.",
+      "C": "At the outer surface.",
+      "D": "None of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "It is not desirable to design a heat exchanger for LMTD correction factor, FT, of less than",
+      "A": 0.99,
+      "B": 0.95,
+      "C": 0.8,
+      "D": 0.55,
+      "Answer": "C"
+    },
+    {
+      "Number": 23,
+      "Question": "A rivetted joint does not fail by __________ of rivets.",
+      "A": "tearing",
+      "B": "shearing",
+      "C": "tearing of the plate across a row",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 24,
+      "Question": "Triangular pitch tube layout as compared to square pitch in a shell and tube heat exchanger",
+      "A": "permits the use of less tubes in a given shell diameter.",
+      "B": "facilitates comparatively easier external cleaning because of large clearance.",
+      "C": "permits the use of more tubes in a given shell diameter.",
+      "D": "both (b) and (c).",
+      "Answer": "C"
+    },
+    {
+      "Number": 25,
+      "Question": "Bracket supports are the most suitable for supporting __________ vessels.",
+      "A": "thick walled vertical",
+      "B": "horizontal",
+      "C": "thin shperical (e.g. Horton sphere)",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 26,
+      "Question": "In a multipass shell and tube heat exchanger, the shell side cross flow area does not depend upon",
+      "A": "baffle spacing",
+      "B": "clearance",
+      "C": "pitch",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 27,
+      "Question": "Two iron pipes of the same nominal diameter but different schedule numbers will have the same",
+      "A": "inside diameter",
+      "B": "outside diameter",
+      "C": "wall thickness",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 28,
+      "Question": "Steam side heat transfer co-efficient for design consideration under ordinary condition can be assumed to be about __________ kcal/hr.m2.°C.",
+      "A": 1250,
+      "B": 2500,
+      "C": 7500,
+      "D": 15000,
+      "Answer": "C"
+    },
+    {
+      "Number": 29,
+      "Question": "Pick out the wrong statement.",
+      "A": "For all the cylindrical process vessels operating above atmospheric pressure, formed heads are used for closing the vessel.",
+      "B": "Fouling factor of river water is less than that of sea water.",
+      "C": "Risers provided in bubble cap trays in the distillation column facilitate the flow of both liquid and vapor.",
+      "D": "both (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 30,
+      "Question": "Lessing ring is formed by the addition of a partition across the centre of a raschig ring, which results in an area increase of about __________ percent.",
+      "A": 5,
+      "B": 20,
+      "C": 35,
+      "D": 55,
+      "Answer": "B"
+    },
+    {
+      "Number": 31,
+      "Question": "In chemical process equipments, the conical bottom heads used, usually has an apex angle of",
+      "A": "20°",
+      "B": "40°",
+      "C": "60°",
+      "D": "80°",
+      "Answer": "C"
+    },
+    {
+      "Number": 32,
+      "Question": "Smaller sized packings are generally dumped to the packed columns, and the large ones of size greater than __________ mm are stacked individually, which provides better control over bed porosity and offers lower gas pressure drop.",
+      "A": 25,
+      "B": 50,
+      "C": 75,
+      "D": 150,
+      "Answer": "C"
+    },
+    {
+      "Number": 33,
+      "Question": "Shell side heat transfer co-efficient in case of square pitch as compared to the triangular pitch under similar condition of fluid flow and tube size is",
+      "A": "more",
+      "B": "same",
+      "C": "less",
+      "D": "twice",
+      "Answer": "C"
+    },
+    {
+      "Number": 34,
+      "Question": "Correct use of 'factor of safety' is very important in equipment design. It is defined as the ratio of the",
+      "A": "ultimate stress to breaking stress.",
+      "B": "ultimate stress to working stress.",
+      "C": "working stress to ultimate stress.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 35,
+      "Question": "The operating velocity in the absorption tower is usually 40-50% of the flooding velocity. Packed absorption towers are normally designed for a pressure drop of about __________ mm of water column per metre height of packing.",
+      "A": 45296,
+      "B": "20-40",
+      "C": "100-150",
+      "D": "1000-1500",
+      "Answer": "B"
+    },
+    {
+      "Number": 36,
+      "Question": "__________ tray arrangement is recommended for distillation column having diameter upto 4 ft.",
+      "A": "Radial flow",
+      "B": "Cross flow",
+      "C": "Split flow",
+      "D": "Cascade",
+      "Answer": "B"
+    },
+    {
+      "Number": 37,
+      "Question": "What is the value of 'q' for saturated liquid feed to a distillation column?",
+      "A": 0,
+      "B": "<1",
+      "C": 1,
+      "D": ">1",
+      "Answer": "C"
+    },
+    {
+      "Number": 38,
+      "Question": "In perforated plate towers, the",
+      "A": "hole sizes may be around 1/8\" or 3/16\".",
+      "B": "total hole area may be around 6 to 15% of tower cross-sectional area.",
+      "C": "pressure drop is less compared is similar bubble cap towers.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 39,
+      "Question": "The main purpose of providing stepping on the trays is to",
+      "A": "increase the residence time.",
+      "B": "decrease the pressure drop.",
+      "C": "facilitate handling of large flow rate of liquid.",
+      "D": "improve the flow condition.",
+      "Answer": "C"
+    },
+    {
+      "Number": 40,
+      "Question": "The operating pressure drop range in a bag filter is about __________ mm water gauge.",
+      "A": "50-150",
+      "B": 45422,
+      "C": "500-1500",
+      "D": "1500-2500",
+      "Answer": "A"
+    },
+    {
+      "Number": 41,
+      "Question": "The ends of a cylinderical vessel can be closed by a head, which can be one of the four shapes. For the same thickness, choose the one which can withstand the highest pressure.",
+      "A": "Flat plate",
+      "B": "Hemispherical",
+      "C": "Torispherical",
+      "D": "Ellipsoidal",
+      "Answer": "D"
+    },
+    {
+      "Number": 42,
+      "Question": "For laminar flow (NRe < 2100) in steel pipe, the optimum inside pipe diameter is given by",
+      "A": "Di, opt = 3 Q0.36 ρ0.18",
+      "B": "Di, opt = 3.9 Q0.45 . ρ0.23",
+      "C": "Di, opt = 7.6 Q0.36 . ρ0.9",
+      "D": "Di, opt = 3 Q0.36 . ρ1.86 μ0.08",
+      "Answer": "A"
+    },
+    {
+      "Number": 43,
+      "Question": "Pick out the correct statement.",
+      "A": "When highly corrosive fluids are to be handled, the plate towers prove to be cheaper and easier to construct than packed tower.",
+      "B": "Packed towers are generally preferred over plate towers, if the liquids have a foaming tendency.",
+      "C": "The pressure drop through the packed towers is generally more than the pressure drop through plate towers designed for same duty.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 44,
+      "Question": "Wall thickness of schedule 40 pipe as compared to that of schedule 80 pipe is",
+      "A": "more",
+      "B": "less",
+      "C": "same",
+      "D": "either (a) or (b); depends upon the I.D. of the pipe",
+      "Answer": "B"
+    },
+    {
+      "Number": 45,
+      "Question": "Pick out the wrong statement pertaining to the design of a basket type evaporator.",
+      "A": "It is used for high viscosity liquor having large rate of scaling.",
+      "B": "The tube bundle is suspended on bracket.",
+      "C": "There is no central downtake.",
+      "D": "Downtake is formed by the annular space between the bundle and the shell.",
+      "Answer": "A"
+    },
+    {
+      "Number": 46,
+      "Question": "Pick out the wrong statement pertaining to the design of the bubble cap tray of a distillation column to give stable operation and even vapour distribution.",
+      "A": "The pressure drop due to the caps & slots and the static submergence should be as high as practicable for reasonable operation.",
+      "B": "Tendency towards stable operation is increased by increasing the skirt clearance of the caps, lowering the rate of liquid flow per unit plate width or increasing the spacing between the caps.",
+      "C": "The dimensionless ratio of liquid gradient to pressure drop head caused by the bubble cap assembly should be less than 0.4.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 47,
+      "Question": "Speed of the drum of the rotary vacuum filter normally ranges from __________ rpm.",
+      "A": "0.1 to 2",
+      "B": "5 to 7",
+      "C": "3 to 8",
+      "D": "8 to 15",
+      "Answer": "A"
+    },
+    {
+      "Number": 48,
+      "Question": "A stuffing box is used for",
+      "A": "absorbing the contraction/expansion of pipeline due to temperature changes.",
+      "B": "prevention of fluid leakage around moving parts.",
+      "C": "facilitating smooth opening and closing of a valve.",
+      "D": "reducing the resistance of fluid flow.",
+      "Answer": "B"
+    },
+    {
+      "Number": 49,
+      "Question": "Pressure drop (Δp) and the superficial gas mass velocity (G) in case of packed absorption tower operating in the preloading range are related as",
+      "A": "Δp = G",
+      "B": "Δp = G^0.5",
+      "C": "Δp = G^2",
+      "D": "Δp = 1/G^0.6",
+      "Answer": "C"
+    },
+    {
+      "Number": 50,
+      "Question": "Pick out the wrong statement.\r\nIn an agitated vertical cylinderical reaction vessel, the",
+      "A": "ratio of liquid depth to tank diameter (i.e. the filling ratio) recommended for most purposes is 1.",
+      "B": "filling ratio for dispersing gas in a liquid is 2 for sufficiently long contact period.",
+      "C": "flat bottom and conical bottom vessels have low agitation efficiency for agitation of heavy solids in liquids.",
+      "D": "dished bottom vessel has very high power consumption.",
+      "Answer": "D"
+    }
+  ],
+  "Section 2": [
+    {
+      "Number": 1,
+      "Question": "Needle valves are generally not used for",
+      "A": "very large diameter pipes.",
+      "B": "high pressure throttling service.",
+      "C": "very accurate flow control.",
+      "D": "smaller sizes of pipe.",
+      "Answer": "A"
+    },
+    {
+      "Number": 2,
+      "Question": "Height equivalent to a theoretical plate (HETP) is the height of packing that will give the same separation as one theoretical plate in gas-liquid mass transfer operations like distillation, absorption/stripping and humidification/dehumidification. HETP which is experimentally determined, depends upon the",
+      "A": "flow rates of each fluid.",
+      "B": "type and size of packing.",
+      "C": "concentration of each fluid.",
+      "D": "all a, b & c.",
+      "Answer": "D"
+    },
+    {
+      "Number": 3,
+      "Question": "Pick out the wrong statement.",
+      "A": "Safety valves are provided in heat exchangers for removal of non-conden-sables.",
+      "B": "Liquid metals and dowtherm are used for very high temperature heating.",
+      "C": "In a shell and tube heat exchanger, high pressure fluid is generally routed through the tube.",
+      "D": "A loop seal or U-seal is provided in a vertical condenser sub-cooler to prevent quick draining of the condensate.",
+      "Answer": "A"
+    },
+    {
+      "Number": 4,
+      "Question": "With increase in gas flow rate to fabric surface area ratio (Nm3/hr/m2 fabric surface area), the size & the cost of a bag filter",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remain unaffected",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 5,
+      "Question": "A head comprises of straight flange section, corner torus, section and central dished section. Crown radius and knuckle radius in a head is related respectively to the",
+      "A": "central dished section and corner torus section.",
+      "B": "corner torus section and central dished section.",
+      "C": "central dished section and straight flange section.",
+      "D": "straight flange section and corner torus section.",
+      "Answer": "A"
+    },
+    {
+      "Number": 6,
+      "Question": "Number of evaporators which can be used in service in a multiple effect evaporation system is limited by the",
+      "A": "practical limit reached, due to low heat transfer rate because of inadequate temperature difference.",
+      "B": "economic limit reached, when the plant cost exceeds the saving of steam.",
+      "C": "both (a) & (b).",
+      "D": "neither (a) nor (b).",
+      "Answer": "C"
+    },
+    {
+      "Number": 7,
+      "Question": "Which of the following is used to set the diameter of the distillation column?",
+      "A": "Number of theoretical plates.",
+      "B": "Static submergence.",
+      "C": "Allowable vapour velocity.",
+      "D": "Length of straight rectangular weir on cross-flow tray.",
+      "Answer": "C"
+    },
+    {
+      "Number": 8,
+      "Question": "Ponchon Savarit method is based on the use of enthalpy concentration diagram, which contains the bubble point curve (saturated liquid curve), dew point curve (saturated vapour curve) and equilibrium tie lines. As compared to McCabe-Thiele's method, this method",
+      "A": "is more accurate in finding the number of equilibrium stages.",
+      "B": "accounts for the enthalpy changes in the process.",
+      "C": "facilitates direct calculation of heat load on reboiler & condenser from, the diagram used in this method.",
+      "D": "all 'a', 'b' & 'c'.",
+      "Answer": "D"
+    },
+    {
+      "Number": 9,
+      "Question": "The optimum size ratio for two mixed reactors in series depends on the kinetics of the reaction and the conversion level. For reaction orders more than one, the",
+      "A": "equal sized reactors are the best.",
+      "B": "smaller reactor should come first.",
+      "C": "larger reactor should come first.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "In a shell and tube heat exchanger, tube side __________ of the mass velocity.",
+      "A": "heat transfer co-efficient is proportional to 0.8th power",
+      "B": "pressure drop is proportional to the square",
+      "C": "both 'a' & 'b'",
+      "D": "neither 'a' nor 'b'",
+      "Answer": "C"
+    },
+    {
+      "Number": 11,
+      "Question": "Which of the following is not a graphical method (but is an analytical method) for the calculation of theoretical number of stages in case of continuous binary distillation?",
+      "A": "Sorel-Lewis method.",
+      "B": "McCabe-Thiele's method.",
+      "C": "Ponchon-Savarit method.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 12,
+      "Question": "Saddle supports are used for supporting __________ vessels.",
+      "A": "horizontal cylinderical",
+      "B": "tall vertical",
+      "C": "thick walled vertical",
+      "D": "thick spherical",
+      "Answer": "A"
+    },
+    {
+      "Number": 13,
+      "Question": "The diameter of a propeller agitator used in agitation tank ranges from __________ percent of the tank diameter and its peripherial speed is normally 300 to 500 metres/minute.",
+      "A": "5 to 10",
+      "B": "15 to 30",
+      "C": "40 to 50",
+      "D": "55 to 75",
+      "Answer": "B"
+    },
+    {
+      "Number": 14,
+      "Question": "In packed towers provided with saddle packing, liquid redistributors are positioned at every __________ times column diameter or 6 metres whichever is less.",
+      "A": 45325,
+      "B": 45420,
+      "C": 45580,
+      "D": "20-25",
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "Optimum reflux ratio in a continuous distillation column is determined by the",
+      "A": "maximum permissible vapour velocity.",
+      "B": "flooding limit of the column.",
+      "C": "total cost consideration (fixed cost of the column plus the cooling water & steam cost).",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 16,
+      "Question": "Cooling water fouling factors vary in the range of 0.001 to 0.003",
+      "A": "(BTU/hr.ft2 . °F)-1",
+      "B": "(kcal/hr.m2 .°C)-1",
+      "C": "(W/m2.°K)-1",
+      "D": "(kcal/hr. m. °C)-1",
+      "Answer": "A"
+    },
+    {
+      "Number": 17,
+      "Question": "Minimum recommended baffle spacing in a shell and tube heat exchanger is about (where, D = shell diameter)",
+      "A": "0.2 D",
+      "B": "0.5 D",
+      "C": "0.66 D",
+      "D": "0.80 D",
+      "Answer": "A"
+    },
+    {
+      "Number": 18,
+      "Question": "The maximum liquid gradient over a tray must not exceed",
+      "A": "0.5\" -1.25\".",
+      "B": "2\"-3.5\".",
+      "C": "5\".",
+      "D": "half the tray spacing.",
+      "Answer": "A"
+    },
+    {
+      "Number": 19,
+      "Question": "An underdesigned steam trap will",
+      "A": "waste steam.",
+      "B": "destroy itself of acceleration wear due to rapid recycling.",
+      "C": "back up condensate and cause water hammer in steam line.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 20,
+      "Question": "The slope of the feed line in distillation opeartion is given by (where, q = fraction of the feed stream that is liquid.)",
+      "A": "-q",
+      "B": "-q/(1-q)",
+      "C": "-q/(q-1)",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "Speed of industrial paddle agitator ranges from __________ rpm.",
+      "A": "1 to 5",
+      "B": "20 to 100",
+      "C": "500 to 750",
+      "D": "1000 to 2000",
+      "Answer": "B"
+    },
+    {
+      "Number": 22,
+      "Question": "_________ strain is measured using a 'strain rosetter'.",
+      "A": "Volumetric",
+      "B": "Shear",
+      "C": "Linear",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 23,
+      "Question": "Thin spherical shells subjected to internal pressure, develop __________ stresses.",
+      "A": "radial",
+      "B": "circumferential",
+      "C": "both (a) & (b)",
+      "D": "both (a) & (b)",
+      "Answer": "A"
+    },
+    {
+      "Number": 24,
+      "Question": "With increase in the reflux ratio for a fixed production from a continuous binary distillation column, the __________ decreases.",
+      "A": "fixed charges initially",
+      "B": "running cost of cooling water for condenser",
+      "C": "vapour & liquid load both",
+      "D": "running cost of steam for reboiler",
+      "Answer": "A"
+    },
+    {
+      "Number": 25,
+      "Question": "The slope of operating line in the rectifying section of a distillation column is unity, if the reflux ratio is",
+      "A": 0,
+      "B": "∞",
+      "C": 1,
+      "D": "minimum",
+      "Answer": "B"
+    },
+    {
+      "Number": 26,
+      "Question": "Vertical vessels are not supported by",
+      "A": "brackets",
+      "B": "skirts",
+      "C": "columns",
+      "D": "saddles",
+      "Answer": "D"
+    },
+    {
+      "Number": 27,
+      "Question": "With increase in pressure drop (for a given particle size), the dust collection efficiency of a cyclone separator will",
+      "A": "increase",
+      "B": "decrease",
+      "C": "remain unaffected",
+      "D": "increase or decrease depending on the nature of the dust.",
+      "Answer": "A"
+    },
+    {
+      "Number": 28,
+      "Question": "Spherical shaped pressure vessel is considered to be the most ideal, because it can",
+      "A": "withstand higher pressure for a given metallic shell thickness.",
+      "B": "be fabricated very easily.",
+      "C": "be designed without wind load considerations.",
+      "D": "be supported very easily.",
+      "Answer": "A"
+    },
+    {
+      "Number": 29,
+      "Question": "An adequate clearance between the tray and the shell wall of a distillation column is provided to",
+      "A": "drain the liquid from the tray when the unit is not in operation.",
+      "B": "allow for thermal expansion and facilitate installation.",
+      "C": "avoid back-trapping.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 30,
+      "Question": "Overall tray efficiency of a distillation column is the ratio of the number of",
+      "A": "overall gas transfer units to the number of ideal trays required.",
+      "B": "ideal trays required to the number of real trays required.",
+      "C": "real trays required to the number of ideal trays required.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 31,
+      "Question": "Pick out the wrong statement about the design of a sieve plate column.",
+      "A": "An increased weir height improves the tray efficiency at the cost of high plate pressure drop; optimum wear height being 40-90 mm for column pressure above atmospheric and 6-12 mm for vacuum columns.",
+      "B": "For segmental downcomers, the chord length is 60-80% of the column diameter. An initial value of downcomer area of 12% is taken in the design.",
+      "C": "Width of the calming section provided at the inlet and outlet sides of the plate is 75 mm for column diameter below 1.5 metres and 100 mm for larger diameter columns.",
+      "D": "Minimum recommended downcomer residence time for the disengagement of entrained vapour is the same for both foaming and non-foaming liquids, which is about 20 seconds.",
+      "Answer": "D"
+    },
+    {
+      "Number": 32,
+      "Question": "Generally, no corrosion allowance in wall thickness of a part is required, if the thickness is more than __________ mm.",
+      "A": 10,
+      "B": 20,
+      "C": 30,
+      "D": 5,
+      "Answer": "C"
+    },
+    {
+      "Number": 33,
+      "Question": "Multiple blade paddle agitator is used for mixing high viscosity liquids/paste in which the paddle diameter is commonly 0.8 times the tank diameter. However, the width of the blade is in the range of __________ times the paddle diameter.",
+      "A": "0.1 to 0.25",
+      "B": "0.3 to 0.5",
+      "C": "0.5 to 0.6",
+      "D": "0.65 to 0.80",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "In a __________ rivetted joint, the rivets in the various rows are opposite to each other.",
+      "A": "zig-zag",
+      "B": "chain",
+      "C": "diamond",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 35,
+      "Question": "Pick out the wrong statement:",
+      "A": "The tensile strength of a brittle material is less than its compressive strength.",
+      "B": "The compressive strength of a ductile materia] is less than its tensile strength.",
+      "C": "In a thick cylindrical shell, the hoop stress is maximum at the inner radius.",
+      "D": "The value of crushing load is more than that of buckling load for long colmns.",
+      "Answer": "D"
+    },
+    {
+      "Number": 36,
+      "Question": "Generally, elliptical dished heads",
+      "A": "are manufactured on 2:1 ratio of major to minor axis and is recommended to be used for pressure vessels operating above a pressure of 1.5 MN/m2 .",
+      "B": "resist half the pressure rating compared to hemi spherical head provided on the cylindrical shell of the same thickness and diameter.",
+      "C": "are approximately as strong as seamless cylindrical shell having the corresponding I.D and O.D.",
+      "D": "all (a), (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 37,
+      "Question": "Pick out the wrong statement pertaining to the comparative evaluation of performance of the packed tower and the plate tower.",
+      "A": "Plate tower is perferred, if interstage cooling is required to remove heats of reaction or solution.",
+      "B": "Plate tower is preferred over packed tower, if the operation involves liquids containing dispersed solids.",
+      "C": "The total weight of a dry plate tower is usually much more than that of a dry packed tower designed for the same duty.",
+      "D": "In operations involving large temperature changes. (e.g. distillation), plate towers are preferred over packed towers as the packing may be crushed due to large temperature changes.",
+      "Answer": "C"
+    },
+    {
+      "Number": 38,
+      "Question": "The circumferential (hoop) stress in a thin walled cylinderical vessel under internal pressure is",
+      "A": "pd/2t",
+      "B": "pd/4t",
+      "C": "pd/t",
+      "D": "pd/3t",
+      "Answer": "A"
+    },
+    {
+      "Number": 39,
+      "Question": "Le/D for fully open gate valves would be",
+      "A": "much more than that for fully open globe valves.",
+      "B": "much less (say 2% than that for fully open globe valves).",
+      "C": "around 7.",
+      "D": "both (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 40,
+      "Question": "LMTD correction factor is used in heat exchanger design for",
+      "A": "double pipe heat exchanger.",
+      "B": "multipass shell and tube heat exchanger.",
+      "C": "fouling fluids.",
+      "D": "counter flow of hot and cold fluids.",
+      "Answer": "B"
+    },
+    {
+      "Number": 41,
+      "Question": "Floating head heat exchangers are used for the",
+      "A": "heat transfer between corrosive fluids.",
+      "B": "cases where temperature difference between the shell and the tubes is more (>50°C).",
+      "C": "co-current heat transfer systems.",
+      "D": "counter-current heat transfer systems.",
+      "Answer": "B"
+    },
+    {
+      "Number": 42,
+      "Question": "The most common standard size of bubble caps used in industrial operation is",
+      "A": "1\" dia cap with 0.5\" dia riser.",
+      "B": "6\" dia cap with 4\" dia riser.",
+      "C": "8\" dia cap with 1\" dia riser.",
+      "D": "4\" dia cap with 8\" dia riser.",
+      "Answer": "B"
+    },
+    {
+      "Number": 43,
+      "Question": "Compensation against openings in process vessels for giving inlet and outlet connections, for providing sight glasses and manholes etc. is provided for strength and rigidity. The most efficient type of compensation is of __________ type.",
+      "A": "nozzle or rim",
+      "B": "flared out",
+      "C": "fluid in",
+      "D": "ring plate",
+      "Answer": "A"
+    },
+    {
+      "Number": 44,
+      "Question": "In case of a continuous distillation column, increase in reflux ratio may result in the",
+      "A": "lower fixed charges for the column.",
+      "B": "greater cost for the reboiler heat supply.",
+      "C": "greater cost for the condenser coolant.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 45,
+      "Question": "In a distillation column, the minimum residence time for liquid in the downspout is about __________ seconds.",
+      "A": 1,
+      "B": 8,
+      "C": 80,
+      "D": 180,
+      "Answer": "B"
+    },
+    {
+      "Number": 46,
+      "Question": "Thickness of the frame of a plate and frame filter as compared to that of plates is",
+      "A": "less",
+      "B": "same",
+      "C": "more",
+      "D": "either (a) or (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 47,
+      "Question": "Which of the following factors affect the pressure drop in a co-current gas-liquid absorption packed tower?",
+      "A": "Size, shape, orientation and surface of the packing particles.",
+      "B": "Density and viscosity of fluids.",
+      "C": "Fluid flow rates.",
+      "D": "All (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 48,
+      "Question": "The thickness of heat transfer plates used in the plate type heat exchanger ranges from __________ mm, pressed in a single piece provided with grooves & corrugations.",
+      "A": "0.3 to 0.8",
+      "B": "1.25 to 3.125",
+      "C": "3.5 to 7.0",
+      "D": 45516,
+      "Answer": "B"
+    },
+    {
+      "Number": 49,
+      "Question": "Rivets are generally specified by the",
+      "A": "head diameter",
+      "B": "shank diameter",
+      "C": "overall length",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 50,
+      "Question": "Length to diameter ratio of most rotary driers is in the range of",
+      "A": "1 to 2",
+      "B": "4 to 10",
+      "C": "10 to 20",
+      "D": "20 to 30",
+      "Answer": "B"
+    }
+  ],
+  "Section 3": [
+    {
+      "Number": 1,
+      "Question": "Tube wall thickness depends on the cor-rosiveness of the fluids and their operating pressure & temperature and is specified by Birmingham wire gauge (B.W.G)-a number which varies from 8 to 18 with the numbers 14 and 16 being more commonly used. Outside diameter of tubes varies from about 15 to 50 mm; however a tube of less than __________ mm outside diameter is generally not recommended for fouling fluids.",
+      "A": 16,
+      "B": 19,
+      "C": 28,
+      "D": 38,
+      "Answer": "B"
+    },
+    {
+      "Number": 2,
+      "Question": "Angled baffles are preferred in the agitation tank to control the swirling action; if the viscosity of the liquid to be mixed is about 200 poise. However, the baffle may be completely eliminated for mixing liquids having viscoisty above __________ poise.",
+      "A": 300,
+      "B": 600,
+      "C": 1000,
+      "D": 1500,
+      "Answer": "B"
+    },
+    {
+      "Number": 3,
+      "Question": "Ratio of tube length to shell diameter for a shell and tube heat exchanger is",
+      "A": "8 : 1 to 12 : 1 for both liquid-liquid and gas-gas heat exchangers.",
+      "B": "4 : 1 to 8 : 1 for liquid-liquid exchanger.",
+      "C": "< 4 : 1 for gas-gas exchangers.",
+      "D": "both(b) & (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 4,
+      "Question": "The dust collection efficiency of a cyclone separator",
+      "A": "decreases with increase in gas flow rate.",
+      "B": "is inversely proportional to the mass of the dust particle.",
+      "C": "is directly proportional to the radius of the dust particle path.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 5,
+      "Question": "In a shell and tube heat exchanger, the overall heat transfer co-efficient is proportional to the tube side (volumetric flow rate)0.8. This is valid, only when the ratio of the tube side film resistance to the total resistance is almost equal to",
+      "A": "∞",
+      "B": 1,
+      "C": 20.8,
+      "D": 2,
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "Which of the following types of reactors is the safest from operation point of view?",
+      "A": "A vapor phase reactor.",
+      "B": "Pot type reactor.",
+      "C": "A liquid phase reactor.",
+      "D": "A liquid phase catalytic reactor.",
+      "Answer": "A"
+    },
+    {
+      "Number": 7,
+      "Question": "In a bag filter, the pressure drop increases directly as the",
+      "A": "density of the gas, but is independent of the viscosity of the gas.",
+      "B": "density of the gas and inversely as viscosity of the gas.",
+      "C": "viscosity of the gas and inversely as density of the gas.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 8,
+      "Question": "The LMTD correction factor (FT) is applied in __________ heat exchangers.",
+      "A": "1-1 cocurrent",
+      "B": "double pipe",
+      "C": "all multipass",
+      "D": "all (involving liquid/liquid heat transfer)",
+      "Answer": "C"
+    },
+    {
+      "Number": 9,
+      "Question": "Movement of pipeline caused by thermal expansion is taken care by providing",
+      "A": "expansion joint.",
+      "B": "changes in its direction.",
+      "C": "change in the shape of pipeline.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 10,
+      "Question": "For a cylindrical shell, (subject to the thickness of uppermost course being more than the minimum for diaofthe tank in question), the thickness of the courses of shell",
+      "A": "decreases upwards.",
+      "B": "increases upwards.",
+      "C": "remains same throughout.",
+      "D": "may decrease or increase upwards depending upon whether vacuum or positive pressure would be maintained inside the shell.",
+      "Answer": "A"
+    },
+    {
+      "Number": 11,
+      "Question": "In the design of a paddle agitator, the ratio paddle dia/tank dia is normally taken as",
+      "A": 0.1,
+      "B": 0.8,
+      "C": 0.25,
+      "D": 0.5,
+      "Answer": "B"
+    },
+    {
+      "Number": 12,
+      "Question": "The design stress, which is more than the damaging stress, is the least unit stress that will render a member unfit for service before the end of its normal life. The design stress factor or factor of safety indicates the margin between design stress and the __________ stress.",
+      "A": "working",
+      "B": "damaging",
+      "C": "allowable",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 13,
+      "Question": "Hole diameter of the seive trays in the distillation column ranges from __________ mm.",
+      "A": "1 to 3",
+      "B": "4 to 8",
+      "C": "3 to 12.5",
+      "D": "12.5 to 18.5",
+      "Answer": "C"
+    },
+    {
+      "Number": 14,
+      "Question": "Factor of safety (i.e., overdesign factor) in heat transfer equipments is about __________ percent more than the actual/theoretical design factor.",
+      "A": 45422,
+      "B": "15-20",
+      "C": "30-35",
+      "D": "35-40",
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "For annular flow of a fluid, the ratio of the equivalent diameter for pressure drop calculation to the equivalent diameter for heat transfer calculation is",
+      "A": "d1/(d1+d2)",
+      "B": "d2/(d1+d2)",
+      "C": "(d2+d2)/d1",
+      "D": "(d2+d2)/d2",
+      "Answer": "A"
+    },
+    {
+      "Number": 16,
+      "Question": "In actual operation of distillation column, the vapour is not distributed uniformly among the bubble caps, primarily because of the",
+      "A": "liquid gradient on the tray.",
+      "B": "lower skirt clearance.",
+      "C": "lower static submergence.",
+      "D": "small downcomer liquid seal.",
+      "Answer": "A"
+    },
+    {
+      "Number": 17,
+      "Question": "The minimum shell thickness for tank ≤ 15 metres diameter is limited to __________ mm, for reasons of elastic stability.",
+      "A": 2,
+      "B": 5,
+      "C": 10,
+      "D": 15,
+      "Answer": "B"
+    },
+    {
+      "Number": 18,
+      "Question": "If 'D' is the inside diameter of the shell of a shell and tube heat exchanger, then the baffle spacing is usually in the range of",
+      "A": "D/2 or minimum 2\" to 5D.",
+      "B": "D/5 or minimum 2\" to 5D.",
+      "C": "D/5 or minimum 2\" to D.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 19,
+      "Question": "Brass valves are usually made for pipe sizes __________ inches.",
+      "A": "≤1",
+      "B": "≤2",
+      "C": ">2.5",
+      "D": ">3.5",
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "At the following point for a given packing and set of fluids, the pressure drop per metre of packed height, with variation in fluid rates and operating pressure",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains same",
+      "D": "may increase or decrease depending upon the solubility of the gas in the liquid",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "In a shell and tube heat exchanger, triangular pitch arrangement as compared to square pitch arrangement",
+      "A": "results in higher shell side pressure drop.",
+      "B": "can accomodate less number of tubes for a given shell diameter.",
+      "C": "facilitates easier shell side cleaning; hence is more suitable for handling high dirt factor shell side fluid.",
+      "D": "creates relatively lower turbulence on the shell side resulting in lower shell side heat transfer co-efficient.",
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "Pick out the wrong statement about routing of fluids in a shell and tube heat exchanger.",
+      "A": "The corrosive and fouling fluid should be preferably routed through the tubes.",
+      "B": "The viscous fluid should be routed through the shell side.",
+      "C": "Lower flow rate fluid should be routed through the shell side.",
+      "D": "Higher pressure fluid stream should be routed through the shell side.",
+      "Answer": "D"
+    },
+    {
+      "Number": 23,
+      "Question": "The necessary wall thickness for a metallic storage vessel is a function of the",
+      "A": "ultimate tensile strength (or yield point) of the material and operating temperature.",
+      "B": "operating pressure and welding/joint efficiency.",
+      "C": "diameter of the vessel.",
+      "D": "all (a); (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 24,
+      "Question": "In a multiple effect evaporator system having 'n' effects, the amount of water evaporated per unit surface area in approximately equal to __________ times that in a single effect.",
+      "A": "n'th",
+      "B": "(1/n)th",
+      "C": "0.5 nth",
+      "D": "1.5 nth",
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "Pick out the wrong statement.",
+      "A": "In a flanged and standard dished head, the crown radius is ≤ shell outside diameter.",
+      "B": "In a flanged and shallow dished head, the crown radius is > shell outside diameter.",
+      "C": "Flat head covers are most suitable for larger vessels operating at very high pressure.",
+      "D": "Flanged only head is a type of flat head in which gradual change in the shape at the centre results in reduced local stresses.",
+      "Answer": "C"
+    },
+    {
+      "Number": 26,
+      "Question": "Pick out the wrong statement pertaining to the design of a horizontal tube evaporator.",
+      "A": "It is unsuitable for concentrating those liquids, which form a scale or deposit salt.",
+      "B": "It is suitable for process, in which the final product is a liquor instead of solid.",
+      "C": "Its usual dimensions are: tube dia = 2-3 cms; evaporator body dia = 1-4 metres and evaporator height = 2.5-4 metres.",
+      "D": "Liquor flows inside the tube, while the steam is outside submerging the tube.",
+      "Answer": "D"
+    },
+    {
+      "Number": 27,
+      "Question": "Weep holes provided in the plates of a distillation column",
+      "A": "facilitate draining out liquid from a tray when the unit is not in operation.",
+      "B": "are normally located near the overflow weir so that any delivery of liquid during operation follows approximately the same path as the overflow fluid.",
+      "C": "must be large enough (usually 1/4\" to 5/8\" dia) to prevent plugging but should not deliver excessive amount of fluid during operation.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 28,
+      "Question": "Steam is preferred to be used as a heating medium in heat exchangers, because of its",
+      "A": "low cost.",
+      "B": "high latent heat.",
+      "C": "non-corrosive condensate.",
+      "D": "high film co-efficient.",
+      "Answer": "B"
+    },
+    {
+      "Number": 29,
+      "Question": "__________ shapedroof is the most commonly used roof for cylinderical storage tanks.",
+      "A": "Conical",
+      "B": "Flat",
+      "C": "Dome",
+      "D": "Umbrella",
+      "Answer": "A"
+    },
+    {
+      "Number": 30,
+      "Question": "Pick out the wrong statement pertaining to 'Horton sphere' used for the storage of liquid ammonia.",
+      "A": "Diameter of Horton sphere is normally 6 to 25 metres and it is supported by 6 to 12 nos. tubular or rolled section column.",
+      "B": "Thickness of spherical shell is half that of the cylinderical vessel under same operating pressure condition. Besides, the ratio of surface area to volume is less for sphere than any other shape ; hence insulation required is less.",
+      "C": "Horton sphere is used for the storage of gases and volatile liquid at a moderate pressure of 1 to 10 kg/cm2 .",
+      "D": "Horton sphere is used for the storage of liquid at sub-zero temperature at very high pressure upto 200 kg/cm2 .",
+      "Answer": "D"
+    },
+    {
+      "Number": 31,
+      "Question": "Value of Peclet number = ∞, is the representative of",
+      "A": "laminar flow",
+      "B": "complete back mixing,",
+      "C": "plug flow.",
+      "D": "eddy diffusivity = 0.",
+      "Answer": "C"
+    },
+    {
+      "Number": 32,
+      "Question": "Le/D for a Tee (used as elbow, entering branch) would be",
+      "A": "less than that for Tee (used as elbow, entering run).",
+      "B": "more than that for Tee (used as elbow, entering run).",
+      "C": "around 90.",
+      "D": "both (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 33,
+      "Question": "In most of the shell and tube heat exchangers, the tube pitch is generally __________ the tube diameter.",
+      "A": "less than",
+      "B": "1.25-1.50 times",
+      "C": "2.5 times",
+      "D": "one-fourth of",
+      "Answer": "B"
+    },
+    {
+      "Number": 34,
+      "Question": "In a distillation column, bubble caps are located on trays with a pitch of __________ times the outside diameter of the caps.",
+      "A": "1.3 to 2",
+      "B": "1.6 to 2",
+      "C": 2.5,
+      "D": "1.5 to 3",
+      "Answer": "A"
+    },
+    {
+      "Number": 35,
+      "Question": "1.2 to 3.8 cms is the value of the",
+      "A": "downcomer liquid seal in case of a balanced tray design.",
+      "B": "static submergence in case of a bubble cap tray for column operating under pressure (≥ 1 atm.).",
+      "C": "skirt clearance for bubble caps.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 36,
+      "Question": "Accidents in chemical plants are mostly due to",
+      "A": "inadequate equipment design.",
+      "B": "faulty operating procedures.",
+      "C": "improper layout of the equipments.",
+      "D": "failure of equipments.",
+      "Answer": "B"
+    },
+    {
+      "Number": 37,
+      "Question": "For identical operating conditions, the pressure drop over __________ tray is the highest out of the following.",
+      "A": "sieve",
+      "B": "valve",
+      "C": "counterflow",
+      "D": "bubble cap",
+      "Answer": "D"
+    },
+    {
+      "Number": 38,
+      "Question": "A perforated plate has holes of diameter dn arranged in a pitch ph. Each hole has a tube of I.D. dt passing through it. The ligament efficiency is given by",
+      "A": "(ph - dh)/ph",
+      "B": "(ph - dh . dt/2)/ph",
+      "C": "(ph - dt)/ph",
+      "D": "(ph - dh)/dh",
+      "Answer": "C"
+    },
+    {
+      "Number": 39,
+      "Question": "__________ is the determining factor for the number of bubble caps to be used per tray.",
+      "A": "Permissible slot velocity",
+      "B": "Tray diameter",
+      "C": "Liquid load",
+      "D": "Vapor load",
+      "Answer": "A"
+    },
+    {
+      "Number": 40,
+      "Question": "Pick out the wrong statement about distillation operation",
+      "A": "Distillation under vacuum is a substitute for steam distillation.",
+      "B": "In differential (simple) distillation, the vapour is removed as soon as it is formed without appreciable condensation.",
+      "C": "In flash (equilibrium) distillation, a definite fraction of liquid is vaporised in such a way that the evolved vapour & residual liquids are in equilibrium with each other.",
+      "D": "Flash distillation, differential distillation & steam distillation are all continuous distillation processes.",
+      "Answer": "D"
+    },
+    {
+      "Number": 41,
+      "Question": "Low pressure steam (with saturation temperature between 105 to 120°C) is usually used in the vacuum evaporators, which normally employ a vacuum of about __________ mm Hg (referred to a 760 mm mercury barometer).",
+      "A": 250,
+      "B": 450,
+      "C": 650,
+      "D": 750,
+      "Answer": "C"
+    },
+    {
+      "Number": 42,
+      "Question": "Which of the following is the best tube material from thermal conductivity point of view alone?",
+      "A": "Aluminum",
+      "B": "Stainless steel",
+      "C": "Copper",
+      "D": "Carbon steel",
+      "Answer": "C"
+    },
+    {
+      "Number": 43,
+      "Question": "Normal screwed fittings are used for pipes upto a diameter of __________ inches.",
+      "A": 1.5,
+      "B": 3,
+      "C": 5,
+      "D": 7,
+      "Answer": "B"
+    },
+    {
+      "Number": 44,
+      "Question": "In a shell and tube heat exchanger, the clearance of the tube is generally",
+      "A": "not less than one-fourth of the tube diameter or 3/16\".",
+      "B": "more than the tube diameter.",
+      "C": "equal to the tube diameter.",
+      "D": "more in case of triangular pitch as compared to the square pitch tube layout.",
+      "Answer": "A"
+    },
+    {
+      "Number": 45,
+      "Question": "Diameter of the seive tray column is determined by the",
+      "A": "lower limit of vapour velocity.",
+      "B": "upper limit of the vapour velocity.",
+      "C": "hole diameter of the seive tray.",
+      "D": "height of the plate spacing.",
+      "Answer": "B"
+    },
+    {
+      "Number": 46,
+      "Question": "For a given fluid, as the pipe diameter increases, the pumping cost",
+      "A": "decreases.",
+      "B": "increases.",
+      "C": "remains unaffected.",
+      "D": "may increase or decreaes depending upon whether the fluid is Newtonian or non-Newtonion.",
+      "Answer": "A"
+    },
+    {
+      "Number": 47,
+      "Question": "Maximum acceptable total liquid gradient over a tray is about __________ mm.",
+      "A": 5.5,
+      "B": 12.5,
+      "C": 30.5,
+      "D": 45.5,
+      "Answer": "B"
+    },
+    {
+      "Number": 48,
+      "Question": "In case of a 'thin' pressure vessel, the ratio of its diameter to wall thickness is",
+      "A": "< 10",
+      "B": "> 10",
+      "C": "> 20",
+      "D": 30,
+      "Answer": "B"
+    },
+    {
+      "Number": 49,
+      "Question": "High pressure fluid in a shell and tube heat exchanger should preferably be routed through the",
+      "A": "tubes to avoid the expansion of high pressure shell construction.",
+      "B": "shell side for smaller total pressure drop.",
+      "C": "shell side, if the flow is counter-current and tube side if the flow is co-current.",
+      "D": "shell side for large overall heat transfer co-efficient.",
+      "Answer": "A"
+    },
+    {
+      "Number": 50,
+      "Question": "Bubble cap tray is the most commonly used tray in large distillation column, because",
+      "A": "of its flexibility and nearly constant efficiency under varying conditions of operation.",
+      "B": "it incurs less pressure drop as compared to any other try designed for the same duty.",
+      "C": "it eliminates the foaming and entrain-ment tendency during operation.",
+      "D": "none of these.",
+      "Answer": "A"
+    }
+  ],
+  "Section 4": [
+    {
+      "Number": 1,
+      "Question": "In common bubble cap distillation column design practice, riser area is approximately equal to (where, Aa = Annular passage area, and Sa = Slot area)",
+      "A": "Aa = Sa",
+      "B": "1.2 Aa = 1.2 Sa",
+      "C": "Sa = 1.5 Aa",
+      "D": "Aa = 1.5 Sa",
+      "Answer": "A"
+    },
+    {
+      "Number": 2,
+      "Question": "Heat transfer co-efficient, hG(Kcal/hr.m2 .°C) and mass velocity of air, G (kg/hr.m2 ) for air flow parallel to the surface in case of constant drying rate in batch drying is related as hG = 0.0176G0.8. But when the flow of air perpendicular to the surface is encountered, this equation changes to",
+      "A": "hG = 1.004G^0.37",
+      "B": "1.004G^0.8",
+      "C": "hG = 0.0176G^0.37",
+      "D": "0.0176G^1.37",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "In the agitators, the power required will be changed with the increase of diameter of agitator (D) as",
+      "A": "D^2",
+      "B": "D^5",
+      "C": "D",
+      "D": "D^9",
+      "Answer": "B"
+    },
+    {
+      "Number": 4,
+      "Question": "Apex angle of conical heads used in the bottom heads of chemical process equipments is usually",
+      "A": "30°",
+      "B": "45°",
+      "C": "60°",
+      "D": "75°",
+      "Answer": "C"
+    },
+    {
+      "Number": 5,
+      "Question": "Pressure drop due to pipe fittings can be estimated by the equation, https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/561-40-1.png\r\n, where, Le = equivalent length of straight pipeline which will incur the same frictional loss as the fitting and D = diameter of the fitting. The value of Le/D (dimensionless) for 45° elbow and 180° close return bends would be respectively around",
+      "A": "5 and 10",
+      "B": "45 and 75",
+      "C": "180 and 300",
+      "D": "300 and 500",
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "A pressure vessel is said to be made of 'thick' shell, if the ratio of its diameter to wall thickness is",
+      "A": 10,
+      "B": 10,
+      "C": 20,
+      "D": 20,
+      "Answer": "A"
+    },
+    {
+      "Number": 7,
+      "Question": "Rate of filtrate delivery is inversely proportional to the",
+      "A": "filtering area & the pressure difference driving force.",
+      "B": "viscosity of filtrate.",
+      "C": "cake & filter medium resistance.",
+      "D": "both (a) and (b)",
+      "Answer": "D"
+    },
+    {
+      "Number": 8,
+      "Question": "Tube side heat transfer co-efficient for turbulent flow of liquid through tubes is proportional to",
+      "A": "G^0.2",
+      "B": "G^0.5",
+      "C": "G^0.8",
+      "D": "G^1.5",
+      "Answer": "C"
+    },
+    {
+      "Number": 9,
+      "Question": "Circumferential (hoop) stress in a thin cylindrical vessel under internal pressure is __________ the longitudinal stress.",
+      "A": "half",
+      "B": "equal to",
+      "C": "twice",
+      "D": "eight times",
+      "Answer": "C"
+    },
+    {
+      "Number": 10,
+      "Question": "The dust collection efficiency of electrostatic precipitator increases with increase in the",
+      "A": "gas flow rate.",
+      "B": "electrode area.",
+      "C": "both (a) & (b).",
+      "D": "neither (a) nor (b).",
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "For storing hazardous chemicals in large storage tanks, the minimum safe distance between the two tanks should range between __________ times the tank diameter.",
+      "A": "1 to 1.5",
+      "B": "2.5 to 3.5",
+      "C": "4 to 5",
+      "D": "6 to 8",
+      "Answer": "A"
+    },
+    {
+      "Number": 12,
+      "Question": "Which of the following factors determine the amount of entrainment in a distillation column?",
+      "A": "Plate spacing.",
+      "B": "Depth of liquid above the bubble cap slots.",
+      "C": "Vapour velocity in the volume between the plates.",
+      "D": "All (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 13,
+      "Question": "The absorption factor is defined as (where, S1 = slope of the equilibrium curve, S2 = slope of the operating line)",
+      "A": "S1/S2",
+      "B": "S1.S2",
+      "C": "S2/S1",
+      "D": "1/S1.S2",
+      "Answer": "A"
+    },
+    {
+      "Number": 14,
+      "Question": "In shell and tube heat exchangers, straight tie rods are used to",
+      "A": "hold baffle in space.",
+      "B": "fix the tubes in position.",
+      "C": "account for thermal strain.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 15,
+      "Question": "In a rotary drier, the average retention time of solid is(where Z = length of the drier, metres ρ = apparent solid density, kg/m3 L = flow rate of dry solids, kg/see. m2 drier cross-section H = hold up of solid.)",
+      "A": "Z.H.p/L",
+      "B": "L/Z.H.p",
+      "C": "H.p/L",
+      "D": "Z.H/L.p",
+      "Answer": "A"
+    },
+    {
+      "Number": 16,
+      "Question": "In case of design of a shell and tube heat exchanger,",
+      "A": "minimum cleaning lane of 6.5 mm is provided, when tubes are on a square pitch.",
+      "B": "minimum tube sheet thickness (in which tubes are fixed) is equal to the O.D. of the tube upto 15 mm tube diameter; and for > 15 mm tube diameter, tube sheet thickness is smaller than tube diameter.",
+      "C": "O.D. of the tube is 6 to 40 mm while the tube lengths used are 0.5, 2.5, 3.0, 4.0, 5.0, 6 metres.",
+      "D": "all (a), (b) & (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 17,
+      "Question": "In a cylinderical vessel subjected to internal pressure, the longitudinal stress σL and the circumferential stress, σn are related by",
+      "A": "σh = 2 σL",
+      "B": "σh = σL",
+      "C": "σh = σL/2",
+      "D": "no relation exists",
+      "Answer": "A"
+    },
+    {
+      "Number": 18,
+      "Question": "Nominal size of a pipe is an indication of its __________ diameter.",
+      "A": "inner",
+      "B": "outer",
+      "C": "approximate",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 19,
+      "Question": "Excessive liquid gradient on a tray may result in the",
+      "A": "maldistribution of gas.",
+      "B": "back trapping.",
+      "C": "gas blowing beneath cap skit.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 20,
+      "Question": "The ratio of tube length to shell diameter in case of liquid shell and tube heat exchanger ranges from",
+      "A": "2 to 3",
+      "B": "3 to 5",
+      "C": "4 to 8",
+      "D": "6 to 12",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "In a double pipe concentric heat exchanger, the equivalent diameter of annulus for heat transfer would be (where, D1 and D2 are I.D. of inner and outer pipes)",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/566-92-1.png",
+      "B": "D2 - D1",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/566-92-2.png",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "What is the slope of the operating line in the stripping section of a distillation column?",
+      "A": 0,
+      "B": "∞",
+      "C": "> 1",
+      "D": "< 1",
+      "Answer": "C"
+    },
+    {
+      "Number": 23,
+      "Question": "__________ shaped roof is most commonly used for cylindrical tanks.",
+      "A": "Cone",
+      "B": "Dome",
+      "C": "Umbrella",
+      "D": "Flat",
+      "Answer": "A"
+    },
+    {
+      "Number": 24,
+      "Question": "In a thin cylindrical shell, the hoop stress is __________ stress.",
+      "A": "radial",
+      "B": "circumferential tensile",
+      "C": "compressive",
+      "D": "longitudinal",
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "Commercial packed scrubbers are normally designed for a pressure drop range of __________ mm water coloumn per metre of packed height.",
+      "A": 45390,
+      "B": "17-34",
+      "C": "52-68",
+      "D": "88-105",
+      "Answer": "B"
+    },
+    {
+      "Number": 26,
+      "Question": "The retention time of material in a rotary dryer depends upon its",
+      "A": "rpm",
+      "B": "slope & length",
+      "C": "flights arrangement",
+      "D": "all (a), (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 27,
+      "Question": "In actual operation of a bubble cap distillation tower, the __________ at the bottom of the tower is more than that at the top of the tower.",
+      "A": "molal flow rate of vapour",
+      "B": "vapour molecular weight",
+      "C": "pressure and temperature",
+      "D": "all (a), (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 28,
+      "Question": "Rotary driers are most economically designed for the number of heat transfer units (HTU) from",
+      "A": "0.01 to 1",
+      "B": "1.5 to 2.5",
+      "C": "5 to 10",
+      "D": "10 to 20",
+      "Answer": "B"
+    },
+    {
+      "Number": 29,
+      "Question": "The difficulty of liquid distribution in packed towers is accentuated, when the ratio of tower diameter to packing diameter is",
+      "A": "< 30",
+      "B": "< 7",
+      "C": "> 7 < 15",
+      "D": "> 20 < 50",
+      "Answer": "B"
+    },
+    {
+      "Number": 30,
+      "Question": "A forced circulation long tube vertical evaporator as compared to the natural circulation evaporator",
+      "A": "is economical in operation.",
+      "B": "employs high velocity, high heat transfer rate and less heating surface requirement.",
+      "C": "employs a centrifugal pump placed between external downtake from vapor drum and inlet to tube bundle.",
+      "D": "both (b) & (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 31,
+      "Question": "An increase in the liquid resistance to interphase mass transfer and a resultant reduction in plate efficiency is caused by",
+      "A": "an increase in liquid viscosity.",
+      "B": "an increase in relatived volatility for rectification columns.",
+      "C": "decrease in gas solubility for absorbers.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 32,
+      "Question": "In the design of a bag filter, the gas temperature is an important consideration, as it affects the",
+      "A": "gas density",
+      "B": "gas viscosity",
+      "C": "fibre selection",
+      "D": "all (a), (b) & (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 33,
+      "Question": "With increase in temperature drop (in a shell and tube heat exchanger), the LMTD correction factor, FT",
+      "A": "decreases very rapidly",
+      "B": "increases very rapidly",
+      "C": "remains constant",
+      "D": "increases linearly",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "The normal range of velocity of steam in pipes is __________ m/sec.",
+      "A": "0.1-0.5",
+      "B": 45296,
+      "C": 45585,
+      "D": "80-100",
+      "Answer": "D"
+    },
+    {
+      "Number": 35,
+      "Question": "__________ dished head is the strongest of all.",
+      "A": "Hemispherical",
+      "B": "Elliptical",
+      "C": "Torispherical",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 36,
+      "Question": "Pick out the correct statement.",
+      "A": "It is preferred to use a vertical condenser for condensation of vapor from a distillation column without sub-cooling",
+      "B": "Draining of residual liquid on tray during shut down of distillation column is facilitated by weep holes.",
+      "C": "Random packing a packed tower offers the advantage of lower pressure drop and higher throughput of fluids as compared to regular/stacked packing.",
+      "D": "Risers are generally not connected to the plate in a distillation coloumn by bolts, rivets or welding.",
+      "Answer": "D"
+    },
+    {
+      "Number": 37,
+      "Question": "\"A claming section\" before the liquid flows into the downcomer is privided to",
+      "A": "permit release of entrained vapour in the liquid.",
+      "B": "reduce the discharge fluctuation.",
+      "C": "ensure better vapour-liquid contact.",
+      "D": "cool the liquid before it flows down.",
+      "Answer": "A"
+    },
+    {
+      "Number": 38,
+      "Question": "The units of Young's modulus of elasticity and __________ are the same.",
+      "A": "strain",
+      "B": "stress",
+      "C": "modular ratio",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 39,
+      "Question": "In the design of a shell and tube heat exchanger, the corrosion allowance",
+      "A": "need not be provided for non-pressure parts like tie rods, spacers, baffles, supports etc.",
+      "B": "for carbon steel and cast iron pressure parts is 1.5 mm (except for tubes) and for severe conditions it is 3 mm.",
+      "C": "for internal cover and tube sheet is provided on both the sides.",
+      "D": "all (a), (b) & (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 40,
+      "Question": "Vertical condenser is advantageous to the horizontal condenser from operation point of view, when",
+      "A": "hydrostatic head is required for refluxing the condensate.",
+      "B": "only the function of condensation is to be carried out.",
+      "C": "sub cooling of condensate is desired.",
+      "D": "both the functions of condensation & sub cooling are carried out in a single unit.",
+      "Answer": "D"
+    },
+    {
+      "Number": 41,
+      "Question": "Hazards associated with the relief valve leakage for extremely hazardous material storage can be taken care of by providing",
+      "A": "rupture diaphragm",
+      "B": "dikes",
+      "C": "surge chamber",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 42,
+      "Question": "Minimum baffle spacing recommended in a shell and tube heat exchanger is equal to",
+      "A": "5 cms",
+      "B": "40% of the I.D. of the shell",
+      "C": "25 cms",
+      "D": "I.D. of the shell",
+      "Answer": "A"
+    },
+    {
+      "Number": 43,
+      "Question": "__________ liquor is best handled in a long tube vertical evaporator.",
+      "A": "Foamy",
+      "B": "Scaling",
+      "C": "Viscous",
+      "D": "Salting",
+      "Answer": "A"
+    },
+    {
+      "Number": 44,
+      "Question": "Theoretically calculated diameter of the stripping section of the continuous rectification column is __________ that of the enriching section.",
+      "A": "less than",
+      "B": "more than",
+      "C": "same as",
+      "D": "either more or less (depending upon relative volatility)",
+      "Answer": "B"
+    },
+    {
+      "Number": 45,
+      "Question": "Hold up of material in a operating rotary drier is in the range of",
+      "A": "0.05 to 0.15",
+      "B": "0.25 to 0.50",
+      "C": "0.5 to 0.8",
+      "D": "0.8 to 0.9",
+      "Answer": "A"
+    },
+    {
+      "Number": 46,
+      "Question": "A binary liquid azeotropic mixture has boiling point higher than either of the components, when it shows __________ deviation from Raoult's Law.",
+      "A": "positive",
+      "B": "negative",
+      "C": "no",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 47,
+      "Question": "The testing pressure of storage tanks and pressure vessels designed as per Indian standard codes should be about __________ times.the design pressure.",
+      "A": "1.5 to 2",
+      "B": "3 to 4",
+      "C": "4 to 5",
+      "D": "> 5",
+      "Answer": "A"
+    },
+    {
+      "Number": 48,
+      "Question": "Flanges are connected to pipes by",
+      "A": "screwing",
+      "B": "welding",
+      "C": "brazing",
+      "D": "all (a), (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 49,
+      "Question": "The ratio of down take area to cross-sectional area of the tube, for calendria type evaporator ranges from",
+      "A": "0.5 to 1",
+      "B": "1 to 1.5",
+      "C": "1.5 to 2",
+      "D": "2 to 2.5",
+      "Answer": "A"
+    },
+    {
+      "Number": 50,
+      "Question": "Shortest distance between two tubes is",
+      "A": "called tube pitch.",
+      "B": "called tube clearance.",
+      "C": "more in case of triangular pitch as compared to square pitch of tube layout.",
+      "D": "none of these.",
+      "Answer": "B"
+    }
+  ],
+  "Section 5": [
+    {
+      "Number": 1,
+      "Question": "__________ tower is the most suitable gas-liquid contacting device involving highly corrosive fluids.",
+      "A": "Sieve plate",
+      "B": "Packed",
+      "C": "Bubble cap plate",
+      "D": "None of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 2,
+      "Question": "At equal mass velocities, the values of film co-efficients for gases as compared to that for liquids are generally.",
+      "A": "higher",
+      "B": "lower",
+      "C": "same",
+      "D": "unpredictable",
+      "Answer": "B"
+    },
+    {
+      "Number": 3,
+      "Question": "The ratio of the largest load in a test to the original cross-sectional area of the test specimen is called the __________ stress.",
+      "A": "yield point",
+      "B": "breaking",
+      "C": "ultimate",
+      "D": "None of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 4,
+      "Question": "Baffle spacing is generally __________ the I.D. of the shell.",
+      "A": "more than",
+      "B": "not greater than",
+      "C": "not less than one fifth of",
+      "D": "both (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 5,
+      "Question": "The wall thickness of thin cylindrical shell with hemispherical ends is __________ that of the spherical ends.",
+      "A": "equal to",
+      "B": "more than",
+      "C": "less than",
+      "D": "either (b) or (c); depends on maximum permissible internal pressure",
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "A 'rupture disc' is provided in chemical equipments as an accessory meant for",
+      "A": "relieving excess pressure.",
+      "B": "creating turbulence.",
+      "C": "enhancing mixing rate.",
+      "D": "avoiding vortex formation.",
+      "Answer": "A"
+    },
+    {
+      "Number": 7,
+      "Question": "In a vertical short tube evaporator (Calendria type), the",
+      "A": "tube dia of 2.5-7.5 cms, tube length of 75-200 cms and cylinderical drum dia of 1-6 metres are normally used.",
+      "B": "area of central downtake is equal to 40 to 100% of total cross-sectional area of the surrounding tube.",
+      "C": "liquor is inside the tube while the steam is outside the tube.",
+      "D": "all (a), (b) & (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 8,
+      "Question": "In a multipass shell and tube heat exchanger, the problem of differential expansion between the shell and tube passes is taken care of by using a",
+      "A": "U-bend",
+      "B": "floating head tube sheet",
+      "C": "either (a) or (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 9,
+      "Question": "In a shell and tube heat exchanger, the shortest centre to centre distance between the adjacent tubes is",
+      "A": "called tube pitch.",
+      "B": "called tube clearance.",
+      "C": "always less than the diameter of the tube.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 10,
+      "Question": "Any shell opening greater than 5 cms for a storage tank must be reinforced for reason of",
+      "A": "preventing the local overstressing of the shell around the opening.",
+      "B": "reduction of discontinuity in shape at the junction.",
+      "C": "making the joint leak proof.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 11,
+      "Question": "Minimum tube pitch recommended for shell and tube heat exchangers is about __________ times the outside diameter of the tube.",
+      "A": 1.25,
+      "B": 1.75,
+      "C": 2.5,
+      "D": 3.5,
+      "Answer": "A"
+    },
+    {
+      "Number": 12,
+      "Question": "Liquid redistribution should be done in a packed tower packed with raschig rings every 6 metres or __________ times the column diameter, whichever is lower.",
+      "A": "2.5-3.0",
+      "B": "5-7.5",
+      "C": "10-12.5",
+      "D": "15-20",
+      "Answer": "A"
+    },
+    {
+      "Number": 13,
+      "Question": "Slope of countercurrent flow rotary drier is in the range of __________ meter/metre.",
+      "A": "0 to 0.08",
+      "B": "0 to 0.8",
+      "C": "0 to 1.5",
+      "D": "0 to 2.2",
+      "Answer": "A"
+    },
+    {
+      "Number": 14,
+      "Question": "In case of saddle packing (e.g., berl and intralox saddles), the maximum size of the packing should not exceed __________ of the column diameter.",
+      "A": "l/5th",
+      "B": "l/15th",
+      "C": "l/30th",
+      "D": "l/50th",
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "Seamless pipe is made",
+      "A": "from rolled strips formed into cylinders and seam-welded.",
+      "B": "by extrusion & casting into static and centrifugal molds.",
+      "C": "by forging a solid round, piercing it by simultaneously rotating & forcing it over a piercer point and further reducing it by rolling gas drawing.",
+      "D": "both (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 16,
+      "Question": "The thermal stress in a metallic bar does not depend upon the",
+      "A": "changes in temperature.",
+      "B": "cross-sectional area.",
+      "C": "both (a) and (b).",
+      "D": "neither (a) nor (b).",
+      "Answer": "B"
+    },
+    {
+      "Number": 17,
+      "Question": "The minimum baffle height should be",
+      "A": "equal to the impeller diameter.",
+      "B": "twice the impeller diameter.",
+      "C": "twice the tank diameter.",
+      "D": "3/4 of the tank height.",
+      "Answer": "B"
+    },
+    {
+      "Number": 18,
+      "Question": "For turbulent flow (NRe > 2100) of low viscosity fluid (μ > 20cp) in steel pipes, the optimum inside pipe diameter is given by(where, Q = fluid flow rate, ft3/sec.ρ = fluid density, lb/ft3 μ = fluid viscosity, centipoise Di = optimum inside pipe diameter, inches)",
+      "A": "Di, opt = 3.9 Q0.45 ρ0.13",
+      "B": "Di, opt = 3.9 Q0.45 . μ0.95",
+      "C": "Di, opt = 4.7 Q0.36 . μ3.2ρ0.13",
+      "D": "Di, opt = 3 Q0.36 . μ0.88",
+      "Answer": "A"
+    },
+    {
+      "Number": 19,
+      "Question": "To avoid the tearing off the plate of an edge, the margin (i.e., the minimum distance from the centre of the rivet hole to the nearest edge of the plate) should be equal to",
+      "A": "0.5 d",
+      "B": "d",
+      "C": "1.5 d",
+      "D": "2.5 d",
+      "Answer": "C"
+    },
+    {
+      "Number": 20,
+      "Question": "The normal range of velocity of water in pipes is __________ m/sec.",
+      "A": "0.1-0.5",
+      "B": 45293,
+      "C": "10-50",
+      "D": "15-30",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "Baffles are provided in a shell and tube heat exchanger to increase the turbulence and velocity of the shell side fluid. Which of the following shaped baffles does not fall in the category of transverse baffle?",
+      "A": "Segmental baffle",
+      "B": "Flat plate extending across the wall",
+      "C": "Disk type baffle",
+      "D": "Helical type baffle",
+      "Answer": "B"
+    },
+    {
+      "Number": 22,
+      "Question": "A certain pressure vessel manufacturer avoids doing reinforcements calculations for openings by always providing a reinforcing pad extending upto double the diameter of the opening and of the same material and thickness as that of the shell wall. If area compensation is accepted as a code guideline, his approach leads to safe design",
+      "A": "only if the opening is on spherical vessel.",
+      "B": "only if the opening is on a vertical cylinderical vessel.",
+      "C": "only if the opening is on a horizontal cylinderical vessel.",
+      "D": "irrespective of the shape of the vessel.",
+      "Answer": "D"
+    },
+    {
+      "Number": 23,
+      "Question": "In a __________ rivetted joint, the number of rivets decreases from the innermost row to the outermost row.",
+      "A": "chain",
+      "B": "diamond",
+      "C": "zig-zag",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 24,
+      "Question": "Large process vessels operating under extreme temperature and pressure conditions are normally clad/ lined with materials like stainless steel, aluminium, nickel & its alloys, copper & its alloys and titanium. The cladding thickness is generally about __________ percent of the total thickness.",
+      "A": "1 to 5",
+      "B": "10 to 20",
+      "C": "30 to 40",
+      "D": "40 to 50",
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "Heat transfer co-efficient for a horizontal condenser as compared to a vertical condenser operating under similar conditions is",
+      "A": "same",
+      "B": "less",
+      "C": "about 3 times",
+      "D": "about 0.33 times",
+      "Answer": "C"
+    },
+    {
+      "Number": 26,
+      "Question": "Pick out the wrong statement pertaining to the design of the distillation column.",
+      "A": "Generally, a skirt clerance of 0.5\" to 1.5' is recommended to prevent plugging of the slots by residue build up.",
+      "B": "The purpose of the slot is to disperse the gas into the liquid in the form of small bubbles.",
+      "C": "If sufficient slot area is not provided, the gas may pass through the skirt clearance.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 27,
+      "Question": "The longitudinal stress induced in a thin walled cylinderical vessel under internal pressure is",
+      "A": "pd/2t",
+      "B": "pd/4t",
+      "C": "pd/t",
+      "D": "pd/8t",
+      "Answer": "B"
+    },
+    {
+      "Number": 28,
+      "Question": "In distillation columns, bubble caps are held in place over trays by",
+      "A": "rivets",
+      "B": "a hold down bar",
+      "C": "bolts",
+      "D": "both (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 29,
+      "Question": "The buckling tendency of compression members is always in the direction of the",
+      "A": "least radius of gyration.",
+      "B": "axis of the load.",
+      "C": "perpendicular to the axis of the load.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 30,
+      "Question": "In case of plain carbon steel, butt welded joints are used for shell plate thickness ≤ __________ cms.",
+      "A": 1.2,
+      "B": 0.5,
+      "C": 3.8,
+      "D": 6.8,
+      "Answer": "C"
+    },
+    {
+      "Number": 31,
+      "Question": "The average velocity in the tubes of a 1-4 heat exchanger is __________ times that in 1-1 heat exchanger having the same size & number of tubes and operated at same liquid flow rate.",
+      "A": 2,
+      "B": 45293,
+      "C": 4,
+      "D": 45295,
+      "Answer": "C"
+    },
+    {
+      "Number": 32,
+      "Question": "Hoop (circumferential) stress induced in a thin walled 'Horton Sphere' used for the storage of liquid ammonia under pressure is",
+      "A": "pD/2t",
+      "B": "pD/4t",
+      "C": "pD/3t",
+      "D": "pD/6t",
+      "Answer": "A"
+    },
+    {
+      "Number": 33,
+      "Question": "When one of the fluids is highly corrosive and has fouling tendency, it should",
+      "A": "preferably flow inside the tube for its easier internal cleaning.",
+      "B": "perferably flow outside the tube.",
+      "C": "flow at a very slow velocity.",
+      "D": "flow outside the tube, when the flow is counter-current and inside the tube when the flow is co-current.",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "The raio, propeller agitator dia/tank dia is normally taken as",
+      "A": "0.15-030",
+      "B": "0.5-0.65",
+      "C": "0.75-0.85",
+      "D": "0.60-0.90",
+      "Answer": "A"
+    },
+    {
+      "Number": 35,
+      "Question": "A/an __________ is used for changing the direction of a pipeline.",
+      "A": "elbow",
+      "B": "union",
+      "C": "flange",
+      "D": "disc compensator",
+      "Answer": "A"
+    },
+    {
+      "Number": 36,
+      "Question": "Maximum plate efficiency is achieved in case of __________ flow.",
+      "A": "split",
+      "B": "cross",
+      "C": "cascade",
+      "D": "reverse",
+      "Answer": "B"
+    },
+    {
+      "Number": 37,
+      "Question": "The LMTD correction factor (FT) is defined as the",
+      "A": "ratio of true temperature difference to the LMTD.",
+      "B": "ratio of LMTD to the true temperature difference.",
+      "C": "differenced of true temperature difference and the LMTD.",
+      "D": "geometric mean of the true temperature difference and the LMTD.",
+      "Answer": "A"
+    },
+    {
+      "Number": 38,
+      "Question": "The clearance between two tubes in a shell and tube heat exchanger is known as 'ligament', whose minimum value is __________ the outside diameter of the tube, but in no case it should be less than 4.5 mm.",
+      "A": "equal to",
+      "B": "half",
+      "C": "one fourth",
+      "D": "three fourth",
+      "Answer": "C"
+    },
+    {
+      "Number": 39,
+      "Question": "The ratio for the rate of washing to the final rate of filtration in a washing type of plate and frame filter is",
+      "A": 0.25,
+      "B": 0.5,
+      "C": 0.75,
+      "D": 1.25,
+      "Answer": "A"
+    },
+    {
+      "Number": 40,
+      "Question": "Normally, the length to diameter ratio of rotary dryers varies form 4 to 10 and for its economic operation, the number of transfer units (NTU) for such dryers varies from",
+      "A": "1.5-2.5",
+      "B": "3.5-5.5",
+      "C": "7.5-10.0",
+      "D": 45580,
+      "Answer": "A"
+    },
+    {
+      "Number": 41,
+      "Question": "Value of Peclet number = 0, is the representative of",
+      "A": "laminar flow.",
+      "B": "complete back mixing.",
+      "C": "plug flow.",
+      "D": "eddy diffusivity = 0.",
+      "Answer": "B"
+    },
+    {
+      "Number": 42,
+      "Question": "Poisson's ratio of a material is the ratio of unit lateral strain to the unit axial elongation within its elastic limit. The value of Poisson's ratio for structural and pressure vessel steel may be taken as",
+      "A": 0.01,
+      "B": 0.3,
+      "C": 0.75,
+      "D": 0.95,
+      "Answer": "B"
+    },
+    {
+      "Number": 43,
+      "Question": "Removable connection of tubes to tube sheet is called",
+      "A": "ferrule",
+      "B": "socket",
+      "C": "nipple",
+      "D": "saddle",
+      "Answer": "A"
+    },
+    {
+      "Number": 44,
+      "Question": "Stress-strain diagram for low carbon steel/mild steel is shown below in the Fig.\r\nhttps://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/572-178-1.png The point 'A' on the Fig. represents the",
+      "A": "breaking stress",
+      "B": "ultimate stress",
+      "C": "elastic limit",
+      "D": "yield point",
+      "Answer": "C"
+    },
+    {
+      "Number": 45,
+      "Question": "Typical static submergence for bubble cap plate column operating at atmospheric pressure may be around",
+      "A": "2.5\"",
+      "B": "0.5\"",
+      "C": "5\"",
+      "D": "50% of the plate spacing",
+      "Answer": "B"
+    },
+    {
+      "Number": 46,
+      "Question": "In the allocated cap area, bubble caps are generally arranged on equilateral triangular pitch. Number of caps fixed on a plate is with a",
+      "A": "clearance of 25-75 mm.",
+      "B": "cap pitch of 1.3-2 times the cap diameter.",
+      "C": "either 'a' or 'b'.",
+      "D": "neither 'a' nor 'b'.",
+      "Answer": "C"
+    },
+    {
+      "Number": 47,
+      "Question": "The length of straight rectangular weir used on cross-flow trays is generally __________ the column diameter.",
+      "A": "0.6-0.8 times",
+      "B": "equal to",
+      "C": "twice",
+      "D": "2 ft irrespective of (for column > 3 ft diameter)",
+      "Answer": "A"
+    },
+    {
+      "Number": 48,
+      "Question": "Le/D for couplings and unions would be",
+      "A": 60,
+      "B": 200,
+      "C": 350,
+      "D": "negligible",
+      "Answer": "D"
+    },
+    {
+      "Number": 49,
+      "Question": "What is the slope of the operating line in the rectifying section of a distillation coloumn?",
+      "A": 0,
+      "B": "∞",
+      "C": "> 1",
+      "D": "<1",
+      "Answer": "D"
+    },
+    {
+      "Number": 50,
+      "Question": "Stage efficiency for packed tower varies with the",
+      "A": "type & size of packing.",
+      "B": "fluid rates and fluid properties.",
+      "C": "operating pressure and column diameter.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    }
+  ],
+  "Section 6": [
+    {
+      "Number": 1,
+      "Question": "The minimum plate spacing in most of the pertroleum refinery distillation columns (of dia > 3 ft) is normally __________ inches.",
+      "A": 6,
+      "B": 12,
+      "C": 18,
+      "D": 34,
+      "Answer": "C"
+    },
+    {
+      "Number": 2,
+      "Question": "Joint efficiency (J) for a seamless pipe is",
+      "A": 1,
+      "B": 0.85,
+      "C": 1.2,
+      "D": "< 0.5",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "For a given design of bubble cap, the number of bubble caps to be used per tray is set by the",
+      "A": "allowable gas velocity through the slots.",
+      "B": "plate spacing.",
+      "C": "diameter of the column.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "A"
+    },
+    {
+      "Number": 4,
+      "Question": "The shell side pressure drop in a shell and tube heat exchanger is maximum for __________ baffle.",
+      "A": "disk and ring",
+      "B": "segmental",
+      "C": "orifice",
+      "D": "independent of the type of",
+      "Answer": "C"
+    },
+    {
+      "Number": 5,
+      "Question": "The function of manholes provided in the shell of a distillation column is to",
+      "A": "keep a check on the liquid gradient over the plate by direct visual observation.",
+      "B": "give access to the individual trays for cleaning, maintenance and installation.",
+      "C": "guard against foaming & entrainment by dumping antifoaming agent through it.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "Back-trapping in a distillation column results due to",
+      "A": "low gas velocity.",
+      "B": "high gas velocity.",
+      "C": "excessive liquid gradient over the tray.",
+      "D": "low reflux ratio.",
+      "Answer": "C"
+    },
+    {
+      "Number": 7,
+      "Question": "For a cylinderical vessel of moderate height, the weld joint efficiency for joints parallel to the cylinderical axis is given as 1.0, while for joints along the girth (circumference) it is given as 0.8. In calculating the shell wall thickness using code formula for an internally pressurised cylinderical vessel, what value of weld joint efficiency should be used?",
+      "A": 0.8,
+      "B": 0.9,
+      "C": 1,
+      "D": "(0.8)60.5",
+      "Answer": "A"
+    },
+    {
+      "Number": 8,
+      "Question": "Diameter of bubble caps used in high pressure columns is __________ as compared to that used in identical vacuum columns.",
+      "A": "less",
+      "B": "more",
+      "C": "same",
+      "D": "either (a) or (b); no generalisation can be made",
+      "Answer": "B"
+    },
+    {
+      "Number": 9,
+      "Question": "The ideal size of round bubble caps to be used in industrial distillation column having a diameter of 3-6 metres is __________ cms.",
+      "A": 5,
+      "B": 15,
+      "C": 7.5,
+      "D": 50,
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "Lap joints are preferred for plates having thickness __________ mm.",
+      "A": "< 12.5",
+      "B": "> 3",
+      "C": "> 5",
+      "D": 45422,
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "In a distillation column, minimum clearance to be maintained betweeen the overflow weir and the last row of the bubble caps is __________ cms.",
+      "A": 2.5,
+      "B": 7.5,
+      "C": 15,
+      "D": 20,
+      "Answer": "B"
+    },
+    {
+      "Number": 12,
+      "Question": "Which of the following lengths of heat exchanger tubes are normally not used in practice ?",
+      "A": "2.5 metres",
+      "B": "6 metres",
+      "C": "10 metres",
+      "D": "0.5 metre",
+      "Answer": "C"
+    },
+    {
+      "Number": 13,
+      "Question": "A pipe is generally made of circular cross-section, because a circular cross-section has the",
+      "A": "higher structural strength.",
+      "B": "lowest surface area requirement for a given volume.",
+      "C": "both (a) & (b).",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 14,
+      "Question": "In case of a shell and tube heat exchanger, the effect of L/D on inside film heat transfer co-efficient (hi) vanishes after a Reynold number of",
+      "A": 1000,
+      "B": 3000,
+      "C": 5000,
+      "D": 10000,
+      "Answer": "D"
+    },
+    {
+      "Number": 15,
+      "Question": "Equivalent diameter for heat transfer calculation for a duct of square cross-section having each side as 'd' will be",
+      "A": "d",
+      "B": "sqrt(d)",
+      "C": "sqrt(2.pi.d)",
+      "D": "sqrt(2d)",
+      "Answer": "A"
+    },
+    {
+      "Number": 16,
+      "Question": "A cylindrical storage tank can have a self supported conical roof,",
+      "A": "if its diameter is less than 15-20metres.",
+      "B": "if its diameter is more than 50 meters.",
+      "C": "if the thickness of the roof is more than that of the cylindrical shell.",
+      "D": "irrespective of its diameter.",
+      "Answer": "A"
+    },
+    {
+      "Number": 17,
+      "Question": "For high pressure process equipments/vessels, the connected nozzle should be",
+      "A": "welded",
+      "B": "screwed",
+      "C": "flanged",
+      "D": "brazed",
+      "Answer": "C"
+    },
+    {
+      "Number": 18,
+      "Question": "Smoker's equation for the calculation of number of equilibrium stages in a continuous binary distillation column is used, when the",
+      "A": "relative volatility is close to one (e.g., separation of close boiling isomers).",
+      "B": "feed is not at its bubble point.",
+      "C": "number of equilibrium stages in only stripping section is to be calculated.",
+      "D": "number of equilibrium stages required is likely to be very small.",
+      "Answer": "A"
+    },
+    {
+      "Number": 19,
+      "Question": "Column support for the roof of cylindrical storage tank must be provided for",
+      "A": "small diameter tanks.",
+      "B": "large diameter tanks.",
+      "C": "small diameter tall tanks.",
+      "D": "all tanks irrespective of their heights and diameters.",
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "For a cylinderical internally pressurised vessel, which of the following closure types would withstand highest pressure, if each closure is of the same material and thickness?",
+      "A": "hemispherical",
+      "B": "ellipsoidal (2 : 1)",
+      "C": "conical",
+      "D": "flat plate",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "In inclined long tube vertical evaporators, the tubes are inclined at an angle of",
+      "A": "15°",
+      "B": "90°",
+      "C": "45°",
+      "D": "60°",
+      "Answer": "C"
+    },
+    {
+      "Number": 22,
+      "Question": "In a continuous distillation column, the optimum reflux ratio ranges from __________ times the minimum reflux ratio.",
+      "A": "1.1 to 1.5",
+      "B": "1.6 to 2",
+      "C": "2.2 to 2.6",
+      "D": "2.7 to 3",
+      "Answer": "A"
+    },
+    {
+      "Number": 23,
+      "Question": "The wall thickness for a large high pressure pipeline is determined by the consideration of the",
+      "A": "axial tensile stress in the pipe.",
+      "B": "forces exerted by static and dynamic action at bends.",
+      "C": "circumferential pipewall tension.",
+      "D": "temperature stresses.",
+      "Answer": "C"
+    },
+    {
+      "Number": 24,
+      "Question": "In the case of a shell and tube heat exchanger, the logarithmic mean temperature difference",
+      "A": "is always less than arithmetic average value.",
+      "B": "is always more than arithmetic mean value and the geometric mean value.",
+      "C": "is always less than arithmetic mean value, but more than geometric mean value.",
+      "D": "may be either more or less than geometric mean and arithmetic mean value depending upon whether the flow of stream is co-current or counter-current.",
+      "Answer": "A"
+    },
+    {
+      "Number": 25,
+      "Question": "Skirt support is the most suitable for supporting __________ vessels.",
+      "A": "small horizontal",
+      "B": "large horizontal",
+      "C": "tall vertical",
+      "D": "thick walled",
+      "Answer": "C"
+    },
+    {
+      "Number": 26,
+      "Question": "Baffles may be eliminated for",
+      "A": "low viscosity liquids (< 200 poise).",
+      "B": "high viscosity liquids (> 600 poise).",
+      "C": "large diameter tanks.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 27,
+      "Question": "Generally, as the length of the liquid path on a tray is increased beyond 5 ft, the overall column efficiency",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains same",
+      "D": "may increase or decrease depending upon the plate spacing",
+      "Answer": "A"
+    },
+    {
+      "Number": 28,
+      "Question": "In packed absorption tower, onset of flooding usually occurs at a pressure drop of about __________ mm of water column per metre height of packing.",
+      "A": "25-50",
+      "B": "50-75",
+      "C": "200-250",
+      "D": "750-1000",
+      "Answer": "B"
+    },
+    {
+      "Number": 29,
+      "Question": "For pipe flows, head is proportional to __________ at constant capacity (where D = pipe diameter).",
+      "A": "1/D",
+      "B": "1/D2",
+      "C": "1/D5",
+      "D": "D2",
+      "Answer": "C"
+    },
+    {
+      "Number": 30,
+      "Question": "Friction factor for turbulent flow in a new pipe is given by",
+      "A": "f = 16/NRe",
+      "B": "f = 0.04/(NRe)^0.16",
+      "C": "f = 0.22 NRe^0.5",
+      "D": "f = 25/NRe",
+      "Answer": "B"
+    },
+    {
+      "Number": 31,
+      "Question": "The minimum tray spacing in distillation column of diameter less than 3 ft is normally __________ inches.",
+      "A": 6,
+      "B": 18,
+      "C": 24,
+      "D": 34,
+      "Answer": "A"
+    },
+    {
+      "Number": 32,
+      "Question": "Oxygen carrying pipelines in chemical industries are coloured with __________ colour.",
+      "A": "yellow",
+      "B": "black",
+      "C": "blue",
+      "D": "red",
+      "Answer": "C"
+    },
+    {
+      "Number": 33,
+      "Question": "Normally, the ratio of the total riser area to the tower cross sectional area (for bubble cap towers of diameter more than 3 ft) is around",
+      "A": "0.4-0.6",
+      "B": "0.35-0.75",
+      "C": "0.1-0.2",
+      "D": "0.55-0.85",
+      "Answer": "C"
+    },
+    {
+      "Number": 34,
+      "Question": "Pick out the wrong statement about the design of seive plate column and the bubble cap column.",
+      "A": "The downcomer design and the residence time in the downcomer is almost same for seive plate and bubble cap columns.",
+      "B": "Weir length for a bubble cap plate is the same as that for the seive plate.",
+      "C": "Weir height for a bubble cap plate column is the same as that for a seive plate column.",
+      "D": "Weir height in case of a bubble cap plate ranges from 50 to 150 mm and is higher than the seive plate.",
+      "Answer": "C"
+    },
+    {
+      "Number": 35,
+      "Question": "Maximum size of the raschig rings used in a packed tower is about __________ of the coloumn diameter.",
+      "A": "1/10th",
+      "B": "1/20th",
+      "C": "1/30th",
+      "D": "1/50th",
+      "Answer": "C"
+    },
+    {
+      "Number": 36,
+      "Question": "Longitundinal stress induced in a thin walled cylindrical storage vessel is",
+      "A": "pD/2t",
+      "B": "pD/4t",
+      "C": "pD/3t",
+      "D": "pD/6t",
+      "Answer": "B"
+    },
+    {
+      "Number": 37,
+      "Question": "The type of stress developed in a metallic bar on subjecting it to a change in temperature without allowing it to be deformed is __________ stress.",
+      "A": "shear",
+      "B": "tensile",
+      "C": "compressive",
+      "D": "thermal",
+      "Answer": "D"
+    },
+    {
+      "Number": 38,
+      "Question": "The safe distance of habitation from a hazardous chemical plant (TLV of its product < 1000 ppm) should be about __________ kms.",
+      "A": 1,
+      "B": 5,
+      "C": 15,
+      "D": 25,
+      "Answer": "D"
+    },
+    {
+      "Number": 39,
+      "Question": "Pick out the wrong statement pertaining to a shell and tube heat exchanger.",
+      "A": "The minimum value of baffle spacing is 50 mm.",
+      "B": "The maximum value of baffle spacing is equal to the I.D. of the shell.",
+      "C": "The maximum unsupported tube span is generally about 75 times tube diameter, but is reduced to about 60 times for aluminium, copper & alloys of these.",
+      "D": "Disk and doughnut baffle is the most commonly used baffle.",
+      "Answer": "D"
+    },
+    {
+      "Number": 40,
+      "Question": "Corrosion allowance in the design of pressure vessel/chemical equipment is not necessary, if",
+      "A": "plain carbon steel and cast iron parts are used.",
+      "B": "wall thickness is > 30 mm.",
+      "C": "material of construction is high alloy steel.",
+      "D": "both(b) & (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 41,
+      "Question": "Maximum allowable vapour velocity in a bubble cap tower is determined by the",
+      "A": "entrainment considerations.",
+      "B": "vapour density.",
+      "C": "diameter of the column.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 42,
+      "Question": "Normally, the plate thickness of the bottoms and roofs of vertically cylindrical storage vessels as compared to that of the cylindrical shell is",
+      "A": "more",
+      "B": "less",
+      "C": "same",
+      "D": "more or less depending upon the pressure & temperature inside the vessel and the nature of the fluid contained therein.",
+      "Answer": "B"
+    },
+    {
+      "Number": 43,
+      "Question": "The practical representative values of HETP for a number of commercial operations lies within a range of __________ metre.",
+      "A": "0.1-0.2",
+      "B": "0.2-0.5",
+      "C": "0.4-0.9",
+      "D": "1.2-1.5",
+      "Answer": "C"
+    },
+    {
+      "Number": 44,
+      "Question": "Of the pressure vessels, with same thickness but different diameters, which one withstands higher pressure?",
+      "A": "Larger dia vessel.",
+      "B": "Smaller dia vessel.",
+      "C": "Larger dia long vessel.",
+      "D": "Strength of the vessel is same irrespective of the diameter.",
+      "Answer": "B"
+    },
+    {
+      "Number": 45,
+      "Question": "Reflux ratio variation in a distillation column is between",
+      "A": "zero and infinity",
+      "B": "zero and one",
+      "C": "minimum and infinity",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 46,
+      "Question": "Width and depth of grooves in the tube sheet holes normally are __________ inch respectively.",
+      "A": "1/8 and 1/64",
+      "B": "1/64 and 1/8",
+      "C": "1/2 and 8",
+      "D": "1/2 and 5",
+      "Answer": "A"
+    },
+    {
+      "Number": 47,
+      "Question": "In condenser, the cooling water is passed in the tube side in a pass arrangement, because",
+      "A": "it reduces heat transfer area.",
+      "B": "more thinner tubes can be used.",
+      "C": "pressure drop is reduced.",
+      "D": "it makes condenser compact.",
+      "Answer": "A"
+    },
+    {
+      "Number": 48,
+      "Question": "In packed towers provided with pall rings liquid redistributors are positioned at heights of every 6 metres or 5-10 times the column diameter, whichever is less. Maximum size of the pall rings should not exceed __________ of the column diameter.",
+      "A": "1/10-1/15th",
+      "B": "1/5-1/10th",
+      "C": "1/20-1/30th",
+      "D": "1/2 to 1/4th",
+      "Answer": "A"
+    },
+    {
+      "Number": 49,
+      "Question": "Height of the flights in the rotary drier is in the range of",
+      "A": "0.08 to 0.12 d",
+      "B": "0.02 to 0.05 d",
+      "C": "0.2 to 0.5 d",
+      "D": "0.5 to 0.6 d",
+      "Answer": "A"
+    },
+    {
+      "Number": 50,
+      "Question": "Vapor velocity in a distillation column for non-foaming mixture is in the range of __________ times the flooding velocity.",
+      "A": "0.1 to 0.3",
+      "B": "0.6 to 0.7",
+      "C": "0.85 to 0.95",
+      "D": "1.5 to 2",
+      "Answer": "B"
+    }
+  ],
+  "Section 7": [
+    {
+      "Number": 1,
+      "Question": "Cylindrical storage tanks used for the storage of volatile liquids (e.g., naphtha) have __________ roofs.",
+      "A": "conical",
+      "B": "flat",
+      "C": "floating",
+      "D": "fixed",
+      "Answer": "C"
+    },
+    {
+      "Number": 2,
+      "Question": "Larger depth of liquid on the trays of a distillation column",
+      "A": "leads to high tray efficiency.",
+      "B": "results in higher pressure drop per tray.",
+      "C": "both (a) & (b).",
+      "D": "neither (a) or (b).",
+      "Answer": "C"
+    },
+    {
+      "Number": 3,
+      "Question": "Pick out the wrong statement.",
+      "A": "Plate efficiency increases with increase in superficial vapour velocity till entrainment limit.",
+      "B": "Increase in depth of the liquid about the slots increases the plate efficiency, particularly if the liquid depth is < 1\".",
+      "C": "Too small a plate spacing can cause a low efficiency, if the vapour velocity is greater than the allowable value.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 4,
+      "Question": "Pick out the wrong statement.",
+      "A": "In practical operation, distillation towers having diameter 3-6 metres equipped with bubble cap (round) size of 15 cms are used.",
+      "B": "Height of packing in a packed tower is about 3 times the column diameter for raschig rings and about 5 to 10 times the column diameter for saddle packing.",
+      "C": "In a seive tray, the minimum hole diameter is equal to the tray thickness.",
+      "D": "In a stainless steel seive tray, the minimum hole diameter is equal to 10 times the plate thickness.",
+      "Answer": "D"
+    },
+    {
+      "Number": 5,
+      "Question": "In the downcomer of a distillation column, the minimum recommended residence time is about __________ seconds.",
+      "A": 2.5,
+      "B": 5,
+      "C": 12.5,
+      "D": 17.5,
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "For identical situation, condensing film coefficient in case of a horizontal condenser is almost __________ the value expected in case of vertical condenser.",
+      "A": "half",
+      "B": "twice",
+      "C": "thrice",
+      "D": "five times",
+      "Answer": "C"
+    },
+    {
+      "Number": 7,
+      "Question": "Diameter of rivet hole (d, mm) and the plate thickness (t, mm) are related by Unwin's formula as",
+      "A": "d = 1.1 t",
+      "B": "d = 1.6 sqrt(t)",
+      "C": "d = 1.5 t",
+      "D": "3 sqrt(t)",
+      "Answer": "B"
+    },
+    {
+      "Number": 8,
+      "Question": "A binary liquid azeotropic mixture has boiling point lower than either of the components, when it shows __________ deviation from Raoult's Law.",
+      "A": "positive",
+      "B": "negative",
+      "C": "no",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 9,
+      "Question": "In which of the following evaporators, steam is fed inside the tube while the liquor is outside the tube?",
+      "A": "Long tube vertical evaporator",
+      "B": "Short tube vertical evaporator",
+      "C": "Horizontal tube evaporator",
+      "D": "None of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 10,
+      "Question": "A single pass air heater is connected to a two pass unit. For the air flow rate and other conditions remaining the same, the film heat transfer co-efficient for air will vary in the ratio of",
+      "A": 2,
+      "B": "2^0.8",
+      "C": "2^0.2",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "In a multipass shell and tube heat exchanger, the baffles on shell side is primarily provided for",
+      "A": "reducing scale deposition.",
+      "B": "increasing pressure drop.",
+      "C": "fixing the tubes.",
+      "D": "creating turbulence.",
+      "Answer": "D"
+    },
+    {
+      "Number": 12,
+      "Question": "For turbine agitator, the impeller diameter is about",
+      "A": "0.3 to 0.5 d",
+      "B": "0.1 to 0.2 d",
+      "C": "0.65 to 0.85 d",
+      "D": "0.95 d",
+      "Answer": "A"
+    },
+    {
+      "Number": 13,
+      "Question": "In a shell and tube heat exchanger having triangular pitch, the shell side equivalent diameter is given by",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/570-146-1.png",
+      "B": "https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/570-146-2.png",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/570-146-3.png",
+      "D": "https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/570-146-4.png",
+      "Answer": "A"
+    },
+    {
+      "Number": 14,
+      "Question": "If a single tube pass heat exchanger is converted to two passes; for the same flow rate, the pressure drop per unit length in tube side will __________ times.",
+      "A": "increase by 1.8",
+      "B": "decrease by 2^2",
+      "C": "increase by 2^1.6",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 15,
+      "Question": "Pick out the wrong statement.",
+      "A": "An air cooled finned pipe is diagram-matically represented by https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/580-290-1.png",
+      "B": "A heat exchanger is diagrammatically represented by https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/580-290-2.png",
+      "C": "A 90° welded elbow is diagrammatically represented by https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/580-290-3.png",
+      "D": "A pipe still heater is diagrammatically represented by https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/580-290-4.png",
+      "Answer": "C"
+    },
+    {
+      "Number": 16,
+      "Question": "Pick out the wrong statement pertaining to the design of a long tube vertical evaporator.",
+      "A": "Tube dia is 3-6 cms, while tube length in 3-6 metres.",
+      "B": "Steam is fed to the shell, whereas the liquor is filled inside the tube.",
+      "C": "Liquor level is maintained at l/3rd to 1/2 of the height of the tube.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 17,
+      "Question": "Which of the following is the most common type of baffle used in industrial shell and tube heat exchanger?",
+      "A": "75% cut segmental baffle.",
+      "B": "25% cut segmental baffle.",
+      "C": "Orifice baffle.",
+      "D": "Disk and doughnut baffle.",
+      "Answer": "B"
+    },
+    {
+      "Number": 18,
+      "Question": "What is the minimum recommended ligament for square pitch arrangement in case of heat exchangers?",
+      "A": "6.5 cms",
+      "B": "6.5 mm",
+      "C": "Equal to tube I.D",
+      "D": "Equal to tube O.D",
+      "Answer": "B"
+    },
+    {
+      "Number": 19,
+      "Question": "Pick out the correct statement",
+      "A": "Centre to centre distance between two consecutives rivets in a row is called the pitch.",
+      "B": "A rivetted joint made in overlapping plates is called butt joint.",
+      "C": "Hole size drilled in rivetted plates is less than the actual size of the rivet.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 20,
+      "Question": "Safety valves are provided in chemical equipments to guard against excessive",
+      "A": "temperature",
+      "B": "pressure/pressure fluctuation",
+      "C": "turbulence",
+      "D": "noise",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "The equivalent diameter for pressure drop is __________ that for heat transfer.",
+      "A": "smaller than",
+      "B": "greater than",
+      "C": "equal to",
+      "D": "not related with",
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "Most of the storage vessels/tanks are made cylindrical, because of the fact that a cylinder",
+      "A": "has greater structural strength.",
+      "B": "is easy to fabricate.",
+      "C": "both (a) and (b).",
+      "D": "neither (a) nor (b).",
+      "Answer": "C"
+    },
+    {
+      "Number": 23,
+      "Question": "The distance between the top of the slots and the liquid surface when the static liquid is just ready to flow over the overflow weir is called",
+      "A": "downcomer liquid seal",
+      "B": "static submergence",
+      "C": "skirt clearance",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 24,
+      "Question": "Liquid gradient over the tray results due to the",
+      "A": "resistance offered to flow of liquids by caps & risers and the flow of gas.",
+      "B": "low gas velocity.",
+      "C": "large plate spacing.",
+      "D": "large reflux ratio.",
+      "Answer": "A"
+    },
+    {
+      "Number": 25,
+      "Question": "The centre to centre distance between two consecutive baffles in a shell and tube heat exchanger is called the baffle pitch or baffle spacing, which is more than 1/5th the I.D. of the shell. Which of the following is not a function of the baffles?",
+      "A": "To increase the residence time of shell side fluid.",
+      "B": "To provide support to the tube bundle.",
+      "C": "To reduce the induced vibration in the tubes.",
+      "D": "To increase the tube side heat transfer co-efficient by inducing turbulence.",
+      "Answer": "D"
+    },
+    {
+      "Number": 26,
+      "Question": "A high vapour velocity is required for high plate efficiency in a seive plate coloumn. The satisfactory value of operating vapor velocity for design purpose in seive plate column is about __________ percent of the flooding velocity.",
+      "A": 45,
+      "B": 60,
+      "C": 80,
+      "D": 95,
+      "Answer": "C"
+    },
+    {
+      "Number": 27,
+      "Question": "The approximate liquid depth in an agitation tank is equal to (where, d = tank diameter)",
+      "A": "0.5 d",
+      "B": "0.75 d",
+      "C": "d",
+      "D": "2 d",
+      "Answer": "C"
+    },
+    {
+      "Number": 28,
+      "Question": "Baffle width is normally taken as __________ times the tank diameter.",
+      "A": "0.1-0.12",
+      "B": "0.4-0.5",
+      "C": "0.45-0.6",
+      "D": "0.2-0.45",
+      "Answer": "A"
+    },
+    {
+      "Number": 29,
+      "Question": "A cylinderical pressure vessel of volume 6 πm3 has to be designed to withstand a maximum internal pressure of 10 atm. The allowable design stress of the material is 125N/mm2 and corrosion allowance is 2 mm. The thickness of the vessel for a length/diameter ratio of 3 will be close to",
+      "A": "5 mm",
+      "B": "6 mm",
+      "C": "8 mm",
+      "D": "10 mm",
+      "Answer": "D"
+    },
+    {
+      "Number": 30,
+      "Question": "Which of the following packing materials provides for maximum mass transfer?",
+      "A": "Lessig rings.",
+      "B": "Raschig rings.",
+      "C": "Cross-partition rings.",
+      "D": "All give the same value.",
+      "Answer": "C"
+    },
+    {
+      "Number": 31,
+      "Question": "__________ of water makes it a widely used coolant in heat exchangers.",
+      "A": "Low corrosiveness",
+      "B": "Low dirt factor",
+      "C": "High specific heat",
+      "D": "Low viscosity",
+      "Answer": "C"
+    },
+    {
+      "Number": 32,
+      "Question": "The equivalent diameter for fluid flow through a channel of constant non-circular cross section of area 'A' is given by (where, P = perimeter of the channel in contact with the fluid)",
+      "A": "4 A/P",
+      "B": "A/P",
+      "C": "4 P/A",
+      "D": "sqrt (A)",
+      "Answer": "A"
+    },
+    {
+      "Number": 33,
+      "Question": "Fouling factor must be included in the calculation of over all design heat transfer coefficient, when the liquid",
+      "A": "containing suspended solids flows at low velocity.",
+      "B": "containing suspended solids flows at high velocity.",
+      "C": "is highly viscous.",
+      "D": "is of high specific gravity.",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "Lug support is meant for supporting __________ vessels.",
+      "A": "large horizontal cylindrical",
+      "B": "tall but empty",
+      "C": "small",
+      "D": "thick walled tall",
+      "Answer": "C"
+    },
+    {
+      "Number": 35,
+      "Question": "Overall mass transfer co-efficient in case of absorption of __________ in water is based on the gas film co-efficient only, as the mass transfer process is gas film (phase) controlling.",
+      "A": "CO2",
+      "B": "SO2",
+      "C": "NH3",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 36,
+      "Question": "Which tube arrangement in a heat exchanger would facilitate highest heat transfer rate?",
+      "A": "Triangular pitch.",
+      "B": "Square pitch.",
+      "C": "Diagonal square pitch.",
+      "D": "Heat transfer rate is independent of tube arrangement.",
+      "Answer": "A"
+    },
+    {
+      "Number": 37,
+      "Question": "In case of 1.5\" heat exchanger tubes, the inside flow area __________ with decrease in BWG.",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains same",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 38,
+      "Question": "Cylindrical pressure vessels in horizontal condition is generally supported on a __________ support.",
+      "A": "lug",
+      "B": "skirt",
+      "C": "saddle",
+      "D": "guy wire",
+      "Answer": "C"
+    },
+    {
+      "Number": 39,
+      "Question": "Pressure drop per tray in the atmospheric distillation column is about __________ psi.",
+      "A": "0.01 - 0.5",
+      "B": "0.07 - 0.12",
+      "C": "0.5 - 1.0",
+      "D": "1 - 3",
+      "Answer": "B"
+    },
+    {
+      "Number": 40,
+      "Question": "Welded joint efficiency in the design of chemical process equipment is taken as",
+      "A": 0.55,
+      "B": 0.75,
+      "C": 0.85,
+      "D": 0.95,
+      "Answer": "C"
+    },
+    {
+      "Number": 41,
+      "Question": "The thickness of segmental baffles (25 -35% cut truncated plates usually) is generally __________ the tube wall thickness.",
+      "A": "equal to",
+      "B": "twice",
+      "C": "four times",
+      "D": "half",
+      "Answer": "B"
+    },
+    {
+      "Number": 42,
+      "Question": "The safe height (h) to diameter (d) ratio (i.e., h/d) for liquid/petro fuel storage tank of capacity more than 45 kilolitres is less than",
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 3.5,
+      "Answer": "A"
+    },
+    {
+      "Number": 43,
+      "Question": "For given number of passes, pitch & tube diameter, the maximum number of tubes that can be accommodated in a shell of tripled inside diameter will be __________ times.",
+      "A": "about 9",
+      "B": "considerably more than 9",
+      "C": "considerably less than 9",
+      "D": "about 3",
+      "Answer": "B"
+    },
+    {
+      "Number": 44,
+      "Question": "The ratio of linear stress to linear strain is termed as the",
+      "A": "modulus of elasticity",
+      "B": "modulus of rigidity",
+      "C": "bulk modulus",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 45,
+      "Question": "__________ head is the most economical for cylindrical vessels designed for operating at high pressure (> 15 atm.).",
+      "A": "Hemispherical",
+      "B": "Dished",
+      "C": "Ellipsoidal",
+      "D": "Conical",
+      "Answer": "C"
+    },
+    {
+      "Number": 46,
+      "Question": "Bubble cap plate column is",
+      "A": "a finite stage contactor.",
+      "B": "used only for distillation, not for absorption.",
+      "C": "a differential stage contactor.",
+      "D": "a continuous contactor.",
+      "Answer": "A"
+    },
+    {
+      "Number": 47,
+      "Question": "In seive plate column, holes are drilled or punched in sizes ranging from 2.5 to 12 mm (5 mm being widely used). The hole pitch is normally __________ times the hole diameter to give the required hole area.",
+      "A": "0.5 to 1.5",
+      "B": "2.5 to 4.0",
+      "C": "5 to 10",
+      "D": "10 to 15",
+      "Answer": "B"
+    },
+    {
+      "Number": 48,
+      "Question": "Pick out the wrong statement.",
+      "A": "Rivetting provides a permanent fastening method.",
+      "B": "The joint made by overlapping of one plate over the other, and then rivetting the two plates together with two rows of rivets is called 'double rivetted butt joint'.",
+      "C": "Shank diameter of the rivets should be less than the size of the hole drilled in the plate for rivetting.",
+      "D": "The efficiency of a rivetted joint is the ratio of the strength of the rivetted joint to the strength of the solid plate.",
+      "Answer": "B"
+    },
+    {
+      "Number": 49,
+      "Question": "The force due to wind load acting on a tall vessel depends upon its",
+      "A": "shape",
+      "B": "outside diameter.",
+      "C": "height.",
+      "D": "all (a), (b) & (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 50,
+      "Question": "Bubble cap diameter used for the distillation column having diameter ranging from 1.5 to 4.5 metres is about __________ mm.",
+      "A": 10,
+      "B": 50,
+      "C": 100,
+      "D": 150,
+      "Answer": "C"
+    }
+  ],
+  "Section 8": [
+    {
+      "Number": 1,
+      "Question": "Power required for agitation depends upon the",
+      "A": "height & properties of the liquid.",
+      "B": "agitator type & speed of agitation.",
+      "C": "size of agitator & the tank.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 2,
+      "Question": "Tube height in a calendria type evaporator is normally less than __________ metres.",
+      "A": 1,
+      "B": 2,
+      "C": 3.5,
+      "D": 5.5,
+      "Answer": "B"
+    },
+    {
+      "Number": 3,
+      "Question": "Pick out the wrong statement.",
+      "A": "Lug supports are less expensive than other type of supports.",
+      "B": "A pipe is differentiated from a tube by the fact that a pipe has a greater wall thickness compared to the tube.",
+      "C": "A reducer is used to change the direction of a pipe in a straight run.",
+      "D": "The method of fixing tubes to a tube sheet by expanding is called 'tube rolling'.",
+      "Answer": "C"
+    },
+    {
+      "Number": 4,
+      "Question": "For a 25 mm hole drilled in plates to be rivetted, the shank diameter of the rivet should be __________ mm.",
+      "A": 25,
+      "B": 23,
+      "C": 26,
+      "D": 27,
+      "Answer": "B"
+    },
+    {
+      "Number": 5,
+      "Question": "In a shell and tube heat exchanger having square pitch, the shell side equivalent diameter is given by (where, P = pitch, d = outside diameter of the tube)",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/570-145-1.png",
+      "B": "https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/570-145-2.png",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/570-145-3.png",
+      "D": "pi.d/4P^2",
+      "Answer": "A"
+    },
+    {
+      "Number": 6,
+      "Question": "Optimum economic pipe diameter for fluid flow is determined by the",
+      "A": "viscosity of the fluid.",
+      "B": "density of the fluid.",
+      "C": "total cost considerations (pumping cost plus fixed cost of the pipe).",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 7,
+      "Question": "Pressure differential maintained across a continuous rotary vacuum filter is in the range of __________ mm Hg column.",
+      "A": "50 to 100",
+      "B": "100 to 150",
+      "C": "250 to 500",
+      "D": "600 to 700",
+      "Answer": "C"
+    },
+    {
+      "Number": 8,
+      "Question": "Vertical storage vessels are never supported by __________ support.",
+      "A": "bracket",
+      "B": "saddle",
+      "C": "skirt",
+      "D": "lug",
+      "Answer": "B"
+    },
+    {
+      "Number": 9,
+      "Question": "In a double pipe (concentric) heat exchanger, the hydraulic radius for heat transfer (for a fluid flowing through the annulus) would be",
+      "A": "same as that for fluid flow.",
+      "B": "less than that for fluid flow.",
+      "C": "more than that for fluid flow.",
+      "D": "D2 - D1 (D1 and D2 are I.D. of inner and outer pipes respectively).",
+      "Answer": "C"
+    },
+    {
+      "Number": 10,
+      "Question": "Elastic failure of a material occurs, when the tensile stress equals yield strength, yield point or the elastic limit. Also, the elastic failure occurs according to maximum strain theory, when the maximum tensile strain equals (where, σ = yield strength and E = modulus of elasticity)",
+      "A": "E",
+      "B": "σ",
+      "C": "σ/E",
+      "D": "E/σ",
+      "Answer": "C"
+    },
+    {
+      "Number": 11,
+      "Question": "In a pressure vessel containing multiple openings of various dimensions at different parts, stress concentration at the edges of the opening is maximum which becomes negligibly small beyond the area covered by __________ times the hole diameter.",
+      "A": "two",
+      "B": "five",
+      "C": "ten",
+      "D": "twenty",
+      "Answer": "A"
+    },
+    {
+      "Number": 12,
+      "Question": "What is the slope of the feed line, if the feed to a distillation column is a saturated liquid?",
+      "A": 0,
+      "B": "∞",
+      "C": "> 1",
+      "D": "< 1",
+      "Answer": "B"
+    },
+    {
+      "Number": 13,
+      "Question": "Filtration rate is affected by the",
+      "A": "pressure drop across the cake & filter medium.",
+      "B": "cake & filter medium resistance.",
+      "C": "area of filtering surface & the viscosity of filtrate.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 14,
+      "Question": "Liquid gradient over a tray can be minimised by",
+      "A": "providing a higher skirt clearance or a higher weir.",
+      "B": "decreasing the number of rows of caps through which the liquid flows or by decreasing the velocity of liquid flow past the caps or by reducing the distance along the tray through which the liquid must flow.",
+      "C": "using split flow, radial flow or cascade flow for column diameter large than 4 ft.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 15,
+      "Question": "In a shell and tube heat exchanger for a given heat transfer surface area, smaller diameter tubes are favoured as compared to larger diameter ones ; because the smaller diameter tubes",
+      "A": "are easier to clean.",
+      "B": "are less prone to fouling.",
+      "C": "can be fitted into a smaller shell diameter hence the cost of the heat exchanger would be less.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 16,
+      "Question": "Le/D for 90° elbow (medium radius) and 90°square elbow would be respectively around",
+      "A": "25 and 60",
+      "B": "3 and 5",
+      "C": "100 and 250",
+      "D": "250 and 600",
+      "Answer": "A"
+    },
+    {
+      "Number": 17,
+      "Question": "__________ heat exchanger is also known as 'hair pin type' exchanger,",
+      "A": "Double pipe",
+      "B": "Finned",
+      "C": "Plate type",
+      "D": "Regenerative",
+      "Answer": "A"
+    },
+    {
+      "Number": 18,
+      "Question": "What is the value of 'q' for saturated vapor feed to a distillation column ?(where q = fraction of the feed stream that is liquid.)",
+      "A": 0,
+      "B": 1,
+      "C": "< 0",
+      "D": "> 1",
+      "Answer": "A"
+    },
+    {
+      "Number": 19,
+      "Question": "In hydrostatic testing of welded pipe (for leakage, strength etc.) the ratio of minimum hydrostatic test pressure to internal design pressure is around",
+      "A": 0.5,
+      "B": 1.5,
+      "C": 2.5,
+      "D": 3.5,
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "Frame thickness in the plate and frame filter press is normally in the range of __________ inches.",
+      "A": "0.25 to 4",
+      "B": "0.25 to 8",
+      "C": "1 to 5",
+      "D": "1 to 12",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "Cylinderical shell thickness of rotary drier is generally __________ mm.",
+      "A": 45325,
+      "B": "18-22",
+      "C": 45451,
+      "D": 45641,
+      "Answer": "C"
+    },
+    {
+      "Number": 22,
+      "Question": "The ratio of lateral strain to linear strain is termed as the",
+      "A": "Poisson's ratio",
+      "B": "bulk modulus",
+      "C": "modulus of elasticity",
+      "D": "shear modulus",
+      "Answer": "A"
+    },
+    {
+      "Number": 23,
+      "Question": "The distance between the centre of a rivet hole to the nearest edge of the plate is called",
+      "A": "pitch",
+      "B": "margin",
+      "C": "back pitch",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 24,
+      "Question": "Mc Cable Thiele method used for finding theoretical stages in a distillation column assumes that the",
+      "A": "sensible heat differences are small, because the temperature changes from tray to tray is small.",
+      "B": "Trouton's rule is applicable.",
+      "C": "liquid/vapor loading across the column remains constant.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 25,
+      "Question": "A minimum clearance of about __________ mm is maintained between the distillation column wall and the bubble cap.",
+      "A": 19,
+      "B": 38,
+      "C": 76,
+      "D": 95,
+      "Answer": "B"
+    },
+    {
+      "Number": 26,
+      "Question": "Pick out the wrong statement.",
+      "A": "If sufficient residence time (around 8 seconds) is not proivided to the downcoming liquid in the downcomer, it may entrain some vapour.",
+      "B": "The liquid head in the downcomer should not be greater than one half the plate spacing to avoid flooding.",
+      "C": "The dischare end of the downcomer must project far enough into the tray liquid so that no gas bubbles can enter the open end and by pass the bubble caps.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 27,
+      "Question": "Pick out the wrong statement pertaining to shell and tube heat exchanger.",
+      "A": "Clearance between shell & baffles and between tube & baffles should be minimum to avoid by-passing of the fluid, but it should be enough to permit the removal of tube bundle.",
+      "B": "Baffles are supported independently of the tubes by tie rods and positioned by spacers.",
+      "C": "Tie rods are fixed at one end in the tube sheet by making blind holes and the minimum number of tie rods is 4 with at least 10 mm diameter.",
+      "D": "Bracket supports are used for horizontal shell, while saddle support is used for vertical shell.",
+      "Answer": "D"
+    },
+    {
+      "Number": 28,
+      "Question": "Wind load consideration in the design of a support can be neglected, when the vessel is",
+      "A": "tall (say 30 metres), but is full of liquid.",
+      "B": "tall but empty.",
+      "C": "short (< 2 m) and housed indoor.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 29,
+      "Question": "Souders Brown equation given by, https://www.indiabix.com/_files/images/chemical-engineering/process-equipment-and-plant-design/590-379-1.png , is used for the calculation of the __________ in a continuous distillation column.",
+      "A": "diameter of the bubble cap column",
+      "B": "diameter of the seive plate column",
+      "C": "tray pressure drop",
+      "D": "residence time in the downcomer for the disengagement of entrained vapour",
+      "Answer": "A"
+    },
+    {
+      "Number": 30,
+      "Question": "The ratio of volumes of the mixed reactor to the plug flow reactor (for identical feed composition, flow rate, conversion, and for all positive reaction orders) is always",
+      "A": 1,
+      "B": "< 1",
+      "C": "> 1",
+      "D": "equal to the order of reaction",
+      "Answer": "C"
+    },
+    {
+      "Number": 31,
+      "Question": "Steam economy is defined as the amount of evaporation per unit amount of steam used, while the capacity is the total evaporation obtained per hour. Use of multiple effect in evaporation",
+      "A": "increases capacity.",
+      "B": "increases economy.",
+      "C": "does not affect the capacity.",
+      "D": "both 'b' & 'c'.",
+      "Answer": "D"
+    },
+    {
+      "Number": 32,
+      "Question": "Le/D for a Tee (used as elbow, entering run) would be around",
+      "A": 5,
+      "B": 60,
+      "C": 200,
+      "D": 350,
+      "Answer": "B"
+    },
+    {
+      "Number": 33,
+      "Question": "Log mean temperature difference in case of multi-pass shell and tube heat exchanger is always",
+      "A": "less than arithmetic mean value.",
+      "B": "more than arithmetic mean value.",
+      "C": "more than geometric mean value.",
+      "D": "both(b) & (c).",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "Practical dividing line between a ductile and brittle materials is suggested, when the ultimate elongation is about 5%. Generally, larger the knuckle radius, stronger is the corner torus section of a head. The knuckle radius provided should be less than __________ of the head.",
+      "A": "6% of I.D.",
+      "B": "3 times the thickness",
+      "C": "either (a) or (b), whichever is larger",
+      "D": "either (a) or (b), whichever is smaller",
+      "Answer": "C"
+    },
+    {
+      "Number": 35,
+      "Question": "Tubes are fixed to the tube sheet (a thick circular metallic plate) by the method of tube rolling and brazing (non-removable) or ferrule connection (removable). Thickness of the tube, sheet is normally __________ the outside diameter of the tube but in no case it should be less than 22 mm (7/8\").",
+      "A": "half",
+      "B": "three fourth",
+      "C": "equal to",
+      "D": "1.5 times",
+      "Answer": "C"
+    },
+    {
+      "Number": 36,
+      "Question": "A shell may by termed as thin if its thickness to diameter ratio is less than 0.1. The factor which can be neglected in the calculation of membrane stresses is",
+      "A": "bending",
+      "B": "deformation",
+      "C": "shear",
+      "D": "elongation",
+      "Answer": "A"
+    },
+    {
+      "Number": 37,
+      "Question": "Scale up problem in design based on the similarity concept takes into account __________ similarity.",
+      "A": "geometrical",
+      "B": "kinematic",
+      "C": "dynamic",
+      "D": "all (a), (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 38,
+      "Question": "__________ closure is the weakest enclosure for cylindrical vessels.",
+      "A": "Hemispherical",
+      "B": "Torispherical",
+      "C": "Conical or flat plate",
+      "D": "Elliptical",
+      "Answer": "C"
+    },
+    {
+      "Number": 39,
+      "Question": "Which of the following efficiencies can be greater than 100%?",
+      "A": "Overall plate efficiency.",
+      "B": "Murphree plate efficiency.",
+      "C": "Point efficiency.",
+      "D": "None of these.",
+      "Answer": "B"
+    }
+  ]
+}

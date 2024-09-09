@@ -1,0 +1,4784 @@
+{
+  "Section 1": [
+    {
+      "Number": 1,
+      "Question": "Crystal size in a continuous crystalliser depends upon the",
+      "A": "rate of heat transfer.",
+      "B": "degree of turbulence.",
+      "C": "degree of supersaturation.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 2,
+      "Question": "Heat waves",
+      "A": "can not pass through vacuum.",
+      "B": "travel in straight line.",
+      "C": "can be reflected by a mirror.",
+      "D": "both (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 3,
+      "Question": "Air is best heated with steam in a heat exchanger of",
+      "A": "plate type.",
+      "B": "double pipe type with fin on steam side.",
+      "C": "double pipe type with fin on air side.",
+      "D": "shell and tube type.",
+      "Answer": "C"
+    },
+    {
+      "Number": 4,
+      "Question": "Which of the following is generally considered as opaque surface towards radiations?",
+      "A": "Gases",
+      "B": "Solids",
+      "C": "Liquids",
+      "D": "Both (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 5,
+      "Question": "Black liquor generated during paper manufacture is concentrated in a",
+      "A": "single effect evaporator.",
+      "B": "single effect evaporator followed by a crystalliser.",
+      "C": "multiple effect evaporator.",
+      "D": "multiple effect evaporators followed by a crystalliser.",
+      "Answer": "C"
+    },
+    {
+      "Number": 6,
+      "Question": "When vaporisation takes place directly at the heating surface, it is called",
+      "A": "film boiling",
+      "B": "nucleate boiling",
+      "C": "vapour binding",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 7,
+      "Question": "Steam consumption in kg/hr in case of an evaporator is given by (where, C & E are capacity the economy of the evaporator respectively)",
+      "A": "C/E",
+      "B": "E/C",
+      "C": "CE",
+      "D": "1/CE",
+      "Answer": "A"
+    },
+    {
+      "Number": 8,
+      "Question": "Reynold's analogy states that",
+      "A": "Nst α f",
+      "B": "Nst α NRe",
+      "C": "NNu α f",
+      "D": "NRe α f",
+      "Answer": "A"
+    },
+    {
+      "Number": 9,
+      "Question": "With increase in temperature, the thermal conductivity of non-metallic amorphous solids",
+      "A": "decreases",
+      "B": "increases",
+      "C": "remains constant",
+      "D": "first decreases upto certain temperature and then increases",
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "Fourier's law applies to the heat transfer by",
+      "A": "convection",
+      "B": "radiation",
+      "C": "conduction",
+      "D": "all (a), (b) & (c)",
+      "Answer": "C"
+    },
+    {
+      "Number": 11,
+      "Question": "Shell side pressure drop in a shell and tube heat exchanger does not depend upon the",
+      "A": "baffle spacing & shell diameter.",
+      "B": "tube diameter & pitch.",
+      "C": "viscosity, density & mass velocity of shell side fluid.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 12,
+      "Question": "In the equation Q = UAΔt; Δt is",
+      "A": "geometric mean temperature difference.",
+      "B": "arithmetic mean temperature difference.",
+      "C": "logarithmic mean temperature difference.",
+      "D": "the difference of average bulk temperatures of hot and cold fluids.",
+      "Answer": "C"
+    },
+    {
+      "Number": 13,
+      "Question": "With increase in porosity, the thermal conductivity of a solid substance",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains unchanged",
+      "D": "may increase or decrease; depends on the solid",
+      "Answer": "B"
+    },
+    {
+      "Number": 14,
+      "Question": "For an ideal black body",
+      "A": "absorptivity = 1",
+      "B": "reflectivity = 1",
+      "C": "emissivity = 0",
+      "D": "transmissivity = 1",
+      "Answer": "A"
+    },
+    {
+      "Number": 15,
+      "Question": "In Joule's experiment, an insulated container contains 20 kg of water initially at 25°C. It is stirred by an agitator, which is made to turn by a slowly falling body weighing 40 kg through a height of 4 m. The process is repeated 500 times. The acceleration due to gravity is 9.8 ms-2. Neglecting the heat capacity of agitator, the temperature of water (in °C) is",
+      "A": 40.5,
+      "B": 34.4,
+      "C": 26.8,
+      "D": 25,
+      "Answer": "B"
+    },
+    {
+      "Number": 16,
+      "Question": "Fouling factor",
+      "A": "is a dimensionless quantity.",
+      "B": "does not provide a safety factor for design.",
+      "C": "accounts for additional resistances to heat flow.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 17,
+      "Question": "In case of vertical tube evaporator, with increase in liquor level, the overall heat transfer co-efficient",
+      "A": "increases",
+      "B": "decreases",
+      "C": "is not affected",
+      "D": "may increase or decrease; depends on the feed",
+      "Answer": "B"
+    },
+    {
+      "Number": 18,
+      "Question": "The steam ejector is used to",
+      "A": "remove condensate from the steam pipelines.",
+      "B": "create vacuum.",
+      "C": "superheat the steam.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 19,
+      "Question": "For shell and tube heat exchanger, with increasing heat transfer area, the purchased cost per unit heat transfer area",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains constant",
+      "D": "passes through a maxima",
+      "Answer": "D"
+    },
+    {
+      "Number": 20,
+      "Question": "The thermal efficiency of a reversible heat engine operating between two given thermal reservoirs is 0.4. The device is used either as a refrigerator or as a heat pump between the same reservoirs. Then the coefficient of performance as a refrigerator (COP)R and the co-efficient of performance as a heat pump (COP)HP are",
+      "A": "(COP)R = (COP)HP = 0.6",
+      "B": "(COP)R = 2.5; (COP)HP = 1.5",
+      "C": "(COP)R = 1.5; (COP)HP = 2.5",
+      "D": "(COP)R = (COP)HP = 2.5",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "Hot water (0.01 m3 /min) enters the tube side of a counter current shell and tube heat exchanger at 80°C and leaves at 50°C. Cold oil (0.05 m3/min) of density 800 kg/m3 and specific heat of 2 kJ/kg.K enters at 20°C. The log mean temperature difference in °C is approximately",
+      "A": 32,
+      "B": 37,
+      "C": 45,
+      "D": 50,
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "In a heat exchanger, floating head is provided to",
+      "A": "facilitate cleaning of the exchanger.",
+      "B": "increase the heat transfer area.",
+      "C": "relieve stresses caused by thermal expansion.",
+      "D": "increase log mean temperature gradient.",
+      "Answer": "C"
+    },
+    {
+      "Number": 23,
+      "Question": "Leidenfrost point is a term concerned with the",
+      "A": "condensation of the saturated vapor on a cold surface.",
+      "B": "concentration of a corrosive solution by evaporation.",
+      "C": "heat transfer between two highly viscous liquids.",
+      "D": "boiling of a liquid on a hot surface.",
+      "Answer": "D"
+    },
+    {
+      "Number": 24,
+      "Question": "A process stream of dilute aqueous solution flowing at the rate of10 Kg.s-1 is to be heated. Steam condensate at 95°C is available for heating purpose, also at a rate of 10 Kg.s-1. A 1 - 1 shell and tube heat exchanger is available. The best arrangement is",
+      "A": "counter flow with process stream on shell side.",
+      "B": "counter flow with process stream on tube side.",
+      "C": "parallel flow with process stream on shell side.",
+      "D": "parallel flow with process stream on tube side.",
+      "Answer": "A"
+    },
+    {
+      "Number": 25,
+      "Question": "Heat produced when a steady state current, I passes through an electrical conductor having resistance, 'R' is",
+      "A": "IR",
+      "B": "I^2R",
+      "C": "IR^2",
+      "D": "I^2R^2",
+      "Answer": "B"
+    },
+    {
+      "Number": 26,
+      "Question": "Pick out the wrong statement.",
+      "A": "Orifice baffles are never used in a shell and tube heat exchanger.",
+      "B": "Pressure drop on the shell side of a heat exchanger depends upon tube pitch also.",
+      "C": "In a horizontal tube evaporator, surface blanketing by air is avoided.",
+      "D": "Split ring type and pull through type floating heads are two commonly used floating heads is heat exchangers.",
+      "Answer": "A"
+    },
+    {
+      "Number": 27,
+      "Question": "Convective heat transfer co-efficient in case of fluid flowing in tubes is not affected by the tube length/diameter ratio, if the flow is in the __________ zone.",
+      "A": "laminar",
+      "B": "transition",
+      "C": "both 'a' & 'b'",
+      "D": "highly turbulent",
+      "Answer": "D"
+    },
+    {
+      "Number": 28,
+      "Question": "The actual temperature drop across the heating surface in an evaporator depends on the",
+      "A": "feed.",
+      "B": "depth of liquid over heating surface.",
+      "C": "pressure difference between steam chest and vapour space.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 29,
+      "Question": "Which of the following is not used as a medium for high temperature heating?",
+      "A": "Dowtherm",
+      "B": "mercury",
+      "C": "liquid metal (e.g. molten sodium)",
+      "D": "fused salts (e.g., an eutectic mixture of 53% KNO3, 40% NaNO2and 7% NaNO3)",
+      "Answer": "B"
+    },
+    {
+      "Number": 30,
+      "Question": "Presence of a non-condensing gas in a condensing vapour",
+      "A": "increases the rate of condensation.",
+      "B": "decreases thermal resistance.",
+      "C": "is desirable to increase the film co-efficient.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 31,
+      "Question": "Kirchoff s law applies to __________ radiation.",
+      "A": "total",
+      "B": "monochromatic",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 32,
+      "Question": "With the increase of temperature, the Col-burn jH factor",
+      "A": "increases.",
+      "B": "decreases.",
+      "C": "remains unchanged.",
+      "D": "may increase or decrease ; depending on temperature.",
+      "Answer": "A"
+    },
+    {
+      "Number": 33,
+      "Question": "In case of evaporators, liquid entrainment results primarily due to",
+      "A": "high vacuum in the evaporator.",
+      "B": "high evaporation rate.",
+      "C": "foaming of the solution.",
+      "D": "high heat transfer rate.",
+      "Answer": "C"
+    },
+    {
+      "Number": 34,
+      "Question": "Baffles in the shell side of a shell and tube heat exchanger",
+      "A": "increase the cross-section of the shell side liquid.",
+      "B": "force the liquid to flow parallel to the bank.",
+      "C": "increase the shell side heat transfer co-efficient.",
+      "D": "decrease the shell side heat transfer co-efficient.",
+      "Answer": "C"
+    },
+    {
+      "Number": 35,
+      "Question": "Air is to be heated by condensing steam. Two heat exchangers are available (i) a shell and tube heat exchanger and (ii) a finned tube heat exchanger. Tube side heat transfer area are equal in both the cases. The recommended arrangement is",
+      "A": "finned tube heat exchanger with air inside and steam outside.",
+      "B": "finned tube heat exchanger with air outside and steam inside.",
+      "C": "shell and tube heat exchanger with air inside tubes and steam on shell side.",
+      "D": "shell and tube heat exchanger with air on shell side and steam inside tubes.",
+      "Answer": "B"
+    },
+    {
+      "Number": 36,
+      "Question": "The unit of heat transfer co-efficient in SI unit is",
+      "A": "J/M2°K",
+      "B": "W/m2°K",
+      "C": "W/m°K",
+      "D": "J/m°K",
+      "Answer": "B"
+    },
+    {
+      "Number": 37,
+      "Question": "The number of kg vaporised per kg of steam fed to the evaporator is defined as",
+      "A": "capacity",
+      "B": "rate of evaporation",
+      "C": "economy",
+      "D": "rate of vaporisation",
+      "Answer": "C"
+    },
+    {
+      "Number": 38,
+      "Question": "Pick out the wrong statement.",
+      "A": "In case of heat transfer by purely forced convection, GR/Re2 ≤ 1.",
+      "B": "The equivalent diameter of heat transfer for a duct of square cross-section (having each side as 'x') is equal to 4x.",
+      "C": "Distillation process is not the same as evaporation.",
+      "D": "The effectiveness of nucleate boiling depends basically on the ease with which the bubbles are formed and detached from the heating surface.",
+      "Answer": "B"
+    },
+    {
+      "Number": 39,
+      "Question": "Economy of a multiple effect evaporator is not influenced much by the",
+      "A": "boiling point elevations",
+      "B": "temperature of the feed",
+      "C": "rate of heat transfer",
+      "D": "ratio of the weight of the thin liquor to thick liquor",
+      "Answer": "A"
+    },
+    {
+      "Number": 40,
+      "Question": "Increasing the liquor level in the evaporator results in the",
+      "A": "decreased capacity.",
+      "B": "increase in liquor film co-efficient.",
+      "C": "decreased effect of hydrostatic head.",
+      "D": "increased true temperature drop.",
+      "Answer": "A"
+    },
+    {
+      "Number": 41,
+      "Question": "The equivalent diameter for pressure drop is __________ that for heat transfer.",
+      "A": "smaller than",
+      "B": "greater than",
+      "C": "equal to",
+      "D": "not related with",
+      "Answer": "A"
+    },
+    {
+      "Number": 42,
+      "Question": "Controlling heat transfer film co-efficient is the one, which offers __________ resistance to heat transfer.",
+      "A": "no",
+      "B": "the least",
+      "C": "the largest",
+      "D": "lower",
+      "Answer": "C"
+    },
+    {
+      "Number": 43,
+      "Question": "The heat flux (from outside to inside) across an insulating wall with thermal conductivity, K= 0.04 W/m.°K and thickness 0.16m is 10 W/m2. The temperature of the inside wall is - 5°C. The outside wall temperature is",
+      "A": "25°C",
+      "B": "30°C",
+      "C": "35°C",
+      "D": "40°C",
+      "Answer": "C"
+    },
+    {
+      "Number": 44,
+      "Question": "Thermal conductivity of a conducting solid material depends upon its",
+      "A": "temperature",
+      "B": "porosity",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 45,
+      "Question": "Pick out the wrong statement.",
+      "A": "The controlling resistance in case of heating of air by condensing steam is in the air film.",
+      "B": "The log mean temperature difference (LMTD) for counter flow and parallel flow can be theoretically same when any one of the fluids (hot or cold fluid) passes through the heat exchanger at constant temperature.",
+      "C": "In case of a 1 - 2 shell and tube heat exchanger, the LMTD correction factor value increases sharply, when a temperature cross occurs.",
+      "D": "Phase change in case of a pure fluid at a given pressure from liquid to vapor or vice-versa occurs at saturation temperature.",
+      "Answer": "C"
+    },
+    {
+      "Number": 46,
+      "Question": "The average heat transfer co-efficient for laminar film condensation on vertical surface is inversely proportional to (where, ΔT = Temperature drop across condensate film)",
+      "A": "(ΔT)^2",
+      "B": "sqrt*ΔT",
+      "C": "(ΔT)^1/4",
+      "D": "(ΔT)^3/2",
+      "Answer": "C"
+    },
+    {
+      "Number": 47,
+      "Question": "Bulk of the convective heat transfer resistance from a hot tube surface to the fluid flowing in it, is",
+      "A": "in the central core of the fluid.",
+      "B": "uniformly distributed throughout the fluid.",
+      "C": "mainly confined to a thin film of fluid near the surface.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 48,
+      "Question": "Which of the following is concerned with both heat and mass transfer?",
+      "A": "Lewis relationship",
+      "B": "Nusselt number",
+      "C": "Kutateladze number",
+      "D": "Froude number",
+      "Answer": "A"
+    },
+    {
+      "Number": 49,
+      "Question": "A backward feed multiple effect evaporator is better than forward feed for concentrating cold feed, because it provides",
+      "A": "higher economy",
+      "B": "lower capacity",
+      "C": "both (a) & (b)",
+      "D": "lower economy",
+      "Answer": "A"
+    },
+    {
+      "Number": 50,
+      "Question": "A 10 cm dia steam pipe, carrying steam at 180°C, is covered with an insulation (conductivity = 0.6 W/m.°C). It losses heat to the surroundings at 30°C. Assume a heat transfer co-efficient of 0.8 W/m2.°C for heat transfer from surface to the surroundings. Neglect wall resistance of the pipe and film resistance of steam. If the insulation thickness is 2 cms, the rate of heat loss from this insulated pipe will be",
+      "A": "greater than that for uninsulated steam pipe.",
+      "B": "less than that of the uninsulated steam pipe.",
+      "C": "equal to that of the uninsulated steam pipe.",
+      "D": "less than the steam pipe with 5 cms insulation.",
+      "Answer": "B"
+    }
+  ],
+  "Section 2": [
+    {
+      "Number": 1,
+      "Question": "Which area is used in case of heat flow by conduction through a cylinder?",
+      "A": "Logarithmic mean area",
+      "B": "Arithmetic mean area",
+      "C": "Geometric mean area",
+      "D": "None of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 2,
+      "Question": "Heat transfer by conduction results due to the transfer of free electrons, kinetic energy & vibrational energy from one molecule to another. Conduction heat transfer can not take place",
+      "A": "between two bodies in physical contact with each other.",
+      "B": "between two bodies not in physical contact with each other.",
+      "C": "from one part of a body to the another part of the same body.",
+      "D": "both 'b' & 'c'",
+      "Answer": "B"
+    },
+    {
+      "Number": 3,
+      "Question": "The dimensionless group in mass transfer that is equivalent to Prandtl number in heat transfer is",
+      "A": "Nusselt number.",
+      "B": "Sherwood number.",
+      "C": "Schmidt number.",
+      "D": "Stanton number.",
+      "Answer": "C"
+    },
+    {
+      "Number": 4,
+      "Question": "Finned tube heat exchangers",
+      "A": "give larger area per tube.",
+      "B": "use metal fins of low thermal conductivity.",
+      "C": "facilitate very large temperature drop through tube wall.",
+      "D": "are used for smaller heat load.",
+      "Answer": "A"
+    },
+    {
+      "Number": 5,
+      "Question": "The absorptivity of a grey body at a given temperature __________ with increasing wavelength of radiation.",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains constant",
+      "D": "may increase or decrease ; depends on the material",
+      "Answer": "D"
+    },
+    {
+      "Number": 6,
+      "Question": "Which one gives the monochromatic emissive power for black body radiation?",
+      "A": "Planck's law",
+      "B": "Kirchhoffs law",
+      "C": "Wien's law",
+      "D": "Stefan-Boltzman law",
+      "Answer": "A"
+    },
+    {
+      "Number": 7,
+      "Question": "For what value of Prandtl number, St = f/2?",
+      "A": 1.5,
+      "B": 1,
+      "C": "> 1",
+      "D": "< 1",
+      "Answer": "B"
+    },
+    {
+      "Number": 8,
+      "Question": "In a shell and tube heat exchanger,",
+      "A": "the temperature drops in the two fluids and the wall are proportional to individual resistances.",
+      "B": "the temperature drop is inversely proportional to the resistance across which the drop occurs.",
+      "C": "there is no relationship between temperature drop and resistance.",
+      "D": "the relationship is not generalised.",
+      "Answer": "A"
+    },
+    {
+      "Number": 9,
+      "Question": "Dietus-Boelter equation used for the determination of heat transfer co-efficient is valid",
+      "A": "for fluids in laminar flow.",
+      "B": "for fluids in tubulent flow.",
+      "C": "when Grashhoff number is very important.",
+      "D": "for liquid metals.",
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "The equation, Nst = (f/2)/(1+5(NPr - 1)(sqrt*f/2)), corrosponds to __________ analogy.",
+      "A": "Von-Karmann",
+      "B": "Reynolds",
+      "C": "Colburn",
+      "D": "Prandtl",
+      "Answer": "D"
+    },
+    {
+      "Number": 11,
+      "Question": "For large heat transfer area requirement, shell and tube heat exchanger is preferred, because it",
+      "A": "occupies smaller space.",
+      "B": "is more economical.",
+      "C": "is easy to operate and maintain.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 12,
+      "Question": "Out of the following four assumptions used in the derivation of the equation for LMTD [LMTD = (Δt1 - Δt2)/(ln(Δt1/Δt2))], which one is subject to the largest deviation in practice ?",
+      "A": "Constant overall heat transfer co-efficient.",
+      "B": "Constant rate of fluid flow.",
+      "C": "Constant specific heat.",
+      "D": "No partial phase change in the system.",
+      "Answer": "B"
+    },
+    {
+      "Number": 13,
+      "Question": "Heat flux increases with temperature drop beyond the Leiden frost point in the plot of heat flux vs. temperature drop for a boiling liquid, because",
+      "A": "convection becomes important",
+      "B": "conduction becomes important",
+      "C": "radiation becomes important",
+      "D": "sub-cooled boiling occurs",
+      "Answer": "C"
+    },
+    {
+      "Number": 14,
+      "Question": "Resistance to heat flow by conduction is proportional to (where, t & ρ are thickness & density of the material respectively and A = area normal to the direction of heat flow.)",
+      "A": "t",
+      "B": "1/ρ",
+      "C": "1/A",
+      "D": "all (a), (b) & (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 15,
+      "Question": "Temperature profile in steady state heat transfer is",
+      "A": "asymptotic",
+      "B": "hyperbolic",
+      "C": "parabolic",
+      "D": "linear",
+      "Answer": "D"
+    },
+    {
+      "Number": 16,
+      "Question": "For the same heat load and mass flow rate in the tube side of a shell and tube heat exchanger, one may use multipass on the tube side, because it",
+      "A": "decreases the pressure drop.",
+      "B": "decreases the outlet temperature of cooling medium.",
+      "C": "increases the overall heat transfer coefficient.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 17,
+      "Question": "When vaporisation takes place through a blanketting film of gas, the phenomenon is termed as __________ boiling.",
+      "A": "pool",
+      "B": "nucleate",
+      "C": "transition",
+      "D": "film",
+      "Answer": "D"
+    },
+    {
+      "Number": 18,
+      "Question": "Minimum recommended baffle spacing in a shell and tube heat exchanger is about (where, D = shell diameter)",
+      "A": "0.2 D",
+      "B": "0.5 D",
+      "C": "0.66 D",
+      "D": "0.80 D",
+      "Answer": "A"
+    },
+    {
+      "Number": 19,
+      "Question": "Stefan-Boltzman law which describes the radiation heat transfer states that, it is proportional to (where, t = temperature in °C T = absolute temperature in ° K)",
+      "A": "t^4",
+      "B": "T^4",
+      "C": "1/t^4",
+      "D": "1/T^4",
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "The Nusselt number for fully developed (both thermally and hydrodynamically) laminar flow through a circular pipe, where the wall heat flux is constant, is",
+      "A": 2.36,
+      "B": 4.36,
+      "C": 120.36,
+      "D": "dependent on NRe only",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "What is the unit of thermal conductivity?",
+      "A": "Kcal/hr. m2 °C",
+      "B": "Kcal/hr.m.°C",
+      "C": "Kcal/hr.m",
+      "D": "Kcal/hr. °C",
+      "Answer": "B"
+    },
+    {
+      "Number": 22,
+      "Question": "The thermal radiation emitted by a body is proportional to T^n, where T is its absolute temperature. The value of 'n' is exactly 4 for",
+      "A": "black painted bodies",
+      "B": "all bodies",
+      "C": "polished bodies only",
+      "D": "a black body",
+      "Answer": "B"
+    },
+    {
+      "Number": 23,
+      "Question": "It is not preferable to use superheated steam in evaporators, because of its very",
+      "A": "high temperature",
+      "B": "high pressure",
+      "C": "low film co-efficient",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 24,
+      "Question": "It is desired to concentrate a 20% salt solution (20 kg of salt in 100 kg of solution) to a 30% salt solution in an evaporator. Consider a feed of 300 kg/min at 30°C. The boiling point of the solution is 110°C, the latent heat of vaporisation is 2100 kJ/kg and the specific heat of the solution is 4 kJ/kg.K. The rate at which the heat has to be supplied in (kJ/min) to the evaporator is",
+      "A": "3.06 x 10^5",
+      "B": "6.12 x 10^5",
+      "C": "7.24 x 10^5",
+      "D": "9.08 x 10^5",
+      "Answer": "A"
+    },
+    {
+      "Number": 25,
+      "Question": "LMTD for counterflow and prallel flow heat exchanger will be the same, when the",
+      "A": "cold fluid is heated to a certain temperature by condensing steam (isothermal fluid).",
+      "B": "outlent temperature of both the hot and cold fluid are same.",
+      "C": "outlet temperature of hot fluid is less than the outlet temperature of the cold fluid.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 26,
+      "Question": "For flow over a flat plate, the ratio of thermal boundary layer thickness, 'xt' and hydrodynamic boundary layer thickness 'x' is equal to (where, NPr = Prandtl number)",
+      "A": "NPr",
+      "B": "NPr^1/3",
+      "C": "NPr^-1",
+      "D": "NPr^-1/3",
+      "Answer": "B"
+    },
+    {
+      "Number": 27,
+      "Question": "The range of electromagnetic spectrum important in heat transfer by radiation is __________ microns.",
+      "A": "0.38-0.78",
+      "B": "0.5-50",
+      "C": "100-1000",
+      "D": "5-50",
+      "Answer": "B"
+    },
+    {
+      "Number": 28,
+      "Question": "Use of transverse baffles in a shell and tube heat exchanger is done to increase the",
+      "A": "rate of heat transfer.",
+      "B": "flow velocity.",
+      "C": "turbulence of shell side fluid.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 29,
+      "Question": "The actual temperature drop across the heating surface of an evaporator depends on the",
+      "A": "liquid depth over the heating surface.",
+      "B": "solution being evaporated.",
+      "C": "pressure difference between the steam chest and the vapor space above the boiling liquid.",
+      "D": "all (a), (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 30,
+      "Question": "Economy of a multiple effect evaporator depends upon the",
+      "A": "heat balance consideration",
+      "B": "rate of heat transfer",
+      "C": "both (a) and (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "A"
+    },
+    {
+      "Number": 31,
+      "Question": "The Graetz number is concerned with the",
+      "A": "mass transfer between a gas and a liquid.",
+      "B": "absorption with chemical reaction.",
+      "C": "heat transfer in turbulent flow.",
+      "D": "heat transfer in laminar flow.",
+      "Answer": "D"
+    },
+    {
+      "Number": 32,
+      "Question": "Solid angle subtended by the finite surface at the radiating element is",
+      "A": "called the view factor.",
+      "B": "called the angle of vision.",
+      "C": "proportional to the square of the distance between surfaces.",
+      "D": "expressed in terms of radians.",
+      "Answer": "B"
+    },
+    {
+      "Number": 33,
+      "Question": "Pick out the wrong statement.",
+      "A": "The emissivity of a surface decreases, if it gets corroded by atmospheric environment.",
+      "B": "The emissivity of a surface increases with increase in surface roughness.",
+      "C": "The emissivity of a polished surface is quite low.",
+      "D": "The emissivity of a non-metallic surface decreases with increase in the temperature.",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "In forced convection, the heat transfer depends on",
+      "A": "Re, Pr",
+      "B": "Re, Gr",
+      "C": "mainly Gr",
+      "D": "Re only",
+      "Answer": "A"
+    },
+    {
+      "Number": 35,
+      "Question": "With increase in temperature, the thermal conductivity of most liquids",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains same",
+      "D": "first increases upto a certain temperature and then becomes constant",
+      "Answer": "B"
+    },
+    {
+      "Number": 36,
+      "Question": "Heat transfer by __________ may not necessarily require the presence of a medium.",
+      "A": "conduction",
+      "B": "natural convection",
+      "C": "forced convection",
+      "D": "radiation",
+      "Answer": "D"
+    },
+    {
+      "Number": 37,
+      "Question": "Pick out the correct statement.",
+      "A": "Higher is the temperature of the radiating body, higher is the wavelength of radiation.",
+      "B": "Logarithmic mean area is used for calculating the heat flow rate through a thick walled cylinder.",
+      "C": "The wavelength corresponding to maximum mono-chromatic emissive power increases with rise in temperature.",
+      "D": "Solid angle subtended by the finite surface at the radiating element is called the angle of incidence.",
+      "Answer": "B"
+    },
+    {
+      "Number": 38,
+      "Question": "In a shell and tube type heat exchanger, the floating tube bundle heat arrangement is used",
+      "A": "in low range of temperature differences.",
+      "B": "in high range of temperature differences.",
+      "C": "because of its low cost.",
+      "D": "to prevent corrosion of the tube bundles.",
+      "Answer": "B"
+    },
+    {
+      "Number": 39,
+      "Question": "Stefan-Boltzman law applies to __________ body.",
+      "A": "black",
+      "B": "white",
+      "C": "grey",
+      "D": "any colour",
+      "Answer": "A"
+    },
+    {
+      "Number": 40,
+      "Question": "The film co-efficient is decreased due to the presence of non-condensing gases in the vapors. The film co-efficient of superheated vapor as compared to that of saturated vapor is",
+      "A": "more",
+      "B": "less",
+      "C": "some",
+      "D": "either more or less ; depends on the nature of vapor",
+      "Answer": "C"
+    },
+    {
+      "Number": 41,
+      "Question": "A perfect black body is a perfect __________ of radiation.",
+      "A": "absorber",
+      "B": "emitter",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 42,
+      "Question": "In case of parallel flow heat exchanger, the lowest temperature theoretically attainable by the hot fluid is __________ the outlet temperature of the cold fluid.",
+      "A": "equal to",
+      "B": "more than",
+      "C": "less than",
+      "D": "either more or less than (depending upon the fluid)",
+      "Answer": "A"
+    },
+    {
+      "Number": 43,
+      "Question": "An equipment which converts the latent or sensible heat of one fluid into the latent heat of vaporisation of another, is called a",
+      "A": "boiler",
+      "B": "heat exchanger",
+      "C": "recuperator",
+      "D": "regenerator",
+      "Answer": "B"
+    },
+    {
+      "Number": 44,
+      "Question": "Which of the following is directly concerned with the heat transfer?",
+      "A": "Strouhal number",
+      "B": "Sherwood number",
+      "C": "Euler number",
+      "D": "Grashoff number",
+      "Answer": "D"
+    },
+    {
+      "Number": 45,
+      "Question": "Pick out the wrong statement:",
+      "A": "With change in temperature, the radiant energy emitted by a black body remains unchanged.",
+      "B": "Absorptivity of a body approaches unity in case of diffuse reflection.",
+      "C": "Absorptivity of a perfectly black body is unity.",
+      "D": "Value of Stefan-Boltzman constant is 4.876 x 10-8 KCal/m2.hr.°K4.",
+      "Answer": "A"
+    },
+    {
+      "Number": 46,
+      "Question": "Planck's distribution law is valid for __________ bodies.",
+      "A": "black",
+      "B": "white",
+      "C": "coloured",
+      "D": "all (a), (b) & (c)",
+      "Answer": "C"
+    },
+    {
+      "Number": 47,
+      "Question": "For hot feed, forward feeding as compared to backward feeding results in __________ economy.",
+      "A": "increased",
+      "B": "decreased",
+      "C": "no effect on",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 48,
+      "Question": "Radiation energy is emitted by all the substances, which are above",
+      "A": "0°K",
+      "B": "0°C",
+      "C": "100°C",
+      "D": "room temperature",
+      "Answer": "A"
+    },
+    {
+      "Number": 49,
+      "Question": "The interchange factor for radiation heat transfer from surface 'x' to surface 'y' in case of an infinite parallel planes with emis-sivities εx & εy is given by",
+      "A": "εx + εy",
+      "B": "εx . εy",
+      "C": "1/εx + 1/εy",
+      "D": "(εx + εy)/(εx + εy - εx . εy)",
+      "Answer": "D"
+    }
+  ],
+  "Section 3": [
+    {
+      "Number": 1,
+      "Question": "What is the steam economy in case of a single effect evaporator system?",
+      "A": 1,
+      "B": ">1",
+      "C": "<1",
+      "D": 0.1,
+      "Answer": "C"
+    },
+    {
+      "Number": 2,
+      "Question": "If average heat transfer co-efficient is ha and the local coefficient at the end of the plate is hl then in case of heat transfer to a fluid flowing over a flat plate, heated over its entire length",
+      "A": "ha = hl",
+      "B": "ha = 2hl",
+      "C": "ha = 0.5 hl",
+      "D": "ha = 0.75 hl",
+      "Answer": "B"
+    },
+    {
+      "Number": 3,
+      "Question": "jH factor for heat transfer is not a function of the __________ number.",
+      "A": "Reynolds",
+      "B": "Nusselt",
+      "C": "Grashoff",
+      "D": "both (b) & (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 4,
+      "Question": "The Fourier number (defined as a.t/L2) is used in the analysis of problem involving heat transfer by",
+      "A": "forced convection",
+      "B": "natural convection",
+      "C": "transient conduction",
+      "D": "steady state conduction",
+      "Answer": "C"
+    },
+    {
+      "Number": 5,
+      "Question": "The energy radiated from a surface Q at absolute temperature T is related as",
+      "A": "Q ∝ T^2",
+      "B": "Q ∝ T^4",
+      "C": "Q ∝ T^3",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "Baffles are provided in heat exchangers to increase the",
+      "A": "fouling factor",
+      "B": "heat transfer area",
+      "C": "heat transfer co-efficient",
+      "D": "heat transfer rate",
+      "Answer": "C"
+    },
+    {
+      "Number": 7,
+      "Question": "200 kg of solids (on dry basis) is subjected to a drying process for a period of 5000 seconds. The drying occurs in the constant rate period with the drying rate as, Nc = 0.5 x 10-3 kg/m2.s. The initial moisture content of the solid is 0.2 kg moisture/kg dry solid. The interfacial area available for drying is 4 m2/1000 kg of dry solid. The moisture content at the end of the drying period is (in kg moisture/kg dry solid)",
+      "A": 0.5,
+      "B": 0.05,
+      "C": 0.1,
+      "D": 0.15,
+      "Answer": "C"
+    },
+    {
+      "Number": 8,
+      "Question": "In case of a vertical tube evaporator, with increase in the liquor level, the",
+      "A": "capacity of the evaporator is decreased.",
+      "B": "capacity of the evaporator is increased.",
+      "C": "true temperature drop increases.",
+      "D": "both (b) and (c).",
+      "Answer": "A"
+    },
+    {
+      "Number": 9,
+      "Question": "The ratio of total radiating power to the absorptivity of the body depends upon the __________ as per Kirchoffs law.",
+      "A": "wavelength of radiation",
+      "B": "nature of the body",
+      "C": "temperature of the body",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 10,
+      "Question": "For gases, the thermal conductivity increases with temperature rise. For liquids, with increase in concentration, its thermal conductivity generally",
+      "A": "decreases",
+      "B": "increases",
+      "C": "remains unchanged",
+      "D": "increases exponentially",
+      "Answer": "A"
+    },
+    {
+      "Number": 11,
+      "Question": "A 2-4 heat exchanger involves",
+      "A": "only counter-flow of fluids.",
+      "B": "only parallel-flow of fluids.",
+      "C": "both counter and parallel-flow of the fluids.",
+      "D": "smaller pressure drop compared to 1-2 exchanger.",
+      "Answer": "C"
+    },
+    {
+      "Number": 12,
+      "Question": "In a liquid-liquid heat exchanger, for the same process temperature, the ratio of the LMTD in parallel flow to the LMTD in counter flow is always",
+      "A": "< 1",
+      "B": "> 1",
+      "C": 1,
+      "D": "∞",
+      "Answer": "A"
+    },
+    {
+      "Number": 13,
+      "Question": "With increase in temperature, the thermal conductivity of steel",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains unchanged",
+      "D": "increases exponentially",
+      "Answer": "B"
+    },
+    {
+      "Number": 14,
+      "Question": "Which of the following forced convection heat transfer equation accounts for the liquid viscosity effect for viscous liquids?",
+      "A": "Dittus-Boeltier equation",
+      "B": "Sieder-Tate equation",
+      "C": "Nusselt equation",
+      "D": "None of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "The main function of baffles provided in a shell and tube heat exchanger is to",
+      "A": "facilitate the cleaning of outer tube surface.",
+      "B": "enhance turbulence.",
+      "C": "hold the tubes in position.",
+      "D": "all 'a', 'b' & 'c'.",
+      "Answer": "B"
+    },
+    {
+      "Number": 16,
+      "Question": "In a single effect evaporator, the economy is",
+      "A": 1,
+      "B": "< 1",
+      "C": "> 1",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 17,
+      "Question": "LMTD correction factor which is to be applied for a cross-flow heat exchanger increases with increase in the number of shell passes. Its value for a single pass cross flow heat exchanger is",
+      "A": 0,
+      "B": 1,
+      "C": ">1",
+      "D": "<1",
+      "Answer": "D"
+    },
+    {
+      "Number": 18,
+      "Question": "Which of the following is not concerned with the heat transfer?",
+      "A": "Brinkman number",
+      "B": "Stanton number",
+      "C": "Schmidt number",
+      "D": "Peclet number",
+      "Answer": "C"
+    },
+    {
+      "Number": 19,
+      "Question": "Latent heat absorbed by 1 lb of water at 212°F, when it is changed to steam at 212°F, may be around __________ BTU.",
+      "A": 180,
+      "B": 970,
+      "C": 3.97,
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 20,
+      "Question": "In counter flow compared to parallel flow,",
+      "A": "LMTD is greater.",
+      "B": "less surface area is required for a given heat transfer rate.",
+      "C": "both (a) and (b).",
+      "D": "more surface area is required for a given heat transfer rate.",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "The thermal radiative flux from a surface of emissivity = 0.4 is 22.68 kW/m2. The approximate surface temperature (K) is (Stefan-Boltzman constant = 5.67xl0-8 W/m2.K4)",
+      "A": 1000,
+      "B": 727,
+      "C": 800,
+      "D": 1200,
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "Crystallisation of solids from a homogeneous solution is a/an __________ process.",
+      "A": "exothermic",
+      "B": "mildly endothermic",
+      "C": "highly endothermic",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 23,
+      "Question": "A multiple effect evaporator has a capacity to process 4000 kg of solid caustic soda per day, when it is concentrating from 10% to 25% solids. The water evaporated in kg per day is",
+      "A": 6000,
+      "B": 24000,
+      "C": 60000,
+      "D": 48000,
+      "Answer": "B"
+    },
+    {
+      "Number": 24,
+      "Question": "Value of Prandtl number for water ranges from",
+      "A": "1 to 2",
+      "B": "5 to 10",
+      "C": "100 to 500",
+      "D": "1000 to 2000",
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "Heat transfer in the laminar sublayer in case of a liquid flowing through a pipe, is mostly by",
+      "A": "eddies current",
+      "B": "conduction",
+      "C": "convection",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 26,
+      "Question": "Among liquids, water has a comparatively high value of thermal conductivity, due to its",
+      "A": "low density",
+      "B": "high viscosity",
+      "C": "partial ionisation",
+      "D": "dense structure",
+      "Answer": "C"
+    },
+    {
+      "Number": 27,
+      "Question": "Reynold's analogy states that (where, St = Stanton number f = friction factor)",
+      "A": "St = f/2",
+      "B": "St = f/4",
+      "C": "St = 4f",
+      "D": "St = f^1/2",
+      "Answer": "A"
+    },
+    {
+      "Number": 28,
+      "Question": "For evaporation of viscous solution in a multiple effect evaporator, the prefered feeding scheme is",
+      "A": "forward",
+      "B": "backward",
+      "C": "parallel",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 29,
+      "Question": "The sum of reflectivity and absorptivity for an opaque body is equal to",
+      "A": 0.5,
+      "B": 1,
+      "C": 0,
+      "D": 2,
+      "Answer": "B"
+    },
+    {
+      "Number": 30,
+      "Question": "The film thickness for laminar film condensation on vertical surface __________ from top to bottom.",
+      "A": "cummulatively increases",
+      "B": "cummulatively decreases",
+      "C": "remains constant",
+      "D": "and the surface conductance increase",
+      "Answer": "A"
+    },
+    {
+      "Number": 31,
+      "Question": "In case of a multipass shell and tube heat exchanger, providing a baffle on the shell side __________ the heat transfer rate.",
+      "A": "increases",
+      "B": "decreases",
+      "C": "does not affect",
+      "D": "may increase or decrease, depends on the type of baffle",
+      "Answer": "A"
+    },
+    {
+      "Number": 32,
+      "Question": "The local surface conductance for laminar film condensation on vertical surface is (where, t = film thickness)",
+      "A": "∝ t",
+      "B": "∝ 1/t",
+      "C": "∝ sqrt*t",
+      "D": "independent of 't'",
+      "Answer": "B"
+    },
+    {
+      "Number": 33,
+      "Question": "Heat transfer co-efficient (h1) for liquids increases with",
+      "A": "increasing temperature.",
+      "B": "decreasing temperature.",
+      "C": "decreasing Reynolds number.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "A diathermaneous substance __________ the thermal radiation completely.",
+      "A": "absorbs",
+      "B": "reflects",
+      "C": "transmits",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 35,
+      "Question": "A hot body will radiate heat most rapidly, if its surface is",
+      "A": "white & rough",
+      "B": "black & rough",
+      "C": "white & polished",
+      "D": "black & polished",
+      "Answer": "B"
+    },
+    {
+      "Number": 36,
+      "Question": "Evaporation of 1kg of water from a solution in a single effect evaporator requires about __________ kg of steam.",
+      "A": "0.4 - 0.6",
+      "B": "1-1.3",
+      "C": "1.8-2",
+      "D": "2 - 2.4",
+      "Answer": "B"
+    },
+    {
+      "Number": 37,
+      "Question": "A metal wire of 0.01 m dia and thermal conductivity 200 W/m.K is exposed to a fluid stream with a convective heat transfer coefficient of 100 W/m2.K. The Biot number is",
+      "A": 5.6,
+      "B": 0.025,
+      "C": 3.5,
+      "D": 0.0035,
+      "Answer": "B"
+    },
+    {
+      "Number": 38,
+      "Question": "Analogy between mass and heat transfer is not applicable in case of",
+      "A": "same velocity profile or equal eddy diffusivities.",
+      "B": "thermal or pressure mass diffusion.",
+      "C": "viscous heating or chemical reaction.",
+      "D": "both (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 39,
+      "Question": "A __________ surface has the maximum thermal emissivity out of the following.",
+      "A": "black & smooth",
+      "B": "black & rough",
+      "C": "white & smooth",
+      "D": "white & rough",
+      "Answer": "B"
+    },
+    {
+      "Number": 40,
+      "Question": "Radiant energy received by a body is proportional to (where, d = the distance between the object emitting radiation and that receiving it.)",
+      "A": "sqrt*d",
+      "B": "d",
+      "C": "d^2",
+      "D": "d^1.5",
+      "Answer": "C"
+    },
+    {
+      "Number": 41,
+      "Question": "Mechanical recompression evaporation is used in the production of",
+      "A": "alcohol",
+      "B": "distilled water",
+      "C": "salt",
+      "D": "fruits jam",
+      "Answer": "B"
+    },
+    {
+      "Number": 42,
+      "Question": "A measure of the extent to which viscous heating is important relative to the heat flow resulting from the impressed temperature difference is represented by the __________ number.",
+      "A": "Condensation",
+      "B": "Grashoff",
+      "C": "Stantan",
+      "D": "Brinkman",
+      "Answer": "D"
+    },
+    {
+      "Number": 43,
+      "Question": "Out of 100 kcal/second of incident radiant energy on the surface of a thermally transparent body, 300 kcal/second is reflected back. If the transmissivity of the body is 0.25, the emissivity of the surface will be",
+      "A": 0.35,
+      "B": 0.45,
+      "C": 0.55,
+      "D": 0.85,
+      "Answer": "B"
+    },
+    {
+      "Number": 44,
+      "Question": "The purpose of providing a 'catchall' in the vapor line of an evaporator is to",
+      "A": "create vacuum",
+      "B": "regulate the vapor flow",
+      "C": "vent the non-condensible gases",
+      "D": "arrest the entrained liquid",
+      "Answer": "D"
+    },
+    {
+      "Number": 45,
+      "Question": "What is the thermal conductivity of a perfect heat insulator?",
+      "A": "zero",
+      "B": "one",
+      "C": "∞",
+      "D": "between 0 and ∞",
+      "Answer": "A"
+    },
+    {
+      "Number": 46,
+      "Question": "Fouling factor' used in the design of a multipass shell and tube heat exchanger is a",
+      "A": "non-dimensional factor.",
+      "B": "factor of safety.",
+      "C": "conversion factor for individual film heat transfer co-efficient to overall heat transfer co-efficient.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 47,
+      "Question": "A fluid is flowing inside the inner tube of a double pipe heat exchanger with diameter 'd'. For a fixed mass flow rate, the tube side heat transfer co-efficient for turbulent flow conditions is proportional to",
+      "A": "d^0.8",
+      "B": "d^-0.2",
+      "C": "d^-1",
+      "D": "d^-1.8",
+      "Answer": "B"
+    },
+    {
+      "Number": 48,
+      "Question": "Prandtl and Reynolds analogy are same, when Prandtl number is",
+      "A": 0.5,
+      "B": 1,
+      "C": "> 2",
+      "D": 1.5,
+      "Answer": "B"
+    },
+    {
+      "Number": 49,
+      "Question": "Heat transfer occurs by natural convection because change in temperature causes difference in",
+      "A": "viscosity",
+      "B": "density",
+      "C": "thermal conductivity",
+      "D": "heat capacity",
+      "Answer": "B"
+    },
+    {
+      "Number": 50,
+      "Question": "The ratio of kinematic viscosity to thermal diffusivity is called the __________ number.",
+      "A": "Peclet",
+      "B": "Prandtl",
+      "C": "Stanton",
+      "D": "Nusselt",
+      "Answer": "B"
+    }
+  ],
+  "Section 4": [
+    {
+      "Number": 1,
+      "Question": "The critical radius 'r' of insulation on a pipe is given by",
+      "A": "r = 2k/h",
+      "B": "r = k/h",
+      "C": "r = k/2h",
+      "D": "r = h/k",
+      "Answer": "B"
+    },
+    {
+      "Number": 2,
+      "Question": "As per Kirchoffs law, the ratio of the total radiating power to the absorptivity of a body depends on the",
+      "A": "temperature of the body only.",
+      "B": "wavelength of monochromatic radiation.",
+      "C": "both (a) and (b).",
+      "D": "nature of material of body.",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "If the baffle spacing in a shell and tube heat exchanger increases, then the Reynolds number of the shell side fluid",
+      "A": "remains unchanged.",
+      "B": "increases.",
+      "C": "increases or decreases depending on number of shell passes.",
+      "D": "decreases.",
+      "Answer": "D"
+    },
+    {
+      "Number": 4,
+      "Question": "The heat transfer by radiation from a mild steel surface is to be reduced by reducing the emissivity of the surface. This can be best achieved by",
+      "A": "painting the surface black.",
+      "B": "painting the surface white (with aluminium paint).",
+      "C": "giving the surface a mirror finish.",
+      "D": "roughening the surface.",
+      "Answer": "B"
+    },
+    {
+      "Number": 5,
+      "Question": "__________ paint has the maximum absorption coefficient.",
+      "A": "Black",
+      "B": "Yellow",
+      "C": "White",
+      "D": "Grey",
+      "Answer": "A"
+    },
+    {
+      "Number": 6,
+      "Question": "What is Nusselt number?",
+      "A": "(Cp · μ)/k",
+      "B": "hD/k",
+      "C": "(h · Cp)/μ",
+      "D": "(Cp · μ)/h",
+      "Answer": "B"
+    },
+    {
+      "Number": 7,
+      "Question": "Steam traps are provided in steam carrying pipelines to",
+      "A": "condense steam.",
+      "B": "release excess steam pressure by bleeding steam.",
+      "C": "remove condensate and inert gases.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 8,
+      "Question": "The Dietus-Boelter equation for convective leat transfer\r\nhttps://www.indiabix.com/_files/images/chemical-engineering/heat-transfer/245-165-1.png\r\ncannot be used for (See picture for equation)",
+      "A": "low Reynold's number",
+      "B": "very low Grashoff number",
+      "C": "molten metals",
+      "D": "all (a), (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 9,
+      "Question": "A hot liquid is kept in a big room. The logorithm of the numerical value of the temperature difference between the liquid and the room is plotted against time. The plot will be very nearly a/an",
+      "A": "ellipse",
+      "B": "straight line",
+      "C": "parabola",
+      "D": "circular arc",
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "Radiation heat transfer rates does not depend upon the",
+      "A": "type of absorbing surface.",
+      "B": "distance between the heat source and the object receiving the heat.",
+      "C": "surface area and temperature of the heat source.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 11,
+      "Question": "Which of the following is correct?",
+      "A": "Rate = Driving force x Resistance",
+      "B": "Driving force = Rate x Resistance",
+      "C": "Resistance = Driving force x Rate",
+      "D": "Rate = Resistance/Driving force",
+      "Answer": "B"
+    },
+    {
+      "Number": 12,
+      "Question": "Convective heat transfer, in which heat is transferred by movement of warmed matter is described by",
+      "A": "Fourier's law",
+      "B": "Newton's law of cooling",
+      "C": "Fick's law",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 13,
+      "Question": "As the difference between the wall temperature and bulk temperature increases, the boiling heat transfer co-efficient",
+      "A": "continues to increase.",
+      "B": "continues to decrease.",
+      "C": "goes through a minimum.",
+      "D": "goes through a maximum.",
+      "Answer": "C"
+    },
+    {
+      "Number": 14,
+      "Question": "Heat transfer rate per unit area is called",
+      "A": "thermal conductivity",
+      "B": "heat flux",
+      "C": "heat transfer co-efficient",
+      "D": "thermal diffusivity",
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "Log mean temperature difference (LMTD) cannot be used, if",
+      "A": "heat transfer co-efficient over the entire heat exchanger is not constant.",
+      "B": "there exists an unsteady state.",
+      "C": "the heat capacity is not constant and there is a phase change.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 16,
+      "Question": "In a multipass shell and tube heat exchanger, tube side return pressure loss is equal to __________ the velocity head.",
+      "A": "twice",
+      "B": "four times",
+      "C": "square root of",
+      "D": "square of",
+      "Answer": "B"
+    },
+    {
+      "Number": 17,
+      "Question": "For a given ambient air temperature with increase in the thickness of insulation of a hot cylinderical pipe, the rate of heat loss from the surface would",
+      "A": "decrease",
+      "B": "increase",
+      "C": "first decrease and then increase",
+      "D": "first increase and then decrease",
+      "Answer": "D"
+    },
+    {
+      "Number": 18,
+      "Question": "In a parallel flow heat exchanger, if the outlet temperature of hot and cold fluids are the same, then the log mean temperature difference (LMTD) is",
+      "A": "minimum",
+      "B": "maximum",
+      "C": "zero",
+      "D": "infinity",
+      "Answer": "C"
+    },
+    {
+      "Number": 19,
+      "Question": "For what value of Prandtl number, the Col-burn analogy is valid?",
+      "A": "0.06 to 120",
+      "B": "0.6 to 120",
+      "C": "1 to 103",
+      "D": "1 to 50",
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "In a forward feed multiple effect, the pressure build up will be",
+      "A": "least at the inlet of the first effect.",
+      "B": "least at the outlet of the last effect.",
+      "C": "highest at the inlet of the last effect.",
+      "D": "highest at the outlet of the last effect.",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "Film boiling is usually not desired in commercial equipments, because",
+      "A": "the heat transfer rate is low in view of the large temperature drop.",
+      "B": "it is difficult to maintain.",
+      "C": "it is not economic.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "For the same heat transfer area and the terminal conditions, the ratio of the capacities of a single effect evaporator to a triple effect evaporator is",
+      "A": 3,
+      "B": 0.33,
+      "C": 1,
+      "D": 1.33,
+      "Answer": "C"
+    },
+    {
+      "Number": 23,
+      "Question": "The variation of thermal conductivity of a metal with temperature is often correlated using an expression of the form K = K0 + at. where, K is the thermal conductivity and T is the temperature (in °K). The units of 'a' in SI system will be",
+      "A": "W/m.k",
+      "B": "W/m",
+      "C": "W/m.k2",
+      "D": "none, 'a' is just a number",
+      "Answer": "C"
+    },
+    {
+      "Number": 24,
+      "Question": "Film condensation is promoted on a/an __________ surface.",
+      "A": "oily",
+      "B": "coated",
+      "C": "clean & smooth",
+      "D": "dirty",
+      "Answer": "C"
+    },
+    {
+      "Number": 25,
+      "Question": "Dietus-Boelter equation cannot be used for molten metals mainly due to its very low",
+      "A": "Prandtl number",
+      "B": "Grashoff number",
+      "C": "thermal conductivity",
+      "D": "viscosity",
+      "Answer": "A"
+    },
+    {
+      "Number": 26,
+      "Question": "If Prandtl number is greater than the Schmidt number, then the",
+      "A": "thermal boundary layer lies inside the concentration boundary layer.",
+      "B": "concentration boundary layer lies inside the thermal boundary layer.",
+      "C": "thermal & concentration boundary layers are of equal thickness.",
+      "D": "hydrodynamic(i.e., momentum)boundary layer is thicker than the other two.",
+      "Answer": "A"
+    },
+    {
+      "Number": 27,
+      "Question": "Which of the following accessories is provided in the vapor line of an evaporator for removing the entrained liquid?",
+      "A": "Bleed point",
+      "B": "Vent",
+      "C": "Catchall",
+      "D": "Baffle",
+      "Answer": "C"
+    },
+    {
+      "Number": 28,
+      "Question": "Rate of heat transfer by vaporisation from pools of water is affected by the",
+      "A": "nature of heating surface and distribution of bubbles.",
+      "B": "surface tension of water.",
+      "C": "viscosity of water.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 29,
+      "Question": "Multiple effect evaporators are commonly used in the manufacture of\r\nP. Paper Q. Superphosphate\r\nR. Sugar S. Fats",
+      "A": "P and Q",
+      "B": "P and R",
+      "C": "P and S",
+      "D": "R and S",
+      "Answer": "C"
+    },
+    {
+      "Number": 30,
+      "Question": "Which of the following has the highest thermal conductivity?",
+      "A": "Brick",
+      "B": "Air",
+      "C": "Water",
+      "D": "Silver",
+      "Answer": "D"
+    },
+    {
+      "Number": 31,
+      "Question": "Which of the following is unimportant in forced convection?",
+      "A": "Reynolds number",
+      "B": "Prandtl number",
+      "C": "Grashoff number",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 32,
+      "Question": "Steam is to be condensed in a shell and tube heat exchanger, 5 m long with a shell diameter of 1 m. Cooling water is to be used for removing the heat. Heat transfer co-efficient for the cooling water, whether on shell side or tube side is the same. The best arrangement is",
+      "A": "vertical heat exchanger with steam on tube side.",
+      "B": "vertical heat exchanger with steam on shell side.",
+      "C": "horizontal heat exchanger with steam on tube side.",
+      "D": "horizontal heat exchanger with steam on shell side.",
+      "Answer": "B"
+    },
+    {
+      "Number": 33,
+      "Question": "In a multiple effect evaporator, the effect of boiling point elevation is to",
+      "A": "reduce the capacity",
+      "B": "reduce the economy",
+      "C": "increase the economy",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "The rate of heat transfer through a pipe wall is given by, https://www.indiabix.com/_files/images/chemical-engineering/heat-transfer/271-499-1.png . For cylinder of very thin wall, q can be approximated by",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/heat-transfer/271-499-2.png",
+      "B": "https://www.indiabix.com/_files/images/chemical-engineering/heat-transfer/271-499-3.png",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/heat-transfer/271-499-4.png",
+      "D": "https://www.indiabix.com/_files/images/chemical-engineering/heat-transfer/271-499-5.png",
+      "Answer": "D"
+    },
+    {
+      "Number": 35,
+      "Question": "Dropwise condensation occurs on __________ surfaces.",
+      "A": "clean and dirt free",
+      "B": "smooth clean",
+      "C": "contaminated cooling",
+      "D": "polished",
+      "Answer": "C"
+    },
+    {
+      "Number": 36,
+      "Question": "For specified tube outside diameter, higher BWG means higher",
+      "A": "tube thickness",
+      "B": "cross-sectional area",
+      "C": "weight per unit length",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 37,
+      "Question": "Pick out the wrong statement.",
+      "A": "Swenson-Walker crystalliser is a batch crystalliser.",
+      "B": "Super saturation of the solution is the driving potential for a crystal growth.",
+      "C": "The liquor left after the removal of crystals from a solution is called mother liquor.",
+      "D": "The first stage of crystal formation is called nucleation.",
+      "Answer": "A"
+    },
+    {
+      "Number": 38,
+      "Question": "In case of a vertical tube evaporator, with increase in the liquor level, the __________ is increased.",
+      "A": "velocity of circulation",
+      "B": "liquor-film co-efficient",
+      "C": "both (a) and (b)",
+      "D": "neither (a) and (b)",
+      "Answer": "D"
+    },
+    {
+      "Number": 39,
+      "Question": "Electromagnetic radiations propagate in vacuum with a velocity of __________ metre/second.",
+      "A": "3 x l05",
+      "B": "3 x l08",
+      "C": "3 x l010",
+      "D": "3 x l012",
+      "Answer": "B"
+    },
+    {
+      "Number": 40,
+      "Question": "Heat flux is the time rate of heat transfer per unit",
+      "A": "length",
+      "B": "area",
+      "C": "volume",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 41,
+      "Question": "Film boiling occurs at __________ pressure.",
+      "A": "atmospheric",
+      "B": "sub-atmospheric",
+      "C": "negative",
+      "D": "very high",
+      "Answer": "D"
+    },
+    {
+      "Number": 42,
+      "Question": "Heat flux through several resistances in series in analogous to the current flowing through several",
+      "A": "resistances in parallel.",
+      "B": "capacitors in series.",
+      "C": "resistances in series.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 43,
+      "Question": "Extended heat transfer surface like fins are used to increase the heat transfer rate. Fin efficiency is defined as the ratio of heat transferred across the fin surface to the theoretical heat transfer across an equal area held at the",
+      "A": "surrounding temperature.",
+      "B": "average temperature of the fin.",
+      "C": "temperature of the fin end.",
+      "D": "constant temperature equal to that of the base",
+      "Answer": "D"
+    },
+    {
+      "Number": 44,
+      "Question": "Vacuum is generally maintained in the vapour space of an evaporator mainly to",
+      "A": "get economical temperature difference by using moderate pressure steam.",
+      "B": "facilitate forward feeding in multiple effect evaporation.",
+      "C": "concentrate heat sensitive materials.",
+      "D": "achieve very high concentration of the final product.",
+      "Answer": "A"
+    },
+    {
+      "Number": 45,
+      "Question": "Double pipe heat exchangers are used",
+      "A": "when heat transfer area required is very high.",
+      "B": "when heat transfer area required is very low, i.e (100-200 ft2).",
+      "C": "because it occupies less floor area.",
+      "D": "because it is less costly.",
+      "Answer": "B"
+    },
+    {
+      "Number": 46,
+      "Question": "Nusselt number (for forced convection heat transfer) is a function of the __________ number.",
+      "A": "Prandtl",
+      "B": "Reynolds",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 47,
+      "Question": "Pick out the wrong statement.",
+      "A": "Heat transfer by radiation can not occur across an absolute volume.",
+      "B": "In case of a shell and tube heat exchanger, the pressure drop through the shell is proportional to the number of times the fluid crosses the bundle between baffles.",
+      "C": "Propagation velocity for travel of heat radiation through vacuum is equal to the velocity of the light.",
+      "D": "The amount of heat involved in the condensation or vaporisation of 1 kg of a fluid is the same.",
+      "Answer": "A"
+    },
+    {
+      "Number": 48,
+      "Question": "Which type of heat exchanger is preferred for heavy heat loads ?Which type of heat exchanger is preferred for heavy heat loads?",
+      "A": "Double pipe",
+      "B": "Plate fine",
+      "C": "Series and parallel set of shell and tube",
+      "D": "None of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 49,
+      "Question": "Pick out the wrong statement.",
+      "A": "Reciprocal of the resistance to heat flow is called thermal conductance.",
+      "B": "Unit of thermal conductance is W/°K.",
+      "C": "Thermal conductance of a wall of thickness 'L', thermal conductivity 'k' and heat flow area 'A' is kL/A.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 50,
+      "Question": "While the total emissivity of a perfect black body is unity, the same for a real body is",
+      "A": 0,
+      "B": 1,
+      "C": ">1",
+      "D": "between 0 and 1",
+      "Answer": "D"
+    }
+  ],
+  "Section 5": [
+    {
+      "Number": 1,
+      "Question": "The Grashoff number is defined as the ratio of the",
+      "A": "buoyancy to inertial forces.",
+      "B": "buoyancy to viscous forces.",
+      "C": "inertial to viscous forces.",
+      "D": "buoyancy to surface tension forces.",
+      "Answer": "B"
+    },
+    {
+      "Number": 2,
+      "Question": "According to Reynolds analogy, Stanton number is equal to (where, f = Fanning friction factor)",
+      "A": "2f",
+      "B": "f",
+      "C": "f/2",
+      "D": "f/4",
+      "Answer": "C"
+    },
+    {
+      "Number": 3,
+      "Question": "The absorptivity of a body is equal to its emissivity",
+      "A": "at a particular temperature.",
+      "B": "for circular bodies.",
+      "C": "under thermal equilibrium.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 4,
+      "Question": "Absorptivity and refletivity of a perfect black body are respectively",
+      "A": "1 and 0",
+      "B": "0 and 1",
+      "C": "1 and ∞",
+      "D": "0 and 0.5",
+      "Answer": "A"
+    },
+    {
+      "Number": 5,
+      "Question": "In thermal radiation for a black body (where, ε is emissivity and α is absorptivity)",
+      "A": "α = 1; ε ≠ 1",
+      "B": "α ≠ 1, ε = 1",
+      "C": "α ≠ 1, ε ≠ 1",
+      "D": "α = 1; ε = 1",
+      "Answer": "D"
+    },
+    {
+      "Number": 6,
+      "Question": "Pick out the wrong statement.",
+      "A": "Superheated steam is preferably not used for process heating because of its low heat transfer film co-efficient.",
+      "B": "In a shell and tube heat exchanger, the shell pressure drop is maximum for orifice baffles.",
+      "C": "S.I. unit of fouling factor is Watt/m2.°K.",
+      "D": "Longitudinal fins are used in extended surface heat exchangers, when the direction of fluid flow is parallel to the axis of the tube.",
+      "Answer": "C"
+    },
+    {
+      "Number": 7,
+      "Question": "When warm and cold liquids are mixed, the heat transfer is mainly by",
+      "A": "conduction",
+      "B": "convection",
+      "C": "radiation",
+      "D": "both(a) & (c)",
+      "Answer": "B"
+    },
+    {
+      "Number": 8,
+      "Question": "A cube, sphere & a thin circular plate (all having same mass and made of same material) are all heated to 300°C and allowed to cool in natural air. Which one will cool the slowest?",
+      "A": "Cube",
+      "B": "Plate",
+      "C": "Sphere",
+      "D": "All will cool at the same rate",
+      "Answer": "C"
+    },
+    {
+      "Number": 9,
+      "Question": "Vent pipes are provided in a condenser to",
+      "A": "remove non-condensable gases.",
+      "B": "purge the condenser.",
+      "C": "facilitate easy cleaning of tubes.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 10,
+      "Question": "Heat transfer by natural convection is enhanced in system with",
+      "A": "high viscosity.",
+      "B": "high co-efficient of thermal expansion.",
+      "C": "low temperature gradients.",
+      "D": "low density change with temperature.",
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "In case of __________ boiling, the bubbles formed on a submerged hot surface get absorbed in the mass of the liquid.",
+      "A": "nucleate",
+      "B": "pool",
+      "C": "low pressure",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 12,
+      "Question": "A body cools down from 75°C to 70°C in 10 minutes. It will cool down from 70° C to 65° C in __________ minutes.",
+      "A": 10,
+      "B": ">10",
+      "C": "<10",
+      "D": "either (b) or (c), depends on the mass of the body",
+      "Answer": "B"
+    },
+    {
+      "Number": 13,
+      "Question": "In forced convection, the Nusselt number is a function of",
+      "A": "Re and Pr",
+      "B": "Re and Gr",
+      "C": "Pr and Gr",
+      "D": "Re and Sc",
+      "Answer": "A"
+    },
+    {
+      "Number": 14,
+      "Question": "At what value of Prandtl number, the hydrodynamic and thermal boundary layers are identical?",
+      "A": 0.5,
+      "B": 1,
+      "C": 1.5,
+      "D": 80,
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "A dilute aqueous solution is to be concentrated in an evaporator system. High pressure steam is available. Multiple effect evaporator system is employed, because",
+      "A": "total heat transfer area of all the effects is -less than that in a single effect evaporator system.",
+      "B": "total amount of vapor produced per Kg of feed steam in a multiple effect system is much higher than in a single effect.",
+      "C": "boiling point elevation in a single effect system is much higher than that in any effect in a multieffect system.",
+      "D": "heat transfer co-efficient in a single effect is much lower than that in any effect in a multieffect system.",
+      "Answer": "B"
+    },
+    {
+      "Number": 16,
+      "Question": "Heat transfer efficiency leading of energy conservation in a heat exchanger can be achieved by",
+      "A": "keeping the heat transfer surface clean.",
+      "B": "enhancing the fluid pumping rate.",
+      "C": "increasing the tube length.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 17,
+      "Question": "Trap is used to remove __________ from steam pipe lines.",
+      "A": "steam",
+      "B": "condensate",
+      "C": "non-condensables",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 18,
+      "Question": "A composite flat wall of a furnace is made of two materials 'A' and 'B'. The thermal conductivity of 'A' is twice of that of material 'B', while the thickness of layer of 'A' is half that of B. If the temperature at the two sides of the wall are 400 and 1200°K, then the temperature drop (in °K) across the layer of material 'A' is",
+      "A": 125,
+      "B": 133,
+      "C": 150,
+      "D": 160,
+      "Answer": "D"
+    },
+    {
+      "Number": 19,
+      "Question": "Tube pitch is the __________ of tube diameters and the clearances.",
+      "A": "sum",
+      "B": "difference",
+      "C": "ratio",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 20,
+      "Question": "With increase in the distance between the heat source and the object receiving the heat, the radiation heat transfer",
+      "A": "decreases",
+      "B": "increases",
+      "C": "increases exponentially",
+      "D": "remains unaffected",
+      "Answer": "A"
+    },
+    {
+      "Number": 21,
+      "Question": "The equivalent diameter for the annulus of a double pipe heat exchanger, whose inner pipe has fins on the outside is __________ compared to the same size pipes without fins.",
+      "A": "more",
+      "B": "less",
+      "C": "same",
+      "D": "unpredictable",
+      "Answer": "B"
+    },
+    {
+      "Number": 22,
+      "Question": "Natural convection is characterised by",
+      "A": "Grashoff number",
+      "B": "Peclet number",
+      "C": "Reynolds number",
+      "D": "Prandtl number",
+      "Answer": "A"
+    },
+    {
+      "Number": 23,
+      "Question": "Nusselt number for full developed, laminar, constant property flow in a pipe at uniform heat flux is",
+      "A": 0.72,
+      "B": 4.364,
+      "C": 18,
+      "D": 83,
+      "Answer": "B"
+    },
+    {
+      "Number": 24,
+      "Question": "Thickness of thermal boundary layer is more compared to that of hydrodynamic boundary layer, when the value of Prandtl number is",
+      "A": 1,
+      "B": "< 1",
+      "C": "> 1",
+      "D": "> 5",
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "The critical radius of insulation for cylindrical pipe is (where, hi = heat transfer coefficient at inside of the pipe)",
+      "A": "K/h0",
+      "B": "2K/h0",
+      "C": "hi/K",
+      "D": "2hi/K",
+      "Answer": "A"
+    },
+    {
+      "Number": 26,
+      "Question": "The heat flux in the nucleate boiling regimes is proportional to (where, ΔT = excess temperature)",
+      "A": "(ΔT)^2",
+      "B": "(ΔT)^4",
+      "C": "(ΔT)^3",
+      "D": "sqrt(ΔT)",
+      "Answer": "C"
+    },
+    {
+      "Number": 27,
+      "Question": "In a 1-1 cocurrent heat exchanger, if the tube side fluid outlet temperature is equal to the shell side fluid outlet temperature, then the LMTD is",
+      "A": "∞",
+      "B": 0,
+      "C": "equal to the difference between hot and cold fluids inlet temperature.",
+      "D": "equal to the difference between hot fluid inlet temperature and cold fluid outlet temperature.",
+      "Answer": "B"
+    },
+    {
+      "Number": 28,
+      "Question": "A body is called grey if the monochromatic emissivity of the body is",
+      "A": "zero",
+      "B": "unity",
+      "C": "same for all wavelengths",
+      "D": "different for all wavelengths",
+      "Answer": "C"
+    },
+    {
+      "Number": 29,
+      "Question": "In an extended surface heat exchanger, fluid having lower co-efficient",
+      "A": "flows through the tube.",
+      "B": "flows outside the tubes.",
+      "C": "can flow either inside or outside the tubes.",
+      "D": "should not be used as it gives very high pressure drop.",
+      "Answer": "B"
+    },
+    {
+      "Number": 30,
+      "Question": "In a shell and tube heat exchanger, the tube side heat transfer co-efficient just at the entrance of the tube is",
+      "A": "infinity.",
+      "B": "zero.",
+      "C": "same as average heat transfer co-efficient for tube side.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 31,
+      "Question": "Grashoff number, which is defined as g . β(Ts - T∞) ρ2. L3/μ2, is proportional to the ratio of buoyancy force to __________ force.",
+      "A": "viscous",
+      "B": "elastic",
+      "C": "inertial",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 32,
+      "Question": "Pick out the wrong statement.",
+      "A": "By increasing the number of shell passes, the temperature cross in a shell and tube heat exchanger can be prevented.",
+      "B": "An underdesigned steam trap will back up the condensate instead of discharging it out.",
+      "C": "Steam condensate is corrosive because of the presence of dissolved oxygen in it.",
+      "D": "Film boiling is desirable in commercial equipments due to high heat transfer rate at low temperature drop.",
+      "Answer": "D"
+    },
+    {
+      "Number": 33,
+      "Question": "Graetz number is given by",
+      "A": "mCp/kL",
+      "B": "kL/mCp",
+      "C": "mCp/kμ",
+      "D": "kL/mCp",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "For a cold dilute feed to produce thick viscous liquor, backward feeding as compared to forward feeding results in",
+      "A": "increased economy",
+      "B": "decreased economy",
+      "C": "lower capacity",
+      "D": "no effect on economy",
+      "Answer": "A"
+    },
+    {
+      "Number": 35,
+      "Question": "Economy of an evaporator is influenced by the",
+      "A": "steam pressure",
+      "B": "feed temperature",
+      "C": "number of effect",
+      "D": "both(b) & (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 36,
+      "Question": "If the thermal conductivity of a wall material is independent of temperature, the steady state temperature distribution in the very large thin plane wall having steady, uniform surface temperature follows __________ law.",
+      "A": "hyperbolic",
+      "B": "parabolic",
+      "C": "linear",
+      "D": "logarithmic",
+      "Answer": "C"
+    },
+    {
+      "Number": 37,
+      "Question": "In regenerative air preheater (as practised in heating of coke ovens), the heat is transferred",
+      "A": "through a metallic wall.",
+      "B": "by direct contact of hot flue gas with air.",
+      "C": "by heating an intermediate material (like chequor bricks) and then heating the air from this hot material.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 38,
+      "Question": "__________ equation relates the thermal conductivity of a solid to its temperature.",
+      "A": "Antoine",
+      "B": "Kopp's",
+      "C": "Lee's",
+      "D": "Kistyakowski",
+      "Answer": "C"
+    },
+    {
+      "Number": 39,
+      "Question": "For small temperature difference, the heat transfer rate as per Newton's law of cooling is proportional to (where, Δt = excess temperature)",
+      "A": "Δt",
+      "B": "Δt^2",
+      "C": "Δt^3",
+      "D": "sqrtΔt",
+      "Answer": "A"
+    },
+    {
+      "Number": 40,
+      "Question": "Pick out the wrong statement.",
+      "A": "The condensing film co-efficient is about 3 times lower for vertical condenser as compared to the equivalent horizontal condenser for identical situation.",
+      "B": "Film co-efficient for vaporisation decreases as a result of vapor binding.",
+      "C": "In industrial practice, sub-cooling of condensate is required, when the condensate is a volatile liquid and is to be transferred for storage.",
+      "D": "Overall heat transfer co-efficient in a heat exchanger is controlled by the value of the film co-efficient, which is higher.",
+      "Answer": "D"
+    },
+    {
+      "Number": 41,
+      "Question": "Viscous & heat sensitive liquids are concentrated in __________ evaporators.",
+      "A": "open pan",
+      "B": "long tube",
+      "C": "agitated film",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 42,
+      "Question": "1 BTU/hr.ft.°F is equal to __________ kcal/hr. m.°C.",
+      "A": 1.49,
+      "B": 1,
+      "C": 4.88,
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 43,
+      "Question": "Heat transfer by radiation between two bodies at T1 & T2 and in an ambient temperature of Ta°C depends on",
+      "A": "T1 - T2",
+      "B": "T1 - Ta",
+      "C": "T2 - Ta",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 44,
+      "Question": "The ratio of momentum diffusivity to thermal diffusivity is the __________ number.",
+      "A": "Prandtl",
+      "B": "Nusselt",
+      "C": "Stanton",
+      "D": "Grashoff",
+      "Answer": "A"
+    },
+    {
+      "Number": 45,
+      "Question": "For a perfectly transparent surface (like gases), the",
+      "B": "transmissivity = 1",
+      "C": "reflectivity = 0",
+      "D": "all (a), (b) & (c)",
+      "Answer": "B"
+    },
+    {
+      "Number": 46,
+      "Question": "For a fluid flowing in an annulus space, the wetted perimeter for heat transfer and pressure drop are",
+      "A": "same",
+      "B": "different",
+      "C": "never different",
+      "D": "linearly related",
+      "Answer": "B"
+    },
+    {
+      "Number": 47,
+      "Question": "During crystallisation, formation of crystal can occur in __________ solution only.",
+      "A": "saturated",
+      "B": "supersaturated",
+      "C": "undersaturated",
+      "D": "all (a), (b) and (c)",
+      "Answer": "B"
+    },
+    {
+      "Number": 48,
+      "Question": "An evaporator while concentrating an aqueous solution from 10 to 40% solids evaporates 30000 kg of water. The amount of solids handled by the system in kg is",
+      "A": 4000,
+      "B": 9000,
+      "C": 4600,
+      "D": 3000,
+      "Answer": "A"
+    },
+    {
+      "Number": 49,
+      "Question": "An insulator should have",
+      "A": "low thermal conductivity.",
+      "B": "high thermal conductivity.",
+      "C": "less resistance to heat flow.",
+      "D": "a porous structure.",
+      "Answer": "A"
+    },
+    {
+      "Number": 50,
+      "Question": "In a backward feed multiple effect evaporator",
+      "A": "feed is introduced in the first effect.",
+      "B": "feed flows from low pressure to high pressure.",
+      "C": "no pumps are required between successive effects.",
+      "D": "none of these.",
+      "Answer": "B"
+    }
+  ],
+  "Section 6": [
+    {
+      "Number": 1,
+      "Question": "Choose the correct equation.",
+      "A": "Nu = (Re) (Pr) (Gz)",
+      "B": "Nu = (Re) (Pr) (St)",
+      "C": "Nu = (Re)(Pr)",
+      "D": "Nu = (Pr)(St)",
+      "Answer": "B"
+    },
+    {
+      "Number": 2,
+      "Question": "In a forward feed multiple effect evaporator unit",
+      "A": "viscosity of liquid is highest in first effect.",
+      "B": "transfer from effect to effect is done by pumps.",
+      "C": "no pump is required to withdraw the product from the last effect.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 3,
+      "Question": "In case of heat flow by conduction for a cylindrical body with an internal heat source, the nature of temperature distribution is",
+      "A": "linear",
+      "B": "hyperbolic",
+      "C": "parabolic",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 4,
+      "Question": "For heat flow through very thick walled cylinder, use____mean radius.",
+      "A": "arithmetic",
+      "B": "logarithmic",
+      "C": "geometric",
+      "D": "either (a) or (c)",
+      "Answer": "B"
+    },
+    {
+      "Number": 5,
+      "Question": "Indirect contact heat exchangers are preferred over direct contact heat exchangers, because",
+      "A": "heat transfer co-efficient are high.",
+      "B": "there is no risk of contamination.",
+      "C": "there is no mist formation.",
+      "D": "cost of equipment is lower.",
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "Water is normally used as a coolant in the heat exchange equipments mainly because of its",
+      "A": "abundance & high heat capacity",
+      "B": "low density",
+      "C": "low viscosity",
+      "D": "high fluidity",
+      "Answer": "A"
+    },
+    {
+      "Number": 7,
+      "Question": "The rate of emission of radiation by a body does not depend upon the",
+      "A": "wavelength of radiation.",
+      "B": "surface temperature of the body.",
+      "C": "nature of the surface.",
+      "D": "shape and porosity of the body.",
+      "Answer": "D"
+    },
+    {
+      "Number": 8,
+      "Question": "Which of the following has maximum thermal conductivity at the same temperature?",
+      "A": "Steel",
+      "B": "Petrol",
+      "C": "Air",
+      "D": "All have the same conductivity",
+      "Answer": "A"
+    },
+    {
+      "Number": 9,
+      "Question": "Maximum heat transfer rate is obtained in __________ flow.",
+      "A": "laminar",
+      "B": "turbulent",
+      "C": "creeping",
+      "D": "transition region",
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "In case of __________ boiling, the liquid temperature is below the saturation temperature and the boiling takes place in the vicinity of the heated surface.",
+      "A": "nucleate",
+      "B": "local",
+      "C": "pool",
+      "D": "saturated",
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "The ratio of velocity head to tube side return loss in case of a multipass shell and tube heat exchanger is",
+      "A": 2,
+      "B": 45293,
+      "C": 4,
+      "D": 45295,
+      "Answer": "D"
+    },
+    {
+      "Number": 12,
+      "Question": "Terminal point temperature differences between fluids in case of a heat exchanger is termed as",
+      "A": "approach",
+      "B": "log mean temperature difference.",
+      "C": "arithmetic mean temperature difference.",
+      "D": "geometric mean temperature difference.",
+      "Answer": "A"
+    },
+    {
+      "Number": 13,
+      "Question": "LMTD can't be used as such without a correction factor for the",
+      "A": "multipass heat exchanger.",
+      "B": "baffled heat exchanger.",
+      "C": "condensation of mixed vapour in a condenser.",
+      "D": "all (a) (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 14,
+      "Question": "Fqra cold viscous feed, backward feed gives __________ than forward feed.",
+      "A": "a higher capacity",
+      "B": "a lower capacity",
+      "C": "lower economy",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 15,
+      "Question": "Walls of a cubical oven are of thickness l, and they are made of material of thermal conductivity k. The temperature inside the oven is 100°C and the inside heat transfer co-efficient is 3k/l. If the wall temperature on the outside is held at 25°C, what is the inside wall temperature in degree centigrade ?",
+      "A": 35.5,
+      "B": 43.75,
+      "C": 81.25,
+      "D": 48.25,
+      "Answer": "C"
+    },
+    {
+      "Number": 16,
+      "Question": "Overall heat transfer co-efficient of a particular tube is U1. If the same tube with some dirt deposited on either side has coefficient U2, then",
+      "A": "U1 = U2",
+      "B": "U2 > U1",
+      "C": "U1 > U2",
+      "D": "U1 = dirt factor - U2",
+      "Answer": "A"
+    },
+    {
+      "Number": 17,
+      "Question": "In SI units, thermal conductivity is expressed in",
+      "A": "Watt/m.°K",
+      "B": "Watt/m2. °K",
+      "C": "Watt/m2. °K",
+      "D": "Watt/m4. °K",
+      "Answer": "A"
+    },
+    {
+      "Number": 18,
+      "Question": "Boiling point of a solution according to Duhring's rule is a linear function of the __________ of water.",
+      "A": "boiling point (at the same pressure)",
+      "B": "viscosity",
+      "C": "density",
+      "D": "thermal conductivity",
+      "Answer": "A"
+    },
+    {
+      "Number": 19,
+      "Question": "The overall resistance for heat transfer through a series of flat resistance, is the __________ of the resistances.",
+      "A": "average",
+      "B": "geometric mean",
+      "C": "product",
+      "D": "sum",
+      "Answer": "D"
+    },
+    {
+      "Number": 20,
+      "Question": "At what value of Prandtl number, conduction is negligible in the turbulent core of a fluid flowing through a heated pipe?",
+      "A": 0.5,
+      "B": "< 0.5",
+      "C": "> 0.6",
+      "D": "< 0.1",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "A sphere of radius 'R1' is enclosed in a sphere of radius 'R2'. The view (or shape) factor for radiative heat transfer of the outer sphere with respect to the inner sphere is",
+      "A": 0,
+      "B": "R2/(R1+R2)",
+      "C": 1,
+      "D": "(R1/R2)^2",
+      "Answer": "B"
+    },
+    {
+      "Number": 22,
+      "Question": "For a laminar flow of fluid in a circular tube, 'h1' is the convective heat transfer co-efficient at velocity 'V1'. If the velocity is reduced by half and assuming the fluid properties are constant, the new convective heat transfer co-efficient is",
+      "A": "1.26 h1",
+      "B": "0.794 h1",
+      "C": "0.574 h1",
+      "D": "1.741 h1",
+      "Answer": "B"
+    },
+    {
+      "Number": 23,
+      "Question": "The main purpose of providing fins on heat transfer surface is to increase the",
+      "A": "temperature gradient.",
+      "B": "mechanical strength of the equipment.",
+      "C": "heat transfer area.",
+      "D": "heat transfer co-efficient.",
+      "Answer": "C"
+    },
+    {
+      "Number": 24,
+      "Question": "A BTU/hr.ft.2 °F is equal to",
+      "A": "1 kcal/hr. m2°C.",
+      "B": "4.88 kcal/hr. m.2°C.",
+      "C": "1 kcal/hr. m2.°K.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "Which of the following has the lowest Prandtl number?",
+      "A": "Molten sodium (a coolant used in fast breeder reactor)",
+      "B": "Water",
+      "C": "Transformer oil",
+      "D": "Dilute H2SO4",
+      "Answer": "A"
+    },
+    {
+      "Number": 26,
+      "Question": "In SI units, fouling factor is expressed in",
+      "A": "m2°K/W",
+      "B": "W/m2°K",
+      "C": "m2°K",
+      "D": "m°K/W",
+      "Answer": "A"
+    },
+    {
+      "Number": 27,
+      "Question": "An ejector is used to",
+      "A": "increase pressure",
+      "B": "increase temperature",
+      "C": "remove condensate",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 28,
+      "Question": "Extremely large or small volumes of fluids are generally best routed through the shell side of a shell and tube heat exchanger, because of the",
+      "A": "less corrosion problems.",
+      "B": "flexibility possible in the baffle arrangement.",
+      "C": "low pressure drop.",
+      "D": "high heat transfer co-efficient.",
+      "Answer": "B"
+    },
+    {
+      "Number": 29,
+      "Question": "All analogy equations connecting friction factor and heat transfer co-efficient apply only to",
+      "A": "wall or skin friction",
+      "B": "form friction",
+      "C": "both (a) and (b)",
+      "D": "turbulent flow",
+      "Answer": "A"
+    },
+    {
+      "Number": 30,
+      "Question": "Electro-magnetic spectrum range, which is important for radiation varies from __________ microns.",
+      "A": "1 to 100",
+      "B": "0.5 to 50",
+      "C": "10 to 100",
+      "D": "100 to 1000",
+      "Answer": "B"
+    },
+    {
+      "Number": 31,
+      "Question": "The characteristic dimensionless groups for heat transfer to a fluid flowing through a pipe in laminar flow are",
+      "A": "Re, Gz",
+      "B": "Nu, Pr",
+      "C": "Nu, Pr, Re",
+      "D": "Nu, Gz",
+      "Answer": "D"
+    },
+    {
+      "Number": 32,
+      "Question": "Heat transfer rate described by Fourier's law will decrease, if the __________ increases.",
+      "A": "thermal conductivity",
+      "B": "thickness",
+      "C": "temperature difference",
+      "D": "heat transfer area",
+      "Answer": "B"
+    },
+    {
+      "Number": 33,
+      "Question": "A black body does not __________ radiation.",
+      "A": "absorb or emit",
+      "B": "refract",
+      "C": "reflect",
+      "D": "both(b) & (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 34,
+      "Question": "The capacity of double-effect evaporator is less than half of the capacity of two single effects, each of which is operating over same terminal temperature difference, when the",
+      "A": "solution has an elevation of boiling point.",
+      "B": "evaporators operate under vacuum.",
+      "C": "evaporators opreate at atmospheric pressure.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 35,
+      "Question": "Peclet number (Pe) is given by",
+      "A": "Pe = Re.Pr",
+      "B": "Pe = Re/Pr",
+      "C": "Pe = Pr/Re",
+      "D": "Pe = Nu.Re",
+      "Answer": "A"
+    },
+    {
+      "Number": 36,
+      "Question": "Nusselt number is the ratio of the",
+      "A": "temperature gradient of the wall to that across the entire pipe.",
+      "B": "temperature difference to the temperature gradient at the wall.",
+      "C": "heat flux at the wall to that across the entire pipe.",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 37,
+      "Question": "Prandtl number is the ratio of",
+      "A": "momentum diffusivity to mass diffusivity.",
+      "B": "momentum diffusivity to thermal diffusivity.",
+      "C": "thermal diffusivity to mass diffusivity.",
+      "D": "thermal diffusivity to momentum diffusivity.",
+      "Answer": "B"
+    },
+    {
+      "Number": 38,
+      "Question": "Which of the following parameters is increased by use of finned tube in a multipass shell and tube heat exchanger?",
+      "A": "Tube side pressure drop and the heat transfer rate.",
+      "B": "Convective heat transfer co-efficient.",
+      "C": "Effective tube surface area for convective heat transfer.",
+      "D": "All (a) (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 39,
+      "Question": "Forced circulation evaporators are useful for the concentration of viscous, salting and scale forming liquors. Which of the following is a forced circulation evaporator?",
+      "A": "Long vertical evaporator",
+      "B": "Horizontal tube evaporator",
+      "C": "Agitated film evaporator",
+      "D": "Calenderia vertical tube evaporator",
+      "Answer": "C"
+    },
+    {
+      "Number": 40,
+      "Question": "\"The ratio of the total emissive power to the absorptivity for all bodies is same at ther-mal equilibrium\". This is __________ law.",
+      "A": "Kirchoffs",
+      "B": "Planck's",
+      "C": "Wien's displacement",
+      "D": "Stefan-Boltzman",
+      "Answer": "A"
+    },
+    {
+      "Number": 41,
+      "Question": "View factor is important in heat transfer by",
+      "A": "steady state conduction",
+      "B": "natural convection",
+      "C": "forced convection",
+      "D": "radiation",
+      "Answer": "D"
+    },
+    {
+      "Number": 42,
+      "Question": "The advantage of using a 1 - 2 shell and tube heat exchanger over a 1 - 1 shell and tube heat exchanger is",
+      "A": "lower tube side pressure drop.",
+      "B": "lower shell side pressure drop.",
+      "C": "higher tube side heat transfer co-efficient.",
+      "D": "higher shell side heat transfer co-efficient.",
+      "Answer": "C"
+    },
+    {
+      "Number": 43,
+      "Question": "For a multipass shell and tube heat exchanger, the LMTD correction factor is always",
+      "A": 1,
+      "B": "> 1",
+      "C": "< 1",
+      "D": "between 1 & 2",
+      "Answer": "C"
+    },
+    {
+      "Number": 44,
+      "Question": "If heat transfer rate varies with the time, it is termed as",
+      "A": "forced convection",
+      "B": "steady state conduction",
+      "C": "monochromatic radiation",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 45,
+      "Question": "Pick out the wrong statement.",
+      "A": "Fluid movement under the influence of buoyant forces resulting from change in density takes place in case of natural convection.",
+      "B": "The ratio NNu/NRe . Npr is called the Stanton number.",
+      "C": "The Peclet number is a measure of the ratio of energy transport by convection to that by conduction.",
+      "D": "The Colbum jH factor for heat transfer is given by Nst Npr.",
+      "Answer": "D"
+    },
+    {
+      "Number": 46,
+      "Question": "Tube expansion allowances exist in __________ heat exchanger.",
+      "A": "multipass fixed tube sheet",
+      "B": "U-tube",
+      "C": "single pass fixed tube sheet",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 47,
+      "Question": "Pick out the wrong statement.",
+      "A": "In drying a solid containing moisture above the critical moisture content the number of degrees of freedom is 2.",
+      "B": "Sherwood number in mass transfer corresponds to Nusselt number in heat transfer and Schmidt number to Prandtl number.",
+      "C": "Forced convection is relatively more effective in increasing the rate of mass transfer, if Schmidt number is larger.",
+      "D": "Hot gases at moderate pressure are usually in the shell side of shell and tube heat exchangers. At higher pressure, however, it is customary to put gas in the tube side.",
+      "Answer": "C"
+    },
+    {
+      "Number": 48,
+      "Question": "Agitated film evaporator is suitable for concentrating __________ liquids.",
+      "A": "foaming",
+      "B": "viscous",
+      "C": "very thin",
+      "D": "corrosive",
+      "Answer": "B"
+    },
+    {
+      "Number": 49,
+      "Question": "The thickness of condensate layer in filmwise condensation depends on the",
+      "A": "condensation rate",
+      "B": "surface configuration",
+      "C": "liquid flow rate from the surface",
+      "D": "all (a), (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 50,
+      "Question": "If the thermal conductivity of a wall material is independent of temperature, the steady state temperature distribution in the very large thin plane wall having steady, uniform surface tempeature follows __________ law.",
+      "A": "parabolic",
+      "B": "hyperbolic",
+      "C": "linear",
+      "D": "logarithmic",
+      "Answer": "A"
+    }
+  ],
+  "Section 7": [
+    {
+      "Number": 1,
+      "Question": "Intermittant tube cleaning is possible to be done in case of a __________ evaporator.",
+      "A": "basket type",
+      "B": "horizontal tube",
+      "C": "calendria",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 2,
+      "Question": "Harmonic mean temperature difference is given by",
+      "A": "sqrt(ΔT1. ΔT2)",
+      "B": "(2. ΔT1. ΔT2)/(ΔT1 + ΔT2)",
+      "C": "(2. ΔT1. ΔT2)/(ΔT1 - ΔT2)",
+      "D": "( ΔT1 - ΔT2)/(ΔT1 . ΔT2)",
+      "Answer": "B"
+    },
+    {
+      "Number": 3,
+      "Question": "Arithmetic mean area can be used in heat transfer problem to calculate the heat flow by conduction through a cylinder which is",
+      "A": "thin walled having the value of Ao Ai/< 2.",
+      "B": "thick walled.",
+      "C": "having the value of Ao/Ai > 2.",
+      "D": "both (b) and (c).",
+      "Answer": "A"
+    },
+    {
+      "Number": 4,
+      "Question": "Three solid objects of the same material and of equal mass-a sphere, a cylinder (length = diameter) and a cube are at 500°C initially. These are dropped in a quenching bath containing a large volume of cooling oil each attaining the bath temperature eventually. The time required for 90% change in temperature is the smallest for",
+      "A": "cube",
+      "B": "cylinder",
+      "C": "sphere",
+      "D": "equal for all the three",
+      "Answer": "A"
+    },
+    {
+      "Number": 5,
+      "Question": "Overall heat transfer co-efficient for cooling of hydrocarbons by water is about",
+      "A": "50 -100 Kcal/hr.m2.°C",
+      "B": "50 -100 W/m2 . °K",
+      "C": "50 -100 BTU/hr. ft.2°F",
+      "D": "1000 - 1500 BTU/hr. ft.2°F",
+      "Answer": "C"
+    },
+    {
+      "Number": 6,
+      "Question": "Absorptivity of a perfect black body is unity. Which of the following has maximum absorptivity?",
+      "A": "aluminum foil",
+      "B": "refractory bricks",
+      "C": "iron plate",
+      "D": "coke breeze",
+      "Answer": "D"
+    },
+    {
+      "Number": 7,
+      "Question": "Thermal diffusivity is given by",
+      "A": "k/p.Cp",
+      "B": "p.Cp/k",
+      "C": "Cp.μ/a",
+      "D": "μ/hCp",
+      "Answer": "A"
+    },
+    {
+      "Number": 8,
+      "Question": "At what value of Prandtl number, the hydrodynamic and thermal boundary layers of a fluid flowing over a heated plate will be identical?",
+      "A": 1,
+      "B": "< 1",
+      "C": "> 1",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 9,
+      "Question": "Fourier's law of heat conduction applies to __________ surfaces.",
+      "A": "isothermal",
+      "B": "non-isothermal",
+      "C": "both (a) and (b)",
+      "D": "neither (a) and (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 10,
+      "Question": "__________ chart is known as transient heat conduction chart.",
+      "A": "Dirhing's",
+      "B": "Heisler's",
+      "C": "Mollier's",
+      "D": "Cox",
+      "Answer": "A"
+    },
+    {
+      "Number": 11,
+      "Question": "Choose the most important factor on which the heat conducted through a wall in a unit time will depend on?",
+      "A": "Thickness of the wall.",
+      "B": "Area of the wall perpendicular to heat flow.",
+      "C": "Material of the wall.",
+      "D": "Temperature difference between the two surfaces of the wall.",
+      "Answer": "D"
+    },
+    {
+      "Number": 12,
+      "Question": "Which of the following has the minimum thermal conductivity?",
+      "A": "Nitrogen",
+      "B": "Steel",
+      "C": "Carbon black",
+      "D": "Tar",
+      "Answer": "A"
+    },
+    {
+      "Number": 13,
+      "Question": "In a heat exchanger, one transfer unit means",
+      "A": "a section of the exchanger in which change in temperature of one stream equals the average driving force in the section.",
+      "B": "the size of the exchanger in which heat transfer rate is 1 kcal/hr.",
+      "C": "both (a) and (b)",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 14,
+      "Question": "For condensation of pure vapors, if the heat transfer co-efficients in filmwise and drop-wise condensation are respectively hf and hd, then",
+      "A": "hf = hd",
+      "B": "hf > hd",
+      "C": "hf < hd",
+      "D": "hf could be greater or smaller than hd",
+      "Answer": "C"
+    },
+    {
+      "Number": 15,
+      "Question": "Pick out the wrong statement:",
+      "A": "The capacity of an evaporator is reduced by the boiling point elevation.",
+      "B": "Corrosive liquid is normally passed through the tubes in a shell and tube heat exchanger.",
+      "C": "Steam jet ejector is used for vapor compression in a thermal recompression evaporator.",
+      "D": "Heat sensitive materials should be concentrated in high pressure evaporators.",
+      "Answer": "D"
+    },
+    {
+      "Number": 16,
+      "Question": "For concentrating an aqueous solution of a material like anhydrous Na2SO4, whose solubility decreases with rise in temperature, the most suitable evaporator is a __________ evaporator.",
+      "A": "high pressure",
+      "B": "vacuum",
+      "C": "backward feed",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 17,
+      "Question": "Circulation pump is located below the evaporater to",
+      "A": "avoid cavitation.",
+      "B": "avoid frequent priming.",
+      "C": "create more suction head.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 18,
+      "Question": "The statement that \"maximum wavelength of radiation is inversly proportional to the temperature\" is __________ law.",
+      "A": "Stefan-Boltzman's",
+      "B": "Planck's",
+      "C": "Wien's displacement",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 19,
+      "Question": "Steam condensate is recovered by steam traps and recycled for use as boiler feed water, because of its low",
+      "A": "hardness",
+      "B": "dissolved soilds content",
+      "C": "suspended solids content",
+      "D": "all (a), (b) and(c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 20,
+      "Question": "At steady state the temperature variation in a plane wall, made of two different solids I & II is shown below :\r\n\r\nThe thermal conductivity of material I",
+      "A": "is smaller than that of II.",
+      "B": "is greater than that of II.",
+      "C": "is equal to that of II.",
+      "D": "can be greater than or smaller than that of II.",
+      "Answer": "A"
+    },
+    {
+      "Number": 21,
+      "Question": "Duhring rule is important in solving problems on",
+      "A": "distillation",
+      "B": "crystallisation",
+      "C": "evaporation",
+      "D": "humidification",
+      "Answer": "C"
+    },
+    {
+      "Number": 22,
+      "Question": "In a shell and tube heat exchanger, the height of 25 percent cut baffles is equal to (where, D = inside diameter of shell)",
+      "A": "0.25 D",
+      "B": "0.75 D",
+      "C": "0.50 D",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 23,
+      "Question": "Multiple effect evaporation is generally recommended, when the",
+      "A": "large scale evaporation of liquor is needed",
+      "B": "corrosive liquids are to be concentrated.",
+      "C": "fuel is cheaply available.",
+      "D": "evaporation on small scale is to be done.",
+      "Answer": "A"
+    },
+    {
+      "Number": 24,
+      "Question": "The inside heat transfer co-efficient in case of turbulent flow of liquid in the tube side in a 1-2 shell and tube heat exchanger is increased by __________ times, when the number of tube passes is increased to 8.",
+      "A": "2^0.8",
+      "B": "4^0.8",
+      "C": "4^0.4",
+      "D": "2^0.4",
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "__________ heat exchanger is the most suitable, when the temperature of shell side fluid is much higher than that of tube side.",
+      "A": "Single pass, fixed tube sheet",
+      "B": "U-tube",
+      "C": "Three pass, fixed tube sheet",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 26,
+      "Question": "In which mode of heat transfer, the Biot number is important?",
+      "A": "Transient heat conduction",
+      "B": "Natural convection",
+      "C": "Forced convection",
+      "D": "Radiation",
+      "Answer": "A"
+    },
+    {
+      "Number": 27,
+      "Question": "_________ paint has the minimum absorption co-efficient.",
+      "A": "Black",
+      "B": "White lead",
+      "C": "Grey",
+      "D": "Light cream",
+      "Answer": "B"
+    },
+    {
+      "Number": 28,
+      "Question": "Asymptotic conditions is reached, when for a fluid flowing in laminar flow through a long tube",
+      "A": "exit-fluid temperature > wall temperature.",
+      "B": "exit fluid temperature < wall temperature.",
+      "C": "exit fluid temperature = wall temperature.",
+      "D": "Graetz number > 100.",
+      "Answer": "C"
+    },
+    {
+      "Number": 29,
+      "Question": "1000 kg of wet solids are to be dried from 60% to 20% moisture (by weight). The mass of moisture removed in kg is",
+      "A": 520,
+      "B": 200,
+      "C": 400,
+      "D": 500,
+      "Answer": "C"
+    },
+    {
+      "Number": 30,
+      "Question": "Which is the most suitable for the con-certration of highly concentrated solution?",
+      "A": "Open pan evaporation",
+      "B": "Long tube vertical evaporator",
+      "C": "Agitated film evaporator",
+      "D": "None of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 31,
+      "Question": "Unsteady state heat conduction occurs, when",
+      "A": "temperature distribution is independent of time.",
+      "B": "temperature distribution is dependent on time.",
+      "C": "heat flows in one direction only.",
+      "D": "three dimensional heat flow is concerned.",
+      "Answer": "B"
+    },
+    {
+      "Number": 32,
+      "Question": "What is the absorptivity of a black body?",
+      "A": 1,
+      "B": 0,
+      "C": 0.78,
+      "D": 0.95,
+      "Answer": "A"
+    },
+    {
+      "Number": 33,
+      "Question": "Mode of heat transfer in which the fluid moves under the influence of changes in fluid pressure produced by external work is called",
+      "A": "radiation",
+      "B": "natural convection",
+      "C": "forced convection",
+      "D": "conduction",
+      "Answer": "C"
+    },
+    {
+      "Number": 34,
+      "Question": "Baffle spacing",
+      "A": "is not the same as baffle pitch.",
+      "B": "should be less than one fifth the diameter of the shell.",
+      "C": "should be less than the inside diameter of the shell.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 35,
+      "Question": "Boiling point elevation of a solution of NaOH",
+      "A": "increases rapidly with temperature rise.",
+      "B": "is almost independent of temperature.",
+      "C": "is almost independent of pressure.",
+      "D": "both (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 36,
+      "Question": "The advantage of backward feed multiple effect evaporators over forward feed units is that",
+      "A": "heat sensitive material can be handled.",
+      "B": "there is no additional cost of pumping.",
+      "C": "most concentrated liquid is at highest temperature.",
+      "D": "equal heat transfer co-efficients exist in various effects.",
+      "Answer": "C"
+    },
+    {
+      "Number": 37,
+      "Question": "Which of the following is the most controlling factor for the rate of bubble detachment from the hot solid surface?",
+      "A": "Liquid density",
+      "B": "Liquid viscosity",
+      "C": "Hot surface temperature",
+      "D": "Interfacial tension",
+      "Answer": "D"
+    },
+    {
+      "Number": 38,
+      "Question": "Which characteristic of a fluid is not important in deciding its route in a shell and tube heat exchanger?",
+      "A": "Corrosiveness",
+      "B": "Fouling characteristic",
+      "C": "Viscosity",
+      "D": "None of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 39,
+      "Question": "Thermal conductivities of most of the liquids __________ with rise in temperature.",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains unchanged",
+      "D": "may increase or decrease; depends on the liquid",
+      "Answer": "B"
+    },
+    {
+      "Number": 40,
+      "Question": "A metal ball of radius 0.1 m at a uniform temperature of 90°C is left in air at 30°C. The density and the specific heat of the metal are 3000 kg/m3 and 0.4 kJ/kg.K respectively. The heat transfer co-efficient is 50 W/m2.K Neglecting the temperature gradients inside the ball, the time taken (in hours) for the ball to cool to 60°C is",
+      "A": 555,
+      "B": 55.5,
+      "C": 0.55,
+      "D": 0.15,
+      "Answer": "D"
+    },
+    {
+      "Number": 41,
+      "Question": "The purpose of floating head in a heat exchanger is to",
+      "A": "avoid buckling of tubes.",
+      "B": "provide support for tubes.",
+      "C": "decrease the pressure drop.",
+      "D": "facilitate its lengthening, if needed.",
+      "Answer": "A"
+    },
+    {
+      "Number": 42,
+      "Question": "1000 Kg of liquid at 30°C in a well stirred vessel has to be heated to 120°C, using immersed coils carrying condensing steam at 150°C. The area of the steam coils is 1.2 m2 and the overall heat transfer co-efficient to the liquid is 1500 W/m2.°C. Assuming negligible heat loss to the surrounding and specific heat capacity of the liquid to be 4 kJ/kg.°C, the time taken for the liquid to reach desired temperature will be",
+      "A": "15 min",
+      "B": "22 min",
+      "C": "44 min",
+      "D": "51 min",
+      "Answer": "D"
+    },
+    {
+      "Number": 43,
+      "Question": "Overall thermal resistance for conductive heat transfer through a series of flat resistances is equal to the",
+      "A": "maximum resistance in the series.",
+      "B": "sum of all resistances.",
+      "C": "average of all resistances.",
+      "D": "minimum resistance presents in the series.",
+      "Answer": "B"
+    },
+    {
+      "Number": 44,
+      "Question": "Double pipe heat exchangers are preferably useful, when",
+      "A": "high viscosity liquid is to be cooled.",
+      "B": "requirement of heat transfer area is low.",
+      "C": "overall heat transfer co-efficient is very high.",
+      "D": "a corrosive liquid is to be heated.",
+      "Answer": "B"
+    },
+    {
+      "Number": 45,
+      "Question": "Removal of __________ heat is involved in the condensation of a vapor under saturated conditions.",
+      "A": "super",
+      "B": "sensible",
+      "C": "latent",
+      "D": "both(b) & (c)",
+      "Answer": "C"
+    },
+    {
+      "Number": 46,
+      "Question": "The rate of heat transfer from a vertical plate by natural convection depends upon the temperature differences (ΔT) between wall and outside bulk. The proportionality is given as",
+      "A": "(ΔT)^1/4",
+      "B": "(ΔT)^1/2",
+      "C": "(ΔT)^5/4",
+      "D": "(ΔT)^3/4",
+      "Answer": "D"
+    },
+    {
+      "Number": 47,
+      "Question": "If air (a non-condensing gas) is present in a condensing vapor stream, it will __________ the condensation rate of vapor.",
+      "A": "increase",
+      "B": "decrease",
+      "C": "not affect",
+      "D": "increase the condensing film co-efficient as well as",
+      "Answer": "B"
+    },
+    {
+      "Number": 48,
+      "Question": "Prandtl and Reynold's analogies are identical for Prandtl number value of",
+      "A": 0,
+      "B": 0.5,
+      "C": 1,
+      "D": 5,
+      "Answer": "C"
+    },
+    {
+      "Number": 49,
+      "Question": "The outlet temperature of cooling water in a heat exchanger is generally not allowed to exceed above 50°C in industrial practice mainly to avoid",
+      "A": "its evaporation loss",
+      "B": "excessive corrosion",
+      "C": "uneconomic LMTD",
+      "D": "decrease in heat exchanger efficiency",
+      "Answer": "B"
+    },
+    {
+      "Number": 50,
+      "Question": "In evaporators, lowering the feed temperature",
+      "A": "increases the heating area required.",
+      "B": "reduces the economy.",
+      "C": "both (a) and (b).",
+      "D": "decreases the heating area required.",
+      "Answer": "C"
+    }
+  ],
+  "Section 8": [
+    {
+      "Number": 1,
+      "Question": "The type of liquor circulation system to be ' employed in evaporators (viz. natural or forced circulation) is determined mainly by the __________ of the liquid.",
+      "A": "viscosity",
+      "B": "density",
+      "C": "thermal conductivity",
+      "D": "corrosive nature",
+      "Answer": "A"
+    },
+    {
+      "Number": 2,
+      "Question": "In case of surface condensers, a straight line is obtained on plotting __________ on an ordinary graph paper.",
+      "A": "1/ ¯v^-0.8",
+      "B": "¯v^-0.8",
+      "C": "¯v^-2",
+      "D": "1/ ¯v^-2",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "Thermal diffusivity is the most important in heat transfer by",
+      "A": "conduction",
+      "B": "radiation",
+      "C": "condensation",
+      "D": "natural convection",
+      "Answer": "A"
+    },
+    {
+      "Number": 4,
+      "Question": "(NGr x NPr) is called the __________ number.",
+      "A": "Graetz",
+      "B": "Reyleigh",
+      "C": "Nusselt",
+      "D": "Stanton",
+      "Answer": "B"
+    },
+    {
+      "Number": 5,
+      "Question": "A dephlegmator is a",
+      "A": "A total condenser",
+      "B": "vacuum evaporator",
+      "C": "partial condenser",
+      "D": "douple pipe heat exchanger",
+      "Answer": "C"
+    },
+    {
+      "Number": 6,
+      "Question": "A tank painted with which of the following coloured paints, would heat up maximum by radiation from sun?",
+      "A": "Yellow paint",
+      "B": "White paint",
+      "C": "Black paint",
+      "D": "Grey paint",
+      "Answer": "C"
+    },
+    {
+      "Number": 7,
+      "Question": "The separation of liquid droplets from the vapor is done by a/an __________ , in the evaporators.",
+      "A": "steam ejector",
+      "B": "entrainment separator",
+      "C": "compressor",
+      "D": "vacuum pump",
+      "Answer": "B"
+    },
+    {
+      "Number": 8,
+      "Question": "Fouling factor for a heat exchanger is given by (where, U1 = heat transfer co-efficient of dirty surface U2 = heat transfer co-efficient of clean surface)",
+      "A": "U1 - U2",
+      "B": "1/U1 - 1/U2",
+      "C": "1/U2 - 1/U1",
+      "D": "U2 - U1",
+      "Answer": "B"
+    },
+    {
+      "Number": 9,
+      "Question": "If a single tube pass heat exchanger is converted to two pass, then for the same flow rate, the pressure drop per unit length in tube side will",
+      "A": "increase by 1.8 times",
+      "B": "decrease by 2^2",
+      "C": "increase by 2^16",
+      "D": "remain unchanged",
+      "Answer": "C"
+    },
+    {
+      "Number": 10,
+      "Question": "A steel sphere of radius 0.1 m at 400°K is immersed in an oil at 300°K. If the centre of the sphere reaches 350°K in 20 minutes, how long will it take for a 0.05 m radius steel sphere to reach the same temperature (at the centre) under identical conditions ? Assume that the conductive heat transfer co-efficient is infinitely large.",
+      "A": "5 minutes",
+      "B": "10 minutes",
+      "C": "20 minutes",
+      "D": "40 minutes",
+      "Answer": "A"
+    },
+    {
+      "Number": 11,
+      "Question": "Fluid motion in the natural convection heat transfer between a solid surface and a fluid in contact with it, results from the",
+      "A": "existence of thermal boundary layer.",
+      "B": "temperature gradient produced due to density difference",
+      "C": "buoyancy of the bubbles produced at active nucleation site.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 12,
+      "Question": "Evaporator tubes are generally",
+      "A": "horizontal",
+      "B": "vertical",
+      "C": "inclined",
+      "D": "random",
+      "Answer": "B"
+    },
+    {
+      "Number": 13,
+      "Question": "For a counter current heat exchanger with Tih = 80°C, T°c = 60°C, T°h = 50°C and Tic = 30°C, and the temperature difference between the two streams being the same everywhere along Z, the direction of flow of hot fluid. The temperature profile should satisfy",
+      "A": "d^2T/dZ^2 > 0",
+      "B": "d^2T/dZ^2 = 0",
+      "C": "d^2T/dZ^2 < 0",
+      "D": "dT/dZ = 0",
+      "Answer": "B"
+    },
+    {
+      "Number": 14,
+      "Question": "In a boiling curve, the peak heat flux is called the __________ point.",
+      "A": "Nusselt",
+      "B": "Leidenfrost",
+      "C": "boiling",
+      "D": "burnout",
+      "Answer": "D"
+    },
+    {
+      "Number": 15,
+      "Question": "Pick out the wrong statement.",
+      "A": "Heat transfer from a hot body to cold body by the emission of heat waves is called radiation:",
+      "B": "Filmwise condensation takes place on non-wettable surfaces.",
+      "C": "The boiling point of a solution is affected by liquid head as well as boiling point elevation.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 16,
+      "Question": "h.D/K is called the __________ number.",
+      "A": "Nusselt",
+      "B": "Peclet",
+      "C": "Rayleigh",
+      "D": "Grashoff",
+      "Answer": "A"
+    },
+    {
+      "Number": 17,
+      "Question": "Prandtl number is the ratio of",
+      "A": "mass diffusivity to thermal diffusivity",
+      "B": "momentum diffusivity to thermal diffusivity",
+      "C": "thermal diffusivity to mass diffusivity",
+      "D": "thermal diffusivity to momentum diffusivity",
+      "Answer": "B"
+    },
+    {
+      "Number": 18,
+      "Question": "Conductance is given by(where, x = thickness, A = heat flow area, K = thermal conductivity.)",
+      "A": "x/KA",
+      "B": "KA/x",
+      "C": "K/Ax",
+      "D": "A/Kx",
+      "Answer": "B"
+    },
+    {
+      "Number": 19,
+      "Question": "Heat flux, as defined in heat flow is analogous to __________ in electricity flow.",
+      "A": "current",
+      "B": "voltage",
+      "C": "resistance",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 20,
+      "Question": "The wavelength at which the maximum monochromatic emissive power occurs for a black body, is (where, T = absolute temperature of the black body)",
+      "A": "αT",
+      "B": "α 1/T",
+      "C": "α T^4",
+      "D": "independent of T",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "In a shell and tube heat exchanger, putting a longitudinal baffle across the shell, forces the shell side fluid to pass __________ through the heat exchanger.",
+      "A": "once",
+      "B": "twice",
+      "C": "thrice",
+      "D": "four times",
+      "Answer": "B"
+    },
+    {
+      "Number": 22,
+      "Question": "When the ratio of the Grashoff number and to the square of Reynolds number is one, the dominant mechanism of heat transfer is",
+      "A": "free convection",
+      "B": "entry length problem in laminar forced conduction (developing thermal boundary layer)",
+      "C": "mixed convection (both free and forced)",
+      "D": "forced convection",
+      "Answer": "C"
+    },
+    {
+      "Number": 23,
+      "Question": "The purpose of providing bleed points in the evaporator is to",
+      "A": "admit the feed",
+      "B": "remove the product",
+      "C": "facilitate removal of non-condensable gases",
+      "D": "create vacuum",
+      "Answer": "C"
+    },
+    {
+      "Number": 24,
+      "Question": "Water always boils when its",
+      "A": "temperature reaches 100° C.",
+      "B": "vapour pressure equals 76 cm of Hg.",
+      "C": "saturated vapour pressure equals the external pressure on its surface.",
+      "D": "saturated vapour pressure is less than the atmospheric pressure.",
+      "Answer": "C"
+    },
+    {
+      "Number": 25,
+      "Question": "A multiple effect evaporator as compared to a single effect evaporator of the same capacity has",
+      "A": "lower heat transfer area",
+      "B": "lower steam economy",
+      "C": "higher steam economy",
+      "D": "higher solute concentration in the product",
+      "Answer": "C"
+    },
+    {
+      "Number": 26,
+      "Question": "Which is the most suitable for cold viscous feed?",
+      "A": "Forward feed",
+      "B": "Backward feed",
+      "C": "Mixed feed",
+      "D": "Parallel feed",
+      "Answer": "B"
+    },
+    {
+      "Number": 27,
+      "Question": "Dropwise condensation is promoted on a/an __________ surface.",
+      "A": "glazed",
+      "B": "oily",
+      "C": "coated",
+      "D": "smooth",
+      "Answer": "B"
+    },
+    {
+      "Number": 28,
+      "Question": "At Pr > 1, conduction in an ordinary fluid flowing through a heated pipe is limited to the",
+      "A": "buffer zone",
+      "B": "turbulent core",
+      "C": "both (a) and (b)",
+      "D": "viscous sub-layer",
+      "Answer": "D"
+    },
+    {
+      "Number": 29,
+      "Question": "In a single evaporator system, the steam economy __________ by creating vacuum in the evaporator.",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains constant",
+      "D": "may increase or decrease, depends on the vacuum",
+      "Answer": "A"
+    },
+    {
+      "Number": 30,
+      "Question": "(NRe.NPr)(D/L)is called the __________ number",
+      "A": "Peclet",
+      "B": "Stanton",
+      "C": "Graetz",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 31,
+      "Question": "Nucleate boiling is promoted",
+      "A": "on polished surfaces",
+      "B": "on rough surfaces",
+      "C": "in the absence of agitation",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 32,
+      "Question": "In forced circulation, the heating element is injected",
+      "A": "internally",
+      "B": "externally",
+      "C": "both (a) and (a)",
+      "D": "neither (a) nor (b)",
+      "Answer": "A"
+    },
+    {
+      "Number": 33,
+      "Question": "If all the conditions and dimensions are same, then the ratio of velocity through the tubes of a double pass heat exchanger to that through the single pass heat exchanger is",
+      "A": 1,
+      "B": 2,
+      "C": 45293,
+      "D": 4,
+      "Answer": "B"
+    },
+    {
+      "Number": 34,
+      "Question": "The equation, Nst = f/2, is the __________ analogy.",
+      "A": "Colburn",
+      "B": "Reynolds",
+      "C": "Prandtl",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 35,
+      "Question": "Boiling point elevation for a strong and concentrated solution is found by Duhring's rule, which states that at the same pressure, the boiling point of a solution is a linear function of the __________ of pure water.",
+      "A": "boiling point",
+      "B": "dynamic viscosity",
+      "C": "kinematic viscosity",
+      "D": "density",
+      "Answer": "A"
+    },
+    {
+      "Number": 36,
+      "Question": "Rate of crystallisation does not depend upon the",
+      "A": "extent of supersaturation.",
+      "B": "turbulence within the solution.",
+      "C": "number and active surface area of the crystals.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 37,
+      "Question": "Stefen's block body radiation law can also be derived from __________ law.",
+      "A": "Kirchoffs",
+      "B": "Planck's",
+      "C": "Fourier's",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 38,
+      "Question": "Multipass heat exchangers are used",
+      "A": "because of simplicity of fabrication",
+      "B": "for low heat load",
+      "C": "to obtain higher heat transfer co-efficient and shorter tube.",
+      "D": "to reduce the pressure drop.",
+      "Answer": "C"
+    },
+    {
+      "Number": 39,
+      "Question": "A hollow sphere and a solid sphere of the same material and equal radii are heated to the same temperature. In this case,",
+      "A": "the cooling rate will be the same for the two spheres and hence the two spheres will have equal temperatures at any instant.",
+      "B": "both the spheres will emit equal amount of radiation per unit time in the beginning.",
+      "C": "both will absorb equal amount of radiation from the surrounding in the beginning.",
+      "D": "both(b) & (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 40,
+      "Question": "Condensing film co-efficient for steam on horizontal tubes ranges from 5000 to 15000 Kcal/hr.m2 .°C. Condensation of vapor is carried out inside the tube in a shell and tube heat exchanger, when the",
+      "A": "higher condensing film co-efficient is desired.",
+      "B": "condensate is corrosive in nature.",
+      "C": "lower pressure drop through the exchanger is desired.",
+      "D": "temperature of the incoming vapor is very high.",
+      "Answer": "B"
+    },
+    {
+      "Number": 41,
+      "Question": "When does the heat generated by fluid friction becomes appreciable compared to the heat transferred between the fluids?",
+      "A": "At high fluid velocity",
+      "B": "At low velocity",
+      "C": "When fluid flows past a smooth surface",
+      "D": "None of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 42,
+      "Question": "The Sieder-Tate correlation for heat transfer in turbulent flow in pipe gives Nu α Re^0.8, where, Nu is the Nusselt number and Re is the Reynolds number for the flow. Assuming that this relation is valid, the heat transfer co-efficient varies with the pipe diameter (D) as",
+      "A": "(D)^-1.8",
+      "B": "(D)^-0.2",
+      "C": "(D)^0.2",
+      "D": "(D)^1.8",
+      "Answer": "B"
+    },
+    {
+      "Number": 43,
+      "Question": "A long iron rod initially at a temperature of 20°C has one end dipped in boiling water (100°C) at time, t = 0. The curved surface of the rod is insulated so that heat conduction is one dimensional in the axial direction. The temperature at a distance 100 mm from the dipped end becomes 40°C at time, t = 200 s. The same temperature is achieved at a distance of 200 mm from the dipped end at time",
+      "A": "t = 283 s",
+      "B": "t = 356 s",
+      "C": "t = 400 s",
+      "D": "t = 800 s",
+      "Answer": "D"
+    },
+    {
+      "Number": 44,
+      "Question": "LMTD for evaporators & condensers for a given terminal parameters & set of conditions for counterflow is equal to that for parallel flow. In such heat exchangers, with one of the fluids condensing or evaporating, the surface area required is the least in the __________ flow.",
+      "A": "parallel",
+      "B": "mixed",
+      "C": "counterflow",
+      "D": "same in either 'a', b' or 'c'",
+      "Answer": "D"
+    },
+    {
+      "Number": 45,
+      "Question": "Thermal diffusivity of a material",
+      "A": "has the unit m2 /sec.",
+      "B": "is defined as K/ρ . Cp.",
+      "C": "is the ratio of thermal conductivity to thermal capacity.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 46,
+      "Question": "Viscosity of gases __________ with increase in temperature.",
+      "A": "increase very rapidly",
+      "B": "increase slowly",
+      "C": "decrease slowly",
+      "D": "remain unaffected",
+      "Answer": "B"
+    },
+    {
+      "Number": 47,
+      "Question": "What is the emissivity of a black body?",
+      "A": 1,
+      "B": 0,
+      "C": 0.9,
+      "D": 0.5,
+      "Answer": "A"
+    },
+    {
+      "Number": 48,
+      "Question": "Steam is routed through the tube in case of a __________ evaporator.",
+      "A": "basket type",
+      "B": "horizontal tube",
+      "C": "short tube vertical",
+      "D": "long tube vertical",
+      "Answer": "B"
+    },
+    {
+      "Number": 49,
+      "Question": "Dropwise condensation of steam on cooling surface is promoted",
+      "A": "an oily surface.",
+      "B": "when both the steam and the tube are clean.",
+      "C": "only in presence of air.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 50,
+      "Question": "Conduction occurs in the buffer zone for a fluid flowing through a heated pipe, only when Prandtl number is",
+      "A": 0.1,
+      "B": ">1",
+      "C": "<1",
+      "D": 1,
+      "Answer": "A"
+    }
+  ],
+  "Section 9": [
+    {
+      "Number": 1,
+      "Question": "In a heat exchanger, the rate of heat transfer from the hot fluid to the cold fluid",
+      "A": "varies directly as the area and the LMTD.",
+      "B": "directly proportional to LMTD and inversely proportional to the area.",
+      "C": "varies as square of the area.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 2,
+      "Question": "With increase in temperature, the total emissivity of conductors",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains same",
+      "D": "decreases linearly",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "Loss of heat from untagged steam pipe to the ambient air is by",
+      "A": "conduction",
+      "B": "convection",
+      "C": "radiation",
+      "D": "all (a), (b) & (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 4,
+      "Question": "Fruit juice (a heat sensitive material) can be concentrated in a __________ evaporator.",
+      "A": "long tube",
+      "B": "falling film",
+      "C": "high pressure",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 5,
+      "Question": "Tubes are held between top and bottom tube sheets in Calenderia type evaporator by keeping",
+      "A": "both the tube sheets fixed.",
+      "B": "both the tube sheets floating.",
+      "C": "the top tube sheet floating and bottom tube sheet fixed.",
+      "D": "the top tube sheet fixed and the bottom tube-sheet floating.",
+      "Answer": "A"
+    },
+    {
+      "Number": 6,
+      "Question": "A single pass air heater is connected to a two pass unit. For the air flow rate and other conditions remaining the same, the film heat transfer co-efficient for air will vary in the ratio of",
+      "A": 2,
+      "B": "2^0.8",
+      "C": "2^0.2",
+      "D": "2^0.5",
+      "Answer": "B"
+    },
+    {
+      "Number": 7,
+      "Question": "Heat sensitive materials can be concentrated in an evaporator employing",
+      "A": "vacuum",
+      "B": "high pressure",
+      "C": "high residence time",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 8,
+      "Question": "A concentric double pipe heat exchanger as compared to the shell and tube heat exchanger for the same heat load requires",
+      "A": "less heating surface.",
+      "B": "more space.",
+      "C": "lower maintenance cost.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 9,
+      "Question": "In a shell and tube heat exchanger, floating head is used for",
+      "A": "large temperature differentials.",
+      "B": "high heat transfer co-efficient.",
+      "C": "low pressure drop.",
+      "D": "less corrosion of tubes.",
+      "Answer": "A"
+    },
+    {
+      "Number": 10,
+      "Question": "Steam trap is used to",
+      "A": "condense the steam flowing in the pipeline.",
+      "B": "remove water resulting from partial condensation of steam.",
+      "C": "stop the supply of steam.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "The average heat transfer co-efficient over the entire length of the plate (ha) and the local heat transfer co-efficient (hL), in case of heat transfer over a flat plate in lminar zone is related as",
+      "A": "ha = 0.8hL",
+      "B": "ha = 2hL",
+      "C": "ha = hL",
+      "D": "ha = 5hL",
+      "Answer": "B"
+    },
+    {
+      "Number": 12,
+      "Question": "What is the logarithmic mean of r1 and r2 ?",
+      "A": "(r1-r2/ln(r1/r2))",
+      "B": "(r1-r2/ln(r2/r1))",
+      "C": "(r2-r1/ln(r1/r2))",
+      "D": "(r1-r2/-ln(r1/r2))",
+      "Answer": "A"
+    },
+    {
+      "Number": 13,
+      "Question": "Maximum heat transfer rate is achieved in __________ flow.",
+      "A": "co-current",
+      "B": "counter-current",
+      "C": "turbulent",
+      "D": "laminar",
+      "Answer": "C"
+    },
+    {
+      "Number": 14,
+      "Question": "Wavelength corresponding to the maximum energy is inversely proportional to the absolute temperature. This is __________ law.",
+      "A": "Stefan's",
+      "B": "Dalton's",
+      "C": "Wien's",
+      "D": "Kirchoffs",
+      "Answer": "C"
+    },
+    {
+      "Number": 15,
+      "Question": "Three material A, B and C of equal thick-nes and of thermal conductivity of 20, 40 & 60 kcal/hr. m. °C respectively are joined together. The temperature outside of A and C are 30°C and 100°C respectively. The interface between B and C will be at a temperature of __________ °C.",
+      "A": 40,
+      "B": 95,
+      "C": 70,
+      "D": 50,
+      "Answer": "C"
+    },
+    {
+      "Number": 16,
+      "Question": "Which of the following parameters of the fluid is not very important, while deciding its route in a shell and tube heat exchanger?",
+      "A": "Corrosiveness & fouling characteristics",
+      "B": "pressure",
+      "C": "viscosity",
+      "D": "density",
+      "Answer": "D"
+    },
+    {
+      "Number": 17,
+      "Question": "Corrosiveness of steam condensate is due to the presence of",
+      "A": "CO2",
+      "B": "dissolved O2",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 18,
+      "Question": "The equation, (NSt x N2/3Pr) = f/2, is the __________ analogy.",
+      "A": "Colburn",
+      "B": "Reynolds",
+      "C": "Prandtl",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 19,
+      "Question": "The driving potential for the crystal growth during crystallisation is the __________ of the solution.",
+      "A": "concentration",
+      "B": "viscosity",
+      "C": "super-saturation",
+      "D": "density",
+      "Answer": "C"
+    },
+    {
+      "Number": 20,
+      "Question": "jH factor for heat transfer depends upon the __________ number.",
+      "A": "Biot",
+      "B": "Nusselt",
+      "C": "Reynolds",
+      "D": "Prandtl",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "Kg of liquid evaporated per hour in an evaporator is defined as its",
+      "A": "capacity",
+      "B": "economy",
+      "C": "steam load",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "Pick out the correct statement.",
+      "A": "1 kcal/hr.m.°C is equal to 1 BTU/hr. ft.°F.",
+      "B": "In steady state heat conduction, the only property of the substance which determines the temperature distribution, is the thermal conductivity.",
+      "C": "In unsteady state heat conduction, heat flows in the direction of temperature rise.",
+      "D": "In heat transfer by forced convection, Grashoff number is very important.",
+      "Answer": "B"
+    },
+    {
+      "Number": 23,
+      "Question": "Open pan evaporators are preferred to be used, when the solution to be concentrated is",
+      "A": "scaling",
+      "B": "highly viscous",
+      "C": "corrosive",
+      "D": "salty",
+      "Answer": "B"
+    },
+    {
+      "Number": 24,
+      "Question": "Cp.μ/K is termed as the __________ number.",
+      "A": "Grashoff",
+      "B": "Nusselt",
+      "C": "Prandtl",
+      "D": "Stanton",
+      "Answer": "C"
+    },
+    {
+      "Number": 25,
+      "Question": "The maximum heat transfer co-efficient from steam heating will be attained when the steam is",
+      "A": "supersaturated",
+      "B": "saturated",
+      "C": "wet",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 26,
+      "Question": "Kirchoff's law is applicable to",
+      "A": "monochromatic radiation only",
+      "B": "total radiation only",
+      "C": "both (a) and (b)",
+      "D": "only volumes and not to surfaces",
+      "Answer": "C"
+    },
+    {
+      "Number": 27,
+      "Question": "In a forward feed multiple effect evaporator, the pressure is",
+      "A": "highest in last effect",
+      "B": "lowest in last effect",
+      "C": "same in all effects",
+      "D": "dependent on the number of effects",
+      "Answer": "B"
+    },
+    {
+      "Number": 28,
+      "Question": "In a co-current double pipe heat exchanger used for condensing saturated steam over the inner tube, if the entrance and exit conditions of the coolant are interchanged, then the rate of condensation will",
+      "A": "increase",
+      "B": "decrease",
+      "C": "remain unchanged",
+      "D": "either increase or decrease; depends on the coolant flow rate",
+      "Answer": "C"
+    },
+    {
+      "Number": 29,
+      "Question": "Which of the following situations can be approximated to a steady state heat transfer system?",
+      "A": "A red hot steel slab (having outside surface temperature as 1300°C) exposed to the atmosheric air at 35°C.",
+      "B": "10 kg of dry saturated steam at 8 kgf/cm2 flowing through a short length of stainless steel pipe exposed to atmospheric air at 35°C.",
+      "C": "Boiling brine kept in open vessel when the bottom surface temperature of the vessel is maintained constant at 180°C.",
+      "D": "A sub-cooled refrigerant liquid at 8°C flowing at the rate of 6 Kg/minute through a copper pipe exposed to atmospheric air at 35°C.",
+      "Answer": "B"
+    },
+    {
+      "Number": 30,
+      "Question": "Sensible heat absorbed by 1 lb of water when it is heated from 32 to 212°F may be around __________ BTU.",
+      "A": 180,
+      "B": 970,
+      "C": 3.97,
+      "D": "data insufficient, can't be predicted",
+      "Answer": "A"
+    },
+    {
+      "Number": 31,
+      "Question": "The unit of conductance in SI unit is",
+      "A": "W/m",
+      "B": "W/m2",
+      "C": "W/°K",
+      "D": "W/m°K",
+      "Answer": "C"
+    },
+    {
+      "Number": 32,
+      "Question": "In a shell and tube heat exchanger, square pitch compared to triangular pitch",
+      "A": "gives a higher shell side pressure drop.",
+      "B": "gives a lower shell side pressure drop.",
+      "C": "can pack more surface area into a shell of given diameter.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 33,
+      "Question": "Which of the following has maximum thermal conductivity?",
+      "A": "Iron",
+      "B": "Coal",
+      "C": "Nitrogen",
+      "D": "Tar",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "A wall has two layers of materials A and B; each made of a different material. Both the layers have the same thickness. The thermal conductivity of materialA is twice that of B. Under the equilibrium, the temperature difference across the wall is 36°C. The temperature difference across the layer A is __________ °C.",
+      "A": 6,
+      "B": 12,
+      "C": 18,
+      "D": 24,
+      "Answer": "B"
+    },
+    {
+      "Number": 35,
+      "Question": "The film co-efficient between condensing vapour and metal wall increases with",
+      "A": "increasing temperature of the vapour.",
+      "B": "decreasing temperature of the vapour.",
+      "C": "increasing viscosity of the film of condensate.",
+      "D": "increasing temperature drop.",
+      "Answer": "A"
+    },
+    {
+      "Number": 36,
+      "Question": "Critical value of the __________ number governs the transition from laminar to turbulent flow in free convection heat transfer.",
+      "A": "Grashoff",
+      "B": "Reynolds",
+      "C": "both 'a' & 'b'",
+      "D": "Prandtl & Grashoff",
+      "Answer": "D"
+    },
+    {
+      "Number": 37,
+      "Question": "The thermal boundary layer at NPr > 1",
+      "A": "is thicker than hydrodynamic boundary layer.",
+      "B": "is thinner than hydrodynamic boundary layer.",
+      "C": "and the hydrodynamic boundary layer are identical.",
+      "D": "disappears.",
+      "Answer": "B"
+    },
+    {
+      "Number": 38,
+      "Question": "In the free convection regime of pool boiling, the heat flux is proportional to",
+      "A": "Δt^1/2",
+      "B": "Δt^2",
+      "C": "Δt^5/4",
+      "D": "Δt",
+      "Answer": "C"
+    },
+    {
+      "Number": 39,
+      "Question": "With increase in temperature, the thermal conductivity of fresh lubricating oil",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains unchanged",
+      "D": "may increase or decrease; depends on its composition",
+      "Answer": "B"
+    },
+    {
+      "Number": 40,
+      "Question": "Fresh orange juice contains 12% (by weight) solids and the rest water 90% of the fresh juice is sent to an evaporator to remove water and subsequently mixed with the remaining 10% of fresh juice. The resultant product contains 40% solids. The kg of water removed from 1 kg fresh juice is",
+      "A": 0.4,
+      "B": 0.5,
+      "C": 0.6,
+      "D": 0.7,
+      "Answer": "D"
+    },
+    {
+      "Number": 41,
+      "Question": "Nusselt number is the ratio of the temperature gradient at the wall to",
+      "A": "temperature difference",
+      "B": "heat flux",
+      "C": "that across the entire pipe",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 42,
+      "Question": "The Stefan-Boltzman constant depends on the",
+      "A": "medium",
+      "B": "temperature",
+      "C": "surface",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 43,
+      "Question": "The units of resistance to heat transfer is",
+      "A": "J.m-2.K-1",
+      "B": "J.m-1.K-1",
+      "C": "W.m-2.K-1",
+      "D": "W-1m2K",
+      "Answer": "D"
+    },
+    {
+      "Number": 44,
+      "Question": "Thermal conductivity of a gas at low density, __________ with increase in temperature.",
+      "A": "decreases",
+      "B": "increases",
+      "C": "remains unchanged",
+      "D": "may increase or decrease; depends on the gas",
+      "Answer": "B"
+    },
+    {
+      "Number": 45,
+      "Question": "Nusselt number is a function of Prandtl number and __________ number of fluid in natural convection heat transfer.",
+      "A": "Grashoff",
+      "B": "Biot",
+      "C": "Stantan",
+      "D": "Reynolds",
+      "Answer": "A"
+    },
+    {
+      "Number": 46,
+      "Question": "__________ heat exchanger is used for chilling oil to be dewaxed.",
+      "A": "U-tube",
+      "B": "Double pipe",
+      "C": "Fixed tube",
+      "D": "Floating head",
+      "Answer": "B"
+    },
+    {
+      "Number": 47,
+      "Question": "It is not recommended to use a 1-2 shell and tube heat exchanger for a particular heat duty, whenever the LMTD correction factor is",
+      "A": "> 0.75",
+      "B": "< 0.75",
+      "C": "< 0.50",
+      "D": "< 0.25",
+      "Answer": "B"
+    },
+    {
+      "Number": 48,
+      "Question": "Pick out the wrong statement.",
+      "A": "Economy of a multiple effect evaporator is not influenced by the boiling point elevation.",
+      "B": "Two identical cubes of iron and copper will have the same heat content under the same conditions of temperature.",
+      "C": "Double pipe heat exchangers are mostly used in the field of refrigeration.",
+      "D": "Finned tube heat exchangers are suitable for heating air by steam.",
+      "Answer": "B"
+    },
+    {
+      "Number": 49,
+      "Question": "In sub-cooled boiling,",
+      "A": "temperature of the heating surface is less than the boiling point of the liquid.",
+      "B": "temperature of the heating surface is more than the boiling point of the liquid.",
+      "C": "bubbles from heating surface are absorbed by the mass of the liquid.",
+      "D": "very large vapour space is necessary.",
+      "Answer": "B"
+    },
+    {
+      "Number": 50,
+      "Question": "With increase in temperature, the thermal conductivity of a gas",
+      "A": "increases.",
+      "B": "decreases.",
+      "C": "remains same.",
+      "D": "may increase or decrease depending on the type of gas.",
+      "Answer": "A"
+    }
+  ],
+  "Section 10": [
+    {
+      "Number": 1,
+      "Question": "A __________ evaporator employs an annular downtake.",
+      "A": "basket type",
+      "B": "horizontal",
+      "C": "long tube vertical",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 2,
+      "Question": "Radiation heat losses from satisfactorily insulated high pressure boilar may be about __________ percent.",
+      "A": 1,
+      "B": 7,
+      "C": 18,
+      "D": 26,
+      "Answer": "B"
+    },
+    {
+      "Number": 3,
+      "Question": "In natural convection heat transfer, the correlating parameter is the",
+      "A": "Graetz number",
+      "B": "Eckert number",
+      "C": "Grashoff number",
+      "D": "Bond number",
+      "Answer": "C"
+    },
+    {
+      "Number": 4,
+      "Question": "Boiling of milk in an open vessel is an example of __________ boiling.",
+      "A": "film",
+      "B": "sub-cooled",
+      "C": "saturated nucleate",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 5,
+      "Question": "Pick out the wrong statement.",
+      "A": "In process heat exchangers, saturated steam is preferred over the superheated steam.",
+      "B": "The maximum is the emissive power of a surface at a temperature T1 occurs at a wavelength of λ1. If the surface temperature is halved, the maximum in the emissive power would occur at a wavelength of 0.5 λ1.",
+      "C": "When a vertical plate is heated in infinite air environmental under natural convection conditions, the velocity profile in air, normal to the plate, exhibits a maximum.",
+      "D": "A body at 925 K emits an energy of 1.42 x 1011σW/m2 (σ is the Stefan-Boltzman constant) in the wavelength band between 3 μm to 4 μm. The fraction of this energy in the total energy emitted over the entire wavelength range is equal to emissivity.",
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "Mode of heat transfer involved in the cooling of air cooled internal combustion engine is",
+      "A": "conduction",
+      "B": "natural convection",
+      "C": "forced convection",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 7,
+      "Question": "Steady state one dimensional heat flow by conduction as given by Fourier's low does not assume that",
+      "A": "there is no internal heat generation.",
+      "B": "boundary surfaces are isothermal.",
+      "C": "material is anisotropic.",
+      "D": "constant temperature gradient exists.",
+      "Answer": "C"
+    },
+    {
+      "Number": 8,
+      "Question": "The left face of a one dimensional slab of thickness 0.2 m is maintained at 80°C and the right face is exposed to air at 30°C. The thermal conductivity of the slab is 1.2 W/m.K and the heat transfer co-efficient from the right face is 10 W/m2.K. At steady state, the temperature of the right face in °C is",
+      "A": 77.2,
+      "B": 71.2,
+      "C": 63.8,
+      "D": 48.7,
+      "Answer": "D"
+    },
+    {
+      "Number": 9,
+      "Question": "In a shell and tube heat exchanger, the shell side fluid velocity can not be changed by changing the",
+      "A": "tube layout",
+      "B": "tube diameter",
+      "C": "tube pitch",
+      "D": "no. of baffles",
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "To reduce the tube side pressure drop for the same flow rate, the heat exchanger recomended is",
+      "A": "1-2 heat exchanger",
+      "B": "1-1 heat exchanger",
+      "C": "3-2 heat exchanger",
+      "D": "2-4 heat exchanger",
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "Heat transfer co-efficient (h) for a fluid flowing inside a clean pipe is given by\r\nThis is valid for the value of NRe equal to",
+      "A": "< 2100",
+      "B": "2100-4000",
+      "C": "> 4000",
+      "D": "> 10000",
+      "Answer": "D"
+    },
+    {
+      "Number": 12,
+      "Question": "Steam side heat transfer co-efficient in an evaporator is in the range of __________ kcal/hr.m2°C.",
+      "A": "10-50",
+      "B": "100-500",
+      "C": "1000-1500",
+      "D": "5000-15000",
+      "Answer": "D"
+    },
+    {
+      "Number": 13,
+      "Question": "Correction is applied to LMTD for __________ flow.",
+      "A": "parallel",
+      "B": "counter",
+      "C": "cross",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 14,
+      "Question": "If h1 = inner film co-efficient and /h2 = outer film co-efficient, then the overall heat transfer co-efficient is",
+      "A": "always less than h1",
+      "B": "always between h1 and h2",
+      "C": "always higher than h2",
+      "D": "dependent on metal resistance",
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "One kilogram of water at 0°C is changed to superheated steam of one atm pressure and 300° C. The major heat consumption in the process will be to",
+      "A": "heat the water from 0°C to 100°C.",
+      "B": "evaporate the water.",
+      "C": "to superheat the steam.",
+      "D": "data insufficient, can't be predicted",
+      "Answer": "B"
+    },
+    {
+      "Number": 16,
+      "Question": "For __________ Prandtl number values, the heat conduction will be negligible in the buffer zone.",
+      "A": "extremely low",
+      "B": "low",
+      "C": "high",
+      "D": "no",
+      "Answer": "C"
+    },
+    {
+      "Number": 17,
+      "Question": "The radiation heat flux from a heating element at a temperature of 800°C, in a furnace maintained at 300°C is 8 kW/m2. The flux, when the element temperature is increased to 1000°C for the same furnace temperature is",
+      "A": "11.2 kW/m2",
+      "B": "12.0 kW/m2",
+      "C": "14.6 kW/m2",
+      "D": "16.5 kW/m2",
+      "Answer": "D"
+    },
+    {
+      "Number": 18,
+      "Question": "Heat exchangers operating, when the asymptotic range is reached,",
+      "A": "provide very large heat transfer co-efficient.",
+      "B": "results in making part of the heating surface inactive.",
+      "C": "results in abruptly increased velocity.",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 19,
+      "Question": "In case of a shell and tube heat exchanger, the minimum and maximum baffle spacing is respectively (where, D = inside diameter of the shell)",
+      "A": "D/5 and D",
+      "B": "D/2 and 2 D",
+      "C": "D/4 and 2 D",
+      "D": "D and 2 D",
+      "Answer": "A"
+    },
+    {
+      "Number": 20,
+      "Question": "In case of heat transfer by conduction in a hollow cylinder, __________ mean area is used to calculate the heat transfer rate.",
+      "A": "geometric",
+      "B": "arithmetic",
+      "C": "logarithmic",
+      "D": "either (a), (b) or (c)",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "In a gas-liquid shell and tube heat exchanger, the",
+      "A": "presence of a non-condensible gas decreases the condensing film co-efficient.",
+      "B": "gases under high pressure are routed through the tube side, because high pressure gases are corrosive in nature.",
+      "C": "gases to be heated/cooled is normally routed through the shell side, because the corrosion caused by the cooling water or steam condensate remain localised to the tubes.",
+      "D": "all 'a', 'b' & 'c'",
+      "Answer": "D"
+    },
+    {
+      "Number": 22,
+      "Question": "Which is the most suitable for the concentration of foamy & frothy liquors?",
+      "A": "Agitated film evaporator",
+      "B": "Long tube vertical evaporator",
+      "C": "Open pan evaporator",
+      "D": "None of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 23,
+      "Question": "Boiling point elevation of an ideal solution",
+      "A": "increases rapidly with temperature rise.",
+      "B": "decreases rapidly with temperature rise",
+      "C": "in independent of pressure.",
+      "D": "both (b) and (c).",
+      "Answer": "A"
+    },
+    {
+      "Number": 24,
+      "Question": "The rate of heat transfer is a product of overall heat transfer co-efficient, the difference in temperature and the",
+      "A": "heating volume",
+      "B": "heat transfer area",
+      "C": "Nusselt number",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "Which of the following has the lowest overall heat transfer co-efficient?",
+      "A": "Downtherm",
+      "B": "Molten sodium",
+      "C": "Water",
+      "D": "Air",
+      "Answer": "D"
+    },
+    {
+      "Number": 26,
+      "Question": "Which of the following has the minimum absorptivity?",
+      "A": "Aluminum foil",
+      "B": "Coal dust",
+      "C": "Refractory bricks",
+      "D": "Iron plates",
+      "Answer": "A"
+    },
+    {
+      "Number": 27,
+      "Question": "A black body when hot, emits heat radiation of __________ wavelengths.",
+      "A": "small",
+      "B": "large",
+      "C": "all",
+      "D": "one fixed",
+      "Answer": "C"
+    },
+    {
+      "Number": 28,
+      "Question": "A composite wall consists of two plates A and B placed in series normal to the flow of heat. The thermal conductivities are kA and kB and the specific heat capacities are CPA and CPB for plates A and B respectively. Plate B has twice the thickness of plate A. At steady state, the temperature difference across plate A is greater than that across plate B, when",
+      "A": "CPA > CPB",
+      "B": "CPA < CPB",
+      "C": "kA < 0.5kB",
+      "D": "kA>2 kB",
+      "Answer": "C"
+    },
+    {
+      "Number": 29,
+      "Question": "Vibrations in the tubes of a shell and tube heat exchanger is induced due to the",
+      "A": "flow of fluid on the tube and shell sides.",
+      "B": "oscillations in the flow of shell/tube sides fluid.",
+      "C": "vibrations transmitted through piping and/or supports due to external reasons.",
+      "D": "all (a), (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 30,
+      "Question": "Heat transfer by conduction in the turbulent core of a fluid flowing through a heated pipe is negligible, if the value of Prandtl number is",
+      "A": 0.2,
+      "B": 0.4,
+      "C": 0.6,
+      "D": 0.8,
+      "Answer": "C"
+    },
+    {
+      "Number": 31,
+      "Question": "The Nusselt number for fully developed (both thermally and hydrodynamically) laminar flow through a circular pipe whose surface temperature remains constant is",
+      "A": 1.66,
+      "B": 88.86,
+      "C": 3.66,
+      "D": "dependent on NRe only",
+      "Answer": "C"
+    },
+    {
+      "Number": 32,
+      "Question": "Sensible heat of hot industrial flue gases can not be recovered by a/an",
+      "A": "economiser",
+      "B": "regenerator",
+      "C": "ceramic recuperator",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 33,
+      "Question": "The critical radius of insulation for a spherical shell is (where, K = thermal conductivity of insulating material h0 = heat transfer coefficient at the outer surface)",
+      "A": "K/h0",
+      "B": "2K/h0",
+      "C": "h0/K",
+      "D": "h0/2K",
+      "Answer": "B"
+    },
+    {
+      "Number": 34,
+      "Question": "Radiator of an automobile engine is a __________ type of heat exchanger.",
+      "A": "co-current",
+      "B": "cross-current",
+      "C": "counter-current",
+      "D": "direct contact",
+      "Answer": "D"
+    },
+    {
+      "Number": 35,
+      "Question": "In pipe flow, heat is transferred from hot wall to the liquid by",
+      "A": "conduction only",
+      "B": "forced convection only",
+      "C": "forced convection and conduction",
+      "D": "free and forced convection",
+      "Answer": "C"
+    },
+    {
+      "Number": 36,
+      "Question": "The value of Stefan-Boltazman constant in SI unit is",
+      "A": "5.6697 x 10-8W/m2.°K4",
+      "B": "0.1714 x 10-8W/m2.°K4",
+      "C": "5.6697 x 10-8kcal/m2 . °K4",
+      "D": "0.1714 x 10-8kcal/m2. °K4",
+      "Answer": "A"
+    },
+    {
+      "Number": 37,
+      "Question": "The unit of heat transfer co-efficient is",
+      "A": "BTU/hr. ft2°F",
+      "B": "BTU/hr. °F. ft.",
+      "C": "BTU/hr. °F",
+      "D": "BTU/hr. ft",
+      "Answer": "A"
+    },
+    {
+      "Number": 38,
+      "Question": "For turbulent flow in a tube, the heat transfer co-efficient is obtained from the Dittus-Boelter correlation. If the tube diameter is halved and the flow rate is doubled, then the heat transfer co-efficient will change by a factor of",
+      "A": 1,
+      "B": 1.74,
+      "C": 6.1,
+      "D": 37,
+      "Answer": "C"
+    },
+    {
+      "Number": 39,
+      "Question": "The inner wall of a furnace is at a temperature of 700°C. The composite wall is made of two substances, 10 and 20 cm thick with thermal conductivities of 0.05 and 0.1 W.m-1.°C-1 respectively. The ambient air is at 30°C and the heat transfer co-efficient between the outer surface of wall and air is 20 W.m-2.°C-1. The rate of heat loss from the outer surface in W.m-2is",
+      "A": 165.4,
+      "B": 167.5,
+      "C": 172.5,
+      "D": 175,
+      "Answer": "A"
+    },
+    {
+      "Number": 40,
+      "Question": "Value of Nusselt number [Nu = (hD/k)] for the heat transfer by conduction from a droplet or a spherical particle to a surrounding stagnant film is",
+      "A": 0.5,
+      "B": 2,
+      "C": 10,
+      "D": 100,
+      "Answer": "B"
+    },
+    {
+      "Number": 41,
+      "Question": "Low thermal conductivity of heat insulating materials is due to its",
+      "A": "dense structure",
+      "B": "high proportion of air space",
+      "C": "high specific heat",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 42,
+      "Question": "The most conducive surface for dropwise condensation to occur is the __________ surface.",
+      "A": "coated",
+      "B": "oily",
+      "C": "glazed & polished",
+      "D": "smooth",
+      "Answer": "B"
+    },
+    {
+      "Number": 43,
+      "Question": "In an interphase heat transfer process, the equilibrium state corresponds to equality of temperature in the two phases, while the condition for equilibrium in an interphase mass transfer process is equality of",
+      "A": "concentrations",
+      "B": "chemical potentials",
+      "C": "activity co-efficients",
+      "D": "mass transfer co-efficients",
+      "Answer": "A"
+    },
+    {
+      "Number": 44,
+      "Question": "Calburn analogy is applicable for the value of Prandtl number from",
+      "A": "0.001 to 1",
+      "B": "0.6 to 120",
+      "C": "0.5 to 5",
+      "D": "120 to 400",
+      "Answer": "B"
+    },
+    {
+      "Number": 45,
+      "Question": "Pick out the correct equation.",
+      "A": "jH = (St)(Pr)^2/3 = f/2",
+      "B": "jH = (St)(Pr)^1/3 = f/2",
+      "C": "jH = (St)^2/3(Pr) = f/2",
+      "D": "jH = (St)^1/3(Pr) = f/2",
+      "Answer": "A"
+    },
+    {
+      "Number": 46,
+      "Question": "Multiple effect evaporators ar used to",
+      "A": "increase the steam economy & decrease the capacity.",
+      "B": "increase the steam economy & the capacity.",
+      "C": "decrease the steam economy & the capacity.",
+      "D": "decrease the steam economy & increase the capacity.",
+      "Answer": "B"
+    },
+    {
+      "Number": 47,
+      "Question": "Prandtl number is given by",
+      "A": "(Cp · μ)/a",
+      "B": "hD/k",
+      "C": "(Cp · μ)/k",
+      "D": "μ/(h · Cp)",
+      "Answer": "C"
+    },
+    {
+      "Number": 48,
+      "Question": "Small scale evaporation is done in a",
+      "A": "heat exchanger",
+      "B": "condenser",
+      "C": "multiple effect evaporator",
+      "D": "steam jacketed kettle",
+      "Answer": "D"
+    },
+    {
+      "Number": 49,
+      "Question": "Heat exchanger tubes are never made of",
+      "A": "plain carbon steel",
+      "B": "stainless steel",
+      "C": "lead",
+      "D": "copper",
+      "Answer": "C"
+    },
+    {
+      "Number": 50,
+      "Question": "At constant temperature, the thermal conductivities of gases __________ with rise in pressure.",
+      "A": "decrease",
+      "B": "increase",
+      "C": "remain unchanged",
+      "D": "may increase or decrease; depends on the pressure",
+      "Answer": "A"
+    }
+  ],
+  "Section 11": [
+    {
+      "Number": 1,
+      "Question": "Reason for operating an evaporator in multiple effect is to secure",
+      "A": "increased steam economy.",
+      "B": "decreased steam consumption.",
+      "C": "both (a) and (b).",
+      "D": "increased capacity.",
+      "Answer": "C"
+    },
+    {
+      "Number": 2,
+      "Question": "In a cooling tower, water becomes cool by",
+      "A": "loosing sensible heat.",
+      "B": "heat transfer to surroundings.",
+      "C": "vaporisation due to heat loss to air.",
+      "D": "loosing latent heat.",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "In Fourier's law, the proportionality constant is called the",
+      "A": "heat transfer co-efficient",
+      "B": "thermal diffusivity",
+      "C": "thermal conductivity",
+      "D": "Stefan-Boltzman constant",
+      "Answer": "C"
+    },
+    {
+      "Number": 4,
+      "Question": "The heat transfer co-efficient in film type condensation is __________ that for dropwise condensation.",
+      "A": "greater than",
+      "B": "lower than",
+      "C": "is same as",
+      "D": "half",
+      "Answer": "B"
+    },
+    {
+      "Number": 5,
+      "Question": "Pick out the wrong statement.",
+      "A": "Bubble size increases with the dynamic viscosity of the liquid in case of nucleate pool boiling.",
+      "B": "Thermal conductivity of a dry material is more than that of the damp material.",
+      "C": "Ratio of its capacity to economy equals the steam consumption in kg/hr in an evaporator.",
+      "D": "Vaporisation of organic substances in evaporator mostly causes foam formation.",
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "Duhring's plot' is of use in",
+      "A": "extractive distillation",
+      "B": "evaporation",
+      "C": "leaching",
+      "D": "absorption",
+      "Answer": "B"
+    },
+    {
+      "Number": 7,
+      "Question": "Which has the lowest Prandtl number?",
+      "A": "Liquid metal",
+      "B": "Aqueous solution",
+      "C": "Water",
+      "D": "Lube oil",
+      "Answer": "A"
+    },
+    {
+      "Number": 8,
+      "Question": "Pick out the wrong statement.",
+      "A": "The value of hydrostatic head increases with increase in vacuum in the effect in a multiple effect evaporator system.",
+      "B": "Entering velocity of the liquid in the tubes of natural circulation evaporators is in the range of 0.3 to 0.9 metre/second.",
+      "C": "Duhring's plot is used for calculating the concentration of solution.",
+      "D": "In a multiple effect evaporation system, the number of effects is limited by the total boiling point rise.",
+      "Answer": "C"
+    },
+    {
+      "Number": 9,
+      "Question": "Prandtl number for most of dry gases is about",
+      "A": 0.001,
+      "B": 0.72,
+      "C": 70,
+      "D": 150,
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "Prandtl number is the reciprocal of",
+      "A": "Thermal diffusivity/Momentum diffusivity",
+      "B": "thermal diffusivity x Momentum",
+      "C": "Thermal diffusivity x Mass diffusivity",
+      "D": "Mass diffusivity x Momentum diffusivity",
+      "Answer": "A"
+    },
+    {
+      "Number": 11,
+      "Question": "In a heat exchanger with steam outside the tubes, a liquid gets heated to 45°C, when its flow velocity in the tubes is 2 m/s. If the flow velocity is reduced to 1 m/s, other things remaining the same, the temperature of the exit liquid will be",
+      "A": "less than 45°C",
+      "B": "more than 45°C",
+      "C": "equal to 45°C",
+      "D": "initially decreases and remains constant thereafter.",
+      "Answer": "B"
+    },
+    {
+      "Number": 12,
+      "Question": "For a liquid in laminar flow through a very long tube, when the exit fluid temperature approaches the wall temperature, the equation to be used is",
+      "A": "Nu = 0.023 Re^0.8 . Pr^0.4",
+      "B": "Nu = pi/2 x Gz",
+      "C": "Nu = 2/pi x Gz",
+      "D": "Nu = 2Gz^0.5",
+      "Answer": "C"
+    },
+    {
+      "Number": 13,
+      "Question": "Multiple effect evaporation accounts for",
+      "A": "steam economy",
+      "B": "lower operating costs",
+      "C": "investment economy",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 14,
+      "Question": "In case of a supercooled solution, which is on the verge of crystallisation, the free energy of the solution as compared to that of the solid is",
+      "A": "more",
+      "B": "less",
+      "C": "same",
+      "D": "more or less; depends on the nature of solution",
+      "Answer": "A"
+    },
+    {
+      "Number": 15,
+      "Question": "Maximum water velocity in tubes of a 1-2 shell and tube heat exchanger may be around __________ metres/second.",
+      "A": 1,
+      "B": 10,
+      "C": 20,
+      "D": 30,
+      "Answer": "A"
+    },
+    {
+      "Number": 16,
+      "Question": "In Biot number, the characteristic length used is the ratio of the __________ of the solid.",
+      "A": "volume to surface area",
+      "B": "perimeter to surface area",
+      "C": "surface area to volume",
+      "D": "surface area to perimeter",
+      "Answer": "A"
+    },
+    {
+      "Number": 17,
+      "Question": "Which of the following is the most widely used heat insulating material for pipelines carrying steam?",
+      "A": "Tar dolomite bricks followed by asbestos.",
+      "B": "Fireclay refractory followed by aluminium sheet.",
+      "C": "Cotton followed by aluminium foil.",
+      "D": "85% magnesia cement and glass wool.",
+      "Answer": "D"
+    },
+    {
+      "Number": 18,
+      "Question": "Heat transfer co-efficient equation for forced convection, Nu = 0.023 Re^0.8 . Pr^n, is not valid, if the value of",
+      "A": "n = 0.4 is used for heating.",
+      "B": "n = 0.3 is used for cooling.",
+      "C": "Reynolds number for the flow involved is > 10000.",
+      "D": "Reynolds number for the flow involved is < 2100.",
+      "Answer": "D"
+    },
+    {
+      "Number": 19,
+      "Question": "Which is the best tube arrangement (in a shell and tube heat exchanger) if the fluids are clean and non-fouling?",
+      "A": "Square pitch",
+      "B": "Triangular pitch",
+      "C": "Diagonal square pitch",
+      "D": "None of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "In case of a multipass shell and tube heat exchanger, the temperature drop in the fluid",
+      "A": "is inversely proportional to the resistance across which the drop occurs.",
+      "B": "and the wall are proportional to individual resistances.",
+      "C": "and the wall is not related.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "The purpose of providing expansion bellows in the shell of tubular exchanger is to",
+      "A": "increase the heating load.",
+      "B": "impart structural strength.",
+      "C": "account for the uneven expansion of shell and tube bundles.",
+      "D": "facilitate increase of shell length, if needed.",
+      "Answer": "C"
+    },
+    {
+      "Number": 22,
+      "Question": "A graph between __________ is called Wilson plot.",
+      "A": "1/U Vs. 1/V^0.8",
+      "B": "1/(V^0.8) Vs. U",
+      "C": "V^0.8 Vs. U",
+      "D": "1/U vs. 1/V",
+      "Answer": "A"
+    },
+    {
+      "Number": 23,
+      "Question": "Grashhoff number is given by",
+      "A": "gD^3.β.Δtρ2/μ^2",
+      "B": "gD^2βΔtρ/μ^2",
+      "C": "gD2^βΔtP^2μ",
+      "D": "gD^3βΔtP^2/μ",
+      "Answer": "A"
+    },
+    {
+      "Number": 24,
+      "Question": "The overall heat transfer co-efficient for a shell and tube heat exchanger for clean surfaces is U0 = 400 W/m2.K. The fouling factor after one year of operation is found to be hd0 = 2000 W/m2.K. The overall heat transfer co-efficient at this time is",
+      "A": "1200W/m2.K",
+      "B": "894W/m2.K",
+      "C": "333W/m2.K",
+      "D": "287 W/m2.K",
+      "Answer": "C"
+    },
+    {
+      "Number": 25,
+      "Question": "In a laboratory test run, the rate of drying was found to be 0.5 x 10-3 kg/m2.s, when the moisture content reduced from 0.4 to 0.1 on dry basis. The critical moisture content of the material is 0.08 on a dry basis. A tray dryer is used to dry 100 kg (dry basis) of the same material under identical conditions. The surface area of the material is 0.04 m2/kg of dry solid. The time required (in seconds) to reduce the moisture content of the solids from 0.3 to 0.2 (dry basis) is",
+      "A": 2000,
+      "B": 4000,
+      "C": 5000,
+      "D": 6000,
+      "Answer": "C"
+    },
+    {
+      "Number": 26,
+      "Question": "Pick out the wrong statement.",
+      "A": "Solvates' are chemical compounds formed by solute with their solvents. When water is the solvent, then it is called a 'hydrate'.",
+      "B": "In heat exchanger calculations (Δt)weighted is used in place of Δt, when it involves more than one sequence of heating or cooling i.e., desuperheating & condensation or condensation & sub-cooling.",
+      "C": "Heat transfer co-efficient during nucleate boiling is not influenced by the agitation imparted.",
+      "D": "In case of short tube vertical evaporators, area of central downtake is about 50 to 100% of the total tube cross-sectional area.",
+      "Answer": "C"
+    },
+    {
+      "Number": 27,
+      "Question": "What is the geometric mean of two heat transfer areas A1 and A2?",
+      "A": "sqrt*(A1 . A2)",
+      "B": "sqrt*(A1 + A2)",
+      "C": "1/2 sqrt*(A1 . A2)",
+      "D": "2 sqrt*(A1 . A2)",
+      "Answer": "A"
+    },
+    {
+      "Number": 28,
+      "Question": "Evaporation by thermocompression results in the",
+      "A": "saving of steam.",
+      "B": "realisation of multiple effect economy in a single effect.",
+      "C": "both (a) and (b).",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 29,
+      "Question": "Forced circulation evaporators are normally used for concentrating liquids having",
+      "A": "scaling characteristics",
+      "B": "high viscosity",
+      "C": "both(a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 30,
+      "Question": "Steam economy in case of a triple effect evaporator will be",
+      "A": 1,
+      "B": "< 1",
+      "C": "> 1",
+      "D": "between 0 and 1",
+      "Answer": "C"
+    }
+  ]
+}

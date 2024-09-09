@@ -1,0 +1,4070 @@
+{
+  "Section 1": [
+    {
+      "Number": 1,
+      "Question": "Short distance transportation of grain, gravel, sand, ash, asphalt etc. is done by using a __________ conveyor.",
+      "A": "flight",
+      "B": "slat or drag",
+      "C": "ribbon",
+      "D": "screw",
+      "Answer": "D"
+    },
+    {
+      "Number": 2,
+      "Question": "Equivalent diameter of a particle is the diameter of the sphere having the same",
+      "A": "ratio of surface to volume as the actual volume",
+      "B": "ratio of volume to surface as the particle",
+      "C": "volume as the particle",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "If dp is the equivalent diameter of a non-spherical particle, Vp its volume and sp its surface area, then its sphericity is Φs is defined by",
+      "A": "Φs = 6 Vp/dp sp",
+      "B": "Φs = Vp/dp sp",
+      "C": "Φs = 6 dp Sp/Vp",
+      "D": "Φs = dp Sp/Vp",
+      "Answer": "A"
+    },
+    {
+      "Number": 4,
+      "Question": "Power required to drive a ball mill with a particular ball load is proportional to (where, D = diameter of ball mill )",
+      "A": "D",
+      "B": "1/D",
+      "C": "D2.5",
+      "D": "1/D2.5",
+      "Answer": "C"
+    },
+    {
+      "Number": 5,
+      "Question": "Pick out the wrong statement.",
+      "A": "Recycled coarse material to the grinder by a classifier is termed as circulating load",
+      "B": "Wear and tear in wet crushing is more than that in dry crushing of materials",
+      "C": "Size enlargement (opposite of size reduction) is not a mechanical operation",
+      "D": "A 'dust catcher' is simply an enlargement in a pipeline which permits the solids to settle down due to reduction in velocity of the dust laden gas",
+      "Answer": "C"
+    },
+    {
+      "Number": 6,
+      "Question": "In continuous filtration (at a constant pressure drop), filtrate flow rate varies inversely as the",
+      "A": "square root of the velocity",
+      "B": "square of the viscosity",
+      "C": "filtration time only",
+      "D": "washing time only",
+      "Answer": "A"
+    },
+    {
+      "Number": 7,
+      "Question": "For sizing of fine materials, the most suitable equipment is a",
+      "A": "trommel",
+      "B": "grizzly",
+      "C": "shaking screen",
+      "D": "vibrating screen",
+      "Answer": "D"
+    },
+    {
+      "Number": 8,
+      "Question": "Which of the following is not categorised as a \"mechanical operation\" ?",
+      "A": "Agitation",
+      "B": "Filtration",
+      "C": "Size enlargement",
+      "D": "Humidification",
+      "Answer": "D"
+    },
+    {
+      "Number": 9,
+      "Question": "Which of the following is a pressure filter?",
+      "A": "Leaf filter (Moore filter)",
+      "B": "Plate and flame filter",
+      "C": "Rotary drum filter",
+      "D": "Sand filter",
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "Tabular bowl centrifuges as compared to disk bowl centrifuges",
+      "A": "operate at higher speed",
+      "B": "employ bowl of larger diameter",
+      "C": "can not be operated under pressure/vacuum",
+      "D": "can't be used for separation of fine suspended solids from a liquid",
+      "Answer": "A"
+    },
+    {
+      "Number": 11,
+      "Question": "Pebble mills are tumbling mills widely used for grinding in the manufacture of paints & pigments and cosmetic industries, where iron contamination in the product is highly objectionable. Pebbles used in pebble mill are made of",
+      "A": "bronze",
+      "B": "stainless steel",
+      "C": "flint or porcelain",
+      "D": "concrete",
+      "Answer": "C"
+    },
+    {
+      "Number": 12,
+      "Question": "Filter aids like asbestos, kieselguhr, diatomaceous earth etc. are used to increase the porosity of the final filter cake & reducing the cake resistance during filtration. Filter aid is",
+      "A": "added to the feed slurry",
+      "B": "precoated on the filter medium prior to filtration",
+      "C": "separated from the cake by dissolving solids or by burning it off",
+      "D": "all 'a', 'b'&'c'",
+      "Answer": "D"
+    },
+    {
+      "Number": 13,
+      "Question": "Which of the following relationships between co-efficinet of friction (μ) between rock & roll and a (half of the angle of nip) of the particle to be crushed is correct?",
+      "A": "μ > tan α",
+      "B": "μ ≥ tan α",
+      "C": "μ > tan 2α",
+      "D": "μ ≤ tan α",
+      "Answer": "B"
+    },
+    {
+      "Number": 14,
+      "Question": "Pick out the wrong statement pertaining to the roll crushers.",
+      "A": "Maximum feed size determines the required roll diameter",
+      "B": "For hard material's crushing, the reduction ratio should not exceed 4",
+      "C": "Both the rolls run necessarily at the same speed",
+      "D": "Reduction ratio and differential roll speed affect production rate & energy consumed per unit of surface produced",
+      "Answer": "C"
+    },
+    {
+      "Number": 15,
+      "Question": "Which of the following is not an ultrafine grinder (colloid mill)?",
+      "A": "Micronizers",
+      "B": "Agitated mills and fluid energy mills",
+      "C": "Toothed roll crusher",
+      "D": "Hammer mills with internal classification",
+      "Answer": "C"
+    },
+    {
+      "Number": 16,
+      "Question": "Two particles are called to be equal settling, if they are having the same.",
+      "A": "size",
+      "B": "specific gravity",
+      "C": "terminal velocities in the same fluid & in the same field of force",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 17,
+      "Question": "Which of the following is the most suitable for handling fibrous and dense slurries?",
+      "A": "Propeller agitator",
+      "B": "Cone type agitator",
+      "C": "Turbine agitator",
+      "D": "Radial propeller agitator",
+      "Answer": "B"
+    },
+    {
+      "Number": 18,
+      "Question": "__________ centrifuge is normally used in sugar mills.",
+      "A": "Tubular bowl",
+      "B": "Disc-bowl",
+      "C": "Suspended batch basket",
+      "D": "Perforated horizontal basket continuous",
+      "Answer": "C"
+    },
+    {
+      "Number": 19,
+      "Question": "Solid particles separation based on the difference in their flow velocities through fluids is termed as the",
+      "A": "clarification",
+      "B": "classification",
+      "C": "elutriation",
+      "D": "sedimentation",
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "Diatomaceous earth is a/an",
+      "A": "explosive",
+      "B": "filter aid",
+      "C": "filter medium",
+      "D": "catalyst",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "The distribution given by microscopic analysis of powder is",
+      "A": "number",
+      "B": "length",
+      "C": "area",
+      "D": "volume",
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "Number of particles in a crushed solid sample is given by (where, m = mass of particles in a sample, Vp = volume of one particle, ρ= density of particles)",
+      "A": "m/ρ . Vp",
+      "B": "m. ρ/Vp",
+      "C": "m . Vp/ρ",
+      "D": "Vp/m . ρ",
+      "Answer": "A"
+    },
+    {
+      "Number": 23,
+      "Question": "For a non-spherical particle, the sphericity",
+      "A": "is defined as the ratio of surface area of a sphere having the same volume as the particle to the actual surface area of the particle",
+      "B": "has the dimension of length",
+      "C": "is always less than 1",
+      "D": "is the ratio of volume of a sphere having the same surface area as the particle to the actual volume of the particle",
+      "Answer": "A"
+    },
+    {
+      "Number": 24,
+      "Question": "In washing type plate and frame filter press, the ratio of washing rate to the final filtrate rate is",
+      "A": 4,
+      "B": 45295,
+      "C": 1,
+      "D": 45293,
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "Ball mills and tube mills with flint or porcelain balls are used for size reduction of",
+      "A": "asbestos",
+      "B": "rubber",
+      "C": "non-metallic ores",
+      "D": "limestone",
+      "Answer": "C"
+    },
+    {
+      "Number": 26,
+      "Question": "Size reduction of __________ is accomplished in steam heated rollers and roll crushers.",
+      "A": "resins",
+      "B": "gums",
+      "C": "hard rubber",
+      "D": "waxes",
+      "Answer": "C"
+    },
+    {
+      "Number": 27,
+      "Question": "The capacity of a belt conveyor depends upon two factors. If one is the cross-section of the load, the other is the __________ of the belt.",
+      "A": "speed",
+      "B": "thickness",
+      "C": "length",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 28,
+      "Question": "Which of the following is not a part of the Blake jaw crusher?",
+      "A": "Hanger",
+      "B": "Check plates",
+      "C": "Toggles",
+      "D": "Pitman",
+      "Answer": "A"
+    },
+    {
+      "Number": 29,
+      "Question": "If a force greater than that of gravity is used to separate solids & fluids of different densities, the process is termed as the",
+      "A": "sedimentation",
+      "B": "flocculation",
+      "C": "dispersion",
+      "D": "centrifugation",
+      "Answer": "D"
+    },
+    {
+      "Number": 30,
+      "Question": "Filter aid is used to",
+      "A": "increase the rate of filtration.",
+      "B": "decrease the pressure drop",
+      "C": "increase the porosity of the cake.",
+      "D": "act as a support base for the septum.",
+      "Answer": "C"
+    },
+    {
+      "Number": 31,
+      "Question": "Which of the following mineral dressing operations is termed as 'comminution'?",
+      "A": "Panning",
+      "B": "Spiralling",
+      "C": "Tabling",
+      "D": "None of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 32,
+      "Question": "The capacity of a pneumatic conveying system depends upon the",
+      "A": "bulk density of materials",
+      "B": "pressure of the conveying air",
+      "C": "pressure of the conveying air",
+      "D": "all (a), (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 33,
+      "Question": "Pick out the wrong statement.",
+      "A": "Close circuit grinding is more economical than open circuit grinding",
+      "B": "Cod oil, beef tallow or aluminium stearates are used as grinding aids in cement 'industries'",
+      "C": "The equipment used for the removal of traces of solids from a liquid is called a classifier",
+      "D": "Size enlargement is a mechanical operation exemplified by medicinal tablet making",
+      "Answer": "C"
+    },
+    {
+      "Number": 34,
+      "Question": "Gravity settling process is not involved in the working of a",
+      "A": "hydrocyclone",
+      "B": "classifier",
+      "C": "dorr-thickener",
+      "D": "sedimentation tank",
+      "Answer": "A"
+    },
+    {
+      "Number": 35,
+      "Question": "Froth floatation is the most suitable for treating",
+      "A": "iron ores",
+      "B": "sulphide ores",
+      "C": "quartzite",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 36,
+      "Question": "The energy required per unit mass to grind limestone particles of very large size to 100 μm is 12.7 kWh/ton. An estimate (using Bond's law) of the energy to grind the particles from a very large size to 50 μrn is",
+      "A": "6.35 kWh/ton",
+      "B": "9.0 kWh/ton",
+      "C": "18 kWh/to",
+      "D": "25.4 kWh/to",
+      "Answer": "C"
+    },
+    {
+      "Number": 37,
+      "Question": "Which of the following is the most suitable for cleaning of fine coal dust (<0.5 mm)?",
+      "A": "Trough washer",
+      "B": "Baum jig washer",
+      "C": "Spiral separator",
+      "D": "Froth floatation",
+      "Answer": "D"
+    },
+    {
+      "Number": 38,
+      "Question": "Pick out the correct statement:",
+      "A": "Removal of iron from ceramic material is necessitated (by magnetic separation method) so as to avoid discolouration of ceramic products",
+      "B": "The operating cost of shaking screen is more than that of a vibrating screen",
+      "C": "Screen capacity does not depend upon the specific gravity of the minerals",
+      "D": "Asphalt is best crushed using toothed roll crusher",
+      "Answer": "B"
+    },
+    {
+      "Number": 39,
+      "Question": "Range of compressibility co-efficient of the commercial compressible cake obtained in filtration operation is",
+      "A": "0.01 to 0.1",
+      "B": "0.1 to 0.3",
+      "C": "0.2 to 0.8",
+      "D": "0.2 to 0.4",
+      "Answer": "C"
+    },
+    {
+      "Number": 40,
+      "Question": "Highly viscous liquids & pastes are agitated by",
+      "A": "propellers",
+      "B": "turbine agitators",
+      "C": "multiple blade paddles",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 41,
+      "Question": "The value of 'angle of nip' is generally about",
+      "A": "16°",
+      "B": "32°",
+      "C": "52°",
+      "D": "64°",
+      "Answer": "B"
+    },
+    {
+      "Number": 42,
+      "Question": "Size reduction of the __________ can be suitably done by ball mills, crushing rolls and rod mills.",
+      "A": "metalliferrous ores",
+      "B": "non-metallic ores",
+      "C": "basic slags",
+      "D": "asbestos & mica",
+      "Answer": "A"
+    },
+    {
+      "Number": 43,
+      "Question": "Sulphuric acid mist is arrested by using a __________ scrubber.",
+      "A": "packed wet",
+      "B": "hollow wet",
+      "C": "venturi",
+      "D": "cocurrent",
+      "Answer": "C"
+    },
+    {
+      "Number": 44,
+      "Question": "The main size reduction operation in ultrafine grinders is",
+      "A": "cutting",
+      "B": "attrition",
+      "C": "compression",
+      "D": "impact",
+      "Answer": "B"
+    },
+    {
+      "Number": 45,
+      "Question": "In case of a hammer crusher,",
+      "A": "crushing takes place by impact breaking.",
+      "B": "maximum acceptable feed size is 30 cms.",
+      "C": "reduction ratio can be varied by adjusting the distance from cage to hammers.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 46,
+      "Question": "Jigging is a technique by which different particles can be",
+      "A": "separated by particle size.",
+      "B": "separated by particle density.",
+      "C": "separated by particle shape.",
+      "D": "mixed.",
+      "Answer": "A"
+    },
+    {
+      "Number": 47,
+      "Question": "Crushing of mineral particles is accomplished in a 'cage mill', when one or more alloy steel bars are revolved in opposite directions. It is a type of __________ mill.",
+      "A": "impact",
+      "B": "roll",
+      "C": "vibratory",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 48,
+      "Question": "Balls for ball mills are never made of",
+      "A": "forged/cast steel",
+      "B": "lead",
+      "C": "cast iron",
+      "D": "alloy steel",
+      "Answer": "B"
+    },
+    {
+      "Number": 49,
+      "Question": "200 mesh screen means 200 openings per",
+      "A": "cm2",
+      "B": "cm",
+      "C": "inch",
+      "D": "inch2",
+      "Answer": "C"
+    },
+    {
+      "Number": 50,
+      "Question": "__________ is the most commonly used 'filter aid'.",
+      "A": "Diatomaceous earth",
+      "B": "Fuller's earth",
+      "C": "Vermiculite",
+      "D": "Semi-plastic clay",
+      "Answer": "A"
+    }
+  ],
+  "Section 2": [
+    {
+      "Number": 1,
+      "Question": "Energy consumed for crushing one ton of material ranges from __________ kWh.",
+      "A": "0.01 to 0.1",
+      "B": "0.5 to 1.5",
+      "C": "2 to 3.5",
+      "D": "4 to 5.",
+      "Answer": "B"
+    },
+    {
+      "Number": 2,
+      "Question": "For transporting pasty material, one will use a/an",
+      "A": "apron conveyor",
+      "B": "belt conveyor",
+      "C": "screw colaveyor",
+      "D": "bucket elevator",
+      "Answer": "C"
+    },
+    {
+      "Number": 3,
+      "Question": "Where the density difference of the two liquid phase to be separated is very small (as in milk cream separator), the most suitable separator is a",
+      "A": "disc bowl centrifuge.",
+      "B": "sharpies supercentrifuge.",
+      "C": "batch basket centrifuge.",
+      "D": "sparkler filter.",
+      "Answer": "A"
+    },
+    {
+      "Number": 4,
+      "Question": "A tube mill compared to a ball mill",
+      "A": "has a higher length/diameter ratio.",
+      "B": "produces a coarser product.",
+      "C": "has a higher diameter/length ratio.",
+      "D": "uses much larger balls.",
+      "Answer": "A"
+    },
+    {
+      "Number": 5,
+      "Question": "Trommels separate a mixture of particles depending on their",
+      "A": "size",
+      "B": "density",
+      "C": "wettability",
+      "D": "electrical & magnetic properties",
+      "Answer": "A"
+    },
+    {
+      "Number": 6,
+      "Question": "Basic slag is not ground in",
+      "A": "jaw crushers",
+      "B": "ball mills",
+      "C": "compartment mills",
+      "D": "tube mills",
+      "Answer": "A"
+    },
+    {
+      "Number": 7,
+      "Question": "Grindability of a material does not depend upon its",
+      "A": "elasticity",
+      "B": "hardness",
+      "C": "toughness",
+      "D": "size",
+      "Answer": "D"
+    },
+    {
+      "Number": 8,
+      "Question": "Shape factor for a cylinder whose length equals its diameter is",
+      "A": 1.5,
+      "B": 0.5,
+      "C": 1,
+      "D": 2,
+      "Answer": "A"
+    },
+    {
+      "Number": 9,
+      "Question": "In case of a hammer crusher, the",
+      "A": "feed may be highly abrasive (Moh's scale >5).",
+      "B": "minimum product size is 3 mm.",
+      "C": "maximum feed size may be 50 mm.",
+      "D": "rotor shaft carrying hammers can be vertical or horizontal.",
+      "Answer": "D"
+    },
+    {
+      "Number": 10,
+      "Question": "Dust laden air can be purified using a",
+      "A": "cyclone separator",
+      "B": "bag filter",
+      "C": "gravity settler",
+      "D": "tubular centrifuge",
+      "Answer": "A"
+    },
+    {
+      "Number": 11,
+      "Question": "Rittinger's number designates the new surface created per unit mechanical energy absorbed by the material being crushed. Larger value of Rittinger's number of a material indicates its",
+      "A": "easier grindability",
+      "B": "poor grindabilit",
+      "C": "high power consumption in grindin",
+      "D": "high power consumption in grinding",
+      "Answer": "A"
+    },
+    {
+      "Number": 12,
+      "Question": "Capacity (in tons/hr) of jaw/gyratory crusher is equal to (where, L = length of the receiving opening, cm S = greater width of the discharge opening, cm)",
+      "A": "0.01 L.S",
+      "B": "0.087 L.S",
+      "C": "L.S",
+      "D": "L.S/0.087",
+      "Answer": "B"
+    },
+    {
+      "Number": 13,
+      "Question": "Vacuum is applied in __________ zone, in case of a general type continuous rotary drum vacuum filter.",
+      "A": "filtering",
+      "B": "washing",
+      "C": "drying",
+      "D": "all (a), (b) & (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 14,
+      "Question": "General crushing equation is given by https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/122-368-1.png . Bond's crushing law isobtained by solving this equation for n = __________ and feed of infinite size.",
+      "A": 1,
+      "B": 1.5,
+      "C": 2,
+      "D": 2.5,
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "Which of the follwoing mechanical conveyors does not come under the division 'scrapers' ?",
+      "A": "Ribbon conveyor",
+      "B": "Flight conveyor",
+      "C": "Bucket elevators",
+      "D": "Drag conveyor.",
+      "Answer": "C"
+    },
+    {
+      "Number": 16,
+      "Question": "__________ mixer is used for devulcanisation of rubber scrap & making water dispersion & rubber solution.",
+      "A": "Tumbler",
+      "B": "Banbery",
+      "C": "Muller",
+      "D": "Rubbon blender",
+      "Answer": "B"
+    },
+    {
+      "Number": 17,
+      "Question": "Which of the following mechanical conveyors does not come under the division 'carriers'?",
+      "A": "Belt conveyor",
+      "B": "Bucket elevator",
+      "C": "Screw conveyor",
+      "D": "Apron conveyor.",
+      "Answer": "C"
+    },
+    {
+      "Number": 18,
+      "Question": "Screen capacity is not a function of",
+      "A": "its openings size.",
+      "B": "screening mechanism.",
+      "C": "screening surface.",
+      "D": "atmospheric humidity",
+      "Answer": "D"
+    },
+    {
+      "Number": 19,
+      "Question": "Which of the following is a vacuum filter?",
+      "A": "Filter press",
+      "B": "Rotary disc filter",
+      "C": "Batch basket centrifuge",
+      "D": "Tank filter (Nutsch filter)",
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "Pine oil used in froth floatation technique acts as a/an",
+      "A": "collector",
+      "B": "modifier",
+      "C": "frother",
+      "D": "activator",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "Length/diameter ratio of a ball mill is",
+      "A": 1.5,
+      "B": 1,
+      "C": "< 1",
+      "D": "> 1",
+      "Answer": "C"
+    },
+    {
+      "Number": 22,
+      "Question": "Feed size of ≥ 25 cms can be accepted by",
+      "A": "ball mill",
+      "B": "rod mill",
+      "C": "fluid energy mill",
+      "D": "jaw crusher",
+      "Answer": "D"
+    },
+    {
+      "Number": 23,
+      "Question": "Which is the most suitable conveyor for transportation of sticky material?",
+      "A": "Apron conveyor",
+      "B": "Belt conveyor",
+      "C": "Screw conveyor",
+      "D": "Pneumatic conveyor",
+      "Answer": "C"
+    },
+    {
+      "Number": 24,
+      "Question": "The most suitable equipment for removing the fine dust particle (< 1 micron dia.) from air below its dew point will be a/an",
+      "A": "bag filter",
+      "B": "electrostatic precipitator",
+      "C": "cyclone separator",
+      "D": "wet scrubber",
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "Laminar flow region is said to exist during agitation of a liquid in an agitator, when the value of Reynolds number is",
+      "A": ">10",
+      "B": "<10",
+      "C": ">100",
+      "D": "<100",
+      "Answer": "B"
+    },
+    {
+      "Number": 26,
+      "Question": "Filtration of water in a paper mill is done by a/an __________ filter.",
+      "A": "open sand",
+      "B": "plate and frame",
+      "C": "vauum leaf",
+      "D": "sparkle",
+      "Answer": "A"
+    },
+    {
+      "Number": 27,
+      "Question": "Moore filter is a __________ filter.",
+      "A": "leaf",
+      "B": "press",
+      "C": "rotary",
+      "D": "sand",
+      "Answer": "A"
+    },
+    {
+      "Number": 28,
+      "Question": "Sphericity of a cubical particle, when its equivalent diameter is taken as the height of the cube, is",
+      "A": 0.5,
+      "B": 1,
+      "C": "sqrt(2)",
+      "D": "sqrt(3)",
+      "Answer": "B"
+    },
+    {
+      "Number": 29,
+      "Question": "Ball mill is used for",
+      "A": "crushing",
+      "B": "coarse grinding",
+      "C": "fine grinding",
+      "D": "attrition",
+      "Answer": "C"
+    },
+    {
+      "Number": 30,
+      "Question": "In case of a ball mill,",
+      "A": "coarse feed requires a larger ball",
+      "B": "fine feed requires a larger ball",
+      "C": "operating speed should be more than the critical speed",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 31,
+      "Question": "Maximum size reduction in a ball mill is done by the, __________ action.",
+      "A": "attrition",
+      "B": "compression",
+      "C": "impact",
+      "D": "cutting",
+      "Answer": "C"
+    },
+    {
+      "Number": 32,
+      "Question": "Increasing the capacity of a screen __________ the screen effectiveness.",
+      "A": "decreases.",
+      "B": "increases",
+      "C": "does not effect",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 33,
+      "Question": "The power number for a stirred tank becomes constant at high Reynolds number. In this limit, the variation of power input with impeller rotational speed (N) is proportional to",
+      "A": "N°",
+      "B": "N1",
+      "C": "N2",
+      "D": "N3",
+      "Answer": "C"
+    },
+    {
+      "Number": 34,
+      "Question": "Bond crushing law",
+      "A": "calls for relatively less energy for the smaller product particles, than does the Rittinger law.",
+      "B": "is less realistic in estimating the power requirements of commercial crushers.",
+      "C": "states that the work required to form particle of any size from very large feed is proportional to the square root of the volume to surface ratio of the product.",
+      "D": "states that the work required for the crushing is proportional to the new surface created.",
+      "Answer": "A"
+    },
+    {
+      "Number": 35,
+      "Question": "Flow of filtrate through the cake in a plate and frame filter press is best described by the __________ equation.",
+      "A": "Kozney-Karman",
+      "B": "Hagen-Poiseulle's",
+      "C": "Fanning's",
+      "D": "Kremser",
+      "Answer": "A"
+    },
+    {
+      "Number": 36,
+      "Question": "The controlling resistance in a rotary drum vacuum filter is the __________ resistance.",
+      "A": "piping",
+      "B": "cake",
+      "C": "filter medium",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 37,
+      "Question": "Which of the following is used for primary crushing of very hard lumpy materials?",
+      "A": "Toothed roll crusher",
+      "B": "Gyratory crusher",
+      "C": "Ball mill",
+      "D": "Tube mill",
+      "Answer": "B"
+    },
+    {
+      "Number": 38,
+      "Question": "Coal is finally pulverised to 200 mesh size for burning in boilers by a",
+      "A": "hammer crusher",
+      "B": "ball mill",
+      "C": "roll crusher",
+      "D": "gyratory crusher",
+      "Answer": "B"
+    },
+    {
+      "Number": 39,
+      "Question": "Crushing efficiency is the ratio of the",
+      "A": "surface energy created by crushing to the energy absorbed by the solid.",
+      "B": "energy absorbed by the solid to that fed to the machine.",
+      "C": "energy fed to the machine to the surface energy created by crushing.",
+      "D": "energy absorbed by the solid to the surface energy created by crushing.",
+      "Answer": "A"
+    },
+    {
+      "Number": 40,
+      "Question": "The resistance offered by the filter used in a bag filter is proportional to (where, c = dust concentration, and s = particle size )",
+      "A": "c/s",
+      "B": "s/c",
+      "C": "s . c",
+      "D": "1/s . c",
+      "Answer": "A"
+    },
+    {
+      "Number": 41,
+      "Question": "Cement clinker is reduced to fine size by a",
+      "A": "roll crusher",
+      "B": "ball mill",
+      "C": "tube mill",
+      "D": "hammer mil",
+      "Answer": "C"
+    },
+    {
+      "Number": 42,
+      "Question": "The crushed material received for separation is called feed or",
+      "A": "tailing",
+      "B": "heading",
+      "C": "concentrate",
+      "D": "middling",
+      "Answer": "B"
+    },
+    {
+      "Number": 43,
+      "Question": "For spheres, volume shape factor is given by",
+      "A": "π(=A/D2)",
+      "B": "2π(=2A/D2)",
+      "C": "π/6(=V/D3)",
+      "D": "AD/V",
+      "Answer": "C"
+    },
+    {
+      "Number": 44,
+      "Question": "Which of the following agitators having a large blade area, rotating at slow speed is used for mixing high viscosity liquids ( > 50000 centipoise)?",
+      "A": "Propeller",
+      "B": "Helical screw",
+      "C": "Flat blade turbine",
+      "D": "Curved blade turbine",
+      "Answer": "B"
+    },
+    {
+      "Number": 45,
+      "Question": "__________ is defined as the geometric mean of the relative rejections and the relative recoveries of two minerals.",
+      "A": "Separation efficiency",
+      "B": "Selectivity index",
+      "C": "Concentration ratio",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 46,
+      "Question": "The operating speed of a ball mill should be __________ the critical speed.",
+      "A": "less than",
+      "B": "much more than",
+      "C": "at least equal to",
+      "D": "slightly more than",
+      "Answer": "A"
+    },
+    {
+      "Number": 47,
+      "Question": "Use of baffles in agitators help in minimising the __________ tendency.",
+      "A": "swirling",
+      "B": "vortexing",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 48,
+      "Question": "__________ are used for the separation of coarse particles from a slurry of fine particles.",
+      "A": "Thickeners",
+      "B": "Classifiers",
+      "C": "Hydrocyclones",
+      "D": "Decanters",
+      "Answer": "B"
+    },
+    {
+      "Number": 49,
+      "Question": "Fibrous material is broken by a",
+      "A": "rollcrusher",
+      "B": "squirrel-cage disintegrator",
+      "C": "ball mill",
+      "D": "tube mill",
+      "Answer": "B"
+    },
+    {
+      "Number": 50,
+      "Question": "__________ is the most suitable for compounding rubber and plastic solids.",
+      "A": "Banbery mixer",
+      "B": "Pan mixer",
+      "C": "Pug mill",
+      "D": "Charge can mixer",
+      "Answer": "A"
+    }
+  ],
+  "Section 3": [
+    {
+      "Number": 1,
+      "Question": "Out of the following size reduction equipments, the maximum feed size can be accepted by the",
+      "A": "tube mill",
+      "B": "ball mill",
+      "C": "jaw crusher",
+      "D": "jet pulveriser",
+      "Answer": "C"
+    },
+    {
+      "Number": 2,
+      "Question": "Bucket elevators are not suitable for the vertical lifting of __________ materials.",
+      "A": "fine (e.g. - 200 mesh size coal)",
+      "B": "sticky (e.g. clay paste)",
+      "C": "small lumpy (e.g. grains and sand)",
+      "D": "free flowing",
+      "Answer": "B"
+    },
+    {
+      "Number": 3,
+      "Question": "The most common filter aid is",
+      "A": "diatomaceous earth",
+      "B": "calcium silicate",
+      "C": "sodium carbonate",
+      "D": "silica gel",
+      "Answer": "A"
+    },
+    {
+      "Number": 4,
+      "Question": "For removal of very small amounts of precipitate from large volume of water, the most suitable filter is the __________ filter.",
+      "A": "plate & frame",
+      "B": "shell & leaf",
+      "C": "sand",
+      "D": "rotary vacuum",
+      "Answer": "C"
+    },
+    {
+      "Number": 5,
+      "Question": "For separation of sugar solution from settled out mud, we use a __________ filter.",
+      "A": "sparkler",
+      "B": "plate and frame",
+      "C": "centrifugal",
+      "D": "rotary drum vaccum",
+      "Answer": "C"
+    },
+    {
+      "Number": 6,
+      "Question": "The sphericity of a cylinder of 1 mm diameter and length 3 mm is",
+      "A": 0.9,
+      "B": 0.78,
+      "C": 0.6,
+      "D": 0.5,
+      "Answer": "A"
+    },
+    {
+      "Number": 7,
+      "Question": "Pulverised coal passing through 200 mesh screen has a diameter of 0.074 mm (74 micron). The same passing through 50 mesh screen will have a dia of __________ mm.",
+      "A": 0.007,
+      "B": 0.3,
+      "C": 5,
+      "D": 0.014,
+      "Answer": "B"
+    },
+    {
+      "Number": 8,
+      "Question": "What is the selectivity index, if the grade of tailings & concentrate is the same?",
+      "A": 0,
+      "B": "∞",
+      "C": 1,
+      "D": 0,
+      "Answer": "C"
+    },
+    {
+      "Number": 9,
+      "Question": "The most suitable equipment used to devulcanise rubber scrap and to make water dispersion & rubber solution is a",
+      "A": "boundary mixer.",
+      "B": "propeller agitator.",
+      "C": "sharpies centrifuge.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 10,
+      "Question": "Traces of solids are removed from, liquid in a",
+      "A": "classifier",
+      "B": "clarifier",
+      "C": "sparkler filter",
+      "D": "rotary vacuum filter",
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "_________ balls capable of grinding the feed in a ball mill gives the maximum efficiency.",
+      "A": "Cast iron",
+      "B": "Minimum size",
+      "C": "Maximum size",
+      "D": "Elliptical",
+      "Answer": "B"
+    },
+    {
+      "Number": 12,
+      "Question": "The speed of a rotary drum vacuum filter may be about __________ rpm.",
+      "A": 1,
+      "B": 50,
+      "C": 100,
+      "D": 500,
+      "Answer": "A"
+    },
+    {
+      "Number": 13,
+      "Question": "Colloid mills achieve size reduction mainly by",
+      "A": "impact",
+      "B": "attrition",
+      "C": "cutting",
+      "D": "compression",
+      "Answer": "B"
+    },
+    {
+      "Number": 14,
+      "Question": "Mesh indicates the number of holes per",
+      "A": "square inch",
+      "B": "linear inch",
+      "C": "square foot",
+      "D": "linear foot",
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "For achieving maximum capacity of the ball mill, the ball charge should be equal to about __________ percent of the ball mill volume.",
+      "A": 10,
+      "B": 25,
+      "C": 50,
+      "D": 75,
+      "Answer": "C"
+    },
+    {
+      "Number": 16,
+      "Question": "According to Bond crushing law, the work required to form particle of size 'D' from very large feed is (where (S/V)p and (S/V)f are surface to volume ratio of the product and feed respectively).",
+      "A": "(S/V)p",
+      "B": "sqrt(S/V)p",
+      "C": "(S/V)2p",
+      "D": "(S/V)f",
+      "Answer": "B"
+    },
+    {
+      "Number": 17,
+      "Question": "Which of the following gives the work required for size reduction of coal to -200 mesh in a ball mill most accurately ?",
+      "A": "Rittinger's law",
+      "B": "Kick's law",
+      "C": "Bond's law",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 18,
+      "Question": "Electrical energy consumed by a jaw crusher is not a function of the",
+      "A": "average feed size",
+      "B": "average product size",
+      "C": "machine capacity",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 19,
+      "Question": "Size reduction mechanism used in Jaw crushers is",
+      "A": "attrition",
+      "B": "compression",
+      "C": "cutting",
+      "D": "impact",
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "Trommels employ __________ for screening of materials.",
+      "A": "fibrous cloth",
+      "B": "woven wire screen",
+      "C": "punched plate",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "A widely used size reduction equipment for __________ is Bradford breaker.",
+      "A": "talc",
+      "B": "coal",
+      "C": "iron core",
+      "D": "wheat",
+      "Answer": "B"
+    },
+    {
+      "Number": 22,
+      "Question": "Ultra centrifuges are used for the separation of __________ solid particles.",
+      "A": "coarse",
+      "B": "fine",
+      "C": "colloidal",
+      "D": "dissolved",
+      "Answer": "C"
+    },
+    {
+      "Number": 23,
+      "Question": "Specific surface area is the surface area of a unit __________ of materials.",
+      "A": "dissolved",
+      "B": "volume",
+      "C": "either (a) or (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 24,
+      "Question": "A. __________ mill is a revolving mill divided into two or more sections by perforated partitions in which preliminary grinding takes place at one end and the finishing grinding at the discharge end.",
+      "A": "compartment",
+      "B": "tube",
+      "C": "rod",
+      "D": "pebble.",
+      "Answer": "A"
+    },
+    {
+      "Number": 25,
+      "Question": "The constants (Kb, Kr and Kk) used in the laws of crushing (i.e., Bond's law, Rittinger's law and Kick's law) depend upon the",
+      "A": "feed material.",
+      "B": "type of crushing machine.",
+      "C": "both (a) & (b).",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 26,
+      "Question": "Size reduction does not occur due to compression in case of",
+      "A": "rod mills",
+      "B": "gyratory crushers",
+      "C": "jaw crushers",
+      "D": "smooth roll crushers",
+      "Answer": "A"
+    },
+    {
+      "Number": 27,
+      "Question": "According to Taggart's rule for selecting between a gyratory crusher and a jaw crusher; the later should be used, if the hourly tonnage to be crushed divided by the square of the gape expressed in cm is less than",
+      "A": 0.00184,
+      "B": 0.0184,
+      "C": 0.184,
+      "D": 1.84,
+      "Answer": "B"
+    },
+    {
+      "Number": 28,
+      "Question": "Which of the following represents the plot of filtrate volume versus time for constant pressure filtration?",
+      "A": "Parabola",
+      "B": "Straight line",
+      "C": "Hyperbola",
+      "D": "Exponential curve",
+      "Answer": "A"
+    },
+    {
+      "Number": 29,
+      "Question": "Driving force in case of filtration by a centrifuge is the",
+      "A": "speed of the centrifuge.",
+      "B": "centrifugal pressure exerted by the liquid.",
+      "C": "narrow diameter of the vessel.",
+      "D": "formation of highly porous cake.",
+      "Answer": "B"
+    },
+    {
+      "Number": 30,
+      "Question": "Rod mills employed for grinding",
+      "A": "employ a steel shell having L/D ratio of 1.5 to 3.0.",
+      "B": "is useful for handling sticky materials.",
+      "C": "employ steel rods of 2-12 cms diameter extending over full length of the mill.",
+      "D": "all 'a', 'b' & 'c'.",
+      "Answer": "D"
+    },
+    {
+      "Number": 31,
+      "Question": "Production rate __________ with increased fineness, with a given energy input to the size reduction machine.",
+      "A": "decreases",
+      "B": "increases",
+      "C": "remains unchanged",
+      "D": "may increase or decrease; depends on the machine",
+      "Answer": "A"
+    },
+    {
+      "Number": 32,
+      "Question": "Gold ore concentration is mostly done using",
+      "A": "jigging",
+      "B": "tabling",
+      "C": "froth floatation",
+      "D": "elutriation",
+      "Answer": "B"
+    },
+    {
+      "Number": 33,
+      "Question": "Mixing of light fine powder such as insecticides is done by",
+      "A": "banbery mixer",
+      "B": "pug mill",
+      "C": "impact wheels",
+      "D": "kneader",
+      "Answer": "C"
+    },
+    {
+      "Number": 34,
+      "Question": "Run of mine (ROM) coal is crushed by a __________ for use in domestic ovens.",
+      "A": "jaw crusher",
+      "B": "hammer crusher",
+      "C": "ball mill",
+      "D": "tube mill",
+      "Answer": "B"
+    },
+    {
+      "Number": 35,
+      "Question": "Sphericity is the ratio of the surface area of a spherical particle having the same volume as the particle to the surface area of the particle. Which of the following has the maximum value of sphericity?",
+      "A": "Sphere",
+      "B": "Cube",
+      "C": "Cylinder (L/D = 1)",
+      "D": "Raschig rings",
+      "Answer": "A"
+    },
+    {
+      "Number": 36,
+      "Question": "The unit of specific cake resistance is",
+      "A": "gm/cm2",
+      "B": "cm/gm",
+      "C": "cm/gm2",
+      "D": "gm/gm",
+      "Answer": "A"
+    },
+    {
+      "Number": 37,
+      "Question": "Size reduction of asbestos and mica is done by",
+      "A": "hammer mills",
+      "B": "rod mills",
+      "C": "gyratory crushers",
+      "D": "crushing rolls",
+      "Answer": "A"
+    },
+    {
+      "Number": 38,
+      "Question": "A pebble mill",
+      "A": "is a ball mill.",
+      "B": "employs flints or ceramic pebbles as the grinding medium",
+      "C": "is a tube mill lined with ceramic or other non-metallic liner.",
+      "D": "both (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 39,
+      "Question": "The study on washability of coal is done by using the __________ technique.",
+      "A": "tabling",
+      "B": "elutriation",
+      "C": "heavy media separation",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 40,
+      "Question": "Horsepower required for a roll crusher is directly proportional to its",
+      "A": "reduction ratio.",
+      "B": "capacity.",
+      "C": "both (a) & (b).",
+      "D": "neither (a) nor (b).",
+      "Answer": "C"
+    },
+    {
+      "Number": 41,
+      "Question": "A suspension of glass beads in ethylene glycol has a hindered settling velocity of 1.7 mm/s, while the terminal settling velocity of a single glass bead in ethylene glycol is 17 mm/s. If the Richardson-Zaki hindered settling index is 4.5, the volume fraction of solids in the suspension is",
+      "A": 0.1,
+      "B": 0.4,
+      "C": 0.6,
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 42,
+      "Question": "__________ conveyor is the most suitable for long distance transportation of cold, non-abrasive granular/irregular shape/fine materials.",
+      "A": "Bucket",
+      "B": "Belt",
+      "C": "Screw",
+      "D": "Apron",
+      "Answer": "B"
+    },
+    {
+      "Number": 43,
+      "Question": "The specific cake resistance for compressible sludges is a function of the pressure drop",
+      "A": "over cake",
+      "B": "over medium",
+      "C": "overall",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 44,
+      "Question": "Moisture can be removed from lubricating oil using",
+      "A": "tubular centrifuge",
+      "B": "clarifier",
+      "C": "sparkler filter",
+      "D": "vacuum leaf filter",
+      "Answer": "A"
+    },
+    {
+      "Number": 45,
+      "Question": "Tabling process used for separating two materials of different densities by passing the dilute pulp over a table/deck, which is inclined from the horizontal surface at an angle of about",
+      "A": "1 to 2°",
+      "B": "2 to 5",
+      "C": "5 to 10°",
+      "D": "10 to 15°",
+      "Answer": "B"
+    },
+    {
+      "Number": 46,
+      "Question": "Pick out the wrong statement.",
+      "A": "Gape is the greatest distance between the crushing surfaces or the jaws.",
+      "B": "The angle of nip (2α) is the angle between roll faces at the level where they will j ust take hold of a particle and draw it in the crushing zone.",
+      "C": "Crushing efficiency is the ratio of the energy absorbed by the solid to the surfaces energy created by crushing.",
+      "D": "Reduction ratio is the ratio of the maximum size of the particles in the feed to that in the product.",
+      "Answer": "C"
+    },
+    {
+      "Number": 47,
+      "Question": "Addition of filter aid to the slurry before filtration is done to ...... of the cake.",
+      "A": "increase the porosity",
+      "B": "increase the compressibility co-efficient",
+      "C": "decrease the porosity",
+      "D": "decrease the compressibility co-efficient",
+      "Answer": "A"
+    },
+    {
+      "Number": 48,
+      "Question": "Which of the following terminology is not used for size reduction of materials to fine sizes or powders?",
+      "A": "Comminution",
+      "B": "Dispersion",
+      "C": "Pulverisation",
+      "D": "Compression",
+      "Answer": "D"
+    },
+    {
+      "Number": 49,
+      "Question": "A tube mill as compared to a ball mill",
+      "A": "employs smaller balls.",
+      "B": "gives finer size reduction but consumes more power.",
+      "C": "has larger length/diameter ratio (>2 as compared to 1 for ball mill).",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 50,
+      "Question": "Kick's law assumes that the energy required for size reduction is proportional to the logarithm of the ratio between the initial and the final diameters. The unit of Kick's constant is",
+      "A": "kW. sec/kg",
+      "B": "kWh/kg",
+      "C": "kWh/sec. kg",
+      "D": "kg/sec.",
+      "Answer": "A"
+    }
+  ],
+  "Section 4": [
+    {
+      "Number": 1,
+      "Question": "Which of the following gives the crushing energy required to create new surface?",
+      "A": "Taggarts rule",
+      "B": "Fick's law",
+      "C": "Rittinger's law",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 2,
+      "Question": "In filtration, the use of 'filter aid' helps in",
+      "A": "reducing the filtration pressure.",
+      "B": "accelerating the rate of filtration.",
+      "C": "deplugging the filter medium.",
+      "D": "enhancing the cake porosity in case of a dense impermeable cake.",
+      "Answer": "C"
+    },
+    {
+      "Number": 3,
+      "Question": "Critical Speed (Nc) of a ball mill is given by(where R1 andR2 are radii of ball mill and the ball respectively).",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/105-117-1.png",
+      "B": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/105-117-2.png",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/105-117-3.png",
+      "D": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/105-117-4.png",
+      "Answer": "B"
+    },
+    {
+      "Number": 4,
+      "Question": "Gizzlies are used for separating __________ solids.",
+      "A": "coarse",
+      "B": "fine",
+      "C": "any size",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 5,
+      "Question": "Which of the following clay mixing devices is vacuum operated for deairation of clay?",
+      "A": "Banbery mixer",
+      "B": "Pug mil",
+      "C": "Muller-mixer",
+      "D": "None of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "Pick out the material having minimum Rittinger's number.",
+      "A": "Calcite",
+      "B": "Pyrite",
+      "C": "Quartz",
+      "D": "Galena",
+      "Answer": "C"
+    },
+    {
+      "Number": 7,
+      "Question": "__________ mills are termed as impactors.",
+      "A": "Hammer",
+      "B": "Cage",
+      "C": "Rolling-compression",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 8,
+      "Question": "In case of a revolving mill, wet grinding compared to dry grinding",
+      "A": "requires more energy.",
+      "B": "has less capacity.",
+      "C": "complicates handling & classification of the product",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 9,
+      "Question": "To get a fine talc powder from its granules, the equipment used is",
+      "A": "roller crusher",
+      "B": "ball mill",
+      "C": "jaw crusher",
+      "D": "gyratory crusher",
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "For a cyclone of diameter 0.2 m with a tangential velocity of 15 m/s at the wall, the separation factor is",
+      "A": 2250,
+      "B": 1125,
+      "C": 460,
+      "D": 230,
+      "Answer": "D"
+    },
+    {
+      "Number": 11,
+      "Question": "Width and speed of a conveyor belt depends upon the __________ of the material.",
+      "A": "lump size",
+      "B": "bulk density",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 12,
+      "Question": "Higher is the mesh number, smaller will be the aperture size of the screen. It means that the aperture size of a 200 mesh screen will be smaller than that of 20 mesh screen. This is valid for",
+      "A": "British standard screens.",
+      "B": "German standard screens (DIN 1171) etc.",
+      "C": "American standard screens (ASTM and Tyler standard screens).",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 13,
+      "Question": "Pick out the wrong statement.",
+      "A": "Cummulative analysis for determining surface area is preferred over differential analysis, because of the assumption that \"all particles in a simple fraction equal in size\" is not needed for cummulative anslysis unlike differential anlaysis.",
+      "B": "A gate diagram is a plot of cummulative percent by weight undersize vs. the reciprocal of diameter, in which the area beneath the curve represents the surface.",
+      "C": "Capacity of crusher in choke feeding is increased.",
+      "D": "Rolling of pebbles/balls from top to bottom of the heap in tumbling mills is called 'cascading and throwing of the balls through the air to the toe of the heap is called 'cataracting'.",
+      "Answer": "C"
+    },
+    {
+      "Number": 14,
+      "Question": "Which of the following size reduction equipments employs mainly attrition for ultrafine grinding?",
+      "A": "Jet mills",
+      "B": "Fluid energy mill",
+      "C": "Micronizer",
+      "D": "all (a), (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 15,
+      "Question": "Tank filter (e.g., Nutsch filter) is",
+      "A": "a high pressure filter.",
+      "B": "a continuous filter.",
+      "C": "used for small scale filtration work.",
+      "D": "a leaf filter.",
+      "Answer": "C"
+    },
+    {
+      "Number": 16,
+      "Question": "In bag filters, filter fabrics are never made of",
+      "A": "metallic wire woven mesh",
+      "B": "polyester fibres",
+      "C": "cotton fibres",
+      "D": "nylon fibres",
+      "Answer": "A"
+    },
+    {
+      "Number": 17,
+      "Question": "Use of 'grinding aids' is done in __________ grinding.",
+      "A": "dry",
+      "B": "wet",
+      "C": "ultrafine",
+      "D": "intermediate",
+      "Answer": "A"
+    },
+    {
+      "Number": 18,
+      "Question": "Height of liquid in agitation tank is normally maintained equal to the tank diameter. However, if the tank is too tall and a large liquid hold up is desired, then two or more impellers mounted on the same shaft may be used. The clearance between the tank bottom and the bottom most impeller should be about (where, D = impeller diameter)",
+      "A": "0.5 D",
+      "B": "D",
+      "C": "1.5 D",
+      "D": "2 D",
+      "Answer": "B"
+    },
+    {
+      "Number": 19,
+      "Question": "Which of the following is the most suitable filter for separation of abrasive solids suspended in a corrosive liquid?",
+      "A": "Sand bed filter",
+      "B": "Plate and frame filter press",
+      "C": "Vacuum filter",
+      "D": "Batch basket centrifuge.",
+      "Answer": "C"
+    },
+    {
+      "Number": 20,
+      "Question": "All resistances during washing of cake",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remain constant",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "A __________ mixer resembles a ball mill without balls.",
+      "A": "banbery",
+      "B": "pug mill",
+      "C": "tumbling",
+      "D": "pan",
+      "Answer": "C"
+    },
+    {
+      "Number": 22,
+      "Question": "__________ conveyor is the most suitable for short distance transportation of non-abrasive loose materials like garbage, grain, food wastes etc.",
+      "A": "Flight",
+      "B": "Screw",
+      "C": "Drag",
+      "D": "Belt",
+      "Answer": "A"
+    },
+    {
+      "Number": 23,
+      "Question": "As the product becomes finer, the energy required for grinding",
+      "A": "decreases",
+      "B": "icreases",
+      "C": "is same as for coarser grinding",
+      "D": "is 1.5 times that for coarser grinding",
+      "Answer": "B"
+    },
+    {
+      "Number": 24,
+      "Question": "Gyratory crushers compared to the reciprocating jaw crushers",
+      "A": "have greater capacity per unit of discharge area.",
+      "B": "crush intermittantly.",
+      "C": "are less suitable for coarse materials",
+      "D": "have less steady power consumption.",
+      "Answer": "A"
+    },
+    {
+      "Number": 25,
+      "Question": "The important dimensional group involved in the power requirement calculation in mixing operation is the __________ number.",
+      "A": "Reynold'",
+      "B": "Froude",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 26,
+      "Question": "At low Reynold's number, the power (P) required for agitating a fluid in a stirred tank becomes independent of inertial forces. In this limit, indicate which of the following relations is satisfied:\r\nPo = ρ/ρN3 D5 : Power number\r\nRe = ρ N D2/μ: Reynold's number\r\nN is the impeller rotational speed, and D is the impeller diameter.",
+      "A": "Po ∝ Re-1.0",
+      "B": "Po ∝ Re0.0",
+      "C": "Po ∝ Re0.5",
+      "D": "Po ∝ Re1.0",
+      "Answer": "A"
+    },
+    {
+      "Number": 27,
+      "Question": "Which of the following grinding mills has the horizontally arranged rods as the grinding elements thereby delivering more uniform granular products with minimum fines?",
+      "A": "Compartment mil",
+      "B": "Rod mill",
+      "C": "Pebble mill",
+      "D": "Tube mill.",
+      "Answer": "B"
+    },
+    {
+      "Number": 28,
+      "Question": "Rittinger's crushing law states that",
+      "A": "work required to form a particle of any size is proportional to the square of the surface to volume ratio of the product.",
+      "B": "work required to form a particle of a particular size is proportional to the square root of the surface to volume ratio of the product.",
+      "C": "work required in crushing is proportional to the new surface created.",
+      "D": "for a given machine and feed, crushing efficiency is dependent on the size of the feed & product.",
+      "Answer": "C"
+    },
+    {
+      "Number": 29,
+      "Question": "Mechanical conveyors which push the material along an endless trough or tube are called scrappers. Which of the following conveying equipments comes under the category of 'scrappers'?",
+      "A": "Bucket conveyor",
+      "B": "Flight conveyor",
+      "C": "Screw conveyor",
+      "D": "Both (b) and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 30,
+      "Question": "Sphericity of pulverised coal is",
+      "A": 1,
+      "B": "<1",
+      "C": ">1",
+      "D": "∞",
+      "Answer": "B"
+    },
+    {
+      "Number": 31,
+      "Question": "The reduction ratio for fine grinders is",
+      "A": 45422,
+      "B": 45585,
+      "C": "20-40",
+      "D": "as high as 100",
+      "Answer": "D"
+    },
+    {
+      "Number": 32,
+      "Question": "Which of the following is the hardest material?",
+      "A": "Calcite",
+      "B": "Quartz",
+      "C": "Corundum",
+      "D": "Gypsum",
+      "Answer": "C"
+    },
+    {
+      "Number": 33,
+      "Question": "General mechanism of size reduction in intermediate and fine grinder is by",
+      "A": "cutting action.",
+      "B": "compression.",
+      "C": "compression and tearing.",
+      "D": "impact and attrition.",
+      "Answer": "D"
+    },
+    {
+      "Number": 34,
+      "Question": "A straight line is obtained on plotting reciprocal of filtration rate vs. the volume of filtrate for __________ flow of filtrate.",
+      "A": "compressible cakes and laminar",
+      "B": "incompressible cake and laminar",
+      "C": "compressible cake and turbulent",
+      "D": "incompressible cake and turbulent",
+      "Answer": "B"
+    },
+    {
+      "Number": 35,
+      "Question": "The work index in Bond's law for crushing of solids has the following dimensions",
+      "A": "no units (dimensionless)",
+      "B": "kWh/ton",
+      "C": "kW/ton",
+      "D": "kWh.m1/2/ton",
+      "Answer": "B"
+    },
+    {
+      "Number": 36,
+      "Question": "Ore concentration by jigging is based on the difference in the __________ of the particles.",
+      "A": "specific gravities",
+      "B": "wettabilit",
+      "C": "shape",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 37,
+      "Question": "Size measurement of ultrafine particles can be best expressed in terms of",
+      "A": "centimetre",
+      "B": "screen size",
+      "C": "micron",
+      "D": "surace area per unit mass",
+      "Answer": "D"
+    },
+    {
+      "Number": 38,
+      "Question": "Reduction ratio of crushers is the",
+      "A": "ratio of feed opening to discharge opening.",
+      "B": "ratio of discharge opening to feed opening.",
+      "C": "determining factor for minimum dia of the feed and the product.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 39,
+      "Question": "Which is a secondary crusher for a hard & tough stone?",
+      "A": "Jaw crusher",
+      "B": "Cone crusher",
+      "C": "Impact crusher",
+      "D": "Toothed roll crusher",
+      "Answer": "B"
+    },
+    {
+      "Number": 40,
+      "Question": "Which of the following equations is Rittinger's crushing law ? (where P = power required by the machine, m = feed rate, k = a constant = volume surface mean diameter of feed & product respectively.)",
+      "A": "P/m = K/sqrtDp",
+      "B": "P/m = K . ln (Dsa-Dsb)",
+      "C": "P/m = K . (1-Dsb - 1-Dsa)",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 41,
+      "Question": "Cyclones are used primarily for separating",
+      "A": "solids",
+      "B": "solids from fluids",
+      "C": "liquids",
+      "D": "solids from solids",
+      "Answer": "B"
+    },
+    {
+      "Number": 42,
+      "Question": "There is practically no alternative/competitor to __________ in the beneficiation treatment of sulphide ores.",
+      "A": "classification",
+      "B": "tabling",
+      "C": "jigging",
+      "D": "froth floatatio",
+      "Answer": "D"
+    },
+    {
+      "Number": 43,
+      "Question": "Separation of isotopes is generally done using a/an __________ centrifuge.",
+      "A": "ultra",
+      "B": "disk-bow",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "A"
+    },
+    {
+      "Number": 44,
+      "Question": "Temperature of the product during ultrafine grinding",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains constant",
+      "D": "may increase or decrease ; depends on the material being ground",
+      "Answer": "A"
+    },
+    {
+      "Number": 45,
+      "Question": "Reciprocating screens are normally inclined at an angle of 5° with the horizontal and employ gyratory motion at feed end & reciprocating motion at the discharge end. They are not suitable for the screening of the",
+      "A": "light metal powder down upto 4 meshsize.",
+      "B": "dry chemicals.",
+      "C": "heavy tonnages of rocks or gravel.",
+      "D": "owdered food & granular materials.",
+      "Answer": "C"
+    },
+    {
+      "Number": 46,
+      "Question": "In a ball mill, the volume occupied by the balls (when the mill is stopped) is about __________ percent of the volume of the mill.",
+      "A": 35,
+      "B": 50,
+      "C": 70,
+      "D": 85,
+      "Answer": "B"
+    },
+    {
+      "Number": 47,
+      "Question": "Separation of materials of the same density based on their sizes by using then-different rates of flow is called",
+      "A": "sortin",
+      "B": "sizing",
+      "C": "flocculation",
+      "D": "elutriation",
+      "Answer": "B"
+    },
+    {
+      "Number": 48,
+      "Question": "Molten ammonium nitrate is mixed with ground limestone in fertilizer plant in a",
+      "A": "pug mill",
+      "B": "mixer-extruder",
+      "C": "banbury mixer",
+      "D": "muller mixer",
+      "Answer": "A"
+    },
+    {
+      "Number": 49,
+      "Question": "Agglomeration of individual particles into clusters (flocs) is called flocculation. To prevent flocculation, the most commonly used dispersing agents are",
+      "A": "carbonates",
+      "B": "sulphates",
+      "C": "silicates & phosphates",
+      "D": "bi-carbonates",
+      "Answer": "C"
+    },
+    {
+      "Number": 50,
+      "Question": "For a sphere falling in the constant drag co-efficient regime, its terminal velocity depends on its diameter (d) as",
+      "A": "d",
+      "B": "srt d",
+      "C": "d2",
+      "D": "1/d",
+      "Answer": "C"
+    }
+  ],
+  "Section 5": [
+    {
+      "Number": 1,
+      "Question": "With increase in the capacity of screens, the screen effectiveness",
+      "A": "remains unchange",
+      "B": "increases",
+      "C": "decreases",
+      "D": "decreases exponentially",
+      "Answer": "C"
+    },
+    {
+      "Number": 2,
+      "Question": "As particle size is reduced",
+      "A": "screening becomes progressively more difficult.",
+      "B": "screening becomes progressively easier.",
+      "C": "capacity and effectiveness of the screen is increased.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "Rittinger number which designates the new surface prduced per unit of mechanical energy absorbed by the material being crushed, depends on the",
+      "A": "state or manner of application of the crushing force.",
+      "B": "ultimate strength of the material.",
+      "C": "elastic constant of the material",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 4,
+      "Question": "Dust collection efficiency of electrostatic precipitator can be as high as 99.9%. Maximum temperature and pressure of dust laden gas that can be cleaned in an electrostatic precipitator is respectively.",
+      "A": "200°C and 5 atm.",
+      "B": "1000°C and 10 atm.",
+      "C": "500°C and 50 atm.",
+      "D": "1000°C and 500 atm.",
+      "Answer": "B"
+    },
+    {
+      "Number": 5,
+      "Question": "For efficient grinding, ball mills must be operated",
+      "A": "at a speed less than the critical speed.",
+      "B": "at a speed more than the critical speed.",
+      "C": "at a speed equal to the critical speed",
+      "D": "with minimum possible small balls",
+      "Answer": "A"
+    },
+    {
+      "Number": 6,
+      "Question": "In a size reduction crushing operation, the feed size is 10 to 50 mm, while the product size is 2 to 10 mm. This is a case of __________ crushing.",
+      "A": "primary",
+      "B": "secondary",
+      "C": "fine",
+      "D": "ultafine",
+      "Answer": "C"
+    },
+    {
+      "Number": 7,
+      "Question": "For spheres, the surface shape factor is given by (where, A = area, V = volume, and D = diameter)",
+      "A": "π(=A/D2)",
+      "B": "π/6(=V/D3",
+      "C": "AD-V",
+      "D": "None of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 8,
+      "Question": "The reduction ratio for grinders is defined as(where, Df and Dp are average diameters of feed and product respectively).",
+      "A": "Df/Dp",
+      "B": "Dp/D",
+      "C": "Df - Dp",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 9,
+      "Question": "Pick out the wrong statement pertaining to the turbine agitator.",
+      "A": "Recommended peripheral speed for the turbine agitator is 200-250 metres/minute.",
+      "B": "Pitched blade turbine agitator gives only radial flow with complete absence of the axial flow.",
+      "C": "Generally, the diameter of the agitator is kept between l/3rd to l/6th of the tank diameter while the blade length is l/4th of agitator diameter (with central disc, it is l/8th of the agitator diameter).",
+      "D": "Turbine agitator should be located at a height not less than one agitator diameter length from the bottom. If the depth of liquid in the tank is more than twice the agitator diameter, two agitators should be used.",
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "A fluid energy mill is used for",
+      "A": "cutting",
+      "B": "grinding",
+      "C": "ultra grinding",
+      "D": "crushing",
+      "Answer": "C"
+    },
+    {
+      "Number": 11,
+      "Question": "Which of the following is the softest material ?",
+      "A": "Talc",
+      "B": "Feldspar",
+      "C": "Corundum",
+      "D": "Calcite",
+      "Answer": "A"
+    },
+    {
+      "Number": 12,
+      "Question": "Dry powdery solid materials are transported by a __________ conveyor.",
+      "A": "belt",
+      "B": "bucket",
+      "C": "screw",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 13,
+      "Question": "Fluid energy mill comes in the category of",
+      "A": "grinder",
+      "B": "grinde",
+      "C": "cutter",
+      "D": "ultrafine grinder",
+      "Answer": "D"
+    },
+    {
+      "Number": 14,
+      "Question": "Filtration capacity of a rotary drum vacuum filter depends upon the",
+      "A": "cake thickness.",
+      "B": "characteristics of the feed slurry.",
+      "C": "both (a) & (b).",
+      "D": "neither (a) nor (b).",
+      "Answer": "C"
+    },
+    {
+      "Number": 15,
+      "Question": "About 2-3 hp, power per gallon of a thin liquid provides vigrous agitation in an agitator. 'Power number' in agitation is given by",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/118-323-1.png",
+      "B": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/118-323-2.png",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/118-323-3.png",
+      "D": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/118-323-4.png",
+      "Answer": "A"
+    },
+    {
+      "Number": 16,
+      "Question": "__________ conveyors are also called scrapers.",
+      "A": "Apron",
+      "B": "Screw",
+      "C": "Helical flight",
+      "D": "both (b) & (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 17,
+      "Question": "For laminar flow of filtrate through the cake deposited on septum, which of the following will be valid",
+      "A": "Kozney-Karman equation",
+      "B": "Leva's equation",
+      "C": "Blake-Plummer equatio",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 18,
+      "Question": "Which of the following is a continuous filter?",
+      "A": "Plate and frame filter",
+      "B": "Cartridge filter",
+      "C": "Shell and leaf filter",
+      "D": "None of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 19,
+      "Question": "During washing of filter at the end of constant pressure filtration, the rate of washing equals the rate of filtration",
+      "A": "at time zero.",
+      "B": "at the end of filtration.",
+      "C": "when half the filtrate has been obtained.",
+      "D": "at the end of filtration, but decreases with time subsequently.",
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "In screen analysis, the notation +5 mm/-10 mm means particles passing through",
+      "A": "10 mm screen and retained on 5 mm screen.",
+      "B": "5 mm screen and retained on 10 mm screen.",
+      "C": "both 5 mm and 10 mm screens.",
+      "D": "neither 5 mm nor 10 mm screen.",
+      "Answer": "A"
+    },
+    {
+      "Number": 21,
+      "Question": "rpm of a trommel at critical speed is given by (where, D = Diameter of trommel in ft)",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/123-387-1.png",
+      "B": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/123-387-2.png",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/123-387-3.png",
+      "D": "76.75 sqrt D",
+      "Answer": "B"
+    },
+    {
+      "Number": 22,
+      "Question": "Optimum ratio of operating speed to critical speed of a trommel is",
+      "A": "0.33-0.45",
+      "B": "1.33-1.45",
+      "C": "0.5-",
+      "D": "1.5-2.5",
+      "Answer": "A"
+    },
+    {
+      "Number": 23,
+      "Question": "The process opposite to 'dispersion' is termed as the",
+      "A": "flocculation",
+      "B": "sedimentation",
+      "C": "filtration",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 24,
+      "Question": "The cake resistance increases steadily with the time of filtration in a plate and frame filter employing constant __________ filtration.",
+      "A": "rate",
+      "B": "pressure",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 25,
+      "Question": "Grinding efficiency of a ball mill is of the order of __________ percent",
+      "A": 45296,
+      "B": "40-50",
+      "C": "75-80",
+      "D": "90-9",
+      "Answer": "A"
+    },
+    {
+      "Number": 26,
+      "Question": "Solid particles of different densities are separated by",
+      "A": "filters",
+      "B": "thickness",
+      "C": "cyclones",
+      "D": "sorting classifier",
+      "Answer": "D"
+    },
+    {
+      "Number": 27,
+      "Question": "During agitation of liquids, power consumption during laminar flow is not proportional to the",
+      "A": "density of the liquid",
+      "B": "viscosity of the liquid",
+      "C": "cube of impeller diameter",
+      "D": "square of rotational speed",
+      "Answer": "A"
+    },
+    {
+      "Number": 28,
+      "Question": "Trommels are revolving screens which normally operate in the range of __________ rpm",
+      "A": "1 - 2",
+      "B": "15 - 20",
+      "C": "40 - 50",
+      "D": "60 - 75",
+      "Answer": "B"
+    },
+    {
+      "Number": 29,
+      "Question": "The value of work index does not change materially from one equipment to another. If the value of work index determined for close circuit grinding is Wi, then the same for open circuit grinding will be",
+      "A": "0.5 Wi",
+      "B": "Wi",
+      "C": "1.34 Wi",
+      "D": "3.34 Wi",
+      "Answer": "C"
+    },
+    {
+      "Number": 30,
+      "Question": "Maximum size reduction in a fluid energy mill is achieved by",
+      "A": "compression",
+      "B": "interparticle attritio",
+      "C": "cutting",
+      "D": "impact",
+      "Answer": "B"
+    },
+    {
+      "Number": 31,
+      "Question": "Filtration rate through a filter cake is proportional to (where, S = filtering surface R= specific cake resistance μ = viscosity of the filtrate)",
+      "A": "S",
+      "B": "1/R",
+      "C": "1/μ",
+      "D": "all (a), (b) & (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 32,
+      "Question": "A centrifugal filtration unit operating at a rotational speed of w has inner surface of the liquid (density ρL) located at a radial distance R from the axis of rotation. The thickness of the liquid film is δ and no cake is formed. The initial pressure drop during filtration is",
+      "A": "1-2 w2 . R2 . ρL",
+      "B": "1-2 w2 . δ2 . ρL",
+      "C": "1-2 w2 . δρL (2R + δ)",
+      "D": "1-2 w2 . R . ρL(R + 2δ)",
+      "Answer": "C"
+    },
+    {
+      "Number": 33,
+      "Question": "Which one is a filter aid ?",
+      "A": "Convas fabric",
+      "B": "Diatomaceous earth",
+      "C": "Calcined lime",
+      "D": "None of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 34,
+      "Question": "To remove dirt from the flowing fluid, we use a",
+      "A": "coagulant",
+      "B": "gravity settler",
+      "C": "strain",
+      "D": "clarifier",
+      "Answer": "C"
+    },
+    {
+      "Number": 35,
+      "Question": "Which of the following crushers can be considered as a combination of a jaw crusher and a roller crusher ?",
+      "A": "Rod mill",
+      "B": "Fluid energy mill",
+      "C": "Gyratory crusher",
+      "D": "Ball mill",
+      "Answer": "C"
+    },
+    {
+      "Number": 36,
+      "Question": "Separation of solid suspended in liquid into a supernatant clear liquid and a denser slurry employs a process termed as the",
+      "A": "coagulation",
+      "B": "flocculation",
+      "C": "sedimentation",
+      "D": "clarification",
+      "Answer": "C"
+    },
+    {
+      "Number": 37,
+      "Question": "Ultrafine grinders operate principally by",
+      "A": "slow compressio",
+      "B": "impac",
+      "C": "attrition",
+      "D": "cutting action",
+      "Answer": "C"
+    },
+    {
+      "Number": 38,
+      "Question": "Half the angle of nip, (α), for a roll crusher is given by (where, dr, dp and df are diameters of crushing rolls, feed particles and rolls gap respectively).",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/105-119-1.png",
+      "B": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/105-119-2.png",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/105-119-3.png",
+      "D": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/105-119-4.png",
+      "Answer": "B"
+    },
+    {
+      "Number": 39,
+      "Question": "Which of the following comes in the category of primary crusher for hard and tough stone ?",
+      "A": "Jaw crusher",
+      "B": "Cone crusher",
+      "C": "Gyratory crusher",
+      "D": "None of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 40,
+      "Question": "Crushing efficiency of a machine ranges between __________ percent.",
+      "A": "0.1 to 2",
+      "B": "5 to 1",
+      "C": "20 to 25",
+      "D": "50 to 70",
+      "Answer": "A"
+    },
+    {
+      "Number": 41,
+      "Question": "Screen capacity is expressed in terms of",
+      "A": "tons/hr",
+      "B": "tons/ft2",
+      "C": "both (a) & (b)",
+      "D": "tons/hr-ft",
+      "Answer": "D"
+    },
+    {
+      "Number": 42,
+      "Question": "A screen is said to be blinded, when the",
+      "A": "oversizes are present in undersize fraction.",
+      "B": "undersizes are retained in oversize fraction.",
+      "C": "screen is plugged with solid particles.",
+      "D": "screen capacity is abruptly increased.",
+      "Answer": "C"
+    },
+    {
+      "Number": 43,
+      "Question": "What is the critical rotation speed in revolutions per second, for a ball mill of 1.2 m diameter charged with 70 mm dia balls",
+      "A": 0.5,
+      "B": 1,
+      "C": 2.76,
+      "D": 0.66,
+      "Answer": "D"
+    },
+    {
+      "Number": 44,
+      "Question": "Percentage of drum submerged in the slurry in case of rotary drum filter is",
+      "A": 3,
+      "B": 30,
+      "C": 85,
+      "D": 25,
+      "Answer": "B"
+    },
+    {
+      "Number": 45,
+      "Question": "Filter medium resistance is that offered by the",
+      "A": "filter cloth.",
+      "B": "embedded particles in the septum.",
+      "C": "filter cloth and the embedded particle collectively.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 46,
+      "Question": "In a roll crusher, both the rolls",
+      "A": "have the same diameter.",
+      "B": "are rotated towards each other.",
+      "C": "run either at the same or different speeds.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 47,
+      "Question": "Tube mill compared to ball mill",
+      "A": "produces finer products.",
+      "B": "is long in comparison with its diameter.",
+      "C": "uses smaller balls.",
+      "D": "all (a), (b) & (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 48,
+      "Question": "Critical speed of rotation, N (in rps - rotation per second) of a trammel is equal to (where, g = acceleration due to gravity = 9.81 m/sec2 and, r = radius of trammel, metre. )",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/120-344-1.png",
+      "B": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/120-344-2.png",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/120-344-3.png",
+      "D": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/120-344-4.png",
+      "Answer": "A"
+    },
+    {
+      "Number": 49,
+      "Question": "For the preliminary breaking of hard rock, we use a",
+      "A": "gyratory crusher",
+      "B": "ball mill",
+      "C": "tube mill",
+      "D": "squirrel-cage disintegrator",
+      "Answer": "A"
+    },
+    {
+      "Number": 50,
+      "Question": "Filtration operation carried out by continuous increase of the inlet pressure of slurry, is called the __________ filtration.",
+      "A": "constant rate",
+      "B": "varying pressure",
+      "C": "varying rate",
+      "D": "constant pressure",
+      "Answer": "A"
+    }
+  ],
+  "Section 6": [
+    {
+      "Number": 1,
+      "Question": "Pick out the wrong statement.",
+      "A": "For the compressible cake, voidage & the specific resistance of the cake can be assumed to be constant.",
+      "B": "Cake resistance is independent of the pressure drop.",
+      "C": "Crushing of explosive materials are done by employing drygrinding.",
+      "D": "Gyratory crusher is a coarse crusher.",
+      "Answer": "B"
+    },
+    {
+      "Number": 2,
+      "Question": "Which of the following oxides is not present in hematite iron ore?",
+      "A": "Titanium oxide",
+      "B": "Calcium oxide",
+      "C": "Cobalt oxid",
+      "D": "Manganese oxid",
+      "Answer": "C"
+    },
+    {
+      "Number": 3,
+      "Question": "Ribbon blenders are exclusively meant for",
+      "A": "blending miscible liquids.",
+      "B": "non-flowing powder and thin pastes.",
+      "C": "bath mixing.",
+      "D": "continuous mixing.",
+      "Answer": "B"
+    },
+    {
+      "Number": 4,
+      "Question": "In closed circuit grinding as compared to open circuit grinding, the",
+      "A": "specific surface of product is more.",
+      "B": "product has lesser size uniformity.",
+      "C": "production rate at a given limiting size is lower.",
+      "D": "operation is economical.",
+      "Answer": "D"
+    },
+    {
+      "Number": 5,
+      "Question": "Pick out the correct statement",
+      "A": "Angle of repose is always greater than the angle of slide.",
+      "B": "A hopper is a small bin with a sloping bottom",
+      "C": "A silo is a short height vessel of very large diameter used for the storage of high volatile matter coal.",
+      "D": "Pine oil is used as a 'modifying agent' (for activating or depressing the adsorption of filming agents) in froth floatation process.",
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "Gelatinous solid (which plug the septum) can be filtered by a __________ filter.",
+      "A": "sparkler",
+      "B": "plate and frame",
+      "C": "vacuum leaf",
+      "D": "precoat",
+      "Answer": "D"
+    },
+    {
+      "Number": 7,
+      "Question": "During the washing of cak",
+      "A": "all the resistances are constant.",
+      "B": "filter medium resistance increases",
+      "C": "filter medium resistance decreases.",
+      "D": "cake resistance decreases.",
+      "Answer": "A"
+    },
+    {
+      "Number": 8,
+      "Question": "The opening of a 200 mesh screen (Taylor series) i",
+      "A": "0.0074 cm",
+      "B": "0.0074 m",
+      "C": "0.0047 cm",
+      "D": "74 mili-microns",
+      "Answer": "A"
+    },
+    {
+      "Number": 9,
+      "Question": "A gravity decanter is meant for the separation of two __________ density.",
+      "A": "immiscible liquids of different",
+      "B": "miscible liquids of different",
+      "C": "immiscible liquids of same",
+      "D": "miscible liquids of same",
+      "Answer": "A"
+    },
+    {
+      "Number": 10,
+      "Question": "The most suitable filter for the removal of very small amount of precipitate from very large volumes of water is the __________ filter.",
+      "A": "vacuum",
+      "B": "sand",
+      "C": "plate & frame",
+      "D": "rotary",
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "Separation of solid particles based on their densities is called",
+      "A": "sizing",
+      "B": "sorting",
+      "C": "clarification",
+      "D": "dispersion",
+      "Answer": "B"
+    },
+    {
+      "Number": 12,
+      "Question": "Activators are those chemicals which help buoying up one mineral in preference to the other in the froth floatation process. Which of the following is an activator?",
+      "A": "Cresylic acid",
+      "B": "Copper sulphate",
+      "C": "Calcium carbonate",
+      "D": "Sodium carbonate",
+      "Answer": "B"
+    },
+    {
+      "Number": 13,
+      "Question": "__________ are mixed using ribbon blenders.",
+      "A": "Lumpy solids and low viscosity liquids",
+      "B": "Dry powders",
+      "C": "High viscosity liquid",
+      "D": "Thick pastes",
+      "Answer": "B"
+    },
+    {
+      "Number": 14,
+      "Question": "During agitation of liquids, the",
+      "A": "Froude number is independent for the curves between power number and Reynolds number in baffled system.",
+      "B": "Power number becomes independent of impellers Reynolds number at high Reynolds number, but is dependent on the geometry of the impeller",
+      "C": "Froude number is used to account for the effect of surface (e.g., the centre vortex) on the power number.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 15,
+      "Question": "For crushing of solids, the Rittinger's law states that the work required for crushing is proportional to",
+      "A": "the new surface created.",
+      "B": "the size reduction ratio.",
+      "C": "the change in volume due to crushing.",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 16,
+      "Question": "In a size reduction crushing operation, feed size is 300 to 1500 mm while the product size is 100 to 300 mm. This is a case of the __________ crushing",
+      "A": "secondary",
+      "B": "fine",
+      "C": "primary",
+      "D": "ultrafine",
+      "Answer": "C"
+    },
+    {
+      "Number": 17,
+      "Question": "As per Taggart's formula, the capacity (kg/hr) of Jaw & Gyratory crushers (for gapes of 10 to 60 cms) is equal to (where, L = Length of feed opening, cms S = Maximum width of discharge opening, cms )",
+      "A": "LS",
+      "B": "93 LS",
+      "C": "250 LS",
+      "D": "sqrt LS",
+      "Answer": "B"
+    },
+    {
+      "Number": 18,
+      "Question": "The process by which fine solids is removed from liquids is termed a",
+      "A": "decantation",
+      "B": "flocculation",
+      "C": "sedimentation",
+      "D": "classification",
+      "Answer": "C"
+    },
+    {
+      "Number": 19,
+      "Question": "Which of the following crushing laws is most accurately applicable to the fine grinding of materials ?",
+      "A": "Bond's crushing law",
+      "B": "Kick's law",
+      "C": "Rittinger's law",
+      "D": "None of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 20,
+      "Question": "Shell and leaf filter as compared to plate and frame filter",
+      "A": "entails less labor cost",
+      "B": "facilitates filtration under higher pressure.",
+      "C": "provides more effective washing.",
+      "D": "all (a), (b) & (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 21,
+      "Question": "Metallic wire mesh is used as a filtering medium for the separation of dust from dust laden gas in case of a/an",
+      "A": "air filter",
+      "B": "bag filter",
+      "C": "venturi scrubber",
+      "D": "hydrocyclones",
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "Which of the following is a coarse crusher?",
+      "A": "Smooth roll crusher",
+      "B": "Toothed roll crusher",
+      "C": "Gyratory crusher",
+      "D": "Tube mill",
+      "Answer": "C"
+    },
+    {
+      "Number": 23,
+      "Question": "Sorting classifiers employing differential settling methods for separation of particles make use of the differences in their",
+      "A": "particle sizes",
+      "B": "densities",
+      "C": "terminal velocities",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 24,
+      "Question": "Separation of particles of various sizes, shapes and densities by allowing them to settle in a fluid is called",
+      "A": "classification",
+      "B": "froth floatation",
+      "C": "thickening",
+      "D": "clarification",
+      "Answer": "A"
+    },
+    {
+      "Number": 25,
+      "Question": "The specific cake resistance for incompressible sludges is (where ΔP = pressure drop over cake)",
+      "A": "∝ ΔP",
+      "B": "∝ 1/ ΔP",
+      "C": "∝ ΔP",
+      "D": "independent of ΔP",
+      "Answer": "D"
+    },
+    {
+      "Number": 26,
+      "Question": "To produce talcum powder, use",
+      "A": "ball mill",
+      "B": "hammer mill",
+      "C": "jet mill",
+      "D": "pin mill",
+      "Answer": "A"
+    },
+    {
+      "Number": 27,
+      "Question": "Angle of nip of the crushing rolls does not depend upon the",
+      "A": "diameter of the rolls",
+      "B": "speed of the rolls",
+      "C": "product size",
+      "D": "feed size",
+      "Answer": "B"
+    },
+    {
+      "Number": 28,
+      "Question": "Paddle agitator",
+      "A": "is suitable for mixing low viscosity liquids.",
+      "B": "produces axial flow.",
+      "C": "moves at very high speed.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 29,
+      "Question": "Pick out the wrong statement.",
+      "A": "More commonly used jaw crusher between Dodge jaw crusher and Blake jaw crusher is the later one.",
+      "B": "There are only four methods namely compression, impact, attrition and cutting, which the size reduction equipments employ.",
+      "C": "Cutting machines mainly employ 'attrition' for size reduction of solids.",
+      "D": "Operating principles of Dodge and Blake jaw crushers are combined in the working of universal jaw crushers.",
+      "Answer": "C"
+    },
+    {
+      "Number": 30,
+      "Question": "Gummy & sticky materials like molasses, sugar etc. are best transported/handled by using a __________ conveyor.",
+      "A": "drag",
+      "B": "ribbon",
+      "C": "screw",
+      "D": "slat",
+      "Answer": "B"
+    },
+    {
+      "Number": 31,
+      "Question": "Soft & non-abrasive materials can be made into fines by",
+      "A": "attrition",
+      "B": "compression",
+      "C": "cutting",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 32,
+      "Question": "In constant pressure filtration,",
+      "A": "resistance decreases with time",
+      "B": "rate of filtration is constant",
+      "C": "rate of filtration increases with time",
+      "D": "rate of filtration decreases with time",
+      "Answer": "No Correct Answer"
+    },
+    {
+      "Number": 33,
+      "Question": "The critical speed of a trommel (N) is related to its dia (D) as",
+      "A": "N ∝ sqrt D",
+      "B": "N ∝ sqrt D",
+      "C": "N ∝ D",
+      "D": "N ∝ 1-D",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "Which of the following minerals is not subjected to magnetic separation method?",
+      "A": "Rutile",
+      "B": "Galena",
+      "C": "Chromite",
+      "D": "Siderite",
+      "Answer": "B"
+    },
+    {
+      "Number": 35,
+      "Question": "Which of the following is not a revolving/tumbling mill used for size reduction?",
+      "A": "Compartment mill",
+      "B": "Pebble mill",
+      "C": "Cage mil",
+      "D": "Rod mill",
+      "Answer": "C"
+    },
+    {
+      "Number": 36,
+      "Question": "Which of the following achieves the least reduction ratio for a given feed size?",
+      "A": "Jaw crusher",
+      "B": "Roll crusher",
+      "C": "Cone crusher",
+      "D": "Gyratory crusher",
+      "Answer": "B"
+    },
+    {
+      "Number": 37,
+      "Question": "A fluid energy mill is used for",
+      "A": "cutting",
+      "B": "grinding",
+      "C": "ultragrinding",
+      "D": "crushing",
+      "Answer": "C"
+    },
+    {
+      "Number": 38,
+      "Question": "Filtration should be stopped in a filter press, if the",
+      "A": "cake becomes very dense.",
+      "B": "liquor stops flowing out to the discharge.",
+      "C": "filtration pressure rises suddenly",
+      "D": "both(b)&(c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 39,
+      "Question": "For coarse reduction of hard solids, use",
+      "A": "impact",
+      "B": "attrition",
+      "C": "compression",
+      "D": "cutting",
+      "Answer": "C"
+    },
+    {
+      "Number": 40,
+      "Question": "In a size reduction crushing operation, feed size is 100 to 300 mm. while the product size is 10 to 50 mm. This is a case of the __________ crushing.",
+      "A": "primary",
+      "B": "secondary",
+      "C": "fine",
+      "D": "ultrafine",
+      "Answer": "B"
+    },
+    {
+      "Number": 41,
+      "Question": "Traces of liquid tar fog present in coke oven gas is separated using",
+      "A": "electrostatic precipitator",
+      "B": "cyclone separator",
+      "C": "strainer",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 42,
+      "Question": "Close circuit grinding by a ball mill with air sweeping employs a",
+      "A": "classifier.",
+      "B": "cyclone separator between mill & classifier",
+      "C": "both (a) & (b).",
+      "D": "neither (a) nor (b).",
+      "Answer": "C"
+    },
+    {
+      "Number": 43,
+      "Question": "Work index is the gross energy (kWh/tonne of feed) necessary to reduce a very large feed to such a size that 80% of product particles will pass through a 0.1 mm screen. The value of work index determined for wet grinding should be multiplied with __________ to get the same for dry grinding.",
+      "A": 1,
+      "B": "both (a) & (b).",
+      "C": 1.34,
+      "D": 4.34,
+      "Answer": "C"
+    },
+    {
+      "Number": 44,
+      "Question": "Choke crushing (in case of a Jaw crusher) compared to free crushing",
+      "A": "results in increased capacity.",
+      "B": "consumes less power.",
+      "C": "consumes more power.",
+      "D": "both (a) and (c).",
+      "Answer": "C"
+    },
+    {
+      "Number": 45,
+      "Question": "The specific surface of sherical particles is proportional to (where, Dp = diameter of particle).",
+      "A": "D2p",
+      "B": "Dp",
+      "C": "1/Dp",
+      "D": "1/D2p",
+      "Answer": "C"
+    },
+    {
+      "Number": 46,
+      "Question": "Wheat is ground into flour in a",
+      "A": "hammer crusher",
+      "B": "roller crusher",
+      "C": "impact mill",
+      "D": "fluid energy mill",
+      "Answer": "B"
+    },
+    {
+      "Number": 47,
+      "Question": "Gravity stamp mill is meant for the __________ crushing.",
+      "A": "primary",
+      "B": "intermediate",
+      "C": "fine",
+      "D": "ultrafine",
+      "Answer": "C"
+    },
+    {
+      "Number": 48,
+      "Question": "Washability curve based on float and sink test enables an assessment to be made of the possibility of cleaning a coal fraction based on the",
+      "A": "density separation.",
+      "B": "differential wettability.",
+      "C": "size",
+      "D": "volatile matter content.",
+      "Answer": "A"
+    },
+    {
+      "Number": 49,
+      "Question": "Toothed roll crushers achieve size reduction by",
+      "A": "tearing (shear) and compression.",
+      "B": "impact and attrition.",
+      "C": "both (a) & (b).",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 50,
+      "Question": "Pick out the wrong statement:",
+      "A": "Magnetic separation method can be employed to treat both dry & wet ores.",
+      "B": "Reduction ratio in crushing operation is defined as the ratio of minimum feed size to the maximum product size.",
+      "C": "Gyratory crusher is used for coarse crushing",
+      "D": "Screens are of stationary, moving and vibratory types",
+      "Answer": "B"
+    }
+  ],
+  "Section 7": [
+    {
+      "Number": 1,
+      "Question": "To get ultrafine particles, the equipment used is a",
+      "A": "ball mil",
+      "B": "rod mill",
+      "C": "hammer crusher",
+      "D": "fluid energy mill",
+      "Answer": "D"
+    },
+    {
+      "Number": 2,
+      "Question": "Vacuum filter is most suitable for the",
+      "A": "removal of fines from liquid.",
+      "B": "liquids having high vapour pressure.",
+      "C": "liquids of very high viscosity",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 3,
+      "Question": "The porosity of a compressible cake is",
+      "A": "minimum at the filter medium.",
+      "B": "minimum at the upstream face",
+      "C": "maximum at the filter medium.",
+      "D": "same throughout the thickness of cake.",
+      "Answer": "A"
+    },
+    {
+      "Number": 4,
+      "Question": "Which of the following conveyors cannot be recommended for transportation of abrasive materials ?",
+      "A": "Belt conveyor",
+      "B": "Apron conveyor",
+      "C": "Flight conveyor",
+      "D": "Chain conveyor",
+      "Answer": "C"
+    },
+    {
+      "Number": 5,
+      "Question": "Separation of materials into products based on the difference of their sizes is called",
+      "A": "sizing",
+      "B": "sorting",
+      "C": "classification",
+      "D": "flocculation",
+      "Answer": "A"
+    },
+    {
+      "Number": 6,
+      "Question": "For classification of potable (drinking) water, we use a __________ filter.",
+      "A": "gravity sand",
+      "B": "plate and frame",
+      "C": "vacuum leaf",
+      "D": "rotary vacuum",
+      "Answer": "A"
+    },
+    {
+      "Number": 7,
+      "Question": "Hot, lumpy & abrasive materials are best transported by using a/an __________ conveyor.",
+      "A": "apron",
+      "B": "belt",
+      "C": "screw",
+      "D": "flight",
+      "Answer": "A"
+    },
+    {
+      "Number": 8,
+      "Question": "Additives used for promoting the floccula-tion of particles is a/an",
+      "A": "electrolyte",
+      "B": "surface active agent",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 9,
+      "Question": "In case of grinding in a ball mill",
+      "A": "wet grinding achieves a finer product size than dry grinding",
+      "B": "its capacity decreases with increasing fineness of the products.",
+      "C": "grinding cost and power requirement increases with increasing fineness of the products.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 10,
+      "Question": "The capacity of a classifier in 'tons of solid/hr' is given by (where, A = cross-sectional area, m2 V = rising velocity of fluid, m/sec.S = percentage of solids in the suspension by volume.ρ = density of solids, kg/m3)",
+      "A": "3.6 AVS.ρ",
+      "B": "3.6 A.V.ρ",
+      "C": "3.6 A.S. ρ",
+      "D": "3.6 AVS/ρ",
+      "Answer": "A"
+    },
+    {
+      "Number": 11,
+      "Question": "Kick's law relates to",
+      "A": "energy consumption",
+      "B": "final particle size",
+      "C": "feed size",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 12,
+      "Question": "__________ mill is normally used for grinding of talc.",
+      "A": "Tube",
+      "B": "Compartment",
+      "C": "Ring-roll",
+      "D": "Pebble",
+      "Answer": "C"
+    },
+    {
+      "Number": 13,
+      "Question": "Colloidal mills are used for __________ grinding.",
+      "A": "coarse",
+      "B": "intermediate",
+      "C": "fine",
+      "D": "ultrafine",
+      "Answer": "D"
+    },
+    {
+      "Number": 14,
+      "Question": "Fluid medium used in the classification technique of mineral beneficiation is",
+      "A": "air",
+      "B": "water",
+      "C": "either (a) or (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 15,
+      "Question": "The maximum slope of a belt conveyor can be",
+      "A": "15°",
+      "B": "30°",
+      "C": "45°",
+      "D": "60°",
+      "Answer": "B"
+    },
+    {
+      "Number": 16,
+      "Question": "The filter medium resistance is controlled by",
+      "A": "pressure drop alone",
+      "B": "flow rate alone",
+      "C": "both pressure drop and flow rate",
+      "D": "cake thickness",
+      "Answer": "C"
+    },
+    {
+      "Number": 17,
+      "Question": "The unit of filter medium resistance is",
+      "A": "cm-1",
+      "B": "gm/cm-1",
+      "C": "cm/gm-1",
+      "D": "gm-1",
+      "Answer": "A"
+    },
+    {
+      "Number": 18,
+      "Question": "During size reduction by a jaw crusher, the energy consumed decreases with the",
+      "A": "decreasing size of product at constant size of feed",
+      "B": "decreasing machine capacity.",
+      "C": "increasing size of feed at constant reduction ratio.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 19,
+      "Question": "Which of the following can be most effectively used for clarification of lube oil and printing ink?",
+      "A": "Sparkler filter",
+      "B": "Precoat filter",
+      "C": "Disc-bowl centrifuge",
+      "D": "Sharpies supercentrifuge",
+      "Answer": "D"
+    },
+    {
+      "Number": 20,
+      "Question": "Ultracentrifuges running at speeds upto 100000 rpm is normally used for the",
+      "A": "separation of isotopes based on their density or molecular weights difference.",
+      "B": "concentration of rubber latex.",
+      "C": "separation of cream from milk.",
+      "D": "dewaxing of lubricating oil.",
+      "Answer": "A"
+    },
+    {
+      "Number": 21,
+      "Question": "Sizing of very fine particles of the order of 5 to 10 microns is done by elutriation, which is a __________ operation.",
+      "A": "clarification",
+      "B": "sedimentation",
+      "C": "flocculation",
+      "D": "classification",
+      "Answer": "D"
+    },
+    {
+      "Number": 22,
+      "Question": "In the cyclone separator used for separation of dust from dust laden gas, the gas",
+      "A": "enters the cyclone from the top.",
+      "B": "is admitted tangentially at high velocity.",
+      "C": "develops a helical motion inside the chamber.",
+      "D": "both (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 23,
+      "Question": "The basic filtration equation is given as where, https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/136-487-1.png V is volume of the filtrate ; A is the filtration area, a is specific cake resistance, μ is viscosity of the filtrate, and Cis the concentration of the solids in the feed slurry.\r\nIn a 20 minutes constant rate filtration, 5 m3 of filtrate was obtained. If this is followed by a constant pressure filtration, how much more time in minutes, it will take for another 5 m3 of filtrate to be produced ? Neglect filter medium resistance, Rm ; assume incompressible cake.",
+      "A": 10,
+      "B": 20,
+      "C": 25,
+      "D": 30,
+      "Answer": "B"
+    },
+    {
+      "Number": 24,
+      "Question": "Size reduction of fibrous materials like wood, asbestos, mica etc. is done by a disintegrator exemplified by the",
+      "A": "Blake jaw crusher",
+      "B": "cage mill",
+      "C": "stamp mill",
+      "D": "Bradford's breaker",
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "The material is crushed in a gyratory crusher by the action of",
+      "A": "impact",
+      "B": "compression",
+      "C": "attrition",
+      "D": "cutting",
+      "Answer": "B"
+    },
+    {
+      "Number": 26,
+      "Question": "The equivalent diameter of channel of a constant non-circular cross-section of 3 cm by 6 cm will be __________ cms.",
+      "A": 20,
+      "B": 12,
+      "C": 8,
+      "D": 2,
+      "Answer": "D"
+    },
+    {
+      "Number": 27,
+      "Question": "Which of the following may prove unsuitable for filtering volatile liquids ?",
+      "A": "Pressure filter",
+      "B": "Gravity filter",
+      "C": "Centrifugal filter",
+      "D": "Vacuum filter",
+      "Answer": "D"
+    },
+    {
+      "Number": 28,
+      "Question": "__________ mean diameter of particles is given by",
+      "A": "Mass",
+      "B": "volume",
+      "C": "Arithmetic",
+      "D": "Volume surface",
+      "Answer": "B"
+    },
+    {
+      "Number": 29,
+      "Question": "Mass flow of granular solid (M) through a circular opening of dia, D follows",
+      "A": "M ∝ sqrt D",
+      "B": "M ∝ D2",
+      "C": "M ∝ D3",
+      "D": "M ∝ D",
+      "Answer": "C"
+    },
+    {
+      "Number": 30,
+      "Question": "Sauter mean diameter is the same as the __________ mean diameter.",
+      "A": "mass",
+      "B": "arithmetic",
+      "C": "volume-surface",
+      "D": "geometric",
+      "Answer": "C"
+    },
+    {
+      "Number": 31,
+      "Question": "Cake resistance is",
+      "A": "important in the beginning of filtration",
+      "B": "decreased with the time of filtration.",
+      "C": "independent of pressure drop.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 32,
+      "Question": "In paint industries, blending of light paste is done by using a",
+      "A": "masticator",
+      "B": "charge can mixer",
+      "C": "kneader",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 33,
+      "Question": "A sand mixture was screened through a standard 10-mesh screen. The mass fraction of the oversize material in feed, overflow and underflow were found to be 0.38, 0.79 and 0.22 respectively. The screen effectiveness based on the oversize is",
+      "A": 0.5,
+      "B": 0.58,
+      "C": 0.68,
+      "D": 0.62,
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "__________ is used for producing a thick suspension from a thin slurry.",
+      "A": "Rotary drum vacuum filter",
+      "B": "Rotary drum vacuum filter",
+      "C": "Pressure filter thickener",
+      "D": "Plate and frame filter press",
+      "Answer": "C"
+    },
+    {
+      "Number": 35,
+      "Question": "Wet seiving is employed, when the product contains __________ materials.",
+      "A": "abrasive",
+      "B": "large quantity of very fine",
+      "C": "coarse",
+      "D": "non-sticky",
+      "Answer": "B"
+    },
+    {
+      "Number": 36,
+      "Question": "Energy requirement (per unit mass of material crushed/ground) is highest for",
+      "A": "jaw crusher",
+      "B": "rod mill",
+      "C": "ball mill",
+      "D": "fluid energy mill",
+      "Answer": "D"
+    },
+    {
+      "Number": 37,
+      "Question": "The energy consumed by a ball mill depends on",
+      "A": "its speed",
+      "B": "its ball load.",
+      "C": "the density of the material being ground",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 38,
+      "Question": "Energy consumption in a crusher decreases with increase in the",
+      "A": "size of the product (at constant feed size)",
+      "B": "capacity of the crushing machine.",
+      "C": "size of feed (at constant reduction ratio).",
+      "D": "all (a), (b) & (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 39,
+      "Question": "In a mixer, the quantity, (v. L/D) is termed as __________ number(where, v = longitudinal velocity of material, L = length of the mixer, D = diffusivity in axial mixing).",
+      "A": "Weber",
+      "B": "Pclet",
+      "C": "Brinkman",
+      "D": "Schmidt",
+      "Answer": "B"
+    },
+    {
+      "Number": 40,
+      "Question": "The term 'angle of nip' is concerned with the operation of the __________ crushers.",
+      "A": "jaw",
+      "B": "roll",
+      "C": "gyrator",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 41,
+      "Question": "Cartridge filters are termed as 'edge' filters, because of the fact that the",
+      "A": "disks have very sharp edge.",
+      "B": "solids are not deposited at the edge of the disk.",
+      "C": "bulk of the solids are removed at the periphery of the disks.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 42,
+      "Question": "Vibrating screens have capacity in the range of __________ tons/ft2 .mm mesh size.",
+      "A": "0.2 to 0.8",
+      "B": "5 to 25",
+      "C": "50 to 100",
+      "D": "100 to 250",
+      "Answer": "A"
+    },
+    {
+      "Number": 43,
+      "Question": "Cumulative analysis for determining surface is more precise than differential analysis, because of the",
+      "A": "assumption that all particles in a single fraction are equal in size.",
+      "B": "fact that screening is more effective.",
+      "C": "assumption that all particles in a single fraction are equal in size, is not needed.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 44,
+      "Question": "To remove very small amount of tiny solid impurities from liquid, we use a",
+      "A": "pressure filter",
+      "B": "vacuum filter",
+      "C": "centrifugal filter",
+      "D": "coagulant",
+      "Answer": "D"
+    },
+    {
+      "Number": 45,
+      "Question": "Screw conveyors are",
+      "A": "run at very high rpm.",
+      "B": "suitable for sticky materials.",
+      "C": "suitable for highly abrasive materials.",
+      "D": "all (a), (b) and (c)",
+      "Answer": "B"
+    },
+    {
+      "Number": 46,
+      "Question": "__________ mills fall in the category of tumbling mills,",
+      "A": "Ball and pebble",
+      "B": "Rod and tube",
+      "C": "Compartment",
+      "D": "all (a), (b) & (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 47,
+      "Question": "Capacity of flight conveyor in tons/hr is given by (where, W & D = width and depth of flight respectively in metre V = speed of the conveyor, metre/second ρ = bulk density of material, kg/m3)",
+      "A": "3.6 W.D.V.ρ",
+      "B": "3.6 W.D.V.",
+      "C": "3.6 W.V.ρ",
+      "D": "3.6 D.V.ρ",
+      "Answer": "A"
+    },
+    {
+      "Number": 48,
+      "Question": "Which of the following is not a cutting machine?",
+      "A": "Dicers",
+      "B": "Knife cutters",
+      "C": "Slitters",
+      "D": "Tube mills",
+      "Answer": "D"
+    },
+    {
+      "Number": 49,
+      "Question": "Weber number is significant and is concerned with the",
+      "A": "solid-liquid mixing.",
+      "B": "liquid-liquid mixing.",
+      "C": "dispersion of liquid in liquid.",
+      "D": "suspension of solid in liquid.",
+      "Answer": "C"
+    },
+    {
+      "Number": 50,
+      "Question": "Power consumption during turbulent flow in agitation tank is proportional to the __________ of the liquid.",
+      "A": "viscosity",
+      "B": "thermal conductivity",
+      "C": "surface tension",
+      "D": "density",
+      "Answer": "D"
+    }
+  ],
+  "Section 8": [
+    {
+      "Number": 1,
+      "Question": "Screen efficiency is",
+      "A": "recovery/rejection",
+      "B": "recovery",
+      "C": "rejection",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 2,
+      "Question": "For grinding of cereals, grains, spices, pigments, saw dust, cork etc., the most extensively used size reduction equipment is a",
+      "A": "Buhrstone mill",
+      "B": "ball mill",
+      "C": "crushing rolls",
+      "D": "hammer mill",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "Handling of ashes and similar materials can be done best by a __________ conveyor.",
+      "A": "flight",
+      "B": "drag or slat",
+      "C": "belt",
+      "D": "ribbon.",
+      "Answer": "B"
+    },
+    {
+      "Number": 4,
+      "Question": "Which of the following must be stored in silos and not in open yard ?",
+      "A": "Coke breeze",
+      "B": "High V.M. bituminous coal",
+      "C": "Sand",
+      "D": "None of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 5,
+      "Question": "Apron conveyors are used for",
+      "A": "heavy loads & short runs.",
+      "B": "small loads & long runs.",
+      "C": "heavy loads & long runs.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 6,
+      "Question": "Sedimentation on commercial scale occurs in",
+      "A": "classifiers",
+      "B": "thickeners",
+      "C": "rotary drum filters",
+      "D": "cyclones",
+      "Answer": "C"
+    },
+    {
+      "Number": 7,
+      "Question": "With increase in drum speed, in a rotary drum filter, the filtration rate",
+      "A": "increases",
+      "B": "increases linearly",
+      "C": "decreases",
+      "D": "is not affected",
+      "Answer": "A"
+    },
+    {
+      "Number": 8,
+      "Question": "Arrange the following size reduction equipment in the decreasing order of the average particle size produced by each of them.",
+      "A": "Jaw crusher, Ball mill, Fluid energy mill",
+      "B": "Ball mill, Jaw crusher, Fluid energy mill",
+      "C": "Fluid energy mill, Jaw crusher, Ball mill",
+      "D": "Fluid energy mill, Ball mill, Jaw crusher",
+      "Answer": "A"
+    },
+    {
+      "Number": 9,
+      "Question": "200 mesh seive size corresponds to __________ microns.",
+      "A": 24,
+      "B": 74,
+      "C": 154,
+      "D": 200,
+      "Answer": "B"
+    },
+    {
+      "Number": 10,
+      "Question": "What is the usual value of angle of nip for crushing of ordinary rock in smooth steel crushing rolls ?",
+      "A": "16°",
+      "B": "32°",
+      "C": "40°",
+      "D": "46°",
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "For a turbine agitated and baffled tank, operating at low Reynold's number (based on impeller diameter), the power number (Np) varies with NRe as",
+      "A": "Np ∝ NRe",
+      "B": "Np ∝ N sqrt Re",
+      "C": "Np → constant",
+      "D": "Np ∝ 1/NRe",
+      "Answer": "D"
+    },
+    {
+      "Number": 12,
+      "Question": "Which of the following is not accomplished by agitation of liquids in agitators?",
+      "A": "Dispersing gas in liquid.",
+      "B": "Blending of immiscible liquids.",
+      "C": "Dispersing immiscible liquid in form of emulsion.",
+      "D": "Suspending solid particles.",
+      "Answer": "B"
+    },
+    {
+      "Number": 13,
+      "Question": "Which of the following parts of a jaw crusher is subjected to maximum wear and tear during its operation ?",
+      "A": "Check plates",
+      "B": "Jaw plates",
+      "C": "Toggles",
+      "D": "Crush shaft",
+      "Answer": "B"
+    },
+    {
+      "Number": 14,
+      "Question": "A 30% (by volume) suspension of spherical sand particles in a viscous oil has a hindered settling velocity of 4.44 μm/s. If the Richardson Zaki hindered settling index is 4.5, then the terminal velocity of a sand grain is",
+      "A": "0.90 μm/s",
+      "B": "1 μm/s",
+      "C": "22.1 μm/s",
+      "D": "0.02 μm/s",
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "The specific surface of spherical particles is given by (where D and ρ are diameter and density of particle).",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/106-134-1.png",
+      "B": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/106-134-2.png",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/106-134-3.png",
+      "D": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/106-134-4.png",
+      "Answer": "A"
+    },
+    {
+      "Number": 16,
+      "Question": "Velocity of a small particle of diameter 'Dp' at a distance 'r' from the rotational axis of a cyclone rotating at an angular speed 'ω' is given by (the other symbols are as per standard notation)",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/132-461-1.png",
+      "B": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/132-461-2.png",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/132-461-3.png",
+      "D": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/132-461-4.png",
+      "Answer": "D"
+    },
+    {
+      "Number": 17,
+      "Question": "In froth floatation, chemical agent added to cause air adherence is called",
+      "A": "collector",
+      "B": "frother",
+      "C": "modifier",
+      "D": "activator",
+      "Answer": "A"
+    },
+    {
+      "Number": 18,
+      "Question": "The sphericity of a solid particle of cubical shape is",
+      "A": "π",
+      "B": "(π/6)1/3",
+      "C": "(π/6)1/2",
+      "D": "π/3",
+      "Answer": "B"
+    },
+    {
+      "Number": 19,
+      "Question": "Vertical transportation of materials can be done by a/an",
+      "A": "apron conveyor",
+      "B": "pneumatic conveyor",
+      "C": "bucket elevator",
+      "D": "both(b)&(c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 20,
+      "Question": "In a roll crusher, the specific power consumption and the production rate is affected by the",
+      "A": "reduction ratio.",
+      "B": "differential roll speed.",
+      "C": "both (a) and (b).",
+      "D": "neither (a) nor (b).",
+      "Answer": "C"
+    },
+    {
+      "Number": 21,
+      "Question": "A cottrel precipitator makes use of the __________ for dusty air cleaning.",
+      "A": "electric spark",
+      "B": "corrona discharge",
+      "C": "alternating current",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 22,
+      "Question": "Pick out the correct statement.",
+      "A": "Plastic chips are called non-cohesive solids.",
+      "B": "Kick's crushing law is, P/m = K . ln https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/122-367-2.png",
+      "C": "Communition is a generic term for size enlargement operation",
+      "D": "Energy required in kwh per ton of product, such that 80% of it passes through a 200 mesh screen, is called 'Work index'.",
+      "Answer": "B"
+    },
+    {
+      "Number": 23,
+      "Question": "If radius of a batch basket centrifuge is halved & the r.p.m. is doubled, then the",
+      "A": "linear speed of the basket is doubled.",
+      "B": "linear speed of the basket is halved.",
+      "C": "centrifugal force is doubled.",
+      "D": "capacity of centrifuge is increased.",
+      "Answer": "C"
+    },
+    {
+      "Number": 24,
+      "Question": "The ratio of the area of openings in one screen (Taylor series) to that of the openings in the next smaller screen is",
+      "A": 1.5,
+      "B": 1,
+      "C": "sqrt 2",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 25,
+      "Question": "Compressibility co-efficient for an absolutely compressible cake is",
+      "A": 0,
+      "B": 1,
+      "C": "0 to 1",
+      "D": "∞",
+      "Answer": "B"
+    },
+    {
+      "Number": 26,
+      "Question": "Mixing of plastic solids is generally facilitated by",
+      "A": "dispersion",
+      "B": "mastication",
+      "C": "kneading",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 27,
+      "Question": "grinding element & the housing.",
+      "A": "grinding element & the housing.",
+      "B": "feed particles.",
+      "C": "both (a) and (b).",
+      "D": "neither (a) nor (b).",
+      "Answer": "C"
+    },
+    {
+      "Number": 28,
+      "Question": "Which of the following is not an industrial screening equipment ?",
+      "A": "Sharpies centrifuge",
+      "B": "Vibrating screen",
+      "C": "Grizzly",
+      "D": "Trommel",
+      "Answer": "A"
+    },
+    {
+      "Number": 29,
+      "Question": "Which of the following is not a wet classifier ?",
+      "A": "Sharpies supercentrifuge",
+      "B": "Hydrocyclones",
+      "C": "Dorr Oliver rake classifier",
+      "D": "None of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 30,
+      "Question": "Helical screw agitator is used for",
+      "A": "mixing highly viscous pastes.",
+      "B": "blending immiscible liquids.",
+      "C": "mixing liquids at very high temperature (> 250 °C).",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 31,
+      "Question": "For raschig rings, the sphericity is",
+      "A": 0.5,
+      "B": 1,
+      "C": "<1",
+      "D": "sqrt 3",
+      "Answer": "C"
+    },
+    {
+      "Number": 32,
+      "Question": "For Indian standard (IS) screens, the mesh number is equal to its aperture size expressed to the nearest deca-micron (0.01 mm). Aperture width of IS screen of mesh number 50 will be approximately __________ microns.",
+      "A": 5,
+      "B": 50,
+      "C": 500,
+      "D": 5000,
+      "Answer": "C"
+    },
+    {
+      "Number": 33,
+      "Question": "__________ mills are termed as disintegrators.",
+      "A": "Cage",
+      "B": "Compartment",
+      "C": "Pebble",
+      "D": "All tumbling",
+      "Answer": "A"
+    },
+    {
+      "Number": 34,
+      "Question": "Supporting legs of a plate and frame filter is normally made of",
+      "A": "stainless steel",
+      "B": "cast iron",
+      "C": "high speed steel",
+      "D": "wooden plank",
+      "Answer": "B"
+    },
+    {
+      "Number": 35,
+      "Question": "The cummulative mass fraction of particles smaller than size dj for a collection of Ni particles of diameter di and mass mi (i = 1, 2, 3, ...... ∞) is given by",
+      "A": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/136-492-1.png",
+      "B": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/136-492-2.png",
+      "C": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/136-492-3.png",
+      "D": "https://www.indiabix.com/_files/images/chemical-engineering/mechanical-operations/136-492-4.png",
+      "Answer": "B"
+    },
+    {
+      "Number": 36,
+      "Question": "Wet grinding in a revolving mill __________ as compared to dry grinding.",
+      "A": "gives less wear on chamber walls",
+      "B": "requires more energy",
+      "C": "increases capacity",
+      "D": "complicates handling of the product",
+      "Answer": "C"
+    },
+    {
+      "Number": 37,
+      "Question": "The grinding in a hammer crusher takes place due to the",
+      "A": "attrition",
+      "B": "impact",
+      "C": "both (a) & (b)",
+      "D": "neither (a) nor (b)",
+      "Answer": "C"
+    },
+    {
+      "Number": 38,
+      "Question": "A compressible cake has the",
+      "A": "maximum porosity at the upstream side.",
+      "B": "maximum porosity at the filter medium.",
+      "C": "same porosity throughout the cake thickness.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 39,
+      "Question": "Which of the following is not used as a filter medium in case of corrosive liquids ?",
+      "A": "Nylon",
+      "B": "Glass cloth",
+      "C": "Metal cloth of monel or stainless steel",
+      "D": "Cotton fabric",
+      "Answer": "D"
+    },
+    {
+      "Number": 40,
+      "Question": "In ball mill operation, the feed size (Df in meters) and the ball diameter (Db in metres) are related as ( where, K = grindability constant (varying from 0.9 to 1.4 in increasing order of hard ness))",
+      "A": "Db2 = K.Df",
+      "B": "Db = K.Df",
+      "C": "Db3 = K.Df",
+      "D": "Db2 = K.Df2",
+      "Answer": "A"
+    },
+    {
+      "Number": 41,
+      "Question": "Pine oil and cresylic acid are used as __________ in the froth floatation process.",
+      "A": "frother",
+      "B": "collector",
+      "C": "depressor",
+      "D": "conditioner",
+      "Answer": "A"
+    },
+    {
+      "Number": 42,
+      "Question": "Grinding characteristic of a material is given by its",
+      "A": "HGI",
+      "B": "angle of repose",
+      "C": "shatter index",
+      "D": "abrasion index.",
+      "Answer": "A"
+    },
+    {
+      "Number": 43,
+      "Question": "Which of the following is not a non-metalliferous mineral?",
+      "A": "Calcite",
+      "B": "Fluorspar",
+      "C": "Quartz",
+      "D": "Cassiterrite",
+      "Answer": "D"
+    },
+    {
+      "Number": 44,
+      "Question": "Filter medium resistance is important during the __________ of filtration.",
+      "A": "early stages.",
+      "B": "final stages.",
+      "C": "entire process.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 45,
+      "Question": "Float and sink test determines the possibility of cleaning of coal by a process based on the",
+      "A": "gravity separation",
+      "B": "wettability",
+      "C": "particle shape",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 46,
+      "Question": "__________ baffles are provided in ball mills.",
+      "A": "Horizontal",
+      "B": "No",
+      "C": "Only two",
+      "D": "None of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 47,
+      "Question": "Mixer used for rubber compounding is",
+      "A": "mixer-extruder",
+      "B": "banbury internal mixer",
+      "C": "muller mixer",
+      "D": "pug mill",
+      "Answer": "B"
+    },
+    {
+      "Number": 48,
+      "Question": "For spheres, the specific surface shape factor is given by",
+      "A": "AD/V",
+      "B": "D/V",
+      "C": "A/V",
+      "D": "sqrt AD/V",
+      "Answer": "A"
+    },
+    {
+      "Number": 49,
+      "Question": "__________ mill is not used for grinding wheat into flour and for milling of cereals & other vegetable products.",
+      "A": "Buhrstone",
+      "B": "Roller",
+      "C": "Attrition",
+      "D": "Pebble",
+      "Answer": "D"
+    },
+    {
+      "Number": 50,
+      "Question": "In case of a hammer crusher, the final product size depends on the",
+      "A": "feed rate.",
+      "B": "rotor speed.",
+      "C": "clearance between hammer & grinding plates.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    }
+  ],
+  "Section 9": [
+    {
+      "Number": 1,
+      "Question": "Sphericity of raschig ring (whose length and diameter are equal) is",
+      "A": ">1",
+      "B": "<1",
+      "C": 1,
+      "D": 2,
+      "Answer": "C"
+    },
+    {
+      "Number": 2,
+      "Question": "Mixing mechanism employed in a pan mixer is by",
+      "A": "mulling",
+      "B": "kneading",
+      "C": "dispersion",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "Chance process is used for the",
+      "A": "cleaning of coal.",
+      "B": "concentration of iron ore.",
+      "C": "concentration of pyrites.",
+      "D": "water treatment",
+      "Answer": "A"
+    },
+    {
+      "Number": 4,
+      "Question": "Which of the following screens has the maximum capacity ?",
+      "A": "Grizzlies",
+      "B": "Trommels",
+      "C": "Shaking screen",
+      "D": "Vibrating screen",
+      "Answer": "D"
+    },
+    {
+      "Number": 5,
+      "Question": "Stamp mills are generally used for crushing",
+      "A": "iron ores",
+      "B": "gold ores",
+      "C": "talc",
+      "D": "diamond",
+      "Answer": "B"
+    },
+    {
+      "Number": 6,
+      "Question": "In case of a plate and frame filter press, filtrate flow through the cake follows __________ flow.",
+      "A": "plug",
+      "B": "turbulent",
+      "C": "laminar",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 7,
+      "Question": "Which of the following is a batch sedimentation equipment ?",
+      "A": "Dust catcher",
+      "B": "Filter thickener",
+      "C": "Dry cyclone separator",
+      "D": "Rotary sprayer scrubber.",
+      "Answer": "B"
+    },
+    {
+      "Number": 8,
+      "Question": "The most suitable equipment for the transportation of 200 mesh size particles is a",
+      "A": "bucket elevator",
+      "B": "pneumatic conveyor",
+      "C": "screw conveyor",
+      "D": "belt conveyor",
+      "Answer": "B"
+    },
+    {
+      "Number": 9,
+      "Question": "Which of the following is not used as filter aid?",
+      "A": "Asbestos",
+      "B": "Diatomaceous earth",
+      "C": "Purified wood cellulose",
+      "D": "Rice husk",
+      "Answer": "D"
+    },
+    {
+      "Number": 10,
+      "Question": "Raw materials are charged in the iron blast furnace using",
+      "A": "bucket elevator",
+      "B": "skip hoist",
+      "C": "screw conveyor",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 11,
+      "Question": "Pebble mills are tumbling mills widely used for grinding in the manufacture of paints & pigments and cosmetic industries, where iron contamination in the product is highly objectionable. Pebbles used in pebble mill are made of",
+      "A": "bronze",
+      "B": "stainless steel",
+      "C": "flint or porcelain",
+      "D": "concrete",
+      "Answer": "C"
+    },
+    {
+      "Number": 12,
+      "Question": "Filter aids like asbestos, kieselguhr, diatomaceous earth etc. are used to increase the porosity of the final filter cake & reducing the cake resistance during filtration. Filter aid is",
+      "A": "added to the feed slurry.",
+      "B": "precoated on the filter medium prior to filtration.",
+      "C": "separated from the cake by dissolving solids or by burning it off.",
+      "D": "all 'a', 'b'&'c'.",
+      "Answer": "D"
+    },
+    {
+      "Number": 13,
+      "Question": "Which of the following relationships between co-efficinet of friction (μ) between rock & roll and a (half of the angle of nip) of the particle to be crushed is correct ?",
+      "A": "μ > tan α",
+      "B": "μ ≥ tan α",
+      "C": "μ > tan 2α",
+      "D": "μ ≤ tan α",
+      "Answer": "B"
+    },
+    {
+      "Number": 14,
+      "Question": "Pick out the wrong statement pertaining to the roll crushers.",
+      "A": "Maximum feed size determines the required roll diameter.",
+      "B": "For hard material's crushing, the reduction ratio should not exceed 4.",
+      "C": "Both the rolls run necessarily at the same speed.",
+      "D": "Reduction ratio and differential roll speed affect production rate & energy consumed per unit of surface produced.",
+      "Answer": "C"
+    },
+    {
+      "Number": 15,
+      "Question": "Which of the following is not an ultrafine grinder (colloid mill)?",
+      "A": "Micronizers",
+      "B": "Agitated mills and fluid energy mills",
+      "C": "Toothed roll crusher",
+      "D": "Hammer mills with internal classification",
+      "Answer": "C"
+    },
+    {
+      "Number": 16,
+      "Question": "Two particles are called to be equal settling, if they are having the same.",
+      "A": "size.",
+      "B": "specific gravity.",
+      "C": "terminal velocities in the same fluid & in the same field of force.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 17,
+      "Question": "Which of the following is the most suitable for handling fibrous and dense slurries ?",
+      "A": "Propeller agitator",
+      "B": "Cone type agitator",
+      "C": "Turbine agitator",
+      "D": "Radial propeller agitator",
+      "Answer": "B"
+    },
+    {
+      "Number": 18,
+      "Question": "__________ centrifuge is normally used in sugar mills.",
+      "A": "Tubular bowl",
+      "B": "Disc-bowl",
+      "C": "Turbine agitator",
+      "D": "Perforated horizontal basket continuous",
+      "Answer": "C"
+    },
+    {
+      "Number": 19,
+      "Question": "Solid particles separation based on the difference in their flow velocities through fluids is termed as the",
+      "A": "clarification",
+      "B": "classification",
+      "C": "elutriation",
+      "D": "sedimentation",
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "Diatomaceous earth is a/an",
+      "A": "explosive",
+      "B": "filter aid",
+      "C": "filter medium",
+      "D": "catalyst",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "The distribution given by microscopic analysis of powder is",
+      "A": "number",
+      "B": "length",
+      "C": "area",
+      "D": "volume",
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "Number of particles in a crushed solid sample is given by (where, m = mass of particles in a sample, Vp = volume of one particle, ρ= density of particles)",
+      "A": "m/ρ . Vp",
+      "B": "m. ρ/V",
+      "C": "m . Vp/ρ",
+      "D": "Vp/m . ρ",
+      "Answer": "A"
+    },
+    {
+      "Number": 23,
+      "Question": "For a non-spherical particle, the sphericity",
+      "A": "is defined as the ratio of surface area of a sphere having the same volume as the particle to the actual surface area of the particle.",
+      "B": "has the dimension of length.",
+      "C": "is always less than 1.",
+      "D": "is the ratio of volume of a sphere having the same surface area as the particle to the actual volume of the particle.",
+      "Answer": "A"
+    },
+    {
+      "Number": 24,
+      "Question": "In washing type plate and frame filter press, the ratio of washing rate to the final filtrate rate is",
+      "A": 4,
+      "B": 45295,
+      "C": 1,
+      "D": 45293,
+      "Answer": "B"
+    },
+    {
+      "Number": 25,
+      "Question": "Ball mills and tube mills with flint or porcelain balls are used for size reduction of",
+      "A": "asbestos",
+      "B": "rubber",
+      "C": "non-metallic ores",
+      "D": "limestone",
+      "Answer": "C"
+    },
+    {
+      "Number": 26,
+      "Question": "Size reduction of __________ is accomplished in steam heated rollers and roll crushers.",
+      "A": "resins",
+      "B": "gums",
+      "C": "hard rubber",
+      "D": "waxes",
+      "Answer": "C"
+    },
+    {
+      "Number": 27,
+      "Question": "The capacity of a belt conveyor depends upon two factors. If one is the cross-section of the load, the other is the __________ of the belt.",
+      "A": "speed",
+      "B": "thickness",
+      "C": "length",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 28,
+      "Question": "Which of the following is not a part of the Blake jaw crusher?",
+      "A": "Hanger",
+      "B": "Check plates",
+      "C": "Toggles",
+      "D": "Pitman",
+      "Answer": "A"
+    },
+    {
+      "Number": 29,
+      "Question": "If a force greater than that of gravity is used to separate solids & fluids of different densities, the process is termed as the",
+      "A": "sedimentation",
+      "B": "flocculation",
+      "C": "dispersion",
+      "D": "centrifugation",
+      "Answer": "D"
+    },
+    {
+      "Number": 30,
+      "Question": "Filter aid is used to",
+      "A": "increase the rate of filtration.",
+      "B": "decrease the pressure drop.",
+      "C": "increase the porosity of the cake.",
+      "D": "act as a support base for the septum.",
+      "Answer": "C"
+    },
+    {
+      "Number": 31,
+      "Question": "Which of the following mineral dressing operations is termed as 'comminution'?",
+      "A": "Panning",
+      "B": "Spiralling",
+      "C": "Tabling",
+      "D": "None of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 32,
+      "Question": "The capacity of a pneumatic conveying system depends upon the",
+      "A": "bulk density of materials.",
+      "B": "pressure of the conveying air.",
+      "C": "diameter of the conveying line.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 33,
+      "Question": "Pick out the wrong statement.",
+      "A": "Close circuit grinding is more economical than open circuit grinding.",
+      "B": "od oil, beef tallow or aluminium stearates are used as grinding aids in cement 'industries'.",
+      "C": "The equipment used for the removal of traces of solids from a liquid is called a classifier.",
+      "D": "Size enlargement is a mechanical operation exemplified by medicinal tablet making.",
+      "Answer": "C"
+    },
+    {
+      "Number": 34,
+      "Question": "Gravity settling process is not involved in the working of a",
+      "A": "hydrocyclone",
+      "B": "classifier",
+      "C": "dorr-thickener",
+      "D": "sedimentation tank",
+      "Answer": "A"
+    },
+    {
+      "Number": 35,
+      "Question": "Froth floatation is the most suitable for treating",
+      "A": "iron ores",
+      "B": "sulphide ores",
+      "C": "quartzite",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 36,
+      "Question": "The energy required per unit mass to grind limestone particles of very large size to 100 μm is 12.7 kWh/ton. An estimate (using Bond's law) of the energy to grind the particles from a very large size to 50 μrn is",
+      "A": "6.35 kWh/ton",
+      "B": "9.0 kWh/ton",
+      "C": "18 kWh/ton",
+      "D": "25.4 kWh/ton",
+      "Answer": "C"
+    },
+    {
+      "Number": 37,
+      "Question": "Which of the following is the most suitable for cleaning of fine coal dust (<0.5 mm) ?",
+      "A": "Trough washer",
+      "B": "Baum jig washer",
+      "C": "Spiral separator",
+      "D": "Froth floatation",
+      "Answer": "D"
+    },
+    {
+      "Number": 38,
+      "Question": "Pick out the correct statement:",
+      "A": "Removal of iron from ceramic material is necessitated (by magnetic separation method) so as to avoid discolouration of ceramic products.",
+      "B": "The operating cost of shaking screen is more than that of a vibrating screen.",
+      "C": "Screen capacity does not depend upon the specific gravity of the minerals.",
+      "D": "Asphalt is best crushed using toothed roll crusher.",
+      "Answer": "A"
+    },
+    {
+      "Number": 39,
+      "Question": "Range of compressibility co-efficient of the commercial compressible cake obtained in filtration operation is",
+      "A": "0.01 to 0.1",
+      "B": "0.1 to 0.3",
+      "C": "0.2 to 0.8",
+      "D": "0.2 to 0.4",
+      "Answer": "C"
+    },
+    {
+      "Number": 40,
+      "Question": "Highly viscous liquids & pastes are agitated by",
+      "A": "propellers",
+      "B": "turbine agitators",
+      "C": "multiple blade paddles",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 41,
+      "Question": "The value of 'angle of nip' is generally about",
+      "A": "16°",
+      "B": "32°",
+      "C": "52°",
+      "D": "64°",
+      "Answer": "B"
+    },
+    {
+      "Number": 42,
+      "Question": "Size reduction of the __________ can be suitably done by ball mills, crushing rolls and rod mills.",
+      "A": "metalliferrous ores",
+      "B": "non-metallic ores",
+      "C": "basic slags",
+      "D": "asbestos & mica",
+      "Answer": "A"
+    },
+    {
+      "Number": 43,
+      "Question": "Sulphuric acid mist is arrested by using a __________ scrubber",
+      "A": "packed wet",
+      "B": "hollow wet",
+      "C": "venturi",
+      "D": "co-current",
+      "Answer": "C"
+    },
+    {
+      "Number": 44,
+      "Question": "The main size reduction operation in ultrafine grinders is",
+      "A": "cutting",
+      "B": "attrition",
+      "C": "compression",
+      "D": "impact",
+      "Answer": "B"
+    },
+    {
+      "Number": 45,
+      "Question": "In case of a hammer crusher,",
+      "A": "crushing takes place by impact breaking.",
+      "B": "maximum acceptable feed size is 30 cms.",
+      "C": "reduction ratio can be varied by adjusting the distance from cage to hammers.",
+      "D": "all (a), (b) and (c).",
+      "Answer": "D"
+    },
+    {
+      "Number": 46,
+      "Question": "Jigging is a technique by which different particles can be",
+      "A": "separated by particle size.",
+      "B": "separated by particle density.",
+      "C": "separated by particle shape.",
+      "D": "mixed",
+      "Answer": "A"
+    },
+    {
+      "Number": 47,
+      "Question": "Crushing of mineral particles is accomplished in a 'cage mill', when one or more alloy steel bars are revolved in opposite directions. It is a type of __________ mill.",
+      "A": "impact",
+      "B": "roll",
+      "C": "vibratory",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 48,
+      "Question": "Balls for ball mills are never made of",
+      "A": "forged/cast steel",
+      "B": "lead",
+      "C": "cast iron",
+      "D": "alloy steel",
+      "Answer": "B"
+    },
+    {
+      "Number": 49,
+      "Question": "200 mesh screen means 200 openings per",
+      "A": "cm2",
+      "B": "cm",
+      "C": "inch",
+      "D": "inch2",
+      "Answer": "C"
+    },
+    {
+      "Number": 50,
+      "Question": "__________ is the most commonly used 'filter aid'.",
+      "A": "Diatomaceous earth",
+      "B": "Fuller's earth",
+      "C": "Vermiculite",
+      "D": "Semi-plastic clay",
+      "Answer": "A"
+    }
+  ]
+}

@@ -1,0 +1,4389 @@
+{
+  "Section 1": [
+    {
+      "Number": 1,
+      "Question": "Maximum work that could be secured by expanding the gas over a given pressure range is the __________ work.",
+      "A": "isothermal",
+      "B": "adiabatic",
+      "C": "isentropic",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 2,
+      "Question": "Internal energy change of a system over one complete cycle in a cyclic process is",
+      "A": "zero",
+      "B": "+ve",
+      "C": "-ve",
+      "D": "dependent on the path",
+      "Answer": "A"
+    },
+    {
+      "Number": 3,
+      "Question": "Heating of water under atmospheric pressure is an __________ process.",
+      "A": "isochoric",
+      "B": "isobaric",
+      "C": "adiabatic",
+      "D": "isothermal",
+      "Answer": "B"
+    },
+    {
+      "Number": 4,
+      "Question": "Van Laar equation deals with the activity co-efficients in",
+      "A": "binary solutions",
+      "B": "ternary solutions",
+      "C": "azeotropic mixture only",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 5,
+      "Question": "High __________ is an undesirable property for a good refrigerant.",
+      "A": "specific heat",
+      "B": "latent heat of vaporisation",
+      "C": "viscosity",
+      "D": "specific vapor volume",
+      "Answer": "C"
+    },
+    {
+      "Number": 6,
+      "Question": "Solubility of a substance which dissolves with an increase in volume and liberation of heat will be favoured by the",
+      "A": "low pressure and high temperature.",
+      "B": "low pressure and low temperature.",
+      "C": "high pressure and low temperature.",
+      "D": "high pressure and high temperature.",
+      "Answer": "B"
+    },
+    {
+      "Number": 7,
+      "Question": "Entropy is a measure of the __________ of a system.",
+      "A": "disorder",
+      "B": "orderly behaviour",
+      "C": "temperature changes only",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 8,
+      "Question": "A chemical reaction will occur spontaneously at constant pressure and temperature, if the free energy is",
+      "A": "zero",
+      "B": "positive",
+      "C": "negative",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 9,
+      "Question": "Fundamental principle of refrigeration is based on the __________ law of thermodynamics.",
+      "A": "zeroth",
+      "B": "first",
+      "C": "second",
+      "D": "third",
+      "Answer": "C"
+    },
+    {
+      "Number": 10,
+      "Question": "For a spontaneous process, free energy",
+      "A": "is zero",
+      "B": "increases",
+      "C": "decreases whereas the entropy increases",
+      "D": "and entropy both decrease",
+      "Answer": "C"
+    },
+    {
+      "Number": 11,
+      "Question": "A refrigeration cycle is a reversed heat engine. Which of the following has the maximum value of the co-efficient of performance (COP) for a given refrigeration effect ?",
+      "A": "Vapor compression cycle using expansion valve.",
+      "B": "Air refrigeration cycle.",
+      "C": "Vapor compression cycle using expansion engine.",
+      "D": "Carnot refrigeration cycle.",
+      "Answer": "D"
+    },
+    {
+      "Number": 12,
+      "Question": "In a working refrigerator, the value of COP is always",
+      "A": 0,
+      "B": "< 0",
+      "C": "< 1",
+      "D": "> 1",
+      "Answer": "D"
+    },
+    {
+      "Number": 13,
+      "Question": "A refrigerator may be termed as a",
+      "A": "heat pump",
+      "B": "heat engine",
+      "C": "Carnot engine",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 14,
+      "Question": "For a stable phase at constant pressure and temperature, the fugacity of each component in a binary system __________ as its mole fraction increases.",
+      "A": "decreases",
+      "B": "increases",
+      "C": "remains same",
+      "D": "decreases linearly",
+      "Answer": "B"
+    },
+    {
+      "Number": 15,
+      "Question": "Which of the following is not an intensive property ?",
+      "A": "Chemical potential",
+      "B": "Surface tension",
+      "C": "Heat capacity",
+      "D": "None of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 16,
+      "Question": "Out of the following refrigration cycles, which one has the minimum COP (Co-efficient of performance)?",
+      "A": "Air cycle",
+      "B": "Carnot cycle",
+      "C": "Ordinary vapour compression cycle",
+      "D": "Vapour compression with a reversible expansion engine",
+      "Answer": "A"
+    },
+    {
+      "Number": 17,
+      "Question": "Measurement of thermodynamic property of temperature is facilitated by __________ law of thermodynamics.",
+      "A": "1st",
+      "B": "zeroth",
+      "C": "3rd",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 18,
+      "Question": "The theoretical minimum work required to separate one mole of a liquid mixture at 1 atm, containing 50 mole % each of n- heptane and n- octane into pure compounds each at 1 atm is",
+      "A": "-2 RT ln 0.5",
+      "B": "-RT ln 0.5",
+      "C": "0.5 RT",
+      "D": "2 RT",
+      "Answer": "B"
+    },
+    {
+      "Number": 19,
+      "Question": "Keeping the pressure constant, to double the volume of a given mass of an ideal gas at 27°C, the temperature should be raised to __________ °C.",
+      "A": 270,
+      "B": 327,
+      "C": 300,
+      "D": 540,
+      "Answer": "B"
+    },
+    {
+      "Number": 20,
+      "Question": "Isobaric process means a constant process.",
+      "A": "temperature",
+      "B": "pressure",
+      "C": "volume",
+      "D": "entropy",
+      "Answer": "B"
+    },
+    {
+      "Number": 21,
+      "Question": "No work is done by the system, when a reaction occurs at constant",
+      "A": "volume",
+      "B": "temperature",
+      "C": "pressure",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 22,
+      "Question": "If the vapour pressure at two temperatures of a solid phase in equilibrium with its liquid phase are known, then the latent heat of fusion can be calculated by the",
+      "A": "Maxwell's equation",
+      "B": "Clayperon-Claussius equation",
+      "C": "Van Laar equation",
+      "D": "Nernst Heat Theorem",
+      "Answer": "B"
+    },
+    {
+      "Number": 23,
+      "Question": "The freezing point of a liquid decreases when the pressure is increased, if the liquid __________ while freezing.",
+      "A": "contracts",
+      "B": "expands",
+      "C": "does not change in volume",
+      "D": "either (a), (b) or (c)",
+      "Answer": "A"
+    },
+    {
+      "Number": 24,
+      "Question": "\"At the absolute zero temperature, the entropy of every perfectly crystalline substance becomes zero\". This follows from the",
+      "A": "third law of thermodynamics",
+      "B": "second law of thermodynamics",
+      "C": "Nernst heat theorem",
+      "D": "Maxwell's relations",
+      "Answer": "A"
+    },
+    {
+      "Number": 25,
+      "Question": "During Joule-Thomson expansion of gases",
+      "A": "enthalpy remains constant.",
+      "B": "entropy remains constant.",
+      "C": "temperature remains constant.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 26,
+      "Question": "The accentric factor of a materical, 'ω', is defined as ω = -log10(Pr^sat)Tr^-1 = 0.7, where, Pr^sat = reduced vapor pressure, Tr = reduced temperature. The value of accentric factor is always",
+      "A": "> 2",
+      "B": "< 1",
+      "C": "> 1",
+      "D": "< 3",
+      "Answer": "B"
+    },
+    {
+      "Number": 27,
+      "Question": "Degress of freedom at triple point will be",
+      "A": 0,
+      "B": 1,
+      "C": 2,
+      "D": 3,
+      "Answer": "A"
+    },
+    {
+      "Number": 28,
+      "Question": "\"Law of corresponding states\" says that",
+      "A": ", two different gases behave similarly, if their reduced properties (i.e. P, V and T) are same.",
+      "B": "the surface of separation (i. e. the meniscus) between liquid and vapour phase disappears at the critical temperature.",
+      "C": "no gas can be liquified above the critical temperature, howsoever high the pressure may be.",
+      "D": "the molar heat of energy of gas at constant volume should be nearly constant (about 3 calories).",
+      "Answer": "A"
+    },
+    {
+      "Number": 29,
+      "Question": "Linde gas liquefaction process employs cooling",
+      "A": "by throttling",
+      "B": "by expansion in an engine",
+      "C": "at constant pressure",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 30,
+      "Question": "Pick out the wrong statement pertaining to the decomposition of PCl5 represented by, PCl5 ⇌ PCl3 + Cl2.Degree of dissociation of PCl5 will",
+      "A": "decrease on addition of Cl2.",
+      "B": "increase on addition of an inert gas at constant pressure.",
+      "C": "decrease on increasing the pressure of the system.",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 31,
+      "Question": "Boyle's law for gases states that",
+      "A": "(1) , when temperature is constant.",
+      "B": "(1) , when temperature & mass of the gas remain constant.",
+      "C": "P ∝ V, at constant temperature & mass of the gas.",
+      "D": "P/V = constant, for any gas.",
+      "Answer": "B"
+    },
+    {
+      "Number": 32,
+      "Question": "1st law of thermodynamics is nothing but the law of conservation of",
+      "A": "momentum",
+      "B": "mass",
+      "C": "energy",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 33,
+      "Question": "In a reversible chemical reaction (where, Δx = number of moles of products-number of moles of reactants )",
+      "A": "addition of inert gas favours the forward reaction, when Δx is positive.",
+      "B": "pressure has no effect on equilibrium, when Δn = 0.",
+      "C": "addition of inert gas has no effect on the equilibrium constant at constant volume for any value of Δx (+ ve, - ve) or zero).",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 34,
+      "Question": "Out of the following refrigeration cycles, which one has maximum COP ?",
+      "A": "Air cycle",
+      "B": "Carnot cycle",
+      "C": "Ordinary vapor compression cycle",
+      "D": "Vapor compression with a reversible expansion engine",
+      "Answer": "B"
+    },
+    {
+      "Number": 35,
+      "Question": "Pick out the correct statement:",
+      "A": "In an isothermal system, irreversible work is more than reversible work.",
+      "B": "Under reversible conditions, the adiabatic work is less than isothermal work.",
+      "C": "Heat, work, enthalpy and entropy are all 'state functions'.",
+      "D": "Matter and energy can not be exchanged with the surroundings in a closed system.",
+      "Answer": "B"
+    },
+    {
+      "Number": 36,
+      "Question": "In any spontaneous process,",
+      "A": "only F decreases",
+      "B": "only A decreases",
+      "C": "both F and A decreases",
+      "D": "both F and A increase",
+      "Answer": "C"
+    },
+    {
+      "Number": 37,
+      "Question": "Which of the following is a thermodynamic property of a  system ?",
+      "A": "Concentration",
+      "B": "Mass",
+      "C": "Temperature",
+      "D": "Entropy",
+      "Answer": "D"
+    },
+    {
+      "Number": 38,
+      "Question": "Equilibrium constant decreases as the temperature",
+      "A": "increases, for an exothermic reaction.",
+      "B": "decreases, for an exothermic reaction.",
+      "C": "increases, for an endothermic reaction.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 39,
+      "Question": "The expression, (1) , gives the free energy change",
+      "A": "with pressure changes at constant temperature.",
+      "B": "under reversible isothermal volume change.",
+      "C": "during heating of an ideal gas.",
+      "D": "during cooling of an ideal gas.",
+      "Answer": "A"
+    },
+    {
+      "Number": 40,
+      "Question": "All gases during throttling process at atmospheric temperature and pressure show a cooling effect except",
+      "A": "CO2",
+      "B": "H2",
+      "C": "O2",
+      "D": "N2",
+      "Answer": "B"
+    },
+    {
+      "Number": 41,
+      "Question": "Compressibility factor for almost all the gases are approximately same at the same",
+      "A": "pressure and temperature.",
+      "B": "reduced pressure and reduced temperature.",
+      "C": "critical pressure and critical temperature.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 42,
+      "Question": "Pick out the wrong statement.",
+      "A": "Activity co-efficient is dimensionless.",
+      "B": "In case of an ideal gas, the fagacity is equal to its pressure.",
+      "C": "In a mixture of ideal gases, the fugacity of a component is equal to the partial pressure of the component.",
+      "D": "The fugacity co-efficient is zero for an ideal gas.",
+      "Answer": "D"
+    },
+    {
+      "Number": 43,
+      "Question": "The co-efficient of performance (COP) of a refrigerating system, which is its index of performance, is defined as the ratio of useful refrigeration to the net work. The units of __________ and COP are the same.",
+      "A": "kinematic viscosity",
+      "B": "work",
+      "C": "temperature",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 44,
+      "Question": "The chemical potential of a component (μi) of a phase is the amount by which its capacity for doing all work, barring work of expansion is increased per unit amount of sustance added for an infinitesimal addition at constant temperature and pressure. It is given by",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 45,
+      "Question": "In jet refrigerators, the refrigerating fluid is practically always",
+      "A": "water",
+      "B": "ammonia",
+      "C": "freon",
+      "D": "brine",
+      "Answer": "A"
+    },
+    {
+      "Number": 46,
+      "Question": "Water on heating from 1 to 4°C",
+      "A": "contracts",
+      "B": "expands",
+      "C": "has same volume",
+      "D": "may contract or expand",
+      "Answer": "A"
+    },
+    {
+      "Number": 47,
+      "Question": "Pick out the correct statement.",
+      "A": "Compression ratio of an Otto engine is comparatively higher than a diesel engine.",
+      "B": "Efficiency of an Otto engine is higher than that of a diesel engine for the same compression ratio.",
+      "C": "Otto engine efficiency decreases with the rise in compression ratio, due to decrease in work produced per quantity of heat.",
+      "D": "Diesel engine normally operates at lower compression ratio than an Otto engine for an equal output of work.",
+      "Answer": "B"
+    },
+    {
+      "Number": 48,
+      "Question": "When pressure is applied on the system, ice<---->water, then",
+      "A": "equilibrium can not be established.",
+      "B": "more ice will be formed.",
+      "C": "more water will be formed.",
+      "D": "evaporation of water will take place.",
+      "Answer": "C"
+    },
+    {
+      "Number": 49,
+      "Question": "Partial molar free energy of an element A in solution is same as its",
+      "A": "chemical potential",
+      "B": "activity",
+      "C": "fugacity",
+      "D": "activity co-efficient",
+      "Answer": "A"
+    },
+    {
+      "Number": 50,
+      "Question": "Free energy change at equilibrium is",
+      "A": "zero",
+      "B": "positive",
+      "C": "negative",
+      "D": "indeterminate",
+      "Answer": "A"
+    },
+    {
+      "Number": 51,
+      "Question": "The temperature at which both liquid and gas phases are identical, is called the __________ point.",
+      "A": "critical",
+      "B": "triple",
+      "C": "freezing",
+      "D": "boiling",
+      "Answer": "A"
+    },
+    {
+      "Number": 52,
+      "Question": "What is the value of ln y (where y = activity co-efficient) for ideal gases ?",
+      "A": "Zero",
+      "B": "Unity",
+      "C": "Infinity",
+      "D": "Negative",
+      "Answer": "A"
+    },
+    {
+      "Number": 53,
+      "Question": "A closed system is cooled reversibly from 100°C to 50°C. If no work is done on the system",
+      "A": "its internal energy (U) decreases and its entropy (S) increases.",
+      "B": "U and S both decreases",
+      "C": "U decreases but S is constant.",
+      "D": "U is constant but S decreases.",
+      "Answer": "B"
+    },
+    {
+      "Number": 54,
+      "Question": "Which is not a refrigerant ?",
+      "A": "SO2",
+      "B": "NH3",
+      "C": "CCl2F2",
+      "D": "C2H4Cl2",
+      "Answer": "D"
+    },
+    {
+      "Number": 55,
+      "Question": "The partial pressure of each constituent present in an alloy is __________ the total vapor pressure exerted by the alloy.",
+      "A": "less than",
+      "B": "equal to",
+      "C": "more than",
+      "D": "either (b) or (c); depends on the type of alloy",
+      "Answer": "A"
+    },
+    {
+      "Number": 56,
+      "Question": "The four properties of a system viz. P, V, T, S are related by __________ equation.",
+      "A": "Gibbs-Duhem",
+      "B": "Gibbs-Helmholtz",
+      "C": "Maxwell's",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 57,
+      "Question": "If the pressure on 100 c.c. of air is halved, then its volume (at the same temperature) would be __________ c.c.",
+      "A": 100,
+      "B": 50,
+      "C": 205,
+      "D": 200,
+      "Answer": "D"
+    },
+    {
+      "Number": 58,
+      "Question": "Pick out the wrong statement.",
+      "A": "Cp of monoatomic gases such as metallic vapor is about 5 kcal/kg.atom.",
+      "B": "The heat capacity of solid inorganic substance is exactly equal to the heat capacity of the substance in the molten state.",
+      "C": "There is an increase in entropy, when a spontaneous change occurs in an isolated system.",
+      "D": "At absolute zero temperature, the heat capacity for many pure crystalline substances is zero.",
+      "Answer": "B"
+    },
+    {
+      "Number": 59,
+      "Question": "The number of degrees of freedom for an azeotropic mixture in a two component vapour-liquid equilibria is/are",
+      "A": "zero",
+      "B": "one",
+      "C": "two",
+      "D": "three",
+      "Answer": "B"
+    },
+    {
+      "Number": 60,
+      "Question": "Any substance above its critical temperature exists as",
+      "A": "saturated vapour",
+      "B": "solid",
+      "C": "gas",
+      "D": "liquid",
+      "Answer": "C"
+    },
+    {
+      "Number": 61,
+      "Question": "Which of the following decreases with increase in pressure ?",
+      "A": "Melting point of ice",
+      "B": "Melting point of wax",
+      "C": "Boiling point of liquids",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 62,
+      "Question": "Isentropic process means a constant __________ process.",
+      "A": "enthalpy",
+      "B": "pressure",
+      "C": "entropy .",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 63,
+      "Question": "(1) is the mathematical expression",
+      "A": "Joule-Thomson co-efficient.",
+      "B": "specific heat at constant pressure (Cp).",
+      "C": "co-efficient of thermal expansion.",
+      "D": "specific heat at constant volume (CV).",
+      "Answer": "C"
+    },
+    {
+      "Number": 64,
+      "Question": "In case of steady flow compression polytropic   process (PVn = constant), the work done on air is the lowest, when",
+      "A": "n = y = 1.4",
+      "B": "n = 0",
+      "C": "n = 1",
+      "D": "n  = 1.66",
+      "Answer": "C"
+    },
+    {
+      "Number": 65,
+      "Question": "A liquid under pressure greater than its vapour pressure for the temperature involved is called a __________ liquid.",
+      "A": "subcooled",
+      "B": "saturated",
+      "C": "non-solidifiable",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 66,
+      "Question": "For a real gas, the chemical potential is given by",
+      "A": "RT dlnP",
+      "B": "RT dlnf",
+      "C": "R dlnf",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 67,
+      "Question": "At absolute zero temperature, all substances have the same",
+      "A": "heat capacity",
+      "B": "crystalline structure",
+      "C": "entropy",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 68,
+      "Question": "Lowering of condenser temperature (keeping the evaporator temperature constant) in case of vapour compression refrigeration system results in",
+      "A": "increased COP.",
+      "B": "same COP.",
+      "C": "decreased COP.",
+      "D": "increased or decreased COP ; depending upon the type of refrigerant.",
+      "Answer": "A"
+    },
+    {
+      "Number": 69,
+      "Question": "Pick out the correct statement.",
+      "A": "If an insoluble gas is passed through a volatile liquid placed in a perfectly insulated container, the temperature of the liquid will increase.",
+      "B": "A process is irreversible as long as Δ S for the system is greater than zero.",
+      "C": "The mechanical work done by a system is always equal to P.dV.",
+      "D": "The heat of formation of a compound is defined as the heat of reaction leading to the formation of the compound from its reactants.",
+      "Answer": "D"
+    },
+    {
+      "Number": 70,
+      "Question": "Grams of butane (C4H10) formed by the liquefaction of 448 litres of the gas (measured at (STP) would be",
+      "A": 580,
+      "B": 640,
+      "C": 1160,
+      "D": "data insufficient; can't be computed",
+      "Answer": "C"
+    },
+    {
+      "Number": 71,
+      "Question": "The thermodynamic law, PVy = constant, is not applicable in case of",
+      "A": "ideal compression of air.",
+      "B": "free expansion of an ideal gas.",
+      "C": "adiabatic expansion of steam in a turbine.",
+      "D": "adiabatic compression of a perfect gas.",
+      "Answer": "B"
+    },
+    {
+      "Number": 72,
+      "Question": "Mollier diagram is a plot of",
+      "A": "temperature vs. enthalpy",
+      "B": "temperature vs. enthalpy",
+      "C": "entropy vs. enthalpy",
+      "D": "temperature vs. internal energy",
+      "Answer": "C"
+    },
+    {
+      "Number": 73,
+      "Question": "is the mathematical expression for",
+      "A": "CV",
+      "B": "enthalpy change",
+      "C": "free energy change",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 74,
+      "Question": "The activity of an ideal gas is numerically __________ its pressure.",
+      "A": "more than",
+      "B": "less than",
+      "C": "equal to",
+      "D": "data insufficient, can't be predicted",
+      "Answer": "C"
+    },
+    {
+      "Number": 75,
+      "Question": "Specific heat of a gas for a reversible adiabatic process is",
+      "A": "negative",
+      "B": "zero",
+      "C": "infinity",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 76,
+      "Question": "When a gas in a vessel expands, its internal energy decreases. The process involved is",
+      "A": "reversible",
+      "B": "irreversible",
+      "C": "isothermal",
+      "D": "adiabatic",
+      "Answer": "A"
+    },
+    {
+      "Number": 77,
+      "Question": "A system is said to be isopiestic, if there is no __________ change.",
+      "A": "temperature",
+      "B": "pressure",
+      "C": "volume",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 78,
+      "Question": "In a turbine, the fluid expands almost",
+      "A": "isothermally",
+      "B": "isobarically",
+      "C": "adiabatically",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 79,
+      "Question": "The unity of Planck's constant 'h' in the equation, E = hv is",
+      "A": "J/s",
+      "B": "J.S",
+      "C": "J/kmol",
+      "D": "kmol/J",
+      "Answer": "B"
+    },
+    {
+      "Number": 80,
+      "Question": "Specific/molar Gibbs free energy for a pure substance does not change during",
+      "A": "sublimation",
+      "B": "vaporisation",
+      "C": "melting",
+      "D": "either (a), (b) or (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 81,
+      "Question": "Refrigeration capacity of a household refrigerator may be round about __________ tons.",
+      "A": 0.15,
+      "B": 1.5,
+      "C": 4.5,
+      "D": 6.5,
+      "Answer": "A"
+    },
+    {
+      "Number": 82,
+      "Question": "(1) is the mathematical expression for",
+      "A": "CV",
+      "B": "entropy change",
+      "C": "Gibbs free energy",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 83,
+      "Question": "An ideal gas is taken around the cycle ABCA as shown in P-V diagram below :The work done by the gas during the cycle is equal to",
+      "A": "12 P1V1",
+      "B": "6 P1 V1",
+      "C": "3 P1V1",
+      "D": "P1 V1",
+      "Answer": "C"
+    },
+    {
+      "Number": 84,
+      "Question": "In polytropic process (PVn = constant), if n = 1; it means a/an __________ process.",
+      "A": "adiabatic",
+      "B": "reversible",
+      "C": "isothermal",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 85,
+      "Question": "The melting point of paraffin wax (which contracts on solidification) __________ with pressure rise.",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains unchanged",
+      "D": "decreases linearly",
+      "Answer": "A"
+    },
+    {
+      "Number": 86,
+      "Question": "Co-efficient of Performance (COP) of a refrigerator is the ratio of the",
+      "A": "work required to refrigeration obtained.",
+      "B": "refrigeration obtained to the work required.",
+      "C": "lower to higher temperature.",
+      "D": "higher to lower temperature.",
+      "Answer": "B"
+    },
+    {
+      "Number": 87,
+      "Question": "A solid metallic block weighing 5 kg has an initial temperature of 500°C. 40 kg of water initially at 25°C is contained in a perfectly insulated tank. The metallic block is brought into contact with water. Both of them come to equilibrium. Specific heat of block material is 0.4 kJ.kg^-1. K^-1. Ignoring the effect of expansion and contraction and also the heat capacity to tank, the total entropy change in kJ.kg^-1 , K^-1   is",
+      "A": -1.87,
+      "B": 0,
+      "C": 1.26,
+      "D": 3.91,
+      "Answer": "B"
+    },
+    {
+      "Number": 88,
+      "Question": "dW and dq are not the exact differential, because q and W are",
+      "A": "state functions",
+      "B": "path functions",
+      "C": "intensive properties",
+      "D": "extensive properties",
+      "Answer": "B"
+    },
+    {
+      "Number": 89,
+      "Question": "Activity co-efficient is a measure of the",
+      "A": "departure from ideal solution behaviour.",
+      "B": "departure of gas phase from idea] gas law.",
+      "C": "vapour pressure of liquid.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 90,
+      "Question": "While dissolving a gas into a liquid at a constant temperature, the ratio of the concentration of the gas in the solution phase and in the gaseous phase is",
+      "A": "infinity",
+      "B": "unity",
+      "C": "constant",
+      "D": "negative",
+      "Answer": "C"
+    },
+    {
+      "Number": 91,
+      "Question": "Which of the following units is not present in both the vapor compression refrigeration system and absorption refrigeration system ?",
+      "A": "Expansion valve",
+      "B": "Condenser",
+      "C": "Refrigerator",
+      "D": "Compressor",
+      "Answer": "D"
+    },
+    {
+      "Number": 92,
+      "Question": "For an isothermal reversible compression of an ideal gas",
+      "A": "only ΔE = 0",
+      "B": "only ΔH =0",
+      "C": "ΔE = ΔH = 0",
+      "D": "dQ = dE",
+      "Answer": "C"
+    },
+    {
+      "Number": 93,
+      "Question": "Melting of ice exemplifies a/an",
+      "A": "adiabatic process.",
+      "B": "endothermic reaction.",
+      "C": "exothermic reaction.",
+      "D": "process involving a chemical reaction.",
+      "Answer": "B"
+    },
+    {
+      "Number": 94,
+      "Question": "A refrigeration cycle is the same as a __________ cycle,",
+      "A": "turbine",
+      "B": "heat engine",
+      "C": "reversed heat engine",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 95,
+      "Question": "At __________ point, all the three phases (i.e.solid, liquid and gas) co-exist.",
+      "A": "eutcetic",
+      "B": "triple",
+      "C": "plait",
+      "D": "critical",
+      "Answer": "B"
+    },
+    {
+      "Number": 96,
+      "Question": "Kopp's rule is used to calculate the heat capacity of",
+      "A": "solids",
+      "B": "liquids",
+      "C": "gases",
+      "D": "all of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 97,
+      "Question": "__________ explains the equilibrium constant for any chemical reaction.",
+      "A": "Henry's law",
+      "B": "Law of mass action",
+      "C": "Hess's law",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 98,
+      "Question": "Which of the following is not a reversible process ?",
+      "A": "Expansion of an ideal gas against constant pressure.",
+      "B": "Atmospheric pressure vaporisation of water at 100°C.",
+      "C": "Solution of NaCl in water at 50°C.",
+      "D": "None of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 99,
+      "Question": "Pick out the wrong statement.",
+      "A": "A closed system does not permit exchange of mass with its surroundings but may permit exchange of energy.",
+      "B": "An open system permits exchange of both mass and energy with its surroundings.",
+      "C": "The term microstate is used to characterise an individual, whereas macro-state is used to designate a group of micro-states with common characteristics.",
+      "D": "none of the above.",
+      "Answer": "D"
+    },
+    {
+      "Number": 100,
+      "Question": "Which of the following exemplifies an adiabatic process ?",
+      "A": "Melting of ice.",
+      "B": "Condensation of alcohol vapor.",
+      "C": "Sudden bursting of a cycle tube.",
+      "D": "Evaporation of water.",
+      "Answer": "C"
+    }
+  ],
+  "Section 2": [
+    {
+      "Number": 101,
+      "Question": "Entropy, which is a measure of the disorder of a system is",
+      "A": "independent of pressure.",
+      "B": "independent of temperature.",
+      "C": "zero at absolute zero temperature for a perfect crystalline substance.",
+      "D": "all of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 102,
+      "Question": "Critical temperature is defined as the temperature above which a gas will",
+      "A": "not liquify (barring exceptions).",
+      "B": "immediately liquify.",
+      "C": "never liquify however high the pressure may be.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 103,
+      "Question": "The standard Gibbs free energy change of a reaction depends on the equilibrium",
+      "A": "pressure",
+      "B": "temperature",
+      "C": "composition",
+      "D": "all of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 104,
+      "Question": "Gibbs-Duhem equation relates composition in liquid phase and the __________ at constant temperature & pressure.",
+      "A": "fugacity",
+      "B": "partial pressure",
+      "C": "activity co-efficient",
+      "D": "(a), (b), and (c)",
+      "Answer": "D"
+    },
+    {
+      "Number": 105,
+      "Question": "In an ideal solution, the activity of a component equals its",
+      "A": "mole fraction.",
+      "B": "fugacity at the same temperature and pressure.",
+      "C": "partial pressure.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 106,
+      "Question": "A gas has a volume of 27.3 c.c. at 0°C. Its volume at 10°C (if pressure remains unchanged) will be __________ c.c.",
+      "A": 2.73,
+      "B": 28.3,
+      "C": 273,
+      "D": 283,
+      "Answer": "B"
+    },
+    {
+      "Number": 107,
+      "Question": "Clayperon equation deals with the",
+      "A": "rate of change of vapour pressure with temperature.",
+      "B": "effect of an inert gas on vapour pressure.",
+      "C": "calculation of ΔF  for spontaneous phase change.",
+      "D": "temperature dependence of heat of phase transition.",
+      "Answer": "A"
+    },
+    {
+      "Number": 108,
+      "Question": "Which of the following is an undesirable characteristics of a refrigerant ?",
+      "A": "It should be non-explosive.",
+      "B": "It should have a sub-atmospheric vapor pressure at the temperature in refrigerator coils.",
+      "C": "Its vapor pressure at the condenser temperature should be very high.",
+      "D": "None of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 109,
+      "Question": "\"The rate at which a substance reacts is proportional to its active mass and the rate of a chemical reaction is proportional to the product of active masses of the reacting substances\". This is the",
+      "A": "Lewis-Randall rule.",
+      "B": "statement of Vant-Hoff equation.",
+      "C": "Le-Chatelier's principle.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 110,
+      "Question": "What is the ratio of adiabatic compressibility to isothermal compressibility ?",
+      "A": 1,
+      "B": "< 1",
+      "C": "> 1",
+      "D": ">> 1",
+      "Answer": "B"
+    },
+    {
+      "Number": 111,
+      "Question": "The absolute entropy for all crystalline substances at absolute zero temperature is",
+      "A": "zero",
+      "B": "negative",
+      "C": "more than zero",
+      "D": "indeterminate",
+      "Answer": "A"
+    },
+    {
+      "Number": 112,
+      "Question": "Pick out the wrong statement.",
+      "A": "Phase rule variables are intensive properties.",
+      "B": "Heat and work are both state function.",
+      "C": "The work done by expansion of a gas in vacuum is zero.",
+      "D": "CP and CV are state function.",
+      "Answer": "B"
+    },
+    {
+      "Number": 113,
+      "Question": "Compressibility factor of a gas is",
+      "A": "not a function of its pressure.",
+      "B": "not a function of its nature.",
+      "C": "not a function of its temperature.",
+      "D": "unity, if it follows PV = nRT.",
+      "Answer": "D"
+    },
+    {
+      "Number": 114,
+      "Question": "Which of the following is not an extensive property ?",
+      "A": "Free energy",
+      "B": "Entropy",
+      "C": "Refractive index",
+      "D": "None of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 115,
+      "Question": "Forward reaction will be favoured for the exothermic reaction, represented by CO + H2O ⇌ CO2 + H2, by",
+      "A": "low temperature and high pressure.",
+      "B": "low temperature and low pressure.",
+      "C": "high temperature and high pressure.",
+      "D": "high temperature and low pressure.",
+      "Answer": "A"
+    },
+    {
+      "Number": 116,
+      "Question": "Enthalpy of a gas depends upon its",
+      "A": "temperature",
+      "B": "mass",
+      "C": "volume",
+      "D": "pressure",
+      "Answer": "A"
+    },
+    {
+      "Number": 117,
+      "Question": "When dilute aqueous solutions of two salts are mixed, the process is associated with",
+      "A": "decrease in temperature.",
+      "B": "increase in temperature.",
+      "C": "no change in temperature.",
+      "D": "change in temperature which is a function of composition.",
+      "Answer": "B"
+    },
+    {
+      "Number": 118,
+      "Question": "Pick out the correct statement.",
+      "A": "Like internal energy and enthalphy, the absolute value of standard entropy for elementary substances is zero.",
+      "B": "Melting of ice involves increase in enthalpy and a decrease in randomness.",
+      "C": "The internal energy of an ideal gas depends only on its pressure.",
+      "D": "Maximum work is done under reversible conditions.",
+      "Answer": "D"
+    },
+    {
+      "Number": 119,
+      "Question": "Chemical engineering thermodynamics is concerned with the __________ in/of chemical processes.",
+      "A": "reaction mechanism",
+      "B": "calculation of rates",
+      "C": "energy transformation from one form to the another",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 120,
+      "Question": "An isolated system can exchange __________ with its surroundings.",
+      "A": "matter",
+      "B": "energy",
+      "C": "neither matter nor energy",
+      "D": "both matter and energy",
+      "Answer": "C"
+    },
+    {
+      "Number": 121,
+      "Question": "Requisites of a reversible process is that the",
+      "A": "system and surroundings pressure be equal.",
+      "B": "friction in the system should be absent.",
+      "C": "system and surroundings temperature be equal.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 122,
+      "Question": "Fugacity is most helpful in",
+      "A": "representing actual behaviour of real gases.",
+      "B": "representing actual behaviour of ideal gases.",
+      "C": "the study of chemical equilibria involving gases at atmospheric pressure.",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 123,
+      "Question": "The energy of activation of exothermic reaction is",
+      "A": "zero.",
+      "B": "negative.",
+      "C": "very large compared to that for en-dothermic reaction.",
+      "D": "not possible to predict.",
+      "Answer": "D"
+    },
+    {
+      "Number": 124,
+      "Question": "Pick out the wrong statement.",
+      "A": "The chemical potential of a pure substance depends upon the temperature and pressure.",
+      "B": "The chemical potential of a component in a system is directly proportional to the escaping tendency of that component.",
+      "C": "The chemical potential of ith species (μi) in an ideal gas mixture approaches zero as the pressure or mole fraction (xi) tends to be zero at constant temperature.",
+      "D": "The chemical potential of species 'i' in the mixture (μi) is mathematically represented as, (1) , where, n, ni and nj respectively denote the total number of moles, moles of ith species and all mole numbers except ith species. 'G' is Gibbs molar free energy.",
+      "Answer": "C"
+    },
+    {
+      "Number": 125,
+      "Question": "In the reaction; N2 + O2 (1) 2NO, increasing the pressure will result in",
+      "A": "shifting the equilibrium towards right,",
+      "B": "shifting the equilibrium towards left.",
+      "C": "no change in equilibrium condition.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 126,
+      "Question": "A cyclic engine exchanges heat with two reservoirs maintained at 100 and 300°C respectively. The maximum work (in J) that can be obtained from 1000 J of heat extracted from the hot reservoir is",
+      "A": 349,
+      "B": 651,
+      "C": 667,
+      "D": 1000,
+      "Answer": "A"
+    },
+    {
+      "Number": 127,
+      "Question": "Pick out the wrong statement.",
+      "A": "Trouton's ratio of non-polar liquids is calculated using Kistyakowasky equation.",
+      "B": "Thermal efficiency of a Carnot engine is always less than 1.",
+      "C": "An equation relating pressure, volume and temperature of a gas is called ideal gas equation.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 128,
+      "Question": "When a gas is subjected to adiabatic expansion, it gets cooled due to",
+      "A": "decrease in velocity.",
+      "B": "decrease in temperature.",
+      "C": "decrease in kinetic energy.",
+      "D": "energy spent in doing work.",
+      "Answer": "D"
+    },
+    {
+      "Number": 129,
+      "Question": "Joule-Thomson effect i.e., a throttling process is a constant __________ process.",
+      "A": "entropy",
+      "B": "temperature",
+      "C": "internal energy",
+      "D": "enthalpy",
+      "Answer": "D"
+    },
+    {
+      "Number": 130,
+      "Question": "In the equation, PV^n = Constant, if the value of n = 0, then it represents a reversible __________ process.",
+      "A": "isobaric",
+      "B": "isothermal",
+      "C": "isentropic",
+      "D": "isometric",
+      "Answer": "A"
+    },
+    {
+      "Number": 131,
+      "Question": "Work done in an adiabatic process between two states depends on the",
+      "A": "rate of heat transmission",
+      "B": "initial state only",
+      "C": "end states only",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 132,
+      "Question": "The number of degree of freedom for an azeotropic mixture of ethanol and water in vapour-liquid equilibrium, is",
+      "A": 3,
+      "B": 1,
+      "C": 2,
+      "D": 0,
+      "Answer": "B"
+    },
+    {
+      "Number": 133,
+      "Question": "The internal energy of an ideal gas is a function of its __________ only.",
+      "A": "molecular size",
+      "B": "volume",
+      "C": "pressure",
+      "D": "temperature",
+      "Answer": "D"
+    },
+    {
+      "Number": 134,
+      "Question": "At constant temperature and pressure, for one mole of a pure substance, the ratio of the free energy to the chemical potential is",
+      "A": "zero",
+      "B": "one",
+      "C": "infinity",
+      "D": "negative",
+      "Answer": "B"
+    },
+    {
+      "Number": 135,
+      "Question": "The change in __________ is equal to the reversible work for compression in steady state flow process under isothermal condition.",
+      "A": "internal energy",
+      "B": "enthalpy",
+      "C": "Gibbs free energy",
+      "D": "Helmholtz free energy",
+      "Answer": "C"
+    },
+    {
+      "Number": 136,
+      "Question": "Work done is a",
+      "A": "property of the system",
+      "B": "path function",
+      "C": "point function",
+      "D": "state description of a system",
+      "Answer": "B"
+    },
+    {
+      "Number": 137,
+      "Question": "Extensive properties of a thermodynamic system depend upon the __________ of the system.",
+      "A": "specific volume",
+      "B": "temperature",
+      "C": "mass",
+      "D": "pressure",
+      "Answer": "C"
+    },
+    {
+      "Number": 138,
+      "Question": "Near their critical temperatures, all gases occupy volumes __________ that of the ideal gas.",
+      "A": "less than",
+      "B": "same as",
+      "C": "more than",
+      "D": "half",
+      "Answer": "A"
+    },
+    {
+      "Number": 139,
+      "Question": "The free energy change for a chemical reaction is given by (where, K = equilibrium constant)",
+      "A": "RT lnK",
+      "B": "-RT lnK",
+      "C": "-R lnK",
+      "D": "T lnK",
+      "Answer": "B"
+    },
+    {
+      "Number": 140,
+      "Question": "Free energy, fugacity and activity co-efficient are all affected by change in the temperature. The fugacity co-efficient of a gas at constant pressure ____with the increase of reduced temperature.",
+      "A": "decreases",
+      "B": "increases",
+      "C": "remains constant",
+      "D": "decreases logarithmically",
+      "Answer": "B"
+    },
+    {
+      "Number": 141,
+      "Question": "In the reaction, H2 +I2 ⇌ 2HI, addition of an inert gas will",
+      "A": "increase the partial pressure of H2.",
+      "B": "increase the partial pressure of I2.",
+      "C": "increase the total pressure and hence shift the equilibrium towards the right.",
+      "D": "not effect the equilibrium conditions",
+      "Answer": "D"
+    },
+    {
+      "Number": 142,
+      "Question": "What is the number of degrees of freedom for liquid water in equilibrium with a mixture of nitrogen and water vapor ?",
+      "A": 2,
+      "B": 0,
+      "C": 3,
+      "D": 1,
+      "Answer": "A"
+    },
+    {
+      "Number": 143,
+      "Question": "The temperature at which a real gas obeys the ideal gas laws over a wide range of pressure is called the __________ temperature.",
+      "A": "critical",
+      "B": "Boyle",
+      "C": "inversion",
+      "D": "reduced",
+      "Answer": "B"
+    },
+    {
+      "Number": 144,
+      "Question": "If the molar heat capacities (Cp or Cv) of the reactants and products of a chemical reaction are identical, then, with the increase in temperature, the heat of reaction will",
+      "A": "increase",
+      "B": "decrease",
+      "C": "remain unaltered",
+      "D": "increase or decrease ; depends on the particular reaction",
+      "Answer": "C"
+    },
+    {
+      "Number": 145,
+      "Question": "All gases above its inversion temperature, in a throttling process will show",
+      "A": "a heating effect.",
+      "B": "no change in temperature.",
+      "C": "a cooling effect.",
+      "D": "either (a) or (c).",
+      "Answer": "A"
+    },
+    {
+      "Number": 146,
+      "Question": "First law of thermodynamics is mathematically stated as",
+      "A": "dQ = dE + dW",
+      "B": "dQ = dE - dW",
+      "C": "dE = dQ + dW",
+      "D": "dW = dQ + dE",
+      "Answer": "A"
+    },
+    {
+      "Number": 147,
+      "Question": "Pick out the wrong statement.",
+      "A": "Surface tension of a substance vanishes at critical point, as there is no distinction between liquid and vapour phases at its critical point.",
+      "B": "Entropy of a system decreases with the evolution of heat.",
+      "C": "Change of internal energy is negative for exothermic reactions.",
+      "D": "The accentric factor for all materials is always more than one.",
+      "Answer": "D"
+    },
+    {
+      "Number": 148,
+      "Question": "Translational kinetic energy of molecules of an ideal gas is proportional to (where, T = absolute temperature of the gas )",
+      "A": "T",
+      "B": "√T",
+      "C": "T^2",
+      "D": "1/√T",
+      "Answer": "A"
+    },
+    {
+      "Number": 149,
+      "Question": "Equation which relates pressure, volume and temperature of a gas is called the",
+      "A": "equation of state",
+      "B": "Gibbs Duhem equation",
+      "C": "ideal gas equation",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 150,
+      "Question": "Claussius-Clayperon equation gives accurate result, when the",
+      "A": "vapour pressure is relatively low and the temperature does not vary over wide limits.",
+      "B": "vapour obeys the ideal gas law and the latent heat of vaporisation is constant.",
+      "C": "volume in the liquid state is negligible compared with that in the vapour state.",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 151,
+      "Question": "The temperature at which a real gas obeys the ideal gas laws over a wide range of pressure is called __________ temperature.",
+      "A": "Boyle",
+      "B": "inversion",
+      "C": "critical",
+      "D": "reduced",
+      "Answer": "A"
+    },
+    {
+      "Number": 152,
+      "Question": "For a single component two phase mixture, the number of independent variable properties are",
+      "A": "two",
+      "B": "one",
+      "C": "zero",
+      "D": "three",
+      "Answer": "B"
+    },
+    {
+      "Number": 153,
+      "Question": "__________ law of thermodynamics ascertains the direction of a particular spontaneous process.",
+      "A": "Zeroth",
+      "B": "First",
+      "C": "Second",
+      "D": "Third",
+      "Answer": "C"
+    },
+    {
+      "Number": 154,
+      "Question": "At normal boiling point, molar entropy of vaporisation is __________ Joule/K°.mole.",
+      "A": 72,
+      "B": 92,
+      "C": 142,
+      "D": 192,
+      "Answer": "B"
+    },
+    {
+      "Number": 155,
+      "Question": "For an ideal solution, the value of activity co-efficient is",
+      "A": 0,
+      "B": 1,
+      "C": "< 1",
+      "D": "> 1",
+      "Answer": "B"
+    },
+    {
+      "Number": 156,
+      "Question": "The expression, nCv(T2 - T1), is for the __________ of an ideal gas.",
+      "A": "work done under adiabatic condition",
+      "B": "co-efficient of thermal expansion",
+      "C": "compressibility",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 157,
+      "Question": "Which of the following is a widely used refrigerant in vapour compression refrigeration system (using large centrifugal compressor)?",
+      "A": "Freon",
+      "B": "Liquid sulphur dioxide",
+      "C": "Methyl chloride",
+      "D": "Ammonia",
+      "Answer": "A"
+    },
+    {
+      "Number": 158,
+      "Question": "Internal energy is equal to the heat absorbed in case of a/an __________ process.",
+      "A": "constant volume",
+      "B": "polytropic",
+      "C": "adiabatic",
+      "D": "constant pressure",
+      "Answer": "A"
+    },
+    {
+      "Number": 159,
+      "Question": "The first law of thermodynamics is a restatement of the law of conservation of",
+      "A": "mass",
+      "B": "energy",
+      "C": "momentum",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 160,
+      "Question": "Joule-Thomson co-efficient for a perfect gas is",
+      "A": "zero",
+      "B": "positive",
+      "C": "negative",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 161,
+      "Question": "In an adiabatic process, the",
+      "A": "heat transfer is zero.",
+      "B": "temperature change is zero.",
+      "C": "work done is a path function.",
+      "D": "enthalpy remains constant.",
+      "Answer": "A"
+    },
+    {
+      "Number": 162,
+      "Question": "A nozzle is a device, which",
+      "A": "increases kinetic energy and decreases pressure.",
+      "B": "reduces kinetic energy and increases pressure.",
+      "C": "reduces both kinetic energy and pressure.",
+      "D": "increases both kinetic energy and pressure.",
+      "Answer": "A"
+    },
+    {
+      "Number": 163,
+      "Question": "Duringthe phase transition, __________ changes.",
+      "A": "pressure",
+      "B": "volume",
+      "C": "temperature",
+      "D": "all of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 164,
+      "Question": "The work done in an adiabatic change in a particular gas depends upon changes in the __________ only.",
+      "A": "temperature",
+      "B": "specific heat",
+      "C": "volume",
+      "D": "pressure",
+      "Answer": "A"
+    },
+    {
+      "Number": 165,
+      "Question": "In an isothermal process on an ideal gas, the pressure increases by 0.5 percent. The volume decreases by about __________ percent.",
+      "A": 0.25,
+      "B": 0.5,
+      "C": 0.75,
+      "D": 1,
+      "Answer": "B"
+    },
+    {
+      "Number": 166,
+      "Question": "Which of the following is not a unit of the equilibrium constant Kp? (where, Δx = number of moles of products number of moles of reactants)",
+      "A": "(atm)Δx, when Δx is negative",
+      "B": "(atm)Δx, when Δx is positive",
+      "C": "Dimensionless, when Δx = 0",
+      "D": "(atm)Δx2, when Δx > 0",
+      "Answer": "D"
+    },
+    {
+      "Number": 167,
+      "Question": "Pick out the correct statement.",
+      "A": "The available energy in an isolated system for all irreversible (real) processes decreases.",
+      "B": "The efficiency of a Carnot engine increases, if the sink temperature is decreased.",
+      "C": "The reversible work for compression in non-flow process under isothermal condition is the change in Helmholtz free energy.",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 168,
+      "Question": "Partial molal quantities are important in the study of",
+      "A": "ideal gases",
+      "B": "ideal solutions",
+      "C": "non-ideal mixtures",
+      "D": "a pure component",
+      "Answer": "C"
+    },
+    {
+      "Number": 169,
+      "Question": "Number of degrees of freedom for a three phase system in equilibrium comprising of three non-reacting chemical species is",
+      "A": 2,
+      "B": 0,
+      "C": 1,
+      "D": 3,
+      "Answer": "A"
+    },
+    {
+      "Number": 170,
+      "Question": "Critical solution temperature (or the con-solute temperature) for partially miscible liquids (e.g., phenol-water) is the minimum temperature at which",
+      "A": "a homogeneous solution (say of phenol water) is formed.",
+      "B": "mutual solubility of the two liquids shows a decreasing trend.",
+      "C": "two liquids are completely separated into two layers.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 171,
+      "Question": "Enthalpy 'H' is defined as",
+      "A": "H = E - PV",
+      "B": "H = F - TS",
+      "C": "H - E  = PV",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 172,
+      "Question": "One ton of refrigeration is defined as the heat rate corresponding to melting of one ton of ice in one",
+      "A": "hour",
+      "B": "day",
+      "C": "minute",
+      "D": "second",
+      "Answer": "B"
+    },
+    {
+      "Number": 173,
+      "Question": "__________ functions are exemplified by heat and work.",
+      "A": "Path",
+      "B": "Point",
+      "C": "State",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 174,
+      "Question": "In an irreversible process",
+      "A": "Tds = dE - dW = 0",
+      "B": "dE - dW - Tds = 0",
+      "C": "Tds - dE + dW< 0",
+      "D": "Tds - dT + dW< 0",
+      "Answer": "C"
+    },
+    {
+      "Number": 175,
+      "Question": "What is the number of degree of freedom for a system of two miscible non-reacting species in vapor-liquid equilibrium forming an azeotrope ?",
+      "A": 3,
+      "B": 2,
+      "C": 1,
+      "D": 0,
+      "Answer": "C"
+    },
+    {
+      "Number": 176,
+      "Question": "The entropy change in a reversible isothermal process, when an ideal gas expands to four times its initial volume is",
+      "A": "R loge 4",
+      "B": "R log10 4",
+      "C": "Cv log10 4",
+      "D": "Cv loge 4",
+      "Answer": "A"
+    },
+    {
+      "Number": 177,
+      "Question": "PVγ = Constant (where, γ = Cp/Cv) is valid for a/an __________ process.",
+      "A": "isothermal",
+      "B": "isentropic",
+      "C": "isobaric",
+      "D": "adiabatic",
+      "Answer": "D"
+    },
+    {
+      "Number": 178,
+      "Question": "Claude gas liquefaction process employs cooling",
+      "A": "at constant pressure.",
+      "B": "by throttling.",
+      "C": "by expansion in an engine.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 179,
+      "Question": "Which of the following will increase the volume of a real gas by four times ?",
+      "A": "Doubling the absolute temperature as well as pressure of the gas.",
+      "B": "Reducing pressure to one fourth at constant temperature.",
+      "C": "Reducing temperature to one fourth at constant pressure.",
+      "D": "Reducing the temperature to half and doubling the pressure.",
+      "Answer": "B"
+    },
+    {
+      "Number": 180,
+      "Question": "Pick out the wrong statement.",
+      "A": "A refriferation cycle violates the second law of thermadynamics.",
+      "B": "Refrigeration cycle is normally represented by a temperature vs. entropy plot.",
+      "C": "In a refrigerator, work required decreases as the temperature of the refrigerator and the temperature at which heat is rejected increases.",
+      "D": "One ton of refrigeration is equivalent to the rate of heat absorption equal to 3.53 kW.",
+      "Answer": "A"
+    },
+    {
+      "Number": 181,
+      "Question": "The equation, PV = nRT, is best obeyed by gases at",
+      "A": "low pressure & high temperature.",
+      "B": "high pressure & low temperature.",
+      "C": "low pressure & low temperature.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 182,
+      "Question": "Internal energy of an element at 1 atm and 25° C is __________ kcal/kg.mole.",
+      "A": 0,
+      "B": 273,
+      "C": 25,
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 183,
+      "Question": "Which of the following liquid metals has the highest thermal conductivity ?",
+      "A": "Molten sodium",
+      "B": "Molten lead",
+      "C": "Mercury",
+      "D": "Molten potassium",
+      "Answer": "A"
+    },
+    {
+      "Number": 184,
+      "Question": "Which of the following has the least thermal efficiency ?",
+      "A": "Steam engine",
+      "B": "Carnot engine",
+      "C": "Diesel engine",
+      "D": "Otto engine",
+      "Answer": "A"
+    },
+    {
+      "Number": 185,
+      "Question": "Joule-Thomson Co-efficient at any point on the inversion curve is",
+      "A": "∞",
+      "B": "+ ve",
+      "C": 0,
+      "D": "-ve",
+      "Answer": "C"
+    },
+    {
+      "Number": 186,
+      "Question": "Pick out the wrong statement.",
+      "A": "The values of (1) are zero for a real gas at its critical point.",
+      "B": "Heat transferred is equal to the change in the enthalpy of the system, for a constant pressure, non-flow, mechanically reversible process.",
+      "C": "Thermal efficiency of a Carnot engine depends upon the properties of the working fluid besides the source & sink temperatures.",
+      "D": "During a reversible adiabatic process, the entropy of a substance remains constant.",
+      "Answer": "C"
+    },
+    {
+      "Number": 187,
+      "Question": "Number of components (C), phase (P) and degrees of freedom (F) are related by Gibbs phase rule as",
+      "A": "P + F - C = 2",
+      "B": "C = P - F + 2",
+      "C": "F = C - P - 2",
+      "D": "P = F - C - 2",
+      "Answer": "A"
+    },
+    {
+      "Number": 188,
+      "Question": "The value of Cp & Cv respectively for monoatomic gases in Kcal/kg Mole . °K are",
+      "A": "5 & 3",
+      "B": "3.987 & 1.987",
+      "C": "1.987 & 0.66",
+      "D": "0.66 &  1.987",
+      "Answer": "A"
+    },
+    {
+      "Number": 189,
+      "Question": "(1) is the mathematical expression for",
+      "A": "specific heat at constant pressure (Cp).",
+      "B": "specific heat at constant volume (Cv).",
+      "C": "Joule-Thompson co-efficient.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 190,
+      "Question": "In case of a close thermodynamic system, there is __________ across the boundaries.",
+      "A": "no heat and mass transfer",
+      "B": "no mass transfer but heat transfer",
+      "C": "mass and energy transfer",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 191,
+      "Question": "During a reversible isothermal expansion of an ideal gas, the entropy change is",
+      "A": "+ve",
+      "B": 0,
+      "C": "-ve",
+      "D": "∞",
+      "Answer": "A"
+    },
+    {
+      "Number": 192,
+      "Question": "As the temperature is lowered towards the absolute zero, the value of (1), then approaches",
+      "A": "unity",
+      "B": "zero",
+      "C": "that of the heat of reaction",
+      "D": "infinity",
+      "Answer": "B"
+    },
+    {
+      "Number": 193,
+      "Question": "Which of the following is not affected by temperature changes ?",
+      "A": "Fugacity",
+      "B": "Activity co-efficient",
+      "C": "Free energy",
+      "D": "None of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 194,
+      "Question": "For an ideal gas, the activity co-efficient is",
+      "A": "directly proportional to pressure.",
+      "B": "inversely proportional to pressure.",
+      "C": "unity at all pressures.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 195,
+      "Question": "Those solutions in which there is no volume change upon mixing the components in the liquid state and which, when diluted do not undergo any heat change (i.e. heat of dilution is zero), are called __________ solutions.",
+      "A": "ideal",
+      "B": "real",
+      "C": "isotonic",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 196,
+      "Question": "Generation of heat by friction is an example of a/an __________ change.",
+      "A": "isothermal",
+      "B": "irreversible",
+      "C": "adiabatic",
+      "D": "reversible",
+      "Answer": "B"
+    },
+    {
+      "Number": 197,
+      "Question": "A domestic refrigerator has a/an __________ cooled condenser.",
+      "A": "water",
+      "B": "air",
+      "C": "evaporative",
+      "D": "gas",
+      "Answer": "B"
+    },
+    {
+      "Number": 198,
+      "Question": "The compressibility factor of a gas is given by (where, V1 = actual volume of the gas V2 = gas volume predicted by ideal gas law )",
+      "A": "V1/V2",
+      "B": "V2/V1",
+      "C": "V1-V2",
+      "D": "V1.V2",
+      "Answer": "A"
+    },
+    {
+      "Number": 199,
+      "Question": "If we increase the pressure on a substance (which is at its triple point), then the triple point",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains unchanged",
+      "D": "may increase or decrease ; depends on the substance",
+      "Answer": "C"
+    }
+  ],
+  "Section 3": [
+    {
+      "Number": 200,
+      "Question": "In an ideal refrigeration cycle, the change in internal energy of the fluid is",
+      "A": "+ve",
+      "B": "-ve",
+      "C": 0,
+      "D": "either of the above three ; depends on the nature of refrigerant.",
+      "Answer": "C"
+    },
+    {
+      "Number": 201,
+      "Question": "Free energy",
+      "A": "decreases in all spontaneous (or irreversible) processes.",
+      "B": "change during a spontaneous process has a negative value.",
+      "C": "remains unchanged in reversible processes carried at constant temperature and pressure.",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 202,
+      "Question": "\"If different processes are used to bring about the same chemical reaction, the enthalpy change is same for all of them\". This is __________ law.",
+      "A": "Hess's",
+      "B": "Kirchoff's",
+      "C": "Lavoisier and Laplace",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 203,
+      "Question": "Fugacity is a measure of the",
+      "A": "escaping tendencies of the same substance in different phases of a system.",
+      "B": "relative volatility of a mixture of two miscible liquids.",
+      "C": "behaviour of ideal gases.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 204,
+      "Question": "The quantitative effect of temperature on chemical equilibrium is given by the",
+      "A": "Vant-Hoff equation.",
+      "B": "Le-Chatelier's principle.",
+      "C": "Arhenius equation.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 205,
+      "Question": "For an irreversible process involving only pressure-volume work",
+      "A": "(dF)T, p <0",
+      "B": "(dF)T, p = 0",
+      "C": "(dF)T, p > 0",
+      "D": "(dA)T, v >0",
+      "Answer": "A"
+    },
+    {
+      "Number": 206,
+      "Question": "Ideal refrigeration cycle is",
+      "A": "same as Carnot cycle.",
+      "B": "same as reverse Carnot cycle.",
+      "C": "dependent on the refrigerant's properties.",
+      "D": "the least efficient of all refrigeration processes.",
+      "Answer": "B"
+    },
+    {
+      "Number": 207,
+      "Question": "The following heat engine produces power of 100000 kW. The heat engine operates between 800 K and 300 K. It has a thermal efficiency equal to 50% of that of the Carnot engine for the same temperature. The rate at which heat is absorbed from the hot reservoir is",
+      "A": "100, 000 kW",
+      "B": "160, 000 kW",
+      "C": "200, 000 kW",
+      "D": "320, 000 kW",
+      "Answer": "D"
+    },
+    {
+      "Number": 208,
+      "Question": "The enthalpy change when ammonia gas is dissolved in water is called the heat of",
+      "A": "solution",
+      "B": "formation",
+      "C": "dilution",
+      "D": "combustion",
+      "Answer": "A"
+    },
+    {
+      "Number": 209,
+      "Question": "The value of Joule-Thomson co-efficient, in case where cooling occurs after the throttling process is",
+      "A": 0,
+      "B": "∞",
+      "C": "+ve",
+      "D": "-ve",
+      "Answer": "C"
+    },
+    {
+      "Number": 210,
+      "Question": "The specific heat of saturated water vapour at 100°C is",
+      "A": "∞",
+      "B": "-ve",
+      "C": 0,
+      "D": "+ve",
+      "Answer": "B"
+    },
+    {
+      "Number": 211,
+      "Question": "For a multicomponent system, the term chemical potential is equivalent to the",
+      "A": "molal concentration difference.",
+      "B": "molar free energy.",
+      "C": "partial molar free energy.",
+      "D": "molar free energy change.",
+      "Answer": "C"
+    },
+    {
+      "Number": 212,
+      "Question": "The change in Gibbs freee energy for vaporisation of a pure substance is",
+      "A": "positive",
+      "B": "negative",
+      "C": "zero",
+      "D": "may be positive or negative",
+      "Answer": "C"
+    },
+    {
+      "Number": 213,
+      "Question": "Critical compressibility factor for all substances",
+      "A": "are more or less constant (vary from 0.2 to 0.3).",
+      "B": "vary as square of the absolute temperature.",
+      "C": "vary as square of the absolute pressure.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 214,
+      "Question": "What is the degree of freedom for two mis-cible (non-reacting) substances in vapor-liquid equilibrium forming an azeotrope ?",
+      "A": 0,
+      "B": 1,
+      "C": 2,
+      "D": 3,
+      "Answer": "C"
+    },
+    {
+      "Number": 215,
+      "Question": "For a given substance at a specified temperature, activity is __________ to fugacity.",
+      "A": "directly proportional",
+      "B": "inversely proportional",
+      "C": "equal",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 216,
+      "Question": "In case of vapour compression refrigeration system, elevating the evaporator temperature (keeping the condenser temperature constant) results in",
+      "A": "enhanced COP.",
+      "B": "decreased COP.",
+      "C": "no change in the value of COP.",
+      "D": "increased or decreased COP ; depending upon the type of refrigerant.",
+      "Answer": "A"
+    },
+    {
+      "Number": 217,
+      "Question": "For water at 300°C, it has a vapour pressure 8592.7 kPa and fugacity 6738.9 kPa Under these conditions, one mole of water in liquid phase has a volume of 25.28 cm^3 and that in vapour phase in 391.1 cm^3.Fugacity of water (in kPa) at 9000 kPa will be",
+      "A": 6738.9,
+      "B": 6753.5,
+      "C": 7058.3,
+      "D": 9000,
+      "Answer": "B"
+    },
+    {
+      "Number": 218,
+      "Question": "As the temperature is lowered towards the absolute zero, the value of the quantity  approaches",
+      "A": "zero",
+      "B": "unity",
+      "C": "infinity",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 219,
+      "Question": "If the heat of solution of an ideal gas in a liquid is negative, then its solubility at a given partial pressure varies with the temperature as",
+      "A": "solubility increases as temperature increases.",
+      "B": "solubility increases as temperature decreases.",
+      "C": "solubility is independent of temperature.",
+      "D": "solubility increases or decreases with temperature depending on the Gibbs free energy change of solution.",
+      "Answer": "B"
+    },
+    {
+      "Number": 220,
+      "Question": "In case of a reversible process (following pv^n = constant), work obtained for trebling the volume (v1 = 1 m^3  and v2 3 m^3 ) is max imum, when the value of 'n' is",
+      "A": 0,
+      "B": 1,
+      "C": "y = 1.44",
+      "D": 1.66,
+      "Answer": "A"
+    },
+    {
+      "Number": 221,
+      "Question": "The Carnot co-efficient of performance (COP) of a domestic air conditioner compared to a household refrigerator is",
+      "A": "less",
+      "B": "more",
+      "C": "same",
+      "D": "dependent on climatic conditions",
+      "Answer": "A"
+    },
+    {
+      "Number": 222,
+      "Question": "The unit of fugacity is the same as that of the",
+      "A": "pressure",
+      "B": "temperature",
+      "C": "volume",
+      "D": "molar concentration",
+      "Answer": "A"
+    },
+    {
+      "Number": 223,
+      "Question": "Filling of gas from a high pressure cylinder into small bottles is an example of a/an __________ process.",
+      "A": "equilibrium",
+      "B": "adiabatic",
+      "C": "steady",
+      "D": "unsteady",
+      "Answer": "D"
+    },
+    {
+      "Number": 224,
+      "Question": "A large iceberg melts at the base, but not at the top, because of the reason that",
+      "A": "ice at the base contains impurities which lowers its melting point.",
+      "B": "due to the high pressure at the base, its melting point reduces.",
+      "C": "the iceberg remains in a warmer condition at the base.",
+      "D": "all of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 225,
+      "Question": "At the critical point of a substance",
+      "A": "the surface tension vanishes.",
+      "B": "liquid and vapour have the same density.",
+      "C": "there is no distinction between liquid and vapour phases.",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 226,
+      "Question": "A system undergoes a change from a given initial state to a given final state either by an irreversible process or by a reversible process, then(where, Δ S1 and Δ SR are the entropy changes of the system for the irreversible and reversible processes respectively)",
+      "A": "Δ S1 is always < Δ SR",
+      "B": "Δ S1 is sometimes > Δ SR",
+      "C": "Δ S1 is always > Δ SR",
+      "D": "Δ S1 is always = Δ SR",
+      "Answer": "C"
+    },
+    {
+      "Number": 227,
+      "Question": "What is the value of Joule-Thomson co-efficient for an ideal gas ?",
+      "A": "+ve",
+      "B": "-ve",
+      "C": 0,
+      "D": "∞",
+      "Answer": "C"
+    },
+    {
+      "Number": 228,
+      "Question": "A two stage compressor is used to compress an ideal gas. The gas is cooled to the initial temperature after each stage. The intermediate pressure for the minimum total work requirement should be equal to the __________ mean of P1 and P2.(where, P1 and P2 are initial and final pressures respectively)",
+      "A": "logarithmic",
+      "B": "arithmetic",
+      "C": "geometric",
+      "D": "harmonic",
+      "Answer": "C"
+    },
+    {
+      "Number": 229,
+      "Question": "y = specific heat ratio of an ideal gas is equal to",
+      "A": "Cp/Cv",
+      "B": "Cp/(CP-R)",
+      "C": "1 + (R/CV)",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 230,
+      "Question": "Consider the process A & B shown in the figure given below (1) In this case, it is possilbe that",
+      "A": "both the processes are adiabatic.",
+      "B": "both the processes are isothermal.",
+      "C": "process A is isothermal while B is adiabatic.",
+      "D": "process A is adiabatic while B is isothermal.",
+      "Answer": "C"
+    },
+    {
+      "Number": 231,
+      "Question": "Gibbs free energy of a pure fluid approaches __________ as the pressure tends to zero at constant temperature.",
+      "A": "infinity",
+      "B": "minus infinity",
+      "C": "zero",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 232,
+      "Question": "As the entropy of the universe is increasing, day by day, the work producing capacity of a heat engine is",
+      "A": "not changed",
+      "B": "decreasing",
+      "C": "increasing",
+      "D": "data sufficient, can't be predicted",
+      "Answer": "B"
+    },
+    {
+      "Number": 233,
+      "Question": "An irreversible process",
+      "A": "is the analog of linear frictionless motion in machines.",
+      "B": "is an idealised visualisation of behaviour of a system.",
+      "C": "yields the maximum amount of work.",
+      "D": "yields an amount of work less than that of a reversible process.",
+      "Answer": "D"
+    },
+    {
+      "Number": 234,
+      "Question": "The expression for the work done for a reversible polytropic process can be used to obtain the expression for work done for all processes, except reversible __________ process.",
+      "A": "isobaric",
+      "B": "isothermal",
+      "C": "adiabatic",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 235,
+      "Question": "Free energy change of mixing two liquid substances is a function of the",
+      "A": "concentration of the constituents only.",
+      "B": "quantities of the constituents only.",
+      "C": "temperature only.",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 236,
+      "Question": "Pick out the wrong statement.",
+      "A": "System (of partially miscible liquid pairs), in which the mutual solubility increases with rise in temperature, are said to possess an upper consolute temperature.",
+      "B": "Systems, in which the mutual solubility increases with decrease in temperature, are said to possess lower consolute temperature.",
+      "C": "Nicotine-water system shows both an upper as well as a lower consolute temperature, implying that they are partially miscible between these two limiting temperatures.",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 237,
+      "Question": "The total change in the enthalpy of a system is independent of the",
+      "A": "number of intermediate chemical reactions involved.",
+      "B": "pressure and temperature.",
+      "C": "state of combination and aggregation in the beginning and at the end of the reaction.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 238,
+      "Question": "Number of phases in a colloidal system are",
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 4,
+      "Answer": "B"
+    },
+    {
+      "Number": 239,
+      "Question": "Free energy changes for two reaction mechanism 'X' and 'Y are respectively - 15 and - 5 units. It implies that X is",
+      "A": "slower than Y",
+      "B": "faster than Y",
+      "C": "three times slower than Y",
+      "D": "three times faster than Y",
+      "Answer": "B"
+    },
+    {
+      "Number": 240,
+      "Question": "Vapour which is at a pressure smaller than the saturation pressure for the temperature involved is called a __________ vapour.",
+      "A": "superheated",
+      "B": "desuperheated",
+      "C": "non-condensable",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 241,
+      "Question": "At equilibrium condition, the chemical potential of a material in different phases in contact with each other is equal. The chemical potential for a real gas (μ) is given by(where, μ = standard chemical potential at unit fugacity (f° = 1 atm.) and the gas behaves ideally.)",
+      "A": "μ° + RT ln f",
+      "B": "μ°+ R lnf",
+      "C": "μ° + T lnf",
+      "D": "μ° + R/T lnf",
+      "Answer": "A"
+    },
+    {
+      "Number": 242,
+      "Question": "The kinetic energy of gas molecule is zero at",
+      "A": "0°C",
+      "B": "273°C",
+      "C": "100°C",
+      "D": "-273°C",
+      "Answer": "D"
+    },
+    {
+      "Number": 243,
+      "Question": "Which of the following is not an intensive property ?",
+      "A": "Volume",
+      "B": "Density",
+      "C": "Temperature",
+      "D": "Pressure",
+      "Answer": "A"
+    },
+    {
+      "Number": 244,
+      "Question": "The necessary and sufficient condition for equilibrium between two phases is",
+      "A": "the concentration of each component should be same in the two phases.",
+      "B": "the temperature of each phase should be same.",
+      "C": "the pressure should be same in the two phases.",
+      "D": "the chemical potential of each component should be same in the two phases.",
+      "Answer": "D"
+    },
+    {
+      "Number": 245,
+      "Question": "Specific volume of an ideal gas is",
+      "A": "equal to its density.",
+      "B": "the reciprocal of its density.",
+      "C": "proportional to pressure.",
+      "D": "none of these.",
+      "Answer": "B"
+    },
+    {
+      "Number": 246,
+      "Question": "Pick out the extensive property out of the following.",
+      "A": "Surface tension",
+      "B": "Free energy",
+      "C": "Specific heat",
+      "D": "Refractive index",
+      "Answer": "B"
+    },
+    {
+      "Number": 247,
+      "Question": "Entropy change of the reaction, H2O(liquid)  H2O(gas), is termed as the enthalpy of",
+      "A": "solution",
+      "B": "vaporisation",
+      "C": "formation",
+      "D": "formation",
+      "Answer": "B"
+    },
+    {
+      "Number": 248,
+      "Question": "Which law of the thermodynamics provids basis for measuring the thermodynamic property ?",
+      "A": "First law",
+      "B": "Zeroth law",
+      "C": "Third law",
+      "D": "Second law",
+      "Answer": "B"
+    },
+    {
+      "Number": 249,
+      "Question": "Gibbs free energy per mole for a pure substance is equal to the",
+      "A": "latent heat of vaporisation",
+      "B": "chemical potential",
+      "C": "molal boiling point",
+      "D": "heat capacity",
+      "Answer": "B"
+    },
+    {
+      "Number": 250,
+      "Question": "Gibbs free energy at constant pressure and temperature under equilibrium conditions is",
+      "A": "∞",
+      "B": 0,
+      "C": "maximum",
+      "D": "minimum",
+      "Answer": "D"
+    },
+    {
+      "Number": 251,
+      "Question": "With increase in pressure (above atmospheric pressure), the Cp of a gas",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains unchanged",
+      "D": "first decreases and then increases",
+      "Answer": "A"
+    },
+    {
+      "Number": 252,
+      "Question": "A change in state involving a decrease in entropy can be spontaneous, only if",
+      "A": "it is exothermic.",
+      "B": "it is isenthalpic.",
+      "C": "it takes place isothermally.",
+      "D": "it takes place at constant volume.",
+      "Answer": "A"
+    },
+    {
+      "Number": 253,
+      "Question": "Joule-Thomson co-efficient which is defined as, (1) , changes sign at a temperature known as inversion temperature. The value of Joule-Thomson co-efficient at inversion temperature is",
+      "A": 0,
+      "B": "∞",
+      "C": "+ve",
+      "D": "-ve",
+      "Answer": "A"
+    },
+    {
+      "Number": 254,
+      "Question": "__________ calorimeter is normally used for measuring the dryness fraction of steam, when it is very low.",
+      "A": "Bucket",
+      "B": "Throttling",
+      "C": "Separating",
+      "D": "A combination of separating & throttling",
+      "Answer": "D"
+    },
+    {
+      "Number": 255,
+      "Question": "The amount of heat required to decompose a compound into its elements is __________ the heat of formation of that compound from its elements.",
+      "A": "less than",
+      "B": "more than",
+      "C": "same as",
+      "D": "not related to",
+      "Answer": "C"
+    },
+    {
+      "Number": 256,
+      "Question": "For a constant volume process",
+      "A": "dE  = CpdT",
+      "B": "dE  = CvdT",
+      "C": "dQ = dE  + pdV",
+      "D": "dW  = pdV",
+      "Answer": "B"
+    },
+    {
+      "Number": 257,
+      "Question": "In case of the decomposition of hydroiodic acid (2HI ⇌ H2 + I2), addition of H2 (at equilibrium condition) will",
+      "A": "increase the partial pressure of I2.",
+      "B": "decrease the partial pressure of HI.",
+      "C": "diminish the degree of dissociation of HI.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 258,
+      "Question": "In any spontaneous process, the __________ free energy decreases.",
+      "A": "Helmholtz",
+      "B": "Gibbs",
+      "C": "both a & b",
+      "D": "neither 'a' nor 'b'",
+      "Answer": "C"
+    },
+    {
+      "Number": 259,
+      "Question": "The equation DU = Tds - PdV is applicable to infinitesimal changes occuring in",
+      "A": "an open system of constant composition.",
+      "B": "a closed system of constant composition.",
+      "C": "an open system with changes in composition.",
+      "D": "a closed system with changes in composition.",
+      "Answer": "D"
+    },
+    {
+      "Number": 260,
+      "Question": "Heat is added at constant temperature in an ideal __________ cycle.",
+      "A": "Stirling",
+      "B": "Brayton",
+      "C": "Rankine",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 261,
+      "Question": "Pick out the correct equation relating 'F' and 'A'.",
+      "A": "F = A + PV",
+      "B": "F = E + A",
+      "C": "F = A - TS",
+      "D": "F = A + TS",
+      "Answer": "A"
+    },
+    {
+      "Number": 262,
+      "Question": "In a reversible process",
+      "A": "Tds = dE + dW",
+      "B": "dE - dW = Tds",
+      "C": "dW - dE = Tds",
+      "D": "Tds - dW + dE >0",
+      "Answer": "A"
+    },
+    {
+      "Number": 263,
+      "Question": "Cv  for an ideal gas",
+      "A": "does not depend upon temperature.",
+      "B": "is independent of pressure only.",
+      "C": "is independent of volume only.",
+      "D": "is independent of both pressure and volume.",
+      "Answer": "D"
+    },
+    {
+      "Number": 264,
+      "Question": "In a homogeneous solution, the activity co-efficient of a component depends upon the",
+      "A": "pressure",
+      "B": "composition",
+      "C": "temperature",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 265,
+      "Question": "Pick out the wrong statement:",
+      "A": "The expansion of a gas in vacuum is an irreversible process.",
+      "B": "An isometric process is a constant pressure process.",
+      "C": "Entropy change for a reversible adiabatic process is zero.",
+      "D": "Free energy change for a spontaneous process is negative.",
+      "Answer": "B"
+    },
+    {
+      "Number": 266,
+      "Question": "With increase in compression ratio, the efficiency of the otto engine",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains constant",
+      "D": "increases linearly",
+      "Answer": "A"
+    },
+    {
+      "Number": 267,
+      "Question": "The chemical potential of any constituent of an ideal solution depends on the __________ of the solution.",
+      "A": "temperature",
+      "B": "pressure",
+      "C": "composition",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 268,
+      "Question": "Fugacity and pressure are numerically equal, when the gas is",
+      "A": "in standard state",
+      "B": "at high pressure",
+      "C": "at low temperature",
+      "D": "in ideal state",
+      "Answer": "D"
+    },
+    {
+      "Number": 269,
+      "Question": "Refrigerants commonly used for domestic refrigerators are",
+      "A": "ethyl chloride or methyle chloride",
+      "B": "freon-12",
+      "C": "propane",
+      "D": "NH3 or CO2.",
+      "Answer": "A"
+    },
+    {
+      "Number": 270,
+      "Question": "Absolute zero temperature signifies the",
+      "A": "minimum temperature attainable.",
+      "B": "temperature of the heat reservoir to which a Carnot engine rejects all the heat that is taken in.",
+      "C": "temperature of the heat reservoir to which a Carnot engine rejects no heat.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 271,
+      "Question": "Specific __________ does not change during a phase change (e.g. sublimation, melting, vaporisation etc.).",
+      "A": "entropy",
+      "B": "internal energy",
+      "C": "enthalpy",
+      "D": "Gibbs free energy",
+      "Answer": "D"
+    },
+    {
+      "Number": 272,
+      "Question": "Heat of formation of an element in its standard state is",
+      "A": 0,
+      "B": "< 0",
+      "C": "> 0",
+      "D": "a function of pressure",
+      "Answer": "A"
+    },
+    {
+      "Number": 273,
+      "Question": "The equation relating E, P, V and T which is true for all substanes under all conditions is given by (1) .This equation is called the",
+      "A": "Maxwell's equation.",
+      "B": "thermodynamic equation of state.",
+      "C": "equation of state.",
+      "D": "Redlich-Kwong equation of state.",
+      "Answer": "B"
+    },
+    {
+      "Number": 274,
+      "Question": "For an exothremic reaction",
+      "A": "only enthalpy change (ΔH) is negative.",
+      "B": "only internal energy change (ΔE) is negative.",
+      "C": "both ΔH and ΔE are negative.",
+      "D": "enthalpy change is zero.",
+      "Answer": "C"
+    },
+    {
+      "Number": 275,
+      "Question": "Pick out the wrong statement.",
+      "A": "An ideal liquid or solid solution is defined as one in which each component obeys Raoult's law.",
+      "B": "If Raoult's law is applied to one component of a binary mixture ; Henry's law or Raoult's law is applied to the other component also.",
+      "C": "Henry's law is rigorously correct in the limit of infinite dilution.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 276,
+      "Question": "The shape of T-S diagram for Carnot Cycle is a",
+      "A": "rectangle",
+      "B": "rhombus",
+      "C": "trapezoid",
+      "D": "circle",
+      "Answer": "A"
+    },
+    {
+      "Number": 277,
+      "Question": "For an isothermal process, the internal energy of a gas",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains unchanged",
+      "D": "data insufficient, can't be predicted",
+      "Answer": "C"
+    },
+    {
+      "Number": 278,
+      "Question": "In the equation, PVn = constant, if the value of n = 1, then it represents a reversible __________ process.",
+      "A": "isothermal",
+      "B": "isobaric",
+      "C": "polytropic",
+      "D": "adiabatic",
+      "Answer": "A"
+    },
+    {
+      "Number": 279,
+      "Question": "For the gaseous phase chemical reaction, C2H4(g) + H2O(g) ⇌ C2H5OH(g), the equilibrium conversion does not depend on the",
+      "A": "steam to ethylene ratio.",
+      "B": "temperature.",
+      "C": "pressure.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 280,
+      "Question": "The first law of thermodynamics is a statement of conservation of",
+      "A": "heat",
+      "B": "momentum",
+      "C": "energy",
+      "D": "work",
+      "Answer": "C"
+    },
+    {
+      "Number": 281,
+      "Question": "\"Dry ice\" is",
+      "A": "moisture free ice",
+      "B": "solid helium",
+      "C": "solid carbon dioxide",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 282,
+      "Question": "Which of the following non-flow reversible compression processes require maximum work ?",
+      "A": "Adiabatic process",
+      "B": "Isothermal process",
+      "C": "Isobaric process",
+      "D": "All require  same work",
+      "Answer": "A"
+    },
+    {
+      "Number": 283,
+      "Question": "Pick out the correct statement.",
+      "A": "A real gas on expansion in vacuum gets heated up.",
+      "B": "An ideal gas on expansion in vacuum gets cooled.",
+      "C": "An ideal gas on expansion in vacuum gets heated up.",
+      "D": "A real gas on expansion in vacuum cools down whereas ideal gas remains unaffected.",
+      "Answer": "D"
+    },
+    {
+      "Number": 284,
+      "Question": "\"When a system in equilibrium is subjected to a change in temperature, pressure or concentration, the equilibrium is displaced in a direction which tends to undo the effect of the change.\" This is called the",
+      "A": "Le-Chatelier principle.",
+      "B": "Kopp's rule.",
+      "C": "law of corresponding state.",
+      "D": "Arrehenius hypothesis.",
+      "Answer": "A"
+    },
+    {
+      "Number": 285,
+      "Question": "Sound waves propagation in air exemplifies an __________ process.",
+      "A": "adiabatic",
+      "B": "isothermal",
+      "C": "isometric",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 286,
+      "Question": "For equilibrium process (i.e. reversible) in an isolated system",
+      "A": "ds = 0",
+      "B": "ds < 0",
+      "C": "ds > 0",
+      "D": "ds = Constant",
+      "Answer": "A"
+    },
+    {
+      "Number": 287,
+      "Question": "The partial molar enthalpy of a component in an ideal binary gas mixture of composition Z, at a temperature T and pressure P, is a function only of",
+      "A": "T",
+      "B": "T and P",
+      "C": "T, P and Z",
+      "D": "T and Z",
+      "Answer": "B"
+    },
+    {
+      "Number": 288,
+      "Question": "With increase in reduced temperature, the fugacity co-efficient of a gas at constant reduced pressure",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains same",
+      "D": "decreases linearly",
+      "Answer": "A"
+    },
+    {
+      "Number": 289,
+      "Question": "For an ideal gas, the enthalpy",
+      "A": "increases with rise in pressure.",
+      "B": "decreases with rise in pressure.",
+      "C": "is independent of pressure.",
+      "D": "is a path function.",
+      "Answer": "C"
+    },
+    {
+      "Number": 290,
+      "Question": "Efficiency of a heat engine working on Carnot cycle between two temperature levels depends upon the",
+      "A": "two temperatures only.",
+      "B": "pressure of working fluid.",
+      "C": "mass of the working fluid.",
+      "D": "mass and pressure both of the working fluid.",
+      "Answer": "A"
+    },
+    {
+      "Number": 291,
+      "Question": "In Joule-Thomson porous plug experiment, the",
+      "A": "enthalpy does not remain constant.",
+      "B": "entire apparatus is exposed to surroundings.",
+      "C": "temperature remains constant.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 292,
+      "Question": "A Carnot cycle consists of the following steps :",
+      "A": "Two isothermals and two isentropics.",
+      "B": "Two isobarics and two isothermals.",
+      "C": "Two isochorics and two isobarics.",
+      "D": "Two isothermals and two isochorics.",
+      "Answer": "A"
+    },
+    {
+      "Number": 293,
+      "Question": "For a cyclic process, a fixed ratio between heat and work",
+      "A": "always exists",
+      "B": "may exist",
+      "C": "never exists",
+      "D": "is difficult to predict",
+      "Answer": "A"
+    },
+    {
+      "Number": 294,
+      "Question": "Which of the following is not a common refrigerant ?",
+      "A": "Freon-12",
+      "B": "Ethylene",
+      "C": "Ammonia",
+      "D": "Carbon dioxide",
+      "Answer": "B"
+    },
+    {
+      "Number": 295,
+      "Question": "The most important application of distribution law is in",
+      "A": "evaporation",
+      "B": "liquid extraction",
+      "C": "drying",
+      "D": "distillation",
+      "Answer": "B"
+    },
+    {
+      "Number": 296,
+      "Question": "Pick out the correct statement.",
+      "A": "Entropy and enthalpy are path functions.",
+      "B": "In a closed system, the energy can be exchanged with the surrounding, while. matter can not be exchanged.",
+      "C": "All the natural processes are reversible in nature.",
+      "D": "Work is a state function.",
+      "Answer": "C"
+    },
+    {
+      "Number": 297,
+      "Question": "In vapour compression refrigeration system, if the evaporator temperature and the condenser temperatures are -13°C and 37°C respetively, the Carnot COP will be",
+      "A": 5.2,
+      "B": 6.2,
+      "C": 0.168,
+      "D": "data insufficient, can't be found out",
+      "Answer": "A"
+    },
+    {
+      "Number": 298,
+      "Question": "Gibbs free energy of mixing at constant pressure and temperature is always",
+      "A": 0,
+      "B": "∞",
+      "C": "+ ve",
+      "D": "- ve",
+      "Answer": "D"
+    },
+    {
+      "Number": 299,
+      "Question": "The compressibility factor for an ideal gas is 1. Its value for any other real gas is",
+      "A": 1,
+      "B": "< 1",
+      "C": "> 1",
+      "D": "either (b) or (c), depends on the nature of the gas",
+      "Answer": "D"
+    },
+    {
+      "Number": 300,
+      "Question": "If two gases have same reduced temperature and reduced pressure, then they will have the same",
+      "A": "volume",
+      "B": "mass",
+      "C": "critical temperature",
+      "D": "none of these",
+      "Answer": "D"
+    }
+  ],
+  "Section 4": [
+    {
+      "Number": 301,
+      "Question": "Which of the following is an extensive property of a system ?",
+      "A": "Heat capacity",
+      "B": "Molal heat capacity",
+      "C": "Pressure",
+      "D": "Concentration",
+      "Answer": "A"
+    },
+    {
+      "Number": 302,
+      "Question": "The reaction A (l) → R(g) is allowed to reach equilibrium conditions in an autoclave. At equilibrium, there are two phases, one a pure liquid phase of A and the other a vapor phase of A, R and S. Initially A alone is present. The number of degrees of freedom are",
+      "A": 1,
+      "B": 2,
+      "C": 3,
+      "D": 0,
+      "Answer": "A"
+    },
+    {
+      "Number": 303,
+      "Question": "Cp - Cv = R is valid for __________ gases.",
+      "A": "ideal",
+      "B": "all",
+      "C": "very high pressure",
+      "D": "very low temperature",
+      "Answer": "A"
+    },
+    {
+      "Number": 304,
+      "Question": "At a given temperature, the volume of a gas dissolved in a solvent __________ with increase in pressure.",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains unchanged",
+      "D": "may increase or decrease; depends on the gas",
+      "Answer": "C"
+    },
+    {
+      "Number": 305,
+      "Question": "Which is an example of closed system ?",
+      "A": "Air compressor",
+      "B": "Lquid cooling system of an automobile",
+      "C": "Boiler",
+      "D": "None of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 306,
+      "Question": "Melting of wax is accompanied with __________ in entropy.",
+      "A": "increase",
+      "B": "decrease",
+      "C": "no change",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 307,
+      "Question": "A thermodynamic system is taken from state A to B along ACB and is brought back to A along BDA as shown below in the P-V diagram. (1) The net work done during the complete cycle is given by the area covered by",
+      "A": "P1ACBP2P1",
+      "B": "ACBB1A1A",
+      "C": "ACBDA",
+      "D": "ADBB1A1A",
+      "Answer": "C"
+    },
+    {
+      "Number": 308,
+      "Question": "Work done in case of free expansion is",
+      "A": "indeterminate",
+      "B": "zero",
+      "C": "negative",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 309,
+      "Question": "Chemical potential (an intensive property) of a substance is a force that drives the chemical system to equilibrium and is equal to its partial molar properties. The reatio of chemical potential to free energy of a pure substance at oconstant temperature and pressure is",
+      "A": 0,
+      "B": 1,
+      "C": "∞",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 310,
+      "Question": "During adiabatic expansion of gas",
+      "A": "pressure remains constant.",
+      "B": "pressure is increased.",
+      "C": "temperature remains constant.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 311,
+      "Question": "Which of the following has the minimum value of COP for a given refrigeration effect?",
+      "A": "Reverse Carnot cycle.",
+      "B": "Ordinary vapour-compression cycle.",
+      "C": "Vapour-compression process with a reversible expansion engine.",
+      "D": "Air refrigeration cycle.",
+      "Answer": "D"
+    },
+    {
+      "Number": 312,
+      "Question": "__________ decreases during adiabatic throttling of a perfect gas.",
+      "A": "Entropy",
+      "B": "Temperature",
+      "C": "Enthalpy",
+      "D": "Pressure",
+      "Answer": "D"
+    },
+    {
+      "Number": 313,
+      "Question": "Pick out the wrong statement.",
+      "A": "Minimum number of degree of freedom of a system is zero.",
+      "B": "Degree of freedom of a system containing a gaseous mixture of helium, carbon dioxide and hydrogen is 4.",
+      "C": "For a two phase system in equilibrium made up of four non-reacting chemical species, the number of degrees of freedom is 4.",
+      "D": "Enthalpy and internal energy change is zero during phase change processes like melting, vaporisation and sublimation.",
+      "Answer": "D"
+    },
+    {
+      "Number": 314,
+      "Question": "Tea kept in a thermos flask is vigorously shaken. If the tea is considered as a system, then its temperature will",
+      "A": "increase",
+      "B": "decrease",
+      "C": "remain unchanged",
+      "D": "first fall and then rise.",
+      "Answer": "A"
+    },
+    {
+      "Number": 315,
+      "Question": "Change of heat content when one mole of compound is burnt in oxygen at constant pressure is called the",
+      "A": "calorific value",
+      "B": "heat of reaction",
+      "C": "heat of combustion",
+      "D": "heat of formation",
+      "Answer": "C"
+    },
+    {
+      "Number": 316,
+      "Question": "Clausius - Clayperon equation is applicable to __________ equilibrium processes.",
+      "A": "solid-vapor",
+      "B": "solid-liquid",
+      "C": "liquid-vapor",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 317,
+      "Question": "In which of the following reaction equilibria, the value of equilibrium constant Kp will be more than is  Kc ?",
+      "A": "2HI ⇌ H2 + I2",
+      "B": "N2O4 ⇌ 2NO2",
+      "C": "2SO2 + O2 ⇌ 2SO3",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 318,
+      "Question": "After throttling, gas temperature",
+      "A": "decreases",
+      "B": "increases",
+      "C": "remains same",
+      "D": "may increase or decrease ; depends on the nature of the gas",
+      "Answer": "A"
+    },
+    {
+      "Number": 319,
+      "Question": "The chemical potential for a pure substance is __________ its partial molal free energy.",
+      "A": "more than",
+      "B": "less than",
+      "C": "equal to",
+      "D": "not related to",
+      "Answer": "C"
+    },
+    {
+      "Number": 320,
+      "Question": "When liquid and vapour phase of multi-component system are in equilibrium (at a given temperature and pressure), then chemical potential of each component is",
+      "A": "same in both the phases.",
+      "B": "zero in both the phases.",
+      "C": "more in vapour phase.",
+      "D": "more in liquid phase.",
+      "Answer": "A"
+    },
+    {
+      "Number": 321,
+      "Question": "COP of a refrigerator drawing 1 kW of power per ton of refrigeration is about",
+      "A": 0.5,
+      "B": 3.5,
+      "C": 4.5,
+      "D": 8.5,
+      "Answer": "B"
+    },
+    {
+      "Number": 322,
+      "Question": "The number of degrees of freedom for a mixture of ice and water (liquid) are",
+      "A": 2,
+      "B": 3,
+      "C": 1,
+      "D": 0,
+      "Answer": "C"
+    },
+    {
+      "Number": 323,
+      "Question": "On opening the door of an operating refrigerator kept in a closed room, the temperature of the room will",
+      "A": "increase",
+      "B": "decrease",
+      "C": "remain same",
+      "D": "increase in summer and will decrease in winter",
+      "Answer": "A"
+    },
+    {
+      "Number": 324,
+      "Question": "Domestic refrigerator usually works on the __________ refrigeration cycle.",
+      "A": "Carnot",
+      "B": "air",
+      "C": "absorption",
+      "D": "vapour-ejection",
+      "Answer": "C"
+    },
+    {
+      "Number": 325,
+      "Question": "Gibbs-Duhem equation",
+      "A": "states that n1dμ1 + n2dμ2 + ....njdμj = 0, for a system of definite composition at constant temperature and pressure.",
+      "B": "applies only to binary systems.",
+      "C": "finds no application in gas-liquid equilibria involved in distillation.",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 326,
+      "Question": "Minimum number of phases that exists in a system is 1. Number of chemical species in a colloidal system is",
+      "A": 1,
+      "B": 4,
+      "C": 2,
+      "D": 3,
+      "Answer": "C"
+    },
+    {
+      "Number": 327,
+      "Question": "The internal energy of a gas obeying P (V - b) RT (where,  b is a positive constant and has a constant Cv), depends upon its",
+      "A": "pressure",
+      "B": "volume",
+      "C": "temperature",
+      "D": "all of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 328,
+      "Question": "\"When a gas is expanded from high pressure region to low pressure region ; temper -ature change occurs\". This phenomenon is related to the",
+      "A": "Gibbs-Duhem equation",
+      "B": "Gibbs-Helmholtz equation",
+      "C": "Third law of thermodynamics",
+      "D": "Joule-Thomson effect",
+      "Answer": "D"
+    },
+    {
+      "Number": 329,
+      "Question": "The internal energy of an ideal gas does not change in a reversible __________ process.",
+      "A": "isothermal",
+      "B": "adiabatic",
+      "C": "isobaric",
+      "D": "isometric",
+      "Answer": "A"
+    },
+    {
+      "Number": 330,
+      "Question": "A/an __________ system is exemplified by a vessel containing a volatile liquid in contact with its vapor.",
+      "A": "isolated",
+      "B": "closed",
+      "C": "open",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 331,
+      "Question": "In a P-V diagram (for an ideal gas), an isothermal curve will coincide withan adiabatic curve (through a point), when",
+      "A": "Cp < Cv",
+      "B": "Cp = Cv",
+      "C": "Cp > Cv",
+      "D": "C ≥ Cv",
+      "Answer": "B"
+    },
+    {
+      "Number": 332,
+      "Question": "For an ideal gas, the chemical potential is given by",
+      "A": "RT dlnP",
+      "B": "R dlnP",
+      "C": "R dlnf",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 333,
+      "Question": "Two substances are in equilibrium in a reversible chemical reaction. If the concentration of each substance is doubled, then the value of the equilibrium constant will be",
+      "A": "same",
+      "B": "doubled",
+      "C": "halved",
+      "D": "one fourth of its original value",
+      "Answer": "A"
+    },
+    {
+      "Number": 334,
+      "Question": "In the ammonia synthesis reaction, N2 + 3H2 ⇌ 2NH3 + 22.4 kcal, the formation of NH3 will be favoured by",
+      "A": "high temperature.",
+      "B": "low pressure.",
+      "C": "low temperature only.",
+      "D": "both low temperature and high pressure.",
+      "Answer": "D"
+    },
+    {
+      "Number": 335,
+      "Question": "Entropy change for an irreversible isolated system is",
+      "A": "∞",
+      "B": 0,
+      "C": "< 0",
+      "D": "> 0",
+      "Answer": "D"
+    },
+    {
+      "Number": 336,
+      "Question": "Heat requirement for decomposition of a compound into its elements is __________ that is evolved during the formation of that compound from its elements.",
+      "A": "the same",
+      "B": "less than",
+      "C": "greater than",
+      "D": "different than",
+      "Answer": "A"
+    },
+    {
+      "Number": 337,
+      "Question": "The unit of equilibrium constant of a chemical reaction is the same as that of",
+      "A": "molar concentration",
+      "B": "temperature",
+      "C": "internal energy",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 338,
+      "Question": "Which of the following equations is obtained on combining 1st and 2nd law of thermodynamics, for a system of constant mass?",
+      "A": "dE = Tds - PdV",
+      "B": "dQ = CvdT + PdV",
+      "C": "dQ = CpdT + Vdp",
+      "D": "Tds = dE - PdV",
+      "Answer": "A"
+    },
+    {
+      "Number": 339,
+      "Question": "The Joule-Thomson co-efficient is defined as (∂T/∂P)H. Its value at the inversion point is",
+      "A": "∞",
+      "B": 1,
+      "C": 0,
+      "D": "-ve",
+      "Answer": "C"
+    },
+    {
+      "Number": 340,
+      "Question": "Fugacity of a component in an ideal gas mixture is euqal to the partial pressure of that component in the mixture. The fugacity of each component in a stable homogeneous solution at contant pressure and temperature __________ as its mole fraction increases.",
+      "A": "decreases",
+      "B": "decreases exponentially",
+      "C": "increases",
+      "D": "remains constant",
+      "Answer": "C"
+    },
+    {
+      "Number": 341,
+      "Question": "Entropy is a/an",
+      "A": "state function",
+      "B": "macroscopic property",
+      "C": "extensive property",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 342,
+      "Question": "At triple point (for one component system), vapour pressure of solid as compared to that of liquid will be",
+      "A": "more",
+      "B": "less",
+      "C": "same",
+      "D": "more or less ; depending on the system.",
+      "Answer": "C"
+    },
+    {
+      "Number": 343,
+      "Question": "4 kg moles of an ideal gas expands in vacuum spontaneously. The work done is",
+      "A": "4 J",
+      "B": "∞",
+      "C": 0,
+      "D": "8 J",
+      "Answer": "C"
+    },
+    {
+      "Number": 344,
+      "Question": "Which of the following is not correct for a reversible adiabatic process ?",
+      "A": "TVγ-1 = constant",
+      "B": "p1-γ.TY = constant",
+      "C": "PVγ = constant",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 345,
+      "Question": "The efficiency of a Carnot heat engine operating between absolute temperatures T1 and T2 (when, T1 > T2) is given by (T1 - T2)/T1. The co-efficient of performance (C.O.P.) of a Carnot heat pump operating between T1 and T2 is given by",
+      "A": "T1/(T1-T2)",
+      "B": "T2/(T1-T2)",
+      "C": "T1/T2",
+      "D": "T2/R1",
+      "Answer": "A"
+    },
+    {
+      "Number": 346,
+      "Question": "Throttling (Joule-Thomson effect) process is a constant __________ process.",
+      "A": "enthalpy",
+      "B": "entropy",
+      "C": "pressure",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 347,
+      "Question": "Boiling of liquid is accompanied with increase in the",
+      "A": "vapor pressure.",
+      "B": "specific Gibbs free energy.",
+      "C": "specific entropy.",
+      "D": "all of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 348,
+      "Question": "Change of state namely evaportation condensation, freezing and melting is an __________ process.",
+      "A": "isothermal",
+      "B": "adiabatic",
+      "C": "isobaric",
+      "D": "isochoric",
+      "Answer": "A"
+    },
+    {
+      "Number": 349,
+      "Question": "Which of the following is not an equation of state?",
+      "A": "Bertholet equation",
+      "B": "Clausius Clayperon equation",
+      "C": "Beattie-Bridgeman equation",
+      "D": "None of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 350,
+      "Question": "A gas shows deviation from ideal behaviour at",
+      "A": "low pressure and high temperature.",
+      "B": "low pressure and low temperature.",
+      "C": "low temperature and high pressure.",
+      "D": "high temperature and high pressure.",
+      "Answer": "C"
+    },
+    {
+      "Number": 351,
+      "Question": "The difference between isothermal compressibility and adiabatic compressibility for an ideal gas is",
+      "A": 0,
+      "B": "+ve",
+      "C": "-ve",
+      "D": "∞",
+      "Answer": "B"
+    },
+    {
+      "Number": 352,
+      "Question": "The expression for entropy change given by, ΔS = - nR ln (P2/P1), holds good for",
+      "A": "expansion of a real gas.",
+      "B": "reversible isothermal volume change.",
+      "C": "heating of an ideal gas.",
+      "D": "cooling of a real gas.",
+      "Answer": "B"
+    },
+    {
+      "Number": 353,
+      "Question": "With increase in temperature, the internal energy of a substance",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains unchanged",
+      "D": "may increase or decrease; depends on the substance",
+      "Answer": "A"
+    },
+    {
+      "Number": 354,
+      "Question": "It is desired to bring about a certain change in the state of a system by performing work on the system under adiabatic conditions.",
+      "A": "The amount of work needed is path dependent.",
+      "B": "Work alone can not bring out such a change of state.",
+      "C": "The amount of work needed is independent of path.",
+      "D": "More information is needed to conclude anything about the path dependence or otherwise of the work needed.",
+      "Answer": "A"
+    },
+    {
+      "Number": 355,
+      "Question": "For a constant pressure reversible process, the enthalpy change (ΔH) of the system is",
+      "A": "Cv.dT",
+      "B": "Cp.dT",
+      "C": "integ Cv.dT",
+      "D": "integ Cp.dT",
+      "Answer": "C"
+    },
+    {
+      "Number": 356,
+      "Question": "The work done in isothermal compression compared to that in adiabatic compression will be",
+      "A": "less",
+      "B": "more",
+      "C": "same",
+      "D": "more or less depending upon the extent of work done",
+      "Answer": "B"
+    },
+    {
+      "Number": 357,
+      "Question": "For organic compounds, group contribution method can be used for the estimation of",
+      "A": "critical properties.",
+      "B": "specific gravity.",
+      "C": "specific volume.",
+      "D": "thermal conductivity.",
+      "Answer": "A"
+    },
+    {
+      "Number": 358,
+      "Question": "Specific __________ does not change during phase change at constant temperature and pressure.",
+      "A": "entropy",
+      "B": "Gibbs energy",
+      "C": "internal energy",
+      "D": "enthalpy",
+      "Answer": "B"
+    },
+    {
+      "Number": 359,
+      "Question": "When liquid and vapour phases of one component system are in equilibrium (at a given temperature and pressure), the molar free energy is",
+      "A": "more in vapour phase.",
+      "B": "more in liquid phase.",
+      "C": "same in both the phases.",
+      "D": "replaced by chemical potential which is more in vapour phase.",
+      "Answer": "C"
+    },
+    {
+      "Number": 360,
+      "Question": "Heat evolved/absorbed during conversion of a substance from one allotropic form to another is termed as the heat of",
+      "A": "fusion",
+      "B": "vaporisation",
+      "C": "transition",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 361,
+      "Question": "What happens in a reversible adiabatic compression ?",
+      "A": "Heating occurs",
+      "B": "Cooling occurs",
+      "C": "Pressure is constant",
+      "D": "Temperature is constant",
+      "Answer": "A"
+    },
+    {
+      "Number": 362,
+      "Question": "Sublimation temperature of dry ice (solid CO2) is __________ °C.",
+      "A": -273,
+      "B": 0,
+      "C": -78,
+      "D": 5,
+      "Answer": "C"
+    },
+    {
+      "Number": 363,
+      "Question": "If atmospheric temperature and dew point are nearly equal, then the relative humidity is",
+      "A": "zero",
+      "B": 0.5,
+      "C": "almost 100%",
+      "D": "unpredictable",
+      "Answer": "C"
+    },
+    {
+      "Number": 364,
+      "Question": "Entropy change in case of reversible adiabatic process is",
+      "A": "minimum",
+      "B": "zero",
+      "C": "maximum",
+      "D": "indeterminate",
+      "Answer": "B"
+    },
+    {
+      "Number": 365,
+      "Question": "In reactions involving solids and liquids (where change in volume is negligible), the heat of reaction at constant pressure as compared to that at constant volume is",
+      "A": "more",
+      "B": "less",
+      "C": "same",
+      "D": "unpredictable; depends on the particular reaction",
+      "Answer": "C"
+    },
+    {
+      "Number": 366,
+      "Question": "The efficiency of an Otto engine compared to that of a diesel engine, for the same compression ratio will be",
+      "A": "more",
+      "B": "less",
+      "C": "same",
+      "D": "data insufficient to predict",
+      "Answer": "A"
+    },
+    {
+      "Number": 367,
+      "Question": "Mollier chart is a __________ plot.",
+      "A": "pressure vs enthalpy",
+      "B": "pressure vs volume",
+      "C": "enthalpy vs entropy",
+      "D": "temperature vs entropy",
+      "Answer": "C"
+    },
+    {
+      "Number": 368,
+      "Question": "Variation of equilibrium pressure with temperature for any two phases of a given substances is given by the __________ equation.",
+      "A": "Gibbs-Duhem",
+      "B": "Maxwell's",
+      "C": "Clayperon",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 369,
+      "Question": "Pick out the undesirable property for a good refrigerant.",
+      "A": "high thermal conductivity",
+      "B": "low freezing point",
+      "C": "large latent heat of vaporisation",
+      "D": "high viscosity",
+      "Answer": "D"
+    },
+    {
+      "Number": 370,
+      "Question": "Isotherm on an enthalpy-concentration diagram, for an ideal solution will be a",
+      "A": "straight line",
+      "B": "sine curve",
+      "C": "parabola",
+      "D": "hyperbola",
+      "Answer": "A"
+    },
+    {
+      "Number": 371,
+      "Question": "The fusion of a crystalline solid at its melting point to form a liquid at the same temperature is accompanied by",
+      "A": "decrease in enthalpy corresponding to evolution of heat.",
+      "B": "decrease of entropy.",
+      "C": "increase in enthalpy corresponding to absorption of heat.",
+      "D": "no change in enthalpy.",
+      "Answer": "C"
+    },
+    {
+      "Number": 372,
+      "Question": "Melting of ice is an example of an __________ process.",
+      "A": "adiabatic",
+      "B": "isothermal",
+      "C": "isometric",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 373,
+      "Question": "A cylinder contains 640 gm of liquid oxygen. The volume occupied (in litres) by the oxygen, when it is released and brought to standard conditions (0°C, 760 mm Hg) will be __________ litres.",
+      "A": 448,
+      "B": 224,
+      "C": 22.4,
+      "D": "data insufficient; can't be computed",
+      "Answer": "A"
+    },
+    {
+      "Number": 374,
+      "Question": "Rotary lime kiln is  an example of a/an __________ system.",
+      "A": "closed",
+      "B": "open",
+      "C": "isolated",
+      "D": "non-thermodynamic",
+      "Answer": "B"
+    },
+    {
+      "Number": 375,
+      "Question": "Heat of reaction is",
+      "A": "dependent on pressure only.",
+      "B": "dependent on temperature only.",
+      "C": "dependent on both pressure and temperature.",
+      "D": "independent of temperature changes.",
+      "Answer": "C"
+    },
+    {
+      "Number": 376,
+      "Question": "The expression,  , is  for the____of an ideal gas.",
+      "A": "compressibility",
+      "B": "work done under adiabatic contition",
+      "C": "work done under isothermal condition",
+      "D": "co-efficient of thermal expansion",
+      "Answer": "C"
+    },
+    {
+      "Number": 377,
+      "Question": "What happens in a reversible adiabatic expansion process ?",
+      "A": "Heating takes place.",
+      "B": "Cooling takes place.",
+      "C": "Pressure is constant.",
+      "D": "Temperature is constant.",
+      "Answer": "B"
+    },
+    {
+      "Number": 378,
+      "Question": "Degree of freedom of a system consisting of a gaseous mixture of H2 and NH3 will be",
+      "A": 0,
+      "B": 1,
+      "C": 2,
+      "D": 3,
+      "Answer": "D"
+    },
+    {
+      "Number": 379,
+      "Question": "On a P-V diagram of an ideal gas, suppose a reversible adiabatic line intersects a reversible isothermal line at point A. Then at a point A, the slope of the reversible adiabatic line (∂P/∂V)s and the slope of the reversible isothermal line (∂P/∂V)T are related as (where, y = Cp/Cv)",
+      "A": "(∂P/∂V)S = (∂P/∂V)T",
+      "B": "(∂P/∂V)S = [(∂P/∂V)T]^Y",
+      "C": "(∂P/∂V)S = y(∂P/∂V)T",
+      "D": "(∂P/∂V)S = 1/y(∂P/∂V)T",
+      "Answer": "C"
+    },
+    {
+      "Number": 380,
+      "Question": "Pick out the wrong statement.",
+      "A": "The net change in entropy in any reversible cycle is always zero.",
+      "B": "The entropy of the system as a whole in an irreversible process increases.",
+      "C": "The entropy of the universe tends to a maximum.",
+      "D": "The entropy of a substance does not remain constant during a reversible adiabatie change.",
+      "Answer": "C"
+    },
+    {
+      "Number": 381,
+      "Question": "Fugacity co-efficient of a substance is the ratio of its fugacity to",
+      "A": "mole fraction",
+      "B": "activity",
+      "C": "pressure",
+      "D": "activity co-efficient",
+      "Answer": "D"
+    },
+    {
+      "Number": 382,
+      "Question": "Dryness fraction of wet steam is defined as the ratio of mass of vapour in the mixture to the mass of mixture __________ calorimeter is not used for measuring the dryness fraction of steam.",
+      "A": "Bomb",
+      "B": "Separating",
+      "C": "Bucket",
+      "D": "Throttling",
+      "Answer": "A"
+    },
+    {
+      "Number": 383,
+      "Question": "As the time is passing, entropy of the universe",
+      "A": "is increasing",
+      "B": "is decreasing",
+      "C": "remains constant",
+      "D": "data insufficient, can't be predicted",
+      "Answer": "A"
+    },
+    {
+      "Number": 384,
+      "Question": "Which of the following processes can not be made reversible even under ideal condition of operation?",
+      "A": "Free expansion of a gas.",
+      "B": "Compression of air in a compressor.",
+      "C": "Expansion of steam in a turbine.",
+      "D": "all of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 385,
+      "Question": "The relation connecting the fugacities of various components in a solution with one another and to composition at constant temperature and pressure is called the __________ equation.",
+      "A": "Gibbs-Duhem",
+      "B": "Van Laar",
+      "C": "Gibbs-Helmholtz",
+      "D": "Margules",
+      "Answer": "A"
+    },
+    {
+      "Number": 386,
+      "Question": "Which of the following identities can be most easily used to verify steam table data for superheated steam.",
+      "A": "(∂T/∂V)S = (∂p/∂S)V",
+      "B": "(∂T/∂P)S = (∂V/∂S)P",
+      "C": "(∂P/∂T)V = (∂S/∂V)T",
+      "D": "(∂V/∂T)P = -(∂S/∂P)T",
+      "Answer": "D"
+    },
+    {
+      "Number": 387,
+      "Question": "In the equation PVn = constant, if the value of n = y = Cp/Cv, then it represents a reversible __________ process.",
+      "A": "isothermal",
+      "B": "adiabatic",
+      "C": "isentropic",
+      "D": "polytropic",
+      "Answer": "C"
+    },
+    {
+      "Number": 388,
+      "Question": "The ammonia synthesis reaction represented by N2 + 3H2 ⇌ 2NH3 ; ΔH = - 22.4 kcal, is",
+      "A": "endothermic",
+      "B": "exothermic",
+      "C": "isothermal",
+      "D": "adiabatic",
+      "Answer": "B"
+    },
+    {
+      "Number": 389,
+      "Question": "With increase in temperature, the atomic heat capacities of all solid elements",
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains unchanged",
+      "D": "decreases linearly",
+      "Answer": "A"
+    },
+    {
+      "Number": 390,
+      "Question": "The temperature at the eutectic point of the system is the __________ temperature that can be attained in the system.",
+      "A": "lowest",
+      "B": "highest",
+      "C": "average",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 391,
+      "Question": "The effect of changing the evaporator temperature on COP as compared to that of changing the condenser temperature (in vapour compression refrigeration system) is",
+      "A": "less pronounced",
+      "B": "more pronounced",
+      "C": "equal",
+      "D": "data insufficient, can't be predicted.",
+      "Answer": "B"
+    },
+    {
+      "Number": 392,
+      "Question": "Steam undergoes isentropic expansion in a turbine from 5000 kPa and 400°C (entropy = 6.65 kJ/kg K) to 150 kPa) (entropy of saturated liquid = 1.4336 kJ/kg . K, entropy of saturated vapour = 7.2234 kJ/kg. K) The exit condition of steam is",
+      "A": "superheated vapour.",
+      "B": "partially condensed vapour with quality of 0.9.",
+      "C": "saturated vapour.",
+      "D": "partially condensed vapour with quality of 0.1.",
+      "Answer": "A"
+    },
+    {
+      "Number": 393,
+      "Question": "An isentropic process is carried out at constant",
+      "A": "volume",
+      "B": "pressure",
+      "C": "temperature",
+      "D": "all of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 394,
+      "Question": "All gases except __________ shows a cooling effect during throttling process at atmospheric temperature and pressure.",
+      "A": "oxygen",
+      "B": "nitrogen",
+      "C": "air",
+      "D": "hydrogen",
+      "Answer": "D"
+    },
+    {
+      "Number": 395,
+      "Question": "High pressure steam is expanded adiabati-cally and reversibly through a well insulated turbine, which produces some shaft work. If the enthalpy change and entropy change across the turbine are represented by ΔH and ΔS respectively for this process:",
+      "A": "Δ H = 0 and ΔS = 0.",
+      "B": "Δ H ≠ 0 and ΔS = 0.",
+      "C": "Δ H ≠ 0 and ΔS ≠ 0.",
+      "D": "Δ H = 0 and ΔS ≠ 0.",
+      "Answer": "B"
+    },
+    {
+      "Number": 396,
+      "Question": "The necessary condition for phase equilibrium in a multiphase system of N components is that the",
+      "A": "chemical potentials of a given component should be equal in all phases.",
+      "B": "chemical potentials of all components should be same in a particular phase.",
+      "C": "sum of the chemical potentials of any given component in all the phases should be the same.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 397,
+      "Question": "Compressibility factor-reduced pressure plot on reduced co-ordinates facilitates",
+      "A": "use of only one graph for all gases.",
+      "B": "covering of wide range.",
+      "C": "easier plotting.",
+      "D": "more accurate plotting.",
+      "Answer": "A"
+    },
+    {
+      "Number": 398,
+      "Question": "Which of the following is not an intensive property ?",
+      "A": "Molar heat capacity",
+      "B": "Internal energy",
+      "C": "Viscosity",
+      "D": "None of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 399,
+      "Question": "Pick out the wrong statement.",
+      "A": "At constant pressure, solubility of a gas in a liquid diminishes with rise in temperature.",
+      "B": "Normally, the gases which are easily liquified, are more soluble in common solvents.",
+      "C": "The gases which are capable of forming ions in aqueous solution, are much more soluble in water than in other solvents.",
+      "D": "At constant pressure, solubility of a gas in a liquid increases with rise in temperature.",
+      "Answer": "A"
+    },
+    {
+      "Number": 400,
+      "Question": "Gibbs phase rule finds application, when heat transfer occurs by",
+      "A": "conduction",
+      "B": "convection",
+      "C": "radiation",
+      "D": "condensation",
+      "Answer": "D"
+    },
+    {
+      "Number": 401,
+      "Question": "Absorption/evolution of heat during conversion of a substance from one allotropic form to another is termed as the heat of",
+      "A": "sublimation",
+      "B": "fusion",
+      "C": "transition",
+      "D": "vaporisation",
+      "Answer": "C"
+    },
+    {
+      "Number": 402,
+      "Question": "Ideal gas law is applicable at",
+      "A": "low T, low P",
+      "B": "high T, high P",
+      "C": "low T, high P",
+      "D": "high T, low P",
+      "Answer": "D"
+    },
+    {
+      "Number": 403,
+      "Question": "Reduced pressure of a gas is the ratio of its",
+      "A": "pressure to critical pressure.",
+      "B": "critical pressure to pressure.",
+      "C": "pressure to pseudocritical pressure.",
+      "D": "pseudocritical pressure to pressure.",
+      "Answer": "A"
+    }
+  ],
+  "Section 5": [
+    {
+      "Number": 404,
+      "Question": "For a reversible process involving only pressure-volume work",
+      "A": "(dF)T, p < 0",
+      "B": "(dF)T, p > 0",
+      "C": "(dF)T, p = 0",
+      "D": "(dA)T, v < 0",
+      "Answer": "C"
+    },
+    {
+      "Number": 405,
+      "Question": "Air enters an adiabatic compressor at 300K. The exit temperature for a compression ratio of 3, assuming air to be an ideal gas (Y = Cp/Cv = 7/5) and the process to be reversible, is",
+      "A": "300(32/7)",
+      "B": "300(33/5)",
+      "C": "300(333/7)",
+      "D": "300(35/7)",
+      "Answer": "A"
+    },
+    {
+      "Number": 406,
+      "Question": "Entropy change for an irreversible process taking system and surrounding together is",
+      "A": 0,
+      "B": "> 0",
+      "C": "<  0",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 407,
+      "Question": "In a homogeneous solution, the fugacity of a component depends upon the",
+      "A": "pressure",
+      "B": "composition",
+      "C": "temperature",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 408,
+      "Question": "For an incompressible fluid, the __________ is a function of both pressure as well as temperature.",
+      "A": "internal energy",
+      "B": "enthalpy",
+      "C": "entropy",
+      "D": "all of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 409,
+      "Question": "An ideal monoatomic gas is taken round the cycle ABCDA as shown below in the P-V diagram (1)  The work done during the cycle is",
+      "A": "PV",
+      "B": "2PV",
+      "C": "PV/2",
+      "D": 0,
+      "Answer": "A"
+    },
+    {
+      "Number": 410,
+      "Question": "One ton of refrigeration capacity is equivalent to the heat removal rate of",
+      "A": "50 k cal/hr",
+      "B": "200 BTU/hr",
+      "C": "200 BTU/minute",
+      "D": "200 BTU/day",
+      "Answer": "C"
+    },
+    {
+      "Number": 411,
+      "Question": "What is the degree of freedom for a system comprising liquid water equilibrium with its vapour ?",
+      "A": 0,
+      "B": 1,
+      "C": 2,
+      "D": 3,
+      "Answer": "B"
+    },
+    {
+      "Number": 412,
+      "Question": "Equilibrium constant of a reaction varies with the",
+      "A": "initial concentration of the reactant.",
+      "B": "pressure.",
+      "C": "temperature.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 413,
+      "Question": "Third law of thermodynamics is concerned with the",
+      "A": "value of absolute entropy.",
+      "B": "energy transfer.",
+      "C": "direction of energy transfer.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 414,
+      "Question": "Claude's liquefaction process employs the cooling of gases by",
+      "A": "expansion in an engine",
+      "B": "following a constant pressure cycle",
+      "C": "throttling",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 415,
+      "Question": "Gibbs free energy (F) is defined as",
+      "A": "F = E - TS",
+      "B": "F = H - TS",
+      "C": "F = H + TS",
+      "D": "F = E + TS",
+      "Answer": "B"
+    },
+    {
+      "Number": 416,
+      "Question": "The expression for entropy change given by, ΔS = nR ln (V2/V1) + nCv ln (T2/T1) is valid for",
+      "A": "reversible isothermal volume change.",
+      "B": "heating of a substance.",
+      "C": "cooling of a substance.",
+      "D": "simultaneous heating and expansion of an ideal gas.",
+      "Answer": "D"
+    },
+    {
+      "Number": 417,
+      "Question": "The second law of thermodynamics states that",
+      "A": "the energy change of a system undergoing any reversible process is zero.",
+      "B": "it is not possible to transfer heat from a lower temperature to a higher temperature.",
+      "C": "the total energy of system and surrounding remains the same.",
+      "D": "none of the above.",
+      "Answer": "D"
+    },
+    {
+      "Number": 418,
+      "Question": "Internal energy of an ideal gas",
+      "A": "increases with increase in pressure.",
+      "B": "decreases with increase in temperature.",
+      "C": "is independent of temperature.",
+      "D": "none of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 419,
+      "Question": "A refrigerator works on the principle of __________ law of thermodynamics.",
+      "A": "zeroth",
+      "B": "first",
+      "C": "second",
+      "D": "third",
+      "Answer": "C"
+    },
+    {
+      "Number": 420,
+      "Question": "Pick out the wrong statement.",
+      "A": "The conversion for a gas phase reaction increases with decrease in pressure, if there is an increase in volume accompanying the reaction.",
+      "B": "With increase in temperature, the equilibrium constant increases for an exothermic reaction.",
+      "C": "The equilibrium constant of a reaction depends upon temperature only.",
+      "D": "The conversion for a gas phase reaction increases with increase in pressure, if there is a decrease in volume accompanying the reaction.",
+      "Answer": "B"
+    },
+    {
+      "Number": 421,
+      "Question": "Pick out the wrong statement.",
+      "A": "Enthalpies of all elements in their standard states are assumed to be zero.",
+      "B": "Combustion reactions are never en-dothermic in nature.",
+      "C": "Heat of reaction at constant volume is equal to the change in internal energy.",
+      "D": "Claussius-clayperon equation is not applicable to melting process.",
+      "Answer": "D"
+    },
+    {
+      "Number": 422,
+      "Question": "Which of the following is affected by the temperature ?",
+      "A": "Fugacity",
+      "B": "Activity co-efficient",
+      "C": "Free energy",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 423,
+      "Question": "The molar excess Gibbs free energy, g^E, for a binary liquid mixture at T and P is given by, (g^E/RT) = A . x1. x2, where A is a constant. The corresponding equation for ln y1, where y1 is the activity co-efficient of component 1, is",
+      "A": "A . X2^2",
+      "B": "Ax1",
+      "C": "Ax2",
+      "D": "Ax1^2",
+      "Answer": "A"
+    },
+    {
+      "Number": 424,
+      "Question": "The adiabatic throttling process of a perfect gas is one of constant enthalpy",
+      "A": "in which there is a temperature drop.",
+      "B": "which is exemplified by a non-steady flow expansion.",
+      "C": "which can be performed in a pipe with a constriction.",
+      "D": "in which there is an increase in temperature.",
+      "Answer": "C"
+    },
+    {
+      "Number": 425,
+      "Question": "For spontaneous changes in an isolated system (S = entropy)",
+      "A": "ds = 0",
+      "B": "ds <0",
+      "C": "ds > 0",
+      "D": "ds = Constant",
+      "Answer": "C"
+    },
+    {
+      "Number": 426,
+      "Question": "A gas performs the maximum work, when it expands",
+      "A": "non-uniformly",
+      "B": "adiabatically",
+      "C": "isobarically",
+      "D": "isothermally",
+      "Answer": "C"
+    },
+    {
+      "Number": 427,
+      "Question": "There is a change in __________ during the phase transition.",
+      "A": "volume",
+      "B": "pressure",
+      "C": "temperature",
+      "D": "all a, b & c",
+      "Answer": "A"
+    },
+    {
+      "Number": 428,
+      "Question": "Which of the following is Virial equation of state?",
+      "A": "(p + a/V^2)(V - b) = nRT",
+      "B": "PV = nRT",
+      "C": "PV = A + B/V + C/V^2 + D/V^3 + ...",
+      "Answer": "C"
+    },
+    {
+      "Number": 429,
+      "Question": "Pressure-enthalpy chart is useful in refrigeration. The change in internal energy of an ideal fluid used in ideal refrigeration cycle is",
+      "A": "positive",
+      "B": "negative",
+      "C": "zero",
+      "D": "infinity",
+      "Answer": "C"
+    },
+    {
+      "Number": 430,
+      "Question": "First law of thermodynamics deals with the",
+      "A": "direction of energy transfer.",
+      "B": "reversible processes only.",
+      "C": "irreversible processes only.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 431,
+      "Question": "Henry's law is closely obeyed by a gas, when its __________ is extremely high.",
+      "A": "pressure",
+      "B": "solubility",
+      "C": "temperature",
+      "D": "none of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 432,
+      "Question": "A solute distributes itself between two non-miscible solvents in contact with each other in such a way that, at a constant temperature, the ratio of its concentrations in two layers is constant, irrespective of its total amount\". This is",
+      "A": "the distribution law.",
+      "B": "followed from Margule's equation.",
+      "C": "a corollary of Henry's law.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 433,
+      "Question": "A solid is transformed into vapour without going to the liquid phase at",
+      "A": "triple point",
+      "B": "boiling point",
+      "C": "below triple point",
+      "D": "always",
+      "Answer": "A"
+    },
+    {
+      "Number": 434,
+      "Question": "A gas mixture of three components is brought in contact with a dispersion of an organic phase in water. The degree of freedom of the system are",
+      "A": 4,
+      "B": 3,
+      "C": 5,
+      "D": 6,
+      "Answer": "B"
+    },
+    {
+      "Number": 435,
+      "Question": "1m^3 of an ideal gas at 500 K and 1000 kPa expands reversibly to 5 times its initial volume in an insulated container. If the specific heat capacity (at constant pressure) of the gas is 21 J/mole . K, the final temperature will be",
+      "A": "35 K",
+      "B": "174 K",
+      "C": "274 K",
+      "D": "154 K",
+      "Answer": "C"
+    },
+    {
+      "Number": 436,
+      "Question": "For a thermodynamic system containing 'x' chemical species, the maximum number of phases that can co-exist at equilibrium is",
+      "A": "x",
+      "B": "x + 1",
+      "C": "x + 2",
+      "D": "x + 3",
+      "Answer": "C"
+    },
+    {
+      "Number": 437,
+      "Question": "A reasonably general expression for vapour-liquid phase equilibrium at low to moderate pressure is Φi yi P = Yi xi fi° where, Φ is a vapor fugacity component, Yi is the liquid activity co-efficient and fi° is the fugacity of the pure component i. the Ki value (Yi = Ki xi) is therefore, in general a function of",
+      "A": "temperature only.",
+      "B": "temperature and pressure only.",
+      "C": "temperature, pressure and liquid composition xi only.",
+      "D": "temperature, pressure, liquid composition xi and vapour composition yi.",
+      "Answer": "C"
+    },
+    {
+      "Number": 438,
+      "Question": "Standard temperature and pressure (S.T.P.) is",
+      "A": "0°C and 750 mm Hg",
+      "B": "15°C and 750 mm Hg",
+      "C": "0°C and 1 kgf/cm^2",
+      "D": "15°C and 1 kgf/cm^2",
+      "Answer": "A"
+    },
+    {
+      "Number": 439,
+      "Question": "Normal temperature and pressure (N.T.P.) corresponds to",
+      "A": "0°C and 760 mm Hg.",
+      "B": "15°C and 760 mm Hg.",
+      "C": "20°C and 760 mm Hg.",
+      "D": "0°C and 1 kgf/cm^2.",
+      "Answer": "C"
+    },
+    {
+      "Number": 440,
+      "Question": "The minimum number of phases that can exist in a system is",
+      "A": 0,
+      "B": 1,
+      "C": 2,
+      "D": 3,
+      "Answer": "B"
+    },
+    {
+      "Number": 441,
+      "Question": "Enthalpy changes over a constant pressure path are always zero for __________ gas.",
+      "A": "any",
+      "B": "a perfect",
+      "C": "an easily liquefiable",
+      "D": "a real",
+      "Answer": "B"
+    },
+    {
+      "Number": 442,
+      "Question": "The fugacity of a gas in a mixture is equal to the product of its mole fraction and its fugacity in the pure state at the total pressure of the mixture\". This is",
+      "A": "the statement as per Gibbs-Helmholtz",
+      "B": "called Lewis-Randall rule",
+      "C": "Henry's law",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 443,
+      "Question": "__________ does not change during phase transformation processes like sublimation, melting & vaporisation.",
+      "A": "Entropy",
+      "B": "Gibbs free energy",
+      "C": "Internal energy",
+      "D": "all of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 444,
+      "Question": "Which one is true for a throttling process ?",
+      "A": "A gas may have more than one inversion temperatures.",
+      "B": "The inversion temperature is different for different gases.",
+      "C": "The inversion temperature is same for all gases.",
+      "D": "The inversion temperature is the temperature at which Joule-Thomson co-efficient is infinity.",
+      "Answer": "B"
+    },
+    {
+      "Number": 445,
+      "Question": "Choose the condition that must be specified in order to liquify CO2 (triple point for CO2 is - 57°C and 5.2 atm).",
+      "A": "Pressure must be kept below 5.2 atm.",
+      "B": "Temperature must be kept above - 57°C.",
+      "C": "Pressure must be kept below 5.2 atm. and temperature must be kept above 57°C.",
+      "D": "Pressure and temperature must be kept below 5.2 atm. and - 57°C respectively.",
+      "Answer": "D"
+    },
+    {
+      "Number": 446,
+      "Question": "One mole of nitrogen at 8 bar and 600 K is contained in a piston-cylinder arrangement. It is brought to 1 bar isothermally against a resisting pressure of 1 bar. The work done (in Joules) by the gas is",
+      "A": 30554,
+      "B": 10373,
+      "C": 4988.4,
+      "D": 4364.9,
+      "Answer": "B"
+    },
+    {
+      "Number": 447,
+      "Question": "Lenz's law results from the law of conservation of",
+      "A": "mass",
+      "B": "momentum",
+      "C": "energy",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 448,
+      "Question": "In the equation, PVn = constant, if the value of n is in between 1 and y (i.e. Cp/Cv), then it represents a reversible __________ process.",
+      "A": "isometric",
+      "B": "polytropic",
+      "C": "isentropic",
+      "D": "isobaric",
+      "Answer": "B"
+    },
+    {
+      "Number": 449,
+      "Question": "Throttling process is a/an __________ process.",
+      "A": "reversible and isothermal",
+      "B": "irreversible and constant enthalpy",
+      "C": "reversible and constant entropy",
+      "D": "reversible and constant enthalpy",
+      "Answer": "B"
+    },
+    {
+      "Number": 450,
+      "Question": "The main feature of Carnot refrigeration cycle is that, it",
+      "A": "does not need the addition of external work for its functioning.",
+      "B": "transfers heat from high temperature to low temperature.",
+      "C": "accomplishes the reverse effect of the heat engine.",
+      "D": "none of these.",
+      "Answer": "C"
+    },
+    {
+      "Number": 451,
+      "Question": "Charles' law for gases states that",
+      "A": "V/2 = Constant",
+      "B": "V ∞ 1/T",
+      "C": "V ∞ 1/p",
+      "D": " PV/T = Constant",
+      "Answer": "A"
+    },
+    {
+      "Number": 452,
+      "Question": "If heat contents of CH4, C2H4 and C3H8 are -17.9, 12.5 and -24.8 kcal/mole respectively, than ΔH for the reaction CH4(g) + C2H4(g)  C3H8(g) will be __________ Kcal.",
+      "A": -19.4,
+      "B": -30.2,
+      "C": 55.2,
+      "D": -55.2,
+      "Answer": "A"
+    },
+    {
+      "Number": 453,
+      "Question": "Helmholtz free energy (A) is defined as",
+      "A": "A = H - TS",
+      "B": "A = E - TS",
+      "C": "A = H + TS",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 454,
+      "Question": "As pressure approaches zero, the ratio of fugacity to pressure (f/P) for a gas approaches",
+      "A": "zero",
+      "B": "unity",
+      "C": "infinity",
+      "D": "an indeterminate value",
+      "Answer": "B"
+    },
+    {
+      "Number": 455,
+      "Question": "For any system, what is the minimum number of degrees of freedom?",
+      "A": 1,
+      "B": 0,
+      "C": 2,
+      "D": 3,
+      "Answer": "B"
+    },
+    {
+      "Number": 456,
+      "Question": "At 60° C, vapour pressure of methanol and water are 84.562 kPa and 19.953 kPa respectively. An aqueous solution of methanol at 60° C exerts a pressure of 39.223 kPa; the liquid phase and vapour phase mole fractions of methanol are 0.1686 and 0.5714 respectively. Activity co-efficient of methanol is",
+      "A": 1.572,
+      "B": 1.9398,
+      "C": 3.389,
+      "D": 4.238,
+      "Answer": "A"
+    },
+    {
+      "Number": 457,
+      "Question": "The variation of heat of reaction with temperature at constant pressure is given by the __________ law.",
+      "A": "Kelvin's",
+      "B": "Antonie's",
+      "C": "Kirchoffs",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 458,
+      "Question": "At absolute zero temperature, the __________ of the gas is zero.",
+      "A": "pressure",
+      "B": "volume",
+      "C": "mass",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 459,
+      "Question": "Which of the following equations is used for the prediction of activity co-efficient from experiments ?",
+      "A": "Van Laar equation",
+      "B": "Margules equation",
+      "C": "Wilson's equation",
+      "D": "all of these",
+      "Answer": "D"
+    },
+    {
+      "Number": 460,
+      "Question": "The equation, , applicable to a binary solution of components. A and B in equilibrium with their vapors at constant temperature and pressure is called the __________ equation.",
+      "A": "Van Laar",
+      "B": "Margules",
+      "C": "Gibbs-Duhem",
+      "D": "Gibbs-Duhem-Margules",
+      "Answer": "D"
+    },
+    {
+      "Number": 461,
+      "Question": "Entropy of a substance remains constant during a/an __________ change.",
+      "A": "reversible isothermal",
+      "B": "irreversible isothermal",
+      "C": "reversible adiabatic",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 462,
+      "Question": "Gases are cooled in Joule-Thomson expansion, when it is __________ inversion temperature.",
+      "A": "below",
+      "B": "at",
+      "C": "above",
+      "D": "either 'b' or 'c'",
+      "Answer": "A"
+    },
+    {
+      "Number": 463,
+      "Question": "PVy = constant, holds good   for an isentropic process, which is",
+      "A": "reversible and isothermal.",
+      "B": "isothermal and irreversible.",
+      "C": "reversible and adiabatic.",
+      "D": "adiabatic and irreversible.",
+      "Answer": "C"
+    },
+    {
+      "Number": 464,
+      "Question": "Which of the following behaves most closely like an ideal gas ?",
+      "A": "He",
+      "B": "N2",
+      "C": "O2",
+      "D": "H2",
+      "Answer": "A"
+    },
+    {
+      "Number": 465,
+      "Question": "In the reaction, C + O2 → CO2 ; ΔH = - 94 kcal. What is the heat content (enthalpy)of O2?",
+      "A": "-94 kcal",
+      "B": "> -94 kcal",
+      "C": "< - 94 kcal",
+      "D": "zero",
+      "Answer": "D"
+    },
+    {
+      "Number": 466,
+      "Question": "When a system is in equilibrium for all possible processes, the differential or finite change of entropy is",
+      "A": "< 0",
+      "B": "> 0",
+      "C": 0,
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 467,
+      "Question": "A system is said to be at equilibrium, if the entropy of the system has reached __________ value.",
+      "A": "minimum",
+      "B": "zero",
+      "C": "maximum",
+      "D": "none of these",
+      "Answer": "C"
+    },
+    {
+      "Number": 468,
+      "Question": "In the equation, PV^n = constant, if the value of n = ± ∞, then it represents a reversible __________ process.",
+      "A": "adiabatic",
+      "B": "isometric",
+      "C": "isentropic",
+      "D": "isothermal",
+      "Answer": "B"
+    },
+    {
+      "Number": 469,
+      "Question": "Degree of freedom of the system ice-water-vapour will be",
+      "A": 0,
+      "B": 1,
+      "C": 2,
+      "D": 3,
+      "Answer": "A"
+    },
+    {
+      "Number": 470,
+      "Question": "A system in which there is exchange of energy but not of mass, is called a/an __________ system.",
+      "A": "isolated",
+      "B": "open",
+      "C": "insulated",
+      "D": "closed",
+      "Answer": "D"
+    },
+    {
+      "Number": 471,
+      "Question": "The point at which all the three (solid, liquid and gas) phases co-exist, is known as the __________ point.",
+      "A": "freezing",
+      "B": "triple",
+      "C": "boiling",
+      "D": "Boyle",
+      "Answer": "B"
+    },
+    {
+      "Number": 472,
+      "Question": "In an ideal gas mixture, fugacity of a species is equal to its",
+      "A": "vapor pressure",
+      "B": "partial pressure",
+      "C": "chemical potential",
+      "D": "none of these",
+      "Answer": "B"
+    },
+    {
+      "Number": 473,
+      "Question": "The third law of thermodynamics states that the",
+      "A": "heat capacity of a crystalline solid is zero at absolute zero temperature.",
+      "B": "heat transfer from low temperature to high temperature source is not possible without external work.",
+      "C": "gases having same reduced properties behave similarly.",
+      "D": "none of these.",
+      "Answer": "A"
+    },
+    {
+      "Number": 474,
+      "Question": "Consider the reaction, C + O2 ⇌  CO2 ;ΔH = - 94 kcal. What will be the value of ΔH for the reaction CO2  C + O2 ?",
+      "A": "-94 kcal",
+      "B": "+ 94 kcal",
+      "C": "> 94 kcal",
+      "D": "< -94 kcal",
+      "Answer": "B"
+    },
+    {
+      "Number": 475,
+      "Question": "Which is not a state function ?",
+      "A": "Specific volume",
+      "B": "Work",
+      "C": "Pressure",
+      "D": "Temperature",
+      "Answer": "B"
+    },
+    {
+      "Number": 476,
+      "Question": "For an ideal liquid solution, which of the following is unity ?",
+      "A": "Activity",
+      "B": "Fugacity",
+      "C": "Activity co-efficient",
+      "D": "Fugacity co-efficient",
+      "Answer": "C"
+    },
+    {
+      "Number": 477,
+      "Question": "In the decomposition of PCl5 represented by, PCl5 ⇌ PCl3 + Cl2, decrease in the pressure of the system will __________ the degree of dissociation of PCl5.",
+      "A": "increase",
+      "B": "decrease",
+      "C": "not alter",
+      "D": "none of these",
+      "Answer": "A"
+    },
+    {
+      "Number": 478,
+      "Question": "To obtain integrated form of Clausius-Clayperon equation,(1), from the exact Clayperon equafion, it is assumed that the",
+      "A": "volume of the liquid phase is negligible compared to that of vapour phase.",
+      "B": "vapour phase behaves as an ideal gas.",
+      "C": "heat of vaporisation is independent of temperature.",
+      "D": "all of these.",
+      "Answer": "D"
+    },
+    {
+      "Number": 479,
+      "Question": "In case of an __________ process, the temperature of the system increases.",
+      "A": "isothermal compression",
+      "B": "isothermal expansion",
+      "C": "adiabatic expansion",
+      "D": "adiabatic compression",
+      "Answer": "D"
+    },
+    {
+      "Number": 480,
+      "Question": "Cp of a gas at its critical temperature and pressure",
+      "A": "becomes zero.",
+      "B": "becomes infinity.",
+      "C": "equals 1 kcal/kmol °K.",
+      "D": "equals 0.24 kcal/kmol °K.",
+      "Answer": "C"
+    },
+    {
+      "Number": 481,
+      "Question": "Trouton's ratio is given by (where   λb, = molal heat of vaporisation of a substance at its normal boiling point, kcal/kmol Tb = normal boiling point, °K )",
+      "A": "λb/Tb",
+      "B": "Tb/λb",
+      "Answer": "A"
+    },
+    {
+      "Number": 482,
+      "Question": "Which of the following is true for Virial equation of state ?",
+      "A": "Virial co-efficients are universal constants.",
+      "B": "Virial co-efficients 'B' represents three body interactions.",
+      "C": "Virial co-efficients are function of temperature only.",
+      "D": "For some gases, Virial equations and ideal gas equations are the same.",
+      "Answer": "C"
+    },
+    {
+      "Number": 483,
+      "Question": "Molar heat capacity of water in equilibrium with ice at constant pressure is __________ Kcal/kg mole . °K",
+      "A": 0,
+      "B": "∞",
+      "C": 50,
+      "D": 100,
+      "Answer": "B"
+    },
+    {
+      "Number": 484,
+      "Question": "A gas can be liquified by pressure alone only, when its temperature is __________ its critical temperature.",
+      "A": "less than",
+      "B": "more than",
+      "C": "equal to or higher than",
+      "D": "less than or equal to",
+      "Answer": "D"
+    },
+    {
+      "Number": 485,
+      "Question": "For an ideal gas, the internal energy depends upon its __________ only.",
+      "A": "molecular size",
+      "B": "temperature",
+      "C": "volume",
+      "D": "pressure",
+      "Answer": "B"
+    },
+    {
+      "Number": 486,
+      "Question": "Compound having large heat of formation is",
+      "A": "more stable.",
+      "B": "less stable.",
+      "C": "not at all stable (like nascent O2).",
+      "D": "either more or less stable ; depends on the compound.",
+      "Answer": "A"
+    },
+    {
+      "Number": 487,
+      "Question": "Second law of thermodynamics is concerned with the",
+      "A": "amount of energy transferred.",
+      "B": "direction of energy transfer.",
+      "C": "irreversible processes only.",
+      "D": "non-cyclic processes only.",
+      "Answer": "B"
+    }
+  ]
+}
