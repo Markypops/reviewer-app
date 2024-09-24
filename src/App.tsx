@@ -1,11 +1,13 @@
 import { useState } from 'react';
 import Header from './components/header/Header';
 import Questionnaire from './components/questionnaire/Questionnaire';
+import Login from './components/login/Login';
 
 function App() {
   const [topic, setTopic] = useState<string>('');
   const [section, setSection] = useState<string>('');
   const [visible, setVisible] = useState<boolean>(false);
+  const [isLoggedIn, setIsLoggedIn] = useState<boolean>(false);
   
   const handleTopicChange = (newTopic: string) => {
     setTopic(newTopic);
@@ -22,8 +24,14 @@ function App() {
 
   return (
     <>
-      <Header onTopicChange={handleTopicChange} onSectionChange={handleSectionChange} isVisible={visible} setVisible={handleSelectNavBar} />
-      <Questionnaire topic={ topic } section={ section } onClickChooseTopic={handleSelectNavBar} />
+      {isLoggedIn ? (
+        (<>
+          <Header onTopicChange={ handleTopicChange } onSectionChange={ handleSectionChange } isVisible={ visible } setVisible={ handleSelectNavBar } />
+          <Questionnaire topic={ topic } section={ section } onClickChooseTopic={ handleSelectNavBar } />
+        </>)
+      ) : (
+        <Login setIsLoggedIn={setIsLoggedIn} />
+      )}
     </>
   )
 }
