@@ -22,7 +22,7 @@ export default function Login({setIsLoggedIn}:ILogin) {
     
     const doesCredMatch = LoginData.email === email && LoginData.password === password
     if (doesCredMatch) {
-      const expirationTime = new Date().getTime() + 15 * 60 * 1000; // 15 minutes from now
+      const expirationTime = new Date().getTime() + 6 * 60 * 60 * 1000; // 6 hours from now
       localStorage.setItem('session', JSON.stringify({ isLoggedIn: true, expirationTime }));
       setIsLoggedIn(true);
     } else {
