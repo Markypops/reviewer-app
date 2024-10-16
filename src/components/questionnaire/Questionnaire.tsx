@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo } from "react";
 import { Card } from 'primereact/card';
 import { Button } from 'primereact/button';
+import { ToggleButton } from 'primereact/togglebutton';
 import 'primereact/resources/themes/lara-light-indigo/theme.css';
 import 'primereact/resources/primereact.min.css';
 import 'primeicons/primeicons.css';
@@ -42,6 +43,7 @@ const Questionnaire = ({
   const [score, setScore] = useState(0);
   const [quizEnded, setQuizEnded] = useState(false);
   const [answerStates, setAnswerStates] = useState<(AnswerState | null)[]>([]);
+  const [isRandomized, setIsRandomized] = useState(false); // New state for random toggle
 
   const shuffleArray = (array: any[]) => {
     const shuffled = [...array];
@@ -51,6 +53,14 @@ const Questionnaire = ({
     }
     return shuffled;
   };
+
+  const prepareQuestions = (data: any[]) => {
+    if (isRandomized) {
+      return shuffleArray(data);
+    }
+    return [...data].sort((a, b) => a.Number - b.Number);
+  };
+
 
   useEffect(() => {
     let data: any;
@@ -77,13 +87,13 @@ const Questionnaire = ({
         data = [];
     }
 
-    const shuffledData = shuffleArray(data);
-    setQuestions(shuffledData);
+    const preparedData = prepareQuestions(data);
+    setQuestions(preparedData);
     setCurrentQuestionIndex(0);
     setScore(0);
     setQuizEnded(false);
-    setAnswerStates(new Array(shuffledData.length).fill(null));
-  }, [topic, section]);
+    setAnswerStates(new Array(preparedData.length).fill(null));
+  }, [topic, section, isRandomized]);
 
   useEffect(() => {
     const currentAnswerState = answerStates[currentQuestionIndex];
@@ -105,6 +115,15 @@ const Questionnaire = ({
         setScore(score + 1);
       }
     }
+  };
+
+  const handleRestartQuiz = () => {
+    const preparedData = prepareQuestions(questions);
+    setQuestions(preparedData);
+    setCurrentQuestionIndex(0);
+    setScore(0);
+    setQuizEnded(false);
+    setAnswerStates(new Array(preparedData.length).fill(null));
   };
 
   const handleNextQuestion = () => {
@@ -149,19 +168,12 @@ const Questionnaire = ({
       <div className="max-w-4xl mx-auto p-4 space-y-4">
         <h2 className="text-2xl font-bold mb-4">Quiz Completed!</h2>
         <p className="text-lg">Your final score: {score} out of {questions.length}</p>
-        <p className="text-lg">Percentage: {((score / questions.length) * 100).toFixed(2)}%</p>
+        <p className="text-lg">Percentage: { ((score / questions.length) * 100).toFixed(2) }%</p>
         <Button 
           label="Restart Quiz" 
           icon="pi pi-refresh" 
           className="p-button-rounded p-button-success"
-          onClick={() => {
-            const shuffledData = shuffleArray(questions);
-            setQuestions(shuffledData);
-            setCurrentQuestionIndex(0);
-            setScore(0);
-            setQuizEnded(false);
-            setAnswerStates(new Array(shuffledData.length).fill(null));
-          }}
+          onClick={handleRestartQuiz}
         />
       </div>
     );
@@ -169,7 +181,19 @@ const Questionnaire = ({
 
   return (
     <div className="max-w-4xl mx-auto p-4 space-y-4">
-      <h2 className="text-2xl font-bold mb-4">Question {currentQuestionIndex + 1} of {questions.length}</h2>
+      <h1 className="text-3xl font-bold mb-4">{topic} - {section}</h1>
+      <div className="flex items-center justify-between">
+        <h2 className="text-2xl font-bold mb-4">Question { currentQuestionIndex + 1 } of { questions.length }</h2>
+        <ToggleButton
+          checked={isRandomized}
+          onChange={(e) => setIsRandomized(e.value)}
+          onLabel="Random Order"
+          offLabel="Sequential Order"
+          onIcon="pi pi-check"
+          offIcon="pi pi-times"
+          className="pp-button-rounded p-button-info w-[200px]"
+        />
+      </div>
       <p className="text-lg mb-4">{currentQuestion.Question}</p>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {['A', 'B', 'C', 'D'].map((choice) => (
